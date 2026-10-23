@@ -1,0 +1,36 @@
+version: 0.1.0
+sources:
+  - id: federal-register
+    region: US
+    category: official_regulatory_publication
+    primary_url: https://www.federalregister.gov/developers/documentation/api/v1
+    documents_endpoint: https://www.federalregister.gov/api/v1/documents.json
+    live_adapter: true
+    authentication: none_for_public_endpoint
+    notes: >
+      Pilot uses an actual dated original Federal Register document, not retrospective
+      overview articles. Record retrieval coverage and inspect terms/rate limits.
+  - id: microsoft-lifecycle
+    region: global
+    category: vendor_lifecycle
+    primary_url: https://learn.microsoft.com/en-us/lifecycle/
+    live_adapter: false
+    notes: Planned only. Must validate dated historical announcements, not current tables.
+  - id: govuk
+    region: UK
+    category: government_changes
+    primary_url: https://www.gov.uk/api/search.json
+    live_adapter: false
+    notes: Planned only. Historic published page revisions must be verified.
+  - id: eu-cellar
+    region: EU
+    category: legal_publications
+    primary_url: https://op.europa.eu/en/web/eu-vocabularies/cellar
+    live_adapter: false
+    notes: Planned only. First test rights, version history and stable identifiers.
+# NOTE 2026-10-23 (operator, not an approved amendment): federalregister.gov document/full-text URLs
+# redirected every request to https://unblock.federalregister.gov (access block). Official full text is
+# therefore retrieved from the GPO archive https://www.govinfo.gov/content/pkg/FR-<date>/html/<docnum>.htm,
+# derived from the API record's own pdf_url; manifest records source_text_mode=govinfo_gpo_html_pre_text.
+# Terms: govinfo.gov content is US Government public-domain publication; no API key is required for
+# direct content URLs. Rate limit observed: none hit at 1 request/0.25 s during the pilot.

@@ -1,0 +1,24 @@
+{
+  "affected_group": null,
+  "candidate_is_event": true,
+  "candidate_warning": "Unreviewed AI/heuristic output. Not an approved event.",
+  "change_summary": null,
+  "document_sha256": "f975bd3de27eaee7695cebe061b43d0b1586682e6d875b904ebbf107ace4e6d5",
+  "effective_at": null,
+  "event_id": "federal-register-2022-06897",
+  "event_type": "other_identifiable_change",
+  "evidence": [
+    {
+      "field": "change_summary",
+      "quote": "is announcing the convening of its spring meeting, which will be held"
+    }
+  ],
+  "extraction_backend": "heuristic",
+  "extraction_protocol": "extraction-v0.1",
+  "publication_date": "2022-04-01",
+  "source_document_id": "2022-06897",
+  "source_id": "federal-register",
+  "uncertainties": [
+    "Heuristic signal only. Human/LLM must supply independently supported change and affected group."
+  ]
+}

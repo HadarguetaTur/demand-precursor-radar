@@ -1,0 +1,151 @@
+
+[Federal Register Volume 87, Number 63 (Friday, April 1, 2022)]
+[Notices]
+[Pages 19124-19125]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2022-06870]
+
+
+-----------------------------------------------------------------------
+
+INTERNATIONAL TRADE COMMISSION
+
+[Investigation No. 337-TA-1308]
+
+
+Certain Power Semiconductors, and Mobile Devices and Computers 
+Containing Same; Notice of Institution of Investigation
+
+AGENCY: U.S. International Trade Commission.
+
+ACTION: Notice.
+
+-----------------------------------------------------------------------
+
+SUMMARY: Notice is hereby given that a complaint was filed with the 
+U.S. International Trade Commission on February 14, 2022, under section 
+337 of the Tariff Act of 1930, as amended, on behalf of Arigna 
+Technology Limited of Ireland. A supplement was filed on February 23, 
+2022, and an amendment was filed on March 17, 2022. The complaint, as 
+amended and supplemented, alleges violations of section 337 based upon 
+the importation into the United States, the sale for importation, and 
+the sale within the United States after importation of certain power 
+semiconductors, and mobile devices and computers containing same by 
+reason of infringement of certain claims of U.S. Patent No. 7,183,835 
+(``the '835 patent''). The complaint further alleges that an industry 
+in the United States exists as required by the applicable Federal 
+Statute.
+
+ADDRESSES: The complaint, except for any confidential information 
+contained therein, may be viewed on the Commission's electronic docket 
+(EDIS) at https://edis.usitc.gov. For help accessing EDIS, please email 
+<span class="__cf_email__" data-cfemail="1e5b5a574d2d567b726e5e6b6d776a7d30797168">[email protected]</span>. Hearing impaired individuals are advised that 
+information on this matter can be obtained by contacting the 
+Commission's TDD terminal on (202) 205-1810. Persons with mobility 
+impairments who will need special assistance in gaining access to the 
+Commission should contact the Office of the Secretary at (202) 205-
+2000. General information concerning the Commission may also be 
+obtained by accessing its internet server at https://www.usitc.gov.
+
+FOR FURTHER INFORMATION CONTACT: Pathenia M. Proctor, the Office of 
+Unfair Import Investigations, U.S. International Trade Commission, 
+telephone (202) 205-2560.
+
+SUPPLEMENTARY INFORMATION: The complainant requests that the Commission 
+institute an investigation and, after the investigation, issue a 
+limited exclusion order and cease and desist orders.
+    Authority: The authority for institution of this investigation is 
+contained in section 337 of the Tariff Act of 1930, as amended, 19 
+U.S.C. 1337, and in section 210.10 of the Commission's Rules of 
+Practice and Procedure, 19 CFR 210.10 (2021).
+    Scope of Investigation: Having considered the complaint, the U.S. 
+International Trade Commission, on March 28, 2022, ordered that--
+    (1) Pursuant to subsection (b) of section 337 of the Tariff Act of 
+1930, as amended, an investigation be instituted to determine whether 
+there is a violation of subsection (a)(1)(B) of section 337 in the 
+importation into the United States, the sale for importation, or the 
+sale within the United States after importation of certain products 
+identified in paragraph (2) by reason of infringement of one or more of 
+claims 1 and 2 of the '835 patent, and whether an industry in the 
+United States exists as required by subsection (a)(2) of section 337;
+    (2) Pursuant to section 210.10(b)(1) of the Commission's Rules of 
+Practice and Procedure, 19 CFR 210.10(b)(1), the plain language 
+description of the accused products or category of accused products, 
+which defines the scope of the investigation, is ``power semiconductors 
+with envelope tracking modules, and products such as mobile devices, 
+tablets, and laptop computers containing the same'';
+    (3) Pursuant to Commission Rule 210.50(b)(l), 19 CFR 210.50(b)(1), 
+the presiding administrative law judge shall take evidence or other 
+information and hear arguments from the parties or other interested 
+persons with respect to the public interest in this investigation, as 
+appropriate, and provide the Commission with findings of fact and a 
+recommended determination on this issue, which shall be limited to the 
+statutory public interest factors set forth in 19 U.S.C. l337(d)(l), 
+(f)(1), (g)(1);
+    (4) For the purpose of the investigation so instituted, the 
+following are hereby named as parties upon which this notice of 
+investigation shall be served:
+    (a) The complainant is: Arigna Technology Limited, The Hyde 
+Building, Suite 23, Carrickmines, Dublin 18, Ireland.
+    (b) The respondents are the following entities alleged to be in 
+violation of section 337, and are the parties upon which the complaint 
+is to be served:
+    Samsung Electronics Co., Ltd., 129 Samsung-Ro, Maetan-3dong, 
+Yeongtong-gu, Suwon, 443-742, Republic of Korea.
+    Samsung Electronics America, Inc., 85 Challenger Rd., Ridgefield 
+Park, NJ 07660.
+
+[[Page 19125]]
+
+    Apple Inc., One Apple Park Way, Cupertino, CA 95014.
+    Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043.
+    TCL Electronics Holdings Limited, 7/F, TCL Building, 22 Science 
+Park East Avenue, 22E, Hong Kong Science Park, Hong Kong.
+    TTE Technology Inc., 1860 Compton Avenue, Corona, CA 92881.
+    TCT Mobile (US) Inc., 25 Edelman, Suite 200, Irvine, CA 92618.
+    TCL Communication Limited, 5/F, Building 22E Science Park East 
+Avenue, Hong Kong Science Park, Sha Tin, New Territories, Hong Kong.
+    Lenovo Group Ltd., 6 Chuang ye Road, Haidian District, Beijing 
+100085, China.
+    Lenovo (United States) Inc., 1009 Think Place, Building One, 
+Morrisville, NC 27560.
+    Motorola Mobility LLC, 222 W Merchandise Mart Plaza, Suite 1800, 
+Chicago, IL 60654.
+    Microsoft Corporation, One Microsoft Way, Redmond, WA 98052.
+    OnePlus Technology (Shenzhen) Co., Ltd., 18F, Tairan Building, 
+Block C, Tairan 8th Road, Chegongmiao, Futian District Shenzhen, 
+Guangdong, 518040, China.
+    (c) The Office of Unfair Import Investigations, U.S. International 
+Trade Commission, 500 E Street SW, Suite 401, Washington, DC 20436; and
+    (5) For the investigation so instituted, the Chief Administrative 
+Law Judge, U.S. International Trade Commission, shall designate the 
+presiding Administrative Law Judge.
+    Responses to the complaint and the notice of investigation must be 
+submitted by the named respondents in accordance with section 210.13 of 
+the Commission's Rules of Practice and Procedure, 19 CFR 210.13. 
+Pursuant to 19 CFR 201.16(e) and 210.13(a), as amended in 85 FR 15798 
+(March 19, 2020), such responses will be considered by the Commission 
+if received not later than 20 days after the date of service by the 
+complainant of the complaint and the notice of investigation. 
+Extensions of time for submitting responses to the complaint and the 
+notice of investigation will not be granted unless good cause therefor 
+is shown.
+    Failure of a respondent to file a timely response to each 
+allegation in the complaint and in this notice may be deemed to 
+constitute a waiver of the right to appear and contest the allegations 
+of the complaint and this notice, and to authorize the administrative 
+law judge and the Commission, without further notice to the respondent, 
+to find the facts to be as alleged in the complaint and this notice and 
+to enter an initial determination and a final determination containing 
+such findings, and may result in the issuance of an exclusion order or 
+a cease and desist order or both directed against the respondent.
+
+    By order of the Commission.
+
+    Issued: March 28, 2022.
+William Bishop,
+Supervisory Hearings and Information Officer.
+[FR Doc. 2022-06870 Filed 3-31-22; 8:45 am]
+BILLING CODE 7020-02-P
+
+

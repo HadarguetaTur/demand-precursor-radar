@@ -1,0 +1,141 @@
+{
+  "status_of_this_file": "UNREVIEWED Claude Code subagent output used as REVIEW AID; not a production candidate; not human-accepted",
+  "source_document_id": "2022-06648",
+  "publication_date_manifest": "2022-04-01",
+  "document_sha256": "28dbe396db3c370f23f4b45de8cd7e38d0cf040dea106ea9da4a26f9f7e59c7a",
+  "source_hash_ok": true,
+  "source_text_mode": "govinfo_gpo_html_pre_text",
+  "original_text_url": "https://www.govinfo.gov/content/pkg/FR-2022-04-01/html/2022-06648.htm",
+  "agent_output": {
+    "source_document_id": "2022-06648",
+    "publication_date": "2022-04-01",
+    "is_event": true,
+    "event_type": "price_or_terms_change",
+    "status": "final_future_effective",
+    "affected_group": "Automobile manufacturers (NAICS 336111 Automobile Manufacturing and 336112 Light Truck and Utility Vehicle Manufacturing) subject to NHTSA corporate average fuel economy (CAFE) standards that fall short of compliance and cannot cover the shortfall with credits",
+    "change_summary": "NHTSA final rule repeals the January 14, 2021 interim final rule (which had delayed the inflation-adjusted CAFE civil penalty rate until Model Year 2022) and reverts to the December 2016 final rule, so the adjusted $14 per 0.1 mpg rate applies beginning with Model Year 2019 (MY 2019-2021), with the statutorily required annual adjustment raising the rate to $15 for 2022; the pre-2019 rate remains $5.50. The rule also codifies in 49 CFR 578.6(h)(3) an inflation-adjusted cap of $29 per 0.1 mpg. Effective May 31, 2022; petitions for reconsideration due May 16, 2022.",
+    "effective_at": "2022-05-31",
+    "evidence": [
+      {
+        "field": "change_summary",
+        "quote": "NHTSA is repealing the \ninterim final rule and reverting to the December 2016 final rule that \nwould apply the adjustment for the CAFE civil penalty rate beginning \nwith Model Year 2019. In this rule, NHTSA is also applying the \nstatutorily required annual adjustments through 2022."
+      },
+      {
+        "field": "change_summary",
+        "quote": "Therefore, NHTSA is codifying \nthe civil penalty rate of $15, along with clarifying regulatory text \nexplaining that the civil penalty rate is $14 for MY 2019 through MY \n2021 (and $5.50 for MYs before 2019)."
+      },
+      {
+        "field": "change_summary",
+        "quote": "is liable to the United States Government for a civil penalty of $15 \n(for model years before model year 2019, the civil penalty is $5.50; \nfor model years 2019 through 2021, the civil penalty is $14), \nmultiplied by each .1 of a mile a gallon by which the applicable \naverage fuel economy standard under that section exceeds the average \nfuel economy--"
+      },
+      {
+        "field": "change_summary",
+        "quote": "Therefore, NHTSA is codifying \nthe cap at $29, and NHTSA will make subsequent annual adjustments as \nrequired."
+      },
+      {
+        "field": "affected_group",
+        "quote": "This action is expected to \naffect manufacturers of motor\n\n[[Page 19005]]\n\nvehicles. Specifically, this action affects manufacturers from NAICS \ncodes 336111--Automobile Manufacturing, and 336112--Light Truck and \nUtility Vehicle Manufacturing, which both have a small business size \nstandard threshold of 1,500 employees."
+      },
+      {
+        "field": "affected_group",
+        "quote": "assesses civil penalties against manufacturers that \nviolate applicable standards and are unable to make up the shortfall \nwith credits."
+      },
+      {
+        "field": "effective_at",
+        "quote": "    Effective date: This rule is effective as May 31, 2022.\n    Petitions for reconsideration: Petitions for reconsideration of \nthis final rule must be received not later than May 16, 2022."
+      },
+      {
+        "field": "status",
+        "quote": "ACTION: Final rule."
+      },
+      {
+        "field": "status",
+        "quote": "[FR Doc. 2022-06648 Filed 3-31-22; 8:45 am]"
+      }
+    ],
+    "uncertainties": [
+      "Final rule published 2022-04-01 with future effective date 2022-05-31; the document states the Second Circuit twice held the December 2016 rule to be in force, so practical novelty of the MY 2019-2021 rate is contested within the source; clearly new elements are the $15 rate for 2022 and the $29 cap.",
+      "Effective date text contains a typo ('effective as May 31, 2022').",
+      "Event type could alternatively be new_legal_requirement.",
+      "Interim final rule subject to consolidated Second Circuit litigation in abeyance; petitions for reconsideration due May 16, 2022.",
+      "Model-year application dates are not calendar effective dates.",
+      "GPO text contains a Cloudflare-obfuscated email placeholder in FOR FURTHER INFORMATION CONTACT."
+    ],
+    "economically_material": "REDACTED_FROM_REVIEWER_PATH (see agent_materiality_sidecar.json; may contain forward-looking speculation)"
+  },
+  "quote_checks": [
+    {
+      "field": "change_summary",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "NHTSA is repealing the \ninterim final rule and reverting to the December 2016 final rule that \nwould apply the adjustment for the CAFE civil penalty rate beginning \nwith Model Year 2019. In this rule, NHTSA is also applying the \nstatutorily required annual adjustments through 2022."
+    },
+    {
+      "field": "change_summary",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "Therefore, NHTSA is codifying \nthe civil penalty rate of $15, along with clarifying regulatory text \nexplaining that the civil penalty rate is $14 for MY 2019 through MY \n2021 (and $5.50 for MYs before 2019)."
+    },
+    {
+      "field": "change_summary",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "is liable to the United States Government for a civil penalty of $15 \n(for model years before model year 2019, the civil penalty is $5.50; \nfor model years 2019 through 2021, the civil penalty is $14), \nmultiplied by each .1 of a mile a gallon by which the applicable \naverage fuel economy standard under that section exceeds the average \nfuel economy--"
+    },
+    {
+      "field": "change_summary",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "Therefore, NHTSA is codifying \nthe cap at $29, and NHTSA will make subsequent annual adjustments as \nrequired."
+    },
+    {
+      "field": "affected_group",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "This action is expected to \naffect manufacturers of motor\n\n[[Page 19005]]\n\nvehicles. Specifically, this action affects manufacturers from NAICS \ncodes 336111--Automobile Manufacturing, and 336112--Light Truck and \nUtility Vehicle Manufacturing, which both have a small business size \nstandard threshold of 1,500 employees."
+    },
+    {
+      "field": "affected_group",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "assesses civil penalties against manufacturers that \nviolate applicable standards and are unable to make up the shortfall \nwith credits."
+    },
+    {
+      "field": "effective_at",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "    Effective date: This rule is effective as May 31, 2022.\n    Petitions for reconsideration: Petitions for reconsideration of \nthis final rule must be received not later than May 16, 2022."
+    },
+    {
+      "field": "status",
+      "exact_in_source": false,
+      "verbatim_in_source": true,
+      "below_20_char_floor": true,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "ACTION: Final rule."
+    },
+    {
+      "field": "status",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "[FR Doc. 2022-06648 Filed 3-31-22; 8:45 am]"
+    }
+  ],
+  "code_verdict": "PASS_CORE_FIELDS_SHORT_STATUS_QUOTE"
+}

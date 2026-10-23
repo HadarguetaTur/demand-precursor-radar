@@ -1,0 +1,194 @@
+
+[Federal Register Volume 87, Number 63 (Friday, April 1, 2022)]
+[Proposed Rules]
+[Pages 19024-19026]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2022-06895]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+FEDERAL ELECTION COMMISSION
+
+11 CFR Parts 104, 109, 110, and 114
+
+[NOTICE 2022-08]
+
+
+Independent Spending by Corporations, Labor Organizations, 
+Foreign Nationals, and Certain Political Committees (Citizens United)
+
+AGENCY: Federal Election Commission.
+
+ACTION: Notice of disposition of petitions for rulemaking.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The Commission announces its disposition of two Petitions for 
+Rulemaking filed on June 19 and June 22, 2015. The Petitions asked the 
+Commission to revise existing regulations and issue new regulations 
+concerning: Disclosure of certain financing information regarding 
+independent expenditures and electioneering communications, election-
+related spending by foreign nationals; solicitations of corporate and 
+labor organization employees and members; and the independence of 
+expenditures made by independent-expenditure-only political committees 
+and accounts. Because there were not four affirmative votes in support 
+of the Petitions, the Commission is not initiating a rulemaking.
+
+DATES: April 1, 2022.
+
+FOR FURTHER INFORMATION CONTACT: Mr. Robert M. Knop, Assistant General 
+Counsel, or Ms. Heather Filemyr, Attorney, 1050 First Street NE, 
+Washington, DC 20463, (202) 694-1650 or (800) 424-9530.
+
+SUPPLEMENTARY INFORMATION: On June 19, 2015, the Federal Election 
+Commission received a Petition for
+
+[[Page 19025]]
+
+Rulemaking from Make Your Laws PAC, Inc. and Make Your Laws Advocacy, 
+Inc. On June 22, 2015, the Commission received a Petition for 
+Rulemaking from Craig Holman and Public Citizen. Both Petitions asked 
+the Commission to revise existing regulations and issue new regulations 
+in four areas in response to the Supreme Court's decision in Citizens 
+United v. FEC, 558 U.S. 310 (2010), which held that the Federal 
+Election Campaign Act's, 52 U.S.C. 30101-45 (the ``Act''), ban on 
+corporate independent campaign-related spending was 
+unconstitutional.\1\
+---------------------------------------------------------------------------
+
+    \1\ As the Commission explained in its initial rulemaking 
+addressing the Citizens United decision, although the Court did not 
+directly address whether labor organizations, like corporations, 
+also have a First Amendment right to use their general treasury 
+funds for independent expenditures and electioneering 
+communications, the Act and Commission regulations generally treat 
+labor organizations similarly to corporations. See Final Rules on 
+Independent Expenditures and Electioneering Communications by 
+Corporations and Labor Organizations, 79 FR 62,797, 62,798 n.3 
+(October 21, 2014) (citing 52 U.S.C. 30118; 11 CFR part 114; and 
+Advisory Opinion 2010-11 (Commonsense Ten) at n.3.) The Commission 
+further explained that the Court in Citizens United, when addressing 
+corporations, often referred to labor organizations and provided no 
+basis for treating labor organization communications differently 
+than corporate communications under the First Amendment. Id. (citing 
+Citizens United, 558 U.S. at 318, 343). Therefore, the Commission 
+concluded that the changes to its regulations necessitated by the 
+Citizens United decision should apply equally to both corporations 
+and labor organizations. Id.
+---------------------------------------------------------------------------
+
+    The first area of regulations the Petitions asked the Commission to 
+revise are those that implement the Act's requirement that every person 
+who makes an electioneering communication aggregating in excess of 
+$10,000 in a calendar year and every person (other than a political 
+committee) that makes independent expenditures in excess of $250 with 
+respect to a given election in a calendar year report certain 
+information to the Commission. 52 U.S.C. 30104(c)(1) and (2), (f); 11 
+CFR 104.20(b) and (c), 109.10(b), (e). The Petitions asked the 
+Commission to ``[e]nsure full public disclosure of corporate and labor 
+organization independent spending'' by ``requir[ing] that outside 
+spending groups disclose their donors.''
+    Second, the Act and Commission regulations prohibit foreign 
+nationals from ``directly or indirectly'' making contributions, 
+expenditures, and electioneering communications. 52 U.S.C. 30121(a); 11 
+CFR 110.20. The Petitions asked the Commission to ``[c]larify that the 
+prohibition on foreign national campaign-related spending restricts 
+such spending by U.S. corporations owned or controlled by a foreign 
+national.''
+    Third, Commission regulations prohibit corporations and labor 
+organizations from ``[u]sing coercion . . . to urge any individual to 
+make a contribution or engage in fundraising activities on behalf of a 
+candidate or political committee,'' 11 CFR 114.2(f)(2)(iv), and 
+restrict how corporations and labor organizations may solicit 
+contributions to their separate segregated funds from employees and 
+members. 11 CFR 114.5(a)(2)-(5); see also 52 U.S.C. 30118(b)(3). The 
+Petitions asked the Commission to ``[c]larify that corporations and 
+labor organizations are prohibited from coercing their employees and 
+members into providing financial or other support for the corporation's 
+or labor organization's independent political activities.''
+    Fourth, the Petitions asked the Commission to ``[e]nsure that the 
+expenditures made by'' independent-expenditure-only political 
+committees and accounts, see, e.g., SpeechNow.org v. FEC, 599 F.3d. 686 
+(D.C. Cir. 2010), ``are truly independent of federal candidates.''
+    In response to the Petitions, the Commission published a Notice of 
+Availability (``NOA'') on July 29, 2015 to ask for public comment on 
+the Petitions. 80 FR 45,116 (July 29, 2015). The Commission received 
+approximately 11,759 comments from 11,769 commenters on the NOA. See 
+Minutes of An Open Meeting of the Federal Election Commission, December 
+17, 2015 (approved February 11, 2016) at 8.\2\ Of the comments 
+received, 11,414 commenters supported the Petitions. Id. Those 
+commenters supporting the Petitions stated, among other reasons, that 
+the new and revised regulations were necessary to provide adequate 
+disclosure to the public and to clarify legal requirements applicable 
+to corporations, labor organizations, and foreign nationals following 
+Supreme Court's decision in Citizens United. Other commenters opposed 
+the Petitions. Concerns expressed by those commenters included that 
+revised regulations would be unnecessary, exceed the Commission's 
+statutory authority, and impermissibly burden free speech rights under 
+the First Amendment.
+---------------------------------------------------------------------------
+
+    \2\ https://www.fec.gov/resources/updates/agendas/2016/mtgdoc_16-04-a.pdf.
+---------------------------------------------------------------------------
+
+    After considering the comments received, the Commission voted on a 
+motion to initiate a rulemaking to adopt the regulations proposed by 
+the Petitioners. See Certification of Commission Vote, December 17, 
+2015.\3\ Three Commissioners voted to initiate a rulemaking based on 
+the Petitions, and three Commissioners voted against initiating a 
+rulemaking. Id. Among other reasons for supporting a rulemaking, 
+Commissioners who voted in favor of the motion stated that the 
+Commission should open a rulemaking to address significant issues that 
+have arisen following the Citizens United decision and that 
+Commission's coordination rules, created prior to the existence of 
+super PACs, are outdated. See Minutes of An Open Meeting of the Federal 
+Election Commission, December 17, 2015 (approved February 11, 2016) at 
+7.\4\ Commissioners who voted against the motion reasoned that Congress 
+had considered but not adopted legislative changes following the 
+Citizen United decision and expressed the view that the Commission 
+should not act where Congress had failed to do so. Audio Recording of 
+Discussion on Rulemaking Petition: Independent Spending by 
+Corporations, Labor Organizations, Foreign Nationals, and Certain 
+Political Committees (Citizens United) (Dec. 17, 2015).\5\ These 
+Commissioners also stated that coordination by super PACs was 
+adequately addressed by the Commission's existing regulations. Id.
+---------------------------------------------------------------------------
+
+    \3\ https://sers.fec.gov/fosers/showpdf.htm?docid=346628.
+    \4\ https://www.fec.gov/resources/updates/agendas/2016/mtgdoc_16-04-a.pdf.
+    \5\ https://www.fec.gov/updates/december-17-2015-open-meeting.
+---------------------------------------------------------------------------
+
+    The Act requires an affirmative vote of at least four Commissioners 
+to take any action to amend a regulation. See 52 U.S.C. 30106(c) and 
+30107(a)(8). Accordingly, the Commission is not initiating a rulemaking 
+at this time. Id.; see also Definition of ``Express Advocacy,'' Notice 
+of Disposition of Petition for Rulemaking, 64 FR 27,478 (May 20, 1999) 
+(denying a petition to initiate a rulemaking because it did not garner 
+the affirmative vote of four Commissioners).
+    Because the motion to initiate a rulemaking to adopt the 
+regulations proposed by the Petitioners did not receive the required 
+affirmative vote of four or more Commissioners, the Commission is 
+notifying the public that it is not initiating a new rulemaking in 
+response to the Petitions.
+    Copies of the comments, the NOA, and the Petitions for Rulemaking 
+are available on the Commission's website, http://www.fec.gov/fosers/ 
+(REG 2015-04 Independent Spending by Corporations, Labor Organizations, 
+Foreign Nationals, and Certain Political Committees (Citizens United) 
+(2015)).
+
+
+[[Page 19026]]
+
+
+    Dated: March 28, 2022.
+
+    On behalf of the Commission.
+Allen J. Dickerson,
+Chairman, Federal Election Commission.
+[FR Doc. 2022-06895 Filed 3-31-22; 8:45 am]
+BILLING CODE 6715-01-P
+
+

@@ -1,0 +1,24 @@
+{
+  "affected_group": null,
+  "candidate_is_event": true,
+  "candidate_warning": "Unreviewed AI/heuristic output. Not an approved event.",
+  "change_summary": null,
+  "document_sha256": "a48945765bc9d7c4c21a7df8480381e5fe5bd8f386477dfa14af4997de13d4ef",
+  "effective_at": null,
+  "event_id": "federal-register-2022-06927",
+  "event_type": "other_identifiable_change",
+  "evidence": [
+    {
+      "field": "change_summary",
+      "quote": "DATES: Comments must be received on or before May 31, 2022."
+    }
+  ],
+  "extraction_backend": "heuristic",
+  "extraction_protocol": "extraction-v0.1",
+  "publication_date": "2022-04-01",
+  "source_document_id": "2022-06927",
+  "source_id": "federal-register",
+  "uncertainties": [
+    "Heuristic signal only. Human/LLM must supply independently supported change and affected group."
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "affected_group": null,
+  "candidate_is_event": true,
+  "candidate_warning": "Unreviewed AI/heuristic output. Not an approved event.",
+  "change_summary": null,
+  "document_sha256": "034d441e15cbaf66393e3a6ae72c137ad96dc30611fc292d247709c37a64db1a",
+  "effective_at": null,
+  "event_id": "federal-register-2022-06844",
+  "event_type": "other_identifiable_change",
+  "evidence": [
+    {
+      "field": "change_summary",
+      "quote": "community is required either to adopt or to show evidence of having in"
+    }
+  ],
+  "extraction_backend": "heuristic",
+  "extraction_protocol": "extraction-v0.1",
+  "publication_date": "2022-04-01",
+  "source_document_id": "2022-06844",
+  "source_id": "federal-register",
+  "uncertainties": [
+    "Heuristic signal only. Human/LLM must supply independently supported change and affected group."
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "affected_group": null,
+  "candidate_is_event": true,
+  "candidate_warning": "Unreviewed AI/heuristic output. Not an approved event.",
+  "change_summary": null,
+  "document_sha256": "ef21157c3994f74dd6fd8eed35d5e6a0a7cc4aeb42479dc7e07f0655de64edb1",
+  "effective_at": null,
+  "event_id": "federal-register-2022-06853",
+  "event_type": "other_identifiable_change",
+  "evidence": [
+    {
+      "field": "change_summary",
+      "quote": "on the Volatility Index will be cash-settled and will have European-"
+    }
+  ],
+  "extraction_backend": "heuristic",
+  "extraction_protocol": "extraction-v0.1",
+  "publication_date": "2022-04-01",
+  "source_document_id": "2022-06853",
+  "source_id": "federal-register",
+  "uncertainties": [
+    "Heuristic signal only. Human/LLM must supply independently supported change and affected group."
+  ]
+}

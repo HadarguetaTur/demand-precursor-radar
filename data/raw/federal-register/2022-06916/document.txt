@@ -1,0 +1,163 @@
+
+[Federal Register Volume 87, Number 63 (Friday, April 1, 2022)]
+[Notices]
+[Pages 19093-19095]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2022-06916]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF HEALTH AND HUMAN SERVICES
+
+Centers for Disease Control and Prevention
+
+[60-Day-22-0488; Docket No. CDC-2022-0043]
+
+
+Proposed Data Collection Submitted for Public Comment and 
+Recommendations
+
+AGENCY: Centers for Disease Control and Prevention (CDC), Department of 
+Health and Human Services (HHS).
+
+ACTION: Notice with comment period.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The Centers for Disease Control and Prevention (CDC), as part 
+of its continuing effort to reduce public burden and maximize the 
+utility of government information, invites the general public and other 
+federal agencies the opportunity to comment on a proposed and/or 
+continuing information collection, as required by the Paperwork 
+Reduction Act of 1995. This notice invites comment on a proposed 
+information collection project titled Interstate Travel of Persons: 
+Report of Illness or Death (42 CFR part 70). This collection gathers 
+information on the required reporting of ill persons
+
+[[Page 19094]]
+
+or deaths occurring during interstate travel, primarily air travel.
+
+DATES: CDC must receive written comments on or before May 31, 2022.
+
+ADDRESSES: You may submit comments, identified by Docket No. CDC-2022-
+0043 by either of the following methods:
+    <bullet> Federal eRulemaking Portal: Regulations.gov. Follow the 
+instructions for submitting comments.
+    <bullet> Mail: Jeffrey M. Zirger, Information Collection Review 
+Office, Centers for Disease Control and Prevention, 1600 Clifton Road 
+NE, MS H21-8, Atlanta, Georgia 30329.
+    Instructions: All submissions received must include the agency name 
+and Docket Number. CDC will post, without change, all relevant comments 
+to regulations.gov.
+    Please note: Submit all comments through the Federal eRulemaking 
+portal (regulations.gov) or by U.S. mail to the address listed above.
+
+FOR FURTHER INFORMATION CONTACT: To request more information on the 
+proposed project or to obtain a copy of the information collection plan 
+and instruments, contact Jeffrey M. Zirger, Information Collection 
+Review Office, Centers for Disease Control and Prevention, 1600 Clifton 
+Road NE, MS H21-8, Atlanta, Georgia 30329; phone: 404-639-7570; Email: 
+<span class="__cf_email__" data-cfemail="d1bebcb391b2b5b2ffb6bea7">[email protected]</span>.
+
+SUPPLEMENTARY INFORMATION: Under the Paperwork Reduction Act of 1995 
+(PRA) (44 U.S.C. 3501-3520), federal agencies must obtain approval from 
+the Office of Management and Budget (OMB) for each collection of 
+information they conduct or sponsor. In addition, the PRA also requires 
+federal agencies to provide a 60-day notice in the Federal Register 
+concerning each proposed collection of information, including each new 
+proposed collection, each proposed extension of existing collection of 
+information, and each reinstatement of previously approved information 
+collection before submitting the collection to the OMB for approval. To 
+comply with this requirement, we are publishing this notice of a 
+proposed data collection as described below.
+    The OMB is particularly interested in comments that will help:
+    1. Evaluate whether the proposed collection of information is 
+necessary for the proper performance of the functions of the agency, 
+including whether the information will have practical utility;
+    2. Evaluate the accuracy of the agency's estimate of the burden of 
+the proposed collection of information, including the validity of the 
+methodology and assumptions used;
+    3. Enhance the quality, utility, and clarity of the information to 
+be collected;
+    4. Minimize the burden of the collection of information on those 
+who are to respond, including through the use of appropriate automated, 
+electronic, mechanical, or other technological collection techniques or 
+other forms of information technology, e.g., permitting electronic 
+submissions of responses;
+    5. Assess information collection costs.
+
+Proposed Project
+
+    Interstate Travel of Persons: Report of Illness or Death (42 CFR 
+part 70) (OMB Control No. 0920-0488, Exp. 6/30/2022)--Revision--
+National Center for Emerging and Zoonotic Infectious Diseases (NCEZID), 
+Centers for Disease Control and Prevention (CDC).
+
+Background and Brief Description
+
+    Section 361 of the Public Health Service Act (42 U.S.C. 264) 
+authorizes the Secretary of the Department of Health and Human Services 
+to make and enforce regulations necessary to prevent the introduction, 
+transmission, or spread of communicable diseases from foreign countries 
+into the United States, or from one State or possession into any other 
+State or possession. CDC administers regulations pertaining to 
+interstate control of communicable diseases (42 CFR part 70), and 
+sections 42 CFR parts 70.4 and 70.11 include requirements reports of 
+ill persons or death if occurring during interstate travel.
+    The intended use of the information is to ensure that CDC can 
+assess and respond to reports of ill persons or death that occur on 
+conveyances engaged in interstate travel and assist state and local 
+health authorities if an illness or death occurs that poses a risk to 
+public health. Generally, the primary source of this information is 
+aircraft traveling within the United States.
+    There are no standard forms associated with this information 
+collection. Reporting requirements imposed by the regulations have been 
+reduced and streamlined by reliance upon State and local health 
+departments to manage most situations occurring within their 
+jurisdictions. If submission of information under these regulations 
+becomes necessary, all information may be submitted in the most 
+expeditious manner practical. At this time, all reporting of a 
+communicable disease or death is accomplished electronically, e.g., via 
+Air Traffic Control or via the airlines' points of contact (e.g., 
+Operations Center, Flight Control, Airline Station Manager.)
+    For reports of ill persons or death on a conveyance engaged in 
+interstate traffic, the total burden is estimated from 1,600 
+respondents submitting domestic reports of death or communicable 
+disease in 2021. This is a significant increase due to reports of 
+illness from the COVID-19 pandemic, with an average burden of seven 
+minutes per report. CDC requests approval for an estimated 186 annual 
+burden hours. There is no cost to respondents other than the time 
+required to make the report of illness or death.
+
+                                                            Estimated Annualized Burden Hours
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                                                                              Average
+                                                                                             Number of       Number of      burden per     Total burden
+               Type of respondent                               Form name                   respondents    responses per   response  (in    (in hours)
+                                                                                                            respondent        hours)
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+Pilot in command...............................  42 CFR 70.11 Report of death or illness           1,400               1            7/60             163
+                                                  onboard aircraft operated by airline.
+Master of vessel or person in charge of          42 CFR 70.4 Report by the master of a               200               1            7/60              23
+ conveyance.                                      vessel or person in charge of
+                                                  conveyance of the incidence of a
+                                                  communicable disease occurring while
+                                                  in interstate travel.
+                                                                                         ---------------------------------------------------------------
+    Total......................................  .......................................           1,600  ..............  ..............             186
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+[[Page 19095]]
+
+Jeffrey M. Zirger,
+Lead, Information Collection Review Office, Office of Scientific 
+Integrity, Office of Science, Centers for Disease Control and 
+Prevention.
+[FR Doc. 2022-06916 Filed 3-31-22; 8:45 am]
+BILLING CODE 4163-18-P
+
+

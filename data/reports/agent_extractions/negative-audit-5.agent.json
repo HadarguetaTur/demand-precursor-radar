@@ -1,0 +1,52 @@
+{
+  "status_of_this_file": "UNREVIEWED Claude Code subagent labels for the negative screening audit; REVIEW AID only; a human must relabel",
+  "sample_manifest": "data/samples/negative-audit-5-all-excluded.json",
+  "excluded_pool": 5,
+  "cases": [
+    {
+      "source_document_id": "2022-06856",
+      "document_kind": "State Department cultural-object import determination notice",
+      "missed_eligible_event": "NO",
+      "reason": "Routine determination that loaned artworks for a museum exhibition are culturally significant; it imposes no new rule or economically material, behavior-changing change on any identifiable group.",
+      "quote": "certain objects being imported from abroad pursuant to agreements with their foreign owners or custodians for temporary display in the exhibition ``Bernd & Hilla Becher'' at The Metropolitan Museum of Art",
+      "quote_verbatim_in_source": false,
+      "quote_match_after_whitespace_normalization": true
+    },
+    {
+      "source_document_id": "2022-06858",
+      "document_kind": "State Department cultural-object import determination notice",
+      "missed_eligible_event": "NO",
+      "reason": "Same routine exhibition-loan determination type as 2022-06856, with no regulatory, pricing, or availability change affecting any group.",
+      "quote": "temporary display in the exhibition ``Once Upon a Roof: Vanished Korean Architecture'' at the Arthur M. Sackler Gallery",
+      "quote_verbatim_in_source": false,
+      "quote_match_after_whitespace_normalization": true
+    },
+    {
+      "source_document_id": "2022-06868",
+      "document_kind": "ITC section 337 investigation termination on settlement",
+      "missed_eligible_event": "NO",
+      "reason": "Party-specific litigation termination based on an undisclosed private settlement; no exclusion order or rule change is announced and the Commission takes no position on the merits.",
+      "quote": "Accordingly, the Commission hereby grants the Motion. The Commission takes no position as to the issues that remain under review.",
+      "quote_verbatim_in_source": false,
+      "quote_match_after_whitespace_normalization": true
+    },
+    {
+      "source_document_id": "2022-06872",
+      "document_kind": "ITC advisory opinion on scope of existing general exclusion order",
+      "missed_eligible_event": "NO",
+      "reason": "Firm-specific advisory opinion clarifying that one non-respondent's products fall outside a 2011 general exclusion order; changes no rule; only affected party is a single importer.",
+      "quote": "Triple T's fleece-lined shoes and shoes with permanent plastic washers that prevent all direct contact between the strap and the base of the shoe do not fall within the scope of the GEO and therefore should not be excluded",
+      "quote_verbatim_in_source": false,
+      "quote_match_after_whitespace_normalization": true
+    },
+    {
+      "source_document_id": "2022-06912",
+      "document_kind": "CDC Paperwork Reduction Act 30-day comment notice",
+      "missed_eligible_event": "NO",
+      "reason": "Proposed administrative consolidation of two outbreak-reporting forms into one, affecting an estimated 59 health-department epidemiologists with no cost beyond time; paperwork revision pending OMB approval.",
+      "quote": "CDC requests OMB approval to combine the two previously approved forms (Form 52.12 Waterborne Disease Transmission and Form 52.13 Foodborne, Person to Person Disease Transmission, Animal Contact, Environmental Contamination, Unknown Transmission mode) previously approved under OMB Control No. 0920-1304 into one form (Form 52.14).",
+      "quote_verbatim_in_source": false,
+      "quote_match_after_whitespace_normalization": true
+    }
+  ]
+}

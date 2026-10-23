@@ -1,0 +1,587 @@
+
+[Federal Register Volume 87, Number 63 (Friday, April 1, 2022)]
+[Proposed Rules]
+[Pages 19042-19046]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2022-06907]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+ENVIRONMENTAL PROTECTION AGENCY
+
+40 CFR Parts 70 and 71
+
+[EPA-HQ-OAR-2016-0186; FRL-8961-01-OAR]
+RIN 2060-AV39
+
+
+Removal of Title V Emergency Affirmative Defense Provisions From 
+State Operating Permit Programs and the Federal Operating Permit 
+Program
+
+AGENCY: Environmental Protection Agency (EPA).
+
+ACTION: Proposed rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The Environmental Protection Agency (EPA) is re-proposing a 
+document, first proposed in 2016, which would remove the emergency 
+affirmative defense provisions found in the regulations for state and 
+federal operating permit programs under the Clean Air Act (CAA). The 
+purpose of these provisions has been to establish an affirmative 
+defense that sources can assert in civil enforcement cases when 
+noncompliance with certain emission limitations in operating permits 
+occurs because of qualifying ``emergency'' circumstances. These 
+provisions, which have never been required elements of state operating 
+permit programs, are being removed because they are inconsistent with 
+the enforcement structure of the CAA and court decisions from the U.S. 
+Court of Appeals for the D.C. Circuit. The removal of these provisions 
+is consistent with other EPA actions involving affirmative defenses and 
+would harmonize the enforcement and implementation of emission 
+limitations across different CAA programs.
+
+DATES: Comments must be received on or before May 16, 2022.
+    Public hearing: If anyone contacts EPA requesting a public hearing 
+by April 6, 2022, the EPA will hold a virtual public hearing. See 
+SUPPLEMENTARY INFORMATION for information on requesting and registering 
+for a public hearing.
+
+ADDRESSES: Comments: You may send comments, identified by Docket ID No. 
+EPA-HQ-OAR-2016-0186, by any of the following methods:
+    <bullet> Federal eRulemaking Portal: https://www.regulations.gov/ 
+(our preferred method). Follow the online instructions for submitting 
+comments.
+    <bullet> Email: <span class="__cf_email__" data-cfemail="157438747b71386738717a767e7061557065743b727a63">[email protected]</span>. Include Docket ID No. EPA-
+HQ-OAR-2016-0186 in the subject line of the message.
+    <bullet> Fax: (202) 566-9744. Attention Docket ID No. EPA-HQ-OAR-
+2016-0186.
+    Instructions: All submissions received must include the Docket ID 
+No. EPA-HQ-OAR-2016-0186 for this rulemaking. Comments received may be 
+posted without change to https://www.regulations.gov/, including any 
+personal information provided. For detailed instructions on sending 
+comments and additional information on the rulemaking process, see the 
+SUPPLEMENTARY INFORMATION section of this document. Out of an abundance 
+of caution for members of the public and our staff, the EPA Docket 
+Center and Reading Room are open to the public by appointment only to 
+reduce the risk of transmitting COVID-19. Our Docket Center staff also 
+continues to provide remote customer service via email, phone, and 
+webform. Hand deliveries and couriers may be received by scheduled 
+appointment only. For further information on EPA Docket Center services 
+and the current status, please visit us online at https://www.epa.gov/dockets.
+
+FOR FURTHER INFORMATION CONTACT: For information about this proposed 
+rule, contact Corey Sugerik, Air Quality Policy Division, Office of Air 
+Quality Planning and Standards (C504-05), Environmental Protection 
+Agency, Research Triangle Park, NC; telephone number: 919-541-3223; 
+email address:<span class="__cf_email__" data-cfemail="1665637173647f7d38757964736f5673667738717960">[email protected]</span>.
+
+SUPPLEMENTARY INFORMATION: The information presented in this document 
+is organized as follows:
+
+I. General Information
+II. Background
+III. Proposed Action
+IV. Implementation
+V. Environmental Justice Considerations
+VI. Statutory and Executive Order Reviews
+VII. Statutory Authority
+
+I. General Information
+
+A. Entities Potentially Affected by This Action
+
+    Entities potentially affected by this proposed rulemaking include 
+federal, state, local and tribal air pollution control agencies that 
+administer title V operating permit programs, and owners and operators 
+of emissions sources in all industry groups who hold or apply for title 
+V operating permits.
+
+B. Obtaining a Copy of This Document and Other Related Information
+
+    The EPA has established a docket for this rulemaking under Docket 
+ID No. EPA-HQ-OAR-2016-0186. All documents in the dockets are listed in 
+https://www.regulations.gov/. Although listed, some information is not 
+publicly available, e.g., Confidential Business Information (CBI) or 
+other information whose disclosure is restricted by statute. Certain 
+other material, such as copyrighted material, is not placed on the 
+internet and will be publicly available only in hard copy. Publicly 
+available docket materials are available either in the docket for this 
+action, Docket ID No. EPA-HQ-OAR-2016-0186, or electronically at 
+https://www.regulations.gov/.
+    In addition to being available in the docket, an electronic copy of 
+this Federal Register document will be posted at https://www.epa.gov/title-v-operating-permits/current-regulations-and-regulatory-actions.
+
+C. Preparing Comments for the EPA
+
+    Instructions. Submit your comments, identified by Docket ID No. 
+EPA-HQ-OAR-2016-0186, at https://www.regulations.gov (our preferred 
+method), or the other methods identified in the ADDRESSES section. Once 
+submitted, comments cannot be edited or removed from the docket. The 
+EPA may publish any comment received to its public docket. Do not 
+submit to EPA's docket at https://www.regulations.gov any information 
+you consider to be CBI or other information whose disclosure is 
+restricted by statute. This type of information should be submitted by 
+mail as discussed below.
+
+[[Page 19043]]
+
+    Multimedia submissions (audio, video, etc.) must be accompanied by 
+a written comment. The written comment is considered the official 
+comment and should include discussion of all points you wish to make. 
+The EPA will generally not consider comments or comment contents 
+located outside of the primary submission (i.e., on the web, cloud, or 
+other file sharing system). For additional submission methods, the full 
+EPA public comment policy, information about CBI or multimedia 
+submissions, and general guidance on making effective comments, please 
+visit https://www.epa.gov/dockets/commenting-epa-dockets.
+    Due to public health concerns related to COVID-19, the EPA Docket 
+Center and Reading Room are open to the public by appointment only. Our 
+Docket Center staff also continues to provide remote customer service 
+via email, phone, and webform. Hand deliveries or couriers will be 
+received by scheduled appointment only. For further information and 
+updates on EPA Docket Center services, please visit us online at 
+https://www.epa.gov/dockets.
+    The EPA continues to carefully and continuously monitor information 
+from the Centers for Disease Control and Prevention (CDC), local area 
+health departments, and our Federal partners so that the Agency can 
+respond rapidly as conditions change regarding COVID-19.
+    Submitting CBI. Do not submit information containing CBI to the EPA 
+through https://www.regulations.gov/. Clearly mark the part or all of 
+the information that you claim to be CBI. For CBI information on any 
+digital storage media that you mail to the EPA, mark the outside of the 
+digital storage media as CBI and then identify electronically within 
+the digital storage media the specific information that is claimed as 
+CBI. In addition to one complete version of the comments that includes 
+information claimed as CBI, you must submit a copy of the comments that 
+does not contain the information claimed as CBI directly to the public 
+docket through the procedures outlined in Instructions. If you submit 
+any digital storage media that does not contain CBI, mark the outside 
+of the digital storage media clearly that it does not contain CBI. 
+Information not marked as CBI will be included in the public docket and 
+the EPA's electronic public docket without prior notice. Information 
+marked as CBI will not be disclosed except in accordance with 
+procedures set forth in 40 Code of Federal Regulations (CFR) part 2. 
+Our preferred method to receive CBI is for it to be transmitted 
+electronically using email attachments, File Transfer Protocol (FTP), 
+or other online file sharing services (e.g., Dropbox, OneDrive, Google 
+Drive). Electronic submissions must be transmitted directly to the 
+OAQPS CBI Office using the email address, <span class="__cf_email__" data-cfemail="ef808e9e9f9c8c8d86af8a9f8ec1888099">[email protected]</span>, and should 
+include clear CBI markings as described later. If assistance is needed 
+with submitting large electronic files that exceed the file size limit 
+for email attachments, and if you do not have your own file sharing 
+service, please email <span class="__cf_email__" data-cfemail="d4bbb5a5a4a7b7b6bd94b1a4b5fab3bba2">[email protected]</span> to request a file transfer link. 
+If sending CBI information through the postal service, please send it 
+to the following address: OAQPS Document Control Officer (C404-02), 
+OAQPS, U.S. Environmental Protection Agency, Research Triangle Park, 
+North Carolina 27711, Attention Docket ID No. EPA-HQ-OAR-2016-0186. The 
+mailed CBI material should be double wrapped and clearly marked. Any 
+CBI markings should not show through the outer envelope.
+
+D. Participation in Virtual Public Hearing
+
+    Please note that because of the current CDC recommendations, as 
+well as state and local orders for social distancing to limit the 
+spread of COVID-19, the EPA cannot hold in-person public meetings at 
+this time.
+    To request a virtual public hearing, contact Ms. Pamela Long at 
+(919) 541-0641 or by email at <span class="__cf_email__" data-cfemail="9df1f2f3fab3edfcf0ddf8edfcb3faf2eb">[email protected]</span>. If requested, the 
+virtual hearing will be held on April 18, 2022. The hearing will 
+convene at 9:00 a.m. Eastern Time (ET) and will conclude at 3:00 p.m. 
+ET. The EPA may close a session 15 minutes after the last pre-
+registered speaker has testified if there are no additional speakers. 
+The EPA will announce further details at https://www.epa.gov/title-v-operating-permits/current-regulations-and-regulatory-actions.
+    Upon publication of this document in the Federal Register, the EPA 
+will begin pre-registering speakers for the hearing, if a hearing is 
+requested. To register to speak at the virtual hearing, please use the 
+online registration form available at https://www.epa.gov/title-v-operating-permits/current-regulations-and-regulatory-actions or contact 
+Ms. Pamela Long at (919) 541-0641 or by email at <span class="__cf_email__" data-cfemail="a1cdcecfc68fd1c0cce1c4d1c08fc6ced7">[email protected]</span>. The 
+last day to pre-register to speak at the hearing will be April 13, 
+2022. Prior to the hearing, the EPA will post a general agenda that 
+will list pre-registered speakers in approximate order at: https://www.epa.gov/title-v-operating-permits/current-regulations-and-regulatory-actions.
+    The EPA will make every effort to follow the schedule as closely as 
+possible on the day of the hearing; however, please plan for the 
+hearings to run either ahead of schedule or behind schedule.
+    Each commenter will have five minutes to provide oral testimony. 
+The EPA encourages commenters to provide the EPA with a copy of their 
+oral testimony electronically (via email) by emailing it to 
+<span class="__cf_email__" data-cfemail="2f43404148015f4e426f4a5f4e01484059">[email protected]</span>. The EPA also recommends submitting the text of your 
+oral testimony as written comments to the rulemaking docket.
+    The EPA may ask clarifying questions during the oral presentations 
+but will not respond to the presentations at that time. Written 
+statements and supporting information submitted during the comment 
+period will be considered with the same weight as oral testimony and 
+supporting information presented at the public hearing.
+    Please note that any updates made to any aspect of the hearing will 
+be posted online at https://www.epa.gov/title-v-operating-permits/current-regulations-and-regulatory-actions. While the EPA expects the 
+hearing to go forward as set forth above, please monitor our website or 
+contact Ms. Pamela Long at (919) 541-0641 or by email at 
+<span class="__cf_email__" data-cfemail="bfd3d0d1d891cfded2ffdacfde91d8d0c9">[email protected]</span> to determine if there are any updates. The EPA does 
+not intend to publish a document in the Federal Register announcing 
+updates.
+    If you require the services of a translator or special 
+accommodations such as audio description, please pre-register for the 
+hearing with Ms. Pamela Long and describe your needs by April 8, 2022. 
+The EPA may not be able to arrange accommodations without advanced 
+notice.
+
+II. Background
+
+    The EPA has promulgated permitting regulations for the operation of 
+major and certain other sources of air pollutants under title V of the 
+CAA. These regulations, codified in 40 CFR parts 70 and 71, contain the 
+requirements for state operating permit programs and the federal 
+operating permit program, respectively. These regulations currently 
+contain identical provisions describing an affirmative defense that 
+sources may be able to assert in enforcement actions brought for 
+noncompliance with technology-based emission limitations caused by 
+specific emergency circumstances. These ``emergency'' affirmative 
+defense provisions are located at 40 CFR 70.6(g) and 71.6(g).
+    In 2016, the EPA proposed a rule to remove these affirmative 
+defense provisions from the title V regulations.
+
+[[Page 19044]]
+
+81 FR 38645 (June 14, 2016), also available online at: https://www.govinfo.gov/content/pkg/FR-2016-06-14/pdf/2016-14104.pdf (the 2016 
+Proposal). The 2016 Proposal contains a detailed discussion of the 
+background for this proposal, as well as the purpose, basis, rationale, 
+and legal justification for this proposal. The EPA directs readers to 
+the 2016 Proposal for further information. In summary, the EPA based 
+the 2016 Proposal on the interpretation that the enforcement structure 
+of the CAA, embodied in sections 113 and 304, precludes affirmative 
+defense provisions that would operate to limit a court's authority or 
+discretion to determine the appropriate remedy in an enforcement 
+action. 81 FR 38650. This interpretation is informed by the 2014 NRDC 
+v. EPA decision from the U.S. Court of Appeals for the D.C. Circuit.\1\ 
+The EPA believes that the reasoning and logic of that decision extend 
+to regulations concerning operating permit programs under title V. This 
+view aligns the EPA's position on affirmative defenses in title V with 
+positions taken in other CAA program areas, including EPA policy 
+relating to the treatment of startup, shutdown, and malfunction (SSM) 
+periods in state implementation plans (SIPs). (The EPA's policy with 
+respect to SIPs is discussed in an action taken in 2015, see 80 FR 
+33839 (June 12, 2015) (the 2015 SSM SIP Policy), and in the Agency's 
+September 30, 2021, memorandum reinstating the 2015 SSM SIP Policy.\2\) 
+This title V interpretation also aligns with EPA's position on 
+affirmative defenses in New Source Performance Standards (NSPS) under 
+CAA section 111 and National Emission Standards for Hazardous Air 
+Pollutants (NESHAP) under CAA section 112.\3\
+---------------------------------------------------------------------------
+
+    \1\ 749 F.3d 1055 (D.C. Cir. 2014).
+    \2\ See Memorandum, Withdrawal of the October 9, 2020, 
+Memorandum Addressing Startup, Shutdown, and Malfunctions in State 
+Implementation Plans and Implementation of the Prior Policy, 3-4 
+(September 30, 2021), available at https://www.epa.gov/system/files/documents/2021-09/oar-21-000-6324.pdf (September 2021 SSM SIP Memo).
+    \3\ E.g., 85 FR 71490 (November 9, 2020) (proposed rule removing 
+affirmative defense from the NESHAP for polyvinyl chloride and 
+copolymers production); 81 FR 40955 (June 23, 2016) (final rule 
+removing affirmative defense from the NSPS and emission guidelines 
+for commercial and institutional solid waste incineration units); 
+see also 81 FR 38649 n.21 (June 14, 2016) (discussion of other NSPS 
+and NESHAP rules in 2016 Proposal).
+---------------------------------------------------------------------------
+
+    The EPA did not finalize the 2016 Proposal. Instead, in a notation 
+accompanying the Spring 2018 Unified Agenda of Federal Regulatory and 
+Deregulatory Actions, the EPA stated: ``The EPA is withdrawing this 
+action via the reg agenda because the agency does not plan to move 
+forward with this rulemaking due to other pending priorities.'' \4\
+---------------------------------------------------------------------------
+
+    \4\ A copy of the entry on the Regulatory Agenda is available at 
+https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=201804&RIN=2060-AS96. See also https://www.regulations.gov/docket/EPA-HQ-OAR-2016-0186/unified-agenda 
+(indicating that the proposed rule was withdrawn on February 23, 
+2018).
+---------------------------------------------------------------------------
+
+    Although the EPA did not move forward at that time with the 
+proposal to remove the emergency affirmative defense provisions from 
+the Title V regulations, the EPA continued to evaluate SSM provisions, 
+including affirmative defenses, in SIPs. In October 2020, the EPA 
+issued a guidance memorandum that, among other things, expressly 
+superseded a portion of the EPA's interpretation of affirmative 
+defenses presented in the 2015 SSM SIP Policy.\5\ However, on September 
+30, 2021, the EPA issued a guidance memorandum that withdrew the 
+October 2020 memorandum in its entirety and reinstated the legal and 
+policy positions expressed in the 2015 SSM SIP Policy in their 
+entirety.\6\ Thus, the EPA's current interpretation of affirmative 
+defenses in the context of SIPs is the interpretation set out in the 
+2015 SSM SIP Policy. As noted in a preceding paragraph, this 
+interpretation in the context of SIPs is similar to the interpretation 
+expressed in the 2016 Proposal for the title V rules.
+---------------------------------------------------------------------------
+
+    \5\ Memorandum, Inclusion of Provisions Governing Periods of 
+Startup, Shutdown, and Malfunctions in State Implementation Plans, 6 
+(October 9, 2020), available at https://www.epa.gov/system/files/documents/2021-09/2020-ssm-in-sips-guidance-memo.pdf. In 2020, EPA 
+also took action relating to an SSM-related affirmative defense in a 
+SIP for Texas, withdrawing a SSM ``SIP call'' in part because the 
+SIP-based affirmative defense was deemed to not be inconsistent with 
+the CAA. See 85 FR 7232 (February 7, 2020); see also 85 FR 23,700 
+(April 28, 2020) (SIP call withdrawal relating to North Carolina) 
+and 85 FR 73,218 (November 17, 2020) (SIP call withdrawal relating 
+to Iowa). Petitions for review of these withdrawal actions were 
+filed in the United States Court of Appeals for the D.C. Circuit. 
+See Sierra Club v. EPA, No. 20-1115.
+    \6\ September 2021 SSM SIP Memo, supra note 2. This memorandum 
+also announced an intent to revisit, among other things, the 2020 
+action withdrawing the SSM affirmative defense-related SIP call for 
+Texas. Id. at 5. On December 17, 2021, the United States Court of 
+Appeals for the D.C. Circuit granted the EPA's request for a 
+voluntary remand of that 2020 Texas SIP call withdrawal action, as 
+well as the similar SIP call withdrawal actions relating to North 
+Carolina and Iowa, in light of EPA's stated intent to reconsider 
+those actions. Sierra Club v. EPA, No. 20-1115.
+---------------------------------------------------------------------------
+
+III. Proposed Action
+
+    In this action, the EPA is again proposing to remove the title V 
+emergency affirmative defense provisions, 40 CFR 70.6(g) and 71.6(g). 
+These provisions are inconsistent with the EPA's interpretation of the 
+CAA's enforcement structure and court decisions from the U.S. Court of 
+Appeals for the D.C. Circuit--primarily the 2014 NRDC v. EPA decision. 
+In summary, the EPA interprets the enforcement structure of the CAA, 
+embodied in sections 113 and 304, to preclude affirmative defense 
+provisions that would operate to limit a court's authority or 
+discretion to determine the appropriate remedy in an enforcement 
+action. The title V affirmative defense provisions the EPA proposes to 
+remove, 40 CFR 70.6(g) and 71.6(g), set forth just such limitations 
+and, consequently, are inconsistent with the rationale of NRDC and the 
+enforcement structure of the CAA. The Agency's view that these title V 
+affirmative defense provisions are inconsistent with the CAA and D.C. 
+Circuit precedent is consistent with the EPA's current interpretation 
+of affirmative defenses in the context of other CAA programs, including 
+SIPs and regulations under CAA sections 111 and 112.\7\
+---------------------------------------------------------------------------
+
+    \7\ See September 2021 SSM SIP Memo. The EPA's interpretation 
+with respect to affirmative defenses in regulations under CAA 
+sections 111 or 112 has not changed since the 2016 Proposal. See 
+supra note 3 and accompanying text.
+---------------------------------------------------------------------------
+
+    Except as modified or updated herein, the EPA is re-proposing the 
+2016 Proposal. The EPA previously received comments on the 2016 
+Proposal, including the legal interpretation upon which that former 
+proposal--and the current proposal--are based. The EPA will consider 
+all comments received on the 2016 Proposal as the Agency moves forward 
+with the current rulemaking. Accordingly, commenters need not submit 
+duplicate comments on the current proposal.\8\ However, the EPA 
+welcomes comments providing additional information not previously 
+submitted to the Agency.
+---------------------------------------------------------------------------
+
+    \8\ Comments received on the 2016 Proposal are contained in the 
+same docket as the current proposal: Docket ID No. EPA-HQ-OAR-2016-
+0186.
+---------------------------------------------------------------------------
+
+IV. Implementation
+
+    The nature and focus of the proposed action are to remove the 
+affirmative defense provisions from the EPA's regulations at 40 CFR 
+70.6(g) and 71.6(g). The EPA is not proposing any specific finding with 
+respect to individual state programs or state-issued title V permits 
+that may contain similar provisions. However, if the EPA finalizes this 
+rule as proposed and removes the affirmative defense provisions at 40 
+CFR 70.6 and 71.6, the Agency expects that some state, local, and 
+tribal permitting authorities will need to remove similar provisions 
+from their EPA-approved part 70 program regulations and submit program
+
+[[Page 19045]]
+
+revisions to the EPA. The EPA also expects that these permitting 
+authorities will need to remove such provisions from individual title V 
+permits. This process will proceed consistent with the existing 
+regulations concerning program and permit revisions. See, e.g., 40 CFR 
+70.4(a), 70.4(i), 70.7. The EPA's expectations regarding this process 
+are discussed in the 2016 Proposal.
+
+V. Environmental Justice Considerations
+
+    The Agency proposes to remove affirmative defense provisions from 
+the EPA's operating permit program regulations. If the rule is 
+finalized, it may also be necessary for state, local and tribal 
+permitting authorities to remove similar affirmative defense provisions 
+from program regulations and from individual title V operating permits. 
+None of these changes would alter the obligations of sources to comply 
+with the underlying emission limits and other standards contained 
+within title V operating permits.
+    Based on these considerations, the EPA expects that, if this action 
+becomes final as proposed, the effects on minority populations, low-
+income populations and/or indigenous peoples would not be 
+disproportionately high and adverse.
+
+VI. Statutory and Executive Order Reviews
+
+A. Executive Order 12866: Regulatory Planning and Review and Executive 
+Order 13563: Improving Regulation and Regulatory Review
+
+    This action is not a significant regulatory action and was 
+therefore not submitted to the Office of Management and Budget (OMB) 
+for review.
+
+B. Paperwork Reduction Act (PRA)
+
+    This action does not impose an information collection burden under 
+the PRA. OMB has previously approved the information collection 
+activities contained in the existing regulations and has assigned OMB 
+control numbers 2060-0243 (for part 70 state operating permit programs) 
+and 2060-0336 (for part 71 federal operating permit program). In this 
+action, the EPA is proposing to remove certain provisions from the 
+EPA's regulations, which, if finalized, could result in the removal of 
+similar provisions from state, local, and tribal operating permit 
+programs and individual permits. Consequently, states could eventually 
+be required to submit program revisions to the EPA outlining any 
+necessary changes to their regulations and their plans to remove 
+provisions from individual permits. However, this action does not 
+involve any requests for information, recordkeeping or reporting 
+requirements, or other requirements that would constitute an 
+information collection under the PRA.
+
+C. Regulatory Flexibility Act (RFA)
+
+    I certify that this action would not have a significant economic 
+impact on a substantial number of small entities under the RFA. This 
+action would not impose any requirements on small entities. Entities 
+potentially affected directly by this proposal include state, local, 
+and tribal governments, and none of these governments would qualify as 
+a small entity. Other types of small entities, including stationary 
+sources of air pollution, would not be directly subjected to the 
+requirements of this action.
+
+D. Unfunded Mandates Reform Act (UMRA)
+
+    This action would not contain an unfunded mandate of $100 million 
+or more as described in UMRA, 2 U.S.C. 1531-1538, and would not 
+significantly or uniquely affect small governments. The action would 
+impose no enforceable duty on any state, local or tribal governments or 
+the private sector.
+
+E. Executive Order 13132: Federalism
+
+    This action does not have federalism implications. It would not 
+have substantial direct effects on the states, on the relationship 
+between the national government and the states, or on the distribution 
+of power and responsibilities among the various levels of government.
+
+F. Executive Order 13175: Consultation and Coordination With Indian 
+Tribal Governments
+
+    This action has tribal implications. However, it would neither 
+impose substantial direct compliance costs on federally recognized 
+tribal governments, nor preempt tribal law. One tribal government (the 
+Southern Ute Indian Tribe) currently administers an approved part 70 
+operating permit program, and one tribal government (the Navajo Nation) 
+currently administers a part 71 operating permit program pursuant to a 
+delegation agreement with the EPA. These tribal governments may be 
+required to take actions if this rule is finalized, including program 
+revisions (for part 70 programs) and eventual permit revisions (for 
+both part 70 and delegated part 71 programs), but these actions will 
+not require substantial compliance costs. The EPA previously consulted 
+with tribal officials when developing the 2016 Proposal and is planning 
+to offer a similar consultation for the current proposal. The EPA also 
+solicits comment from affected tribal governments on the implications 
+of this rulemaking.
+
+G. Executive Order 13045: Protection of Children From Environmental 
+Health and Safety Risks
+
+    The EPA interprets Executive Order 13045 as applying only to those 
+regulatory actions that concern environmental health or safety risks 
+that the EPA has reason to believe may disproportionately affect 
+children, per the definition of ``covered regulatory action'' in 
+section 2-202 of the Executive Order. This action is not subject to 
+Executive Order 13045 because it does not concern an environmental 
+health risk or safety risk.
+
+H. Executive Order 13211: Actions Concerning Regulations That 
+Significantly Affect Energy Supply, Distribution, or Use
+
+    This action is not subject to Executive Order 13211, because it is 
+not a significant regulatory action under Executive Order 12866.
+
+I. National Technology Transfer and Advancement Act (NTTA)
+
+    This rulemaking does not involve technical standards.
+
+J. Executive Order 12898: Federal Actions To Address Environmental 
+Justice in Minority Populations and Low-Income Populations
+
+    The EPA believes that this action would not have disproportionately 
+high and adverse human health or environmental effects on minority 
+populations, low-income populations and/or indigenous peoples, as 
+specified in Executive Order 12898 (59 FR 7629, February 16, 1994). The 
+documentation for this decision is contained in section V of this 
+action preamble titled, ``Environmental Justice Considerations''.
+
+VII. Statutory Authority
+
+    The statutory authority for this action is provided in CAA sections 
+502(b) and 502(d)(3), 42 U.S.C. 7661a(b) & (d)(3), which direct the 
+Administrator of the EPA to promulgate regulations establishing state 
+operating permit programs and give the Administrator the authority to 
+establish a federal operating permit program. Additionally, the 
+Administrator determines that this proposed action is subject to the 
+provisions of CAA section 307(d), which establish procedural 
+requirements specific to rulemaking under the CAA. CAA section
+
+[[Page 19046]]
+
+307(d)(1)(V) provides that the provisions of CAA section 307(d) apply 
+to ``such other actions as the Administrator may determine.'' 42 U.S.C. 
+7607(d)(1)(V).
+
+List of Subjects
+
+40 CFR Part 70
+
+    Environmental protection, Administrative practice and procedure, 
+Air pollution control, Intergovernmental relations, Reporting and 
+recordkeeping requirements.
+
+40 CFR Part 71
+
+    Environmental protection, Administrative practice and procedure, 
+Air pollution control, Reporting and recordkeeping requirements.
+
+Michael Regan,
+Administrator.
+
+    For the reasons stated in the preamble, the EPA proposes to amend 
+title 40 CFR parts 70 and 71 as follows:
+
+PART 70--STATE OPERATING PERMIT PROGRAMS
+
+0
+1. The authority citation for part 70 continues to read as follows:
+
+    Authority: 42 U.S.C. 7401, et seq.
+
+
+Sec.  70.6  [Amended]
+
+0
+2. In Sec.  70.6, remove and reserve paragraph (g).
+
+PART 71--FEDERAL OPERATING PERMIT PROGRAMS
+
+0
+3. The authority citation for part 71 continues to read as follows:
+
+    Authority:  42 U.S.C. 7401, et seq.
+
+
+Sec.  71.6  [Amended]
+
+0
+4. In Sec.  71.6, remove and reserve paragraph (g).
+
+[FR Doc. 2022-06907 Filed 3-31-22; 8:45 am]
+BILLING CODE 6560-50-P
+
+

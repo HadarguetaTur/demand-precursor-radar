@@ -1,0 +1,52 @@
+protocol_id: DPR-HIST-EVENTS-001
+status: DRAFT_REQUIRES_RESEARCHER_APPROVAL
+version: 0.1.0
+as_of_date: '2026-10-23'
+research_question: >
+  Can changes announced in primary documents provide early signals of subsequently observable demand?
+period:
+  publication_start: '2020-01-01'
+  publication_end: '2025-12-31'
+observation_unit: >
+  An independently identifiable newly announced change with a dated original primary source,
+  a potentially affected group, and an economically meaningful behavior change.
+  Pilot extraction uses at most one candidate per source document; this is a KNOWN LIMITATION.
+accepted_event_requires:
+  - stored primary document with exact content hash
+  - independently checked dated original publication
+  - economically material announced change, regardless of later outcome
+  - defined affected population or actor group
+  - direct quote supporting change and group
+  - human reviewer approval, name and recorded rationale
+not_accepted_if:
+  - pure commentary without newly announced change
+  - duplication of a previously represented underlying event
+  - historical first-public date unavailable or misleading
+  - original-source text not obtainable
+  - merely describes a past success rather than announcing change
+future_outcomes_eligibility: forbidden
+source_selection: fixed ex-ante by publication archive availability; no success story searches
+bias_controls:
+  - capture full bounded retrieval frame and non-events
+  - audit random samples of screened-out documents
+  - record nonretrieved source counts and API coverage limits
+  - never condition source selection on later demand
+  - historical text may be read by modern LLM containing future knowledge: constrain text and use prospective follow-up
+pilot:
+  target_n: 20
+  allowed_source: federal-register
+  source_window: researcher-selected bounded dates, recorded before fetching
+  gate: never claim general predictive skill from a one-source pilot
+study:
+  target_n: 150
+  period: '2020-2025'
+  minimum_source_families_before_final_sample: 3
+  sampling: stratified by primary source and publication year; within-stratum deterministic uniform sampling
+  if_stratum_shortage: record and amend protocol before sampling, never choose replacements by outcomes
+freeze_policy:
+  approved_review_only: true
+  refuse_overwrite: true
+  store_manifest_checksum: true
+  record_frame_hash: true
+  verify_reproducibility: true
+outcome_data_access_during_stage_1: prohibited

@@ -1,0 +1,390 @@
+
+[Federal Register Volume 87, Number 63 (Friday, April 1, 2022)]
+[Proposed Rules]
+[Pages 19026-19029]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2022-06771]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2022-0155; Project Identifier MCAI-2021-00585-T]
+RIN 2120-AA64
+
+
+Airworthiness Directives; MHI RJ Aviation ULC (Type Certificate 
+Previously Held by Bombardier, Inc.) Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Notice of proposed rulemaking (NPRM).
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA proposes to adopt a new airworthiness directive (AD) 
+for certain MHI RJ Aviation ULC Model CL-600-2B19 (Regional Jet Series 
+100 & 440) airplanes; Model CL-600-2C10 (Regional Jet Series 700, 701 & 
+702) airplanes; Model CL-600-2C11 (Regional Jet Series 550) airplanes; 
+Model CL-600-2D15 (Regional Jet Series 705) airplanes; Model CL-600-
+2D24 (Regional Jet Series 900) airplanes; and Model CL-600-2E25 
+(Regional Jet Series 1000) airplanes. This proposed AD was prompted by 
+reports of displayed headings changing from MAG to TRU with no pilot 
+action, which may result in misleading heading information on both 
+primary function displays (PFDs) and multi-function displays (MFDs), 
+and misleading course information on flight management systems (FMS). 
+This proposed AD would require amending the existing airplane flight 
+manual (AFM) to provide the flightcrew with updated procedures for 
+accurate heading and course information. The FAA is proposing this AD 
+to address the unsafe condition on these products.
+
+DATES: The FAA must receive comments on this proposed AD by May 16, 
+2022.
+
+[[Page 19027]]
+
+
+ADDRESSES: You may send comments, using the procedures found in 14 CFR 
+11.43 and 11.45, by any of the following methods:
+    <bullet> Federal eRulemaking Portal: Go to https://www.regulations.gov. Follow the instructions for submitting comments.
+    <bullet> Fax: 202-493-2251.
+    <bullet> Mail: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE, Washington, DC 20590.
+    <bullet> Hand Delivery: Deliver to Mail address above between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays.
+    For service information identified in this NPRM, contact MHI RJ 
+Aviation ULC, 12655 Henri-Fabre Blvd., Mirabel, Qu[eacute]bec J7N 1E1 
+Canada; Widebody Customer Response Center North America toll-free 
+telephone +1-844-272-2720 or direct-dial telephone +1-514-855-8500; fax 
++1-514-855-8501; email <span class="__cf_email__" data-cfemail="8efae6eaa0edfce4cee3e6e7fce4a0ede1e3">[email protected]</span>; internet https://mhirj.com. 
+You may view this service information at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th St., Des 
+Moines, WA. For information on the availability of this material at the 
+FAA, call 206-231-3195.
+
+Examining the AD Docket
+
+    You may examine the AD docket at https://www.regulations.gov by 
+searching for and locating Docket No. FAA-2022-0155; or in person at 
+Docket Operations between 9 a.m. and 5 p.m., Monday through Friday, 
+except Federal holidays. The AD docket contains this NPRM, any comments 
+received, and other information. The street address for Docket 
+Operations is listed above.
+
+FOR FURTHER INFORMATION CONTACT: Thomas Niczky, Aerospace Engineer, 
+Avionics and Electrical Systems Section, FAA, New York ACO Branch, 1600 
+Stewart Avenue, Suite 410, Westbury, NY 11590; telephone 516-228-7300; 
+email <span class="__cf_email__" data-cfemail="4c75612d3a3f6122352d2f23612f233f0c2a2d2d622b233a">[email protected]</span>.
+
+SUPPLEMENTARY INFORMATION:
+
+Comments Invited
+
+    The FAA invites you to send any written relevant data, views, or 
+arguments about this proposal. Send your comments to an address listed 
+under ADDRESSES. Include ``Docket No. FAA-2022-0155; Project Identifier 
+MCAI-2021-00585-T'' at the beginning of your comments. The most helpful 
+comments reference a specific portion of the proposal, explain the 
+reason for any recommended change, and include supporting data. The FAA 
+will consider all comments received by the closing date and may amend 
+the proposal because of those comments.
+    Except for Confidential Business Information (CBI) as described in 
+the following paragraph, and other information as described in 14 CFR 
+11.35, the FAA will post all comments received, without change, to 
+https://www.regulations.gov, including any personal information you 
+provide. The agency will also post a report summarizing each 
+substantive verbal contact received about this NPRM.
+
+Confidential Business Information
+
+    CBI is commercial or financial information that is both customarily 
+and actually treated as private by its owner. Under the Freedom of 
+Information Act (FOIA) (5 U.S.C. 552), CBI is exempt from public 
+disclosure. If your comments responsive to this NPRM contain commercial 
+or financial information that is customarily treated as private, that 
+you actually treat as private, and that is relevant or responsive to 
+this NPRM, it is important that you clearly designate the submitted 
+comments as CBI. Please mark each page of your submission containing 
+CBI as ``PROPIN.'' The FAA will treat such marked submissions as 
+confidential under the FOIA, and they will not be placed in the public 
+docket of this NPRM. Submissions containing CBI should be sent to 
+Thomas Niczky, Aerospace Engineer, Avionics and Electrical Systems 
+Section, FAA, New York ACO Branch, 1600 Stewart Avenue, Suite 410, 
+Westbury, NY 11590; telephone 516-228-7300; email <span class="__cf_email__" data-cfemail="f0c9dd918683dd9e8991939fdd939f83b0969191de979f86">[email protected]</span>. Any commentary that the FAA receives which is not 
+specifically designated as CBI will be placed in the public docket for 
+this rulemaking.
+
+Background
+
+    Transport Canada Civil Aviation (TCCA), which is the aviation 
+authority for Canada, has issued TCCA AD CF-2021-19, issued May 13, 
+2021 (TCCA AD CF-2021-19) (also referred to after this as the Mandatory 
+Continuing Airworthiness Information, or the MCAI), to correct an 
+unsafe condition for certain MHI RJ Aviation ULC Model CL-600-2B19 
+(Regional Jet Series 100 & 440) airplanes; Model CL-600-2C10 (Regional 
+Jet Series 700, 701 & 702) airplanes; Model CL-600-2C11 (Regional Jet 
+Series 550) airplanes; Model CL-600-2D15 (Regional Jet Series 705) 
+airplanes; Model CL-600-2D24 (Regional Jet Series 900) airplanes; and 
+Model CL-600-2E25 (Regional Jet Series 1000) airplanes. You may examine 
+the MCAI in the AD docket at https://www.regulations.gov by searching 
+for and locating Docket No. FAA-2022-0155.
+    This proposed AD was prompted by reports of displayed headings 
+changing from MAG to TRU with no pilot action, which may result in 
+misleading heading information on both PFDs and MFDs, and misleading 
+course information on FMS. This misleading information may occur on 
+airplanes with certain inertial reference systems (IRSs); the IRS is 
+part of the navigation system and provides data on the airplane's 
+position. The FAA is proposing this AD to prevent operation outside the 
+terrain and obstacle protection provided in instrument procedure and 
+route designs, which could result in reduced operational safety 
+margins. See the MCAI for additional background information.
+
+Related Service Information Under 1 CFR Part 51
+
+    MHI RJ Aviation ULC has issued the following service information, 
+which provides a procedure for revising, among other procedures, the 
+``Uncommanded True Heading Indication.''
+    <bullet> Section 05-15--Instrument Systems, of Chapter 5, ABNORMAL 
+PROCEDURES, of MHI RJ Model CL-600-2B19 AFM, CSP A-012, Volume 1, 
+Revision 74, dated July 3, 2020.
+    Bombardier has issued the following service information, which 
+provides a procedure for revising, among other procedures, the 
+``Uncommanded True Heading Indication.'' These documents are distinct 
+since they apply to different airplane models.
+    <bullet> Section 05-15--Instrument Systems, of Chapter 5, ABNORMAL 
+PROCEDURES, of Bombardier CRJ Series Regional Jet Model CL-600-2C10 
+(Series 700, 701, 702) and CL-600-2C11 (Series 550) AFM, CSP B-012, 
+Revision 30, dated February 28, 2020.
+    <bullet> Section 05-15--Instrument Systems, of Chapter 5, ABNORMAL 
+PROCEDURES, of Bombardier CRJ Series Regional Jet Model CL-600-2D24 
+(Series 900) and Model CL-600-2D15 (Series 705) AFM, CSP C-012, 
+Revision 24, dated March 27, 2020.
+    <bullet> Section 05-15--Instrument Systems, of Chapter 5, ABNORMAL 
+PROCEDURES, of Bombardier CRJ Series Regional Jet Model CL-600-2E25 
+(Series 1000) AFM, CSP D-012, Revision 23, dated February 14, 2020.
+    This service information is reasonably available because the 
+interested parties have access to it through their normal course of 
+business or by the means identified in the ADDRESSES section.
+
+[[Page 19028]]
+
+FAA's Determination
+
+    This product has been approved by the aviation authority of another 
+country, and is approved for operation in the United States. Pursuant 
+to the FAA's bilateral agreement with the State of Design Authority, 
+the FAA has been notified of the unsafe condition described in the MCAI 
+and service information referenced above. The FAA is proposing this AD 
+because the FAA evaluated all the relevant information and determined 
+the unsafe condition described previously is likely to exist or develop 
+on other products of the same type design.
+
+Proposed AD Requirements in This NPRM
+
+    This proposed AD would require accomplishing the actions specified 
+in the service information already described.
+    TCCA AD CF-2021-19 requires operators to ``advise all flight 
+crews'' of revisions to the AFM, and thereafter to ``operate the 
+aircraft accordingly.'' However, this proposed AD would not 
+specifically require those actions as those actions are already 
+required by FAA regulations. FAA regulations require operators furnish 
+to pilots any changes to the AFM (for example, 14 CFR 121.137), and to 
+ensure the pilots are familiar with the AFM (for example, 14 CFR 
+91.505). As with any other flightcrew training requirement, training on 
+the updated AFM content is tracked by the operators and recorded in 
+each pilot's training record, which is available for the FAA to review. 
+FAA regulations also require pilots to follow the procedures in the 
+existing AFM including all updates. 14 CFR 91.9 requires that any 
+person operating a civil aircraft must comply with the operating 
+limitations specified in the AFM. Therefore, including a requirement in 
+this proposed AD to operate the airplane according to the revised AFM 
+would be redundant and unnecessary.
+
+Costs of Compliance
+
+    The FAA estimates that this AD, if adopted as proposed, would 
+affect 1,113 airplanes of U.S. registry. The FAA estimates the 
+following costs to comply with this proposed AD:
+
+                                      Estimated Costs for Required Actions
+----------------------------------------------------------------------------------------------------------------
+                                                                                    Cost per       Cost on U.S.
+                          Labor cost                              Parts cost        product         operators
+----------------------------------------------------------------------------------------------------------------
+1 work-hour x $85 per hour = $85.............................              $0              $85          $94,605
+----------------------------------------------------------------------------------------------------------------
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    The FAA determined that this proposed AD would not have federalism 
+implications under Executive Order 13132. This proposed AD would not 
+have a substantial direct effect on the States, on the relationship 
+between the national Government and the States, or on the distribution 
+of power and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify this proposed 
+regulation:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Would not affect intrastate aviation in Alaska, and
+    (3) Would not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Proposed Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA proposes to amend 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive:
+
+MHI RJ Aviation ULC (Type Certificate Previously Held by Bombardier, 
+Inc.): Docket No. FAA-2022-0155; Project Identifier MCAI-2021-00585-
+T.
+
+(a) Comments Due Date
+
+    The FAA must receive comments on this airworthiness directive 
+(AD) by May 16, 2022.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to MHI RJ Aviation ULC (type certificate 
+previously held by Bombardier, Inc.) airplanes, certificated in any 
+category, as identified in paragraphs (c)(1) through (3) of this AD.
+    (1) Model CL-600-2B19 (Regional Jet Series 100 & 440) airplanes 
+equipped with inertial reference system (IRS) part number (P/N) 
+465020-0400-0400, 465020-0400-0401, 465020-0400-0402, or 465020-
+0400-0403.
+    (2) Model CL-600-2C10 (Regional Jet Series 700, 701 & 702) 
+airplanes, Model CL-600-2C11 (Regional Jet Series 550) airplanes, 
+Model CL-600-2D15 (Regional Jet Series 705) airplanes, and Model CL-
+600-2D24 (Regional Jet Series 900) airplanes, equipped with IRS P/N 
+465020-0400-0401, 465020-0400-0402 or 465020-0400-0403.
+    (3) Model CL-600-2E25 (Regional Jet Series 1000) airplanes, 
+equipped with IRS P/N 465020-0400-0402 or 465020-0400-0403.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 34; Navigation 
+System.
+
+(e) Unsafe Condition
+
+    This AD was prompted by reports of displayed headings changing 
+from MAG to TRU with no pilot action, which may result in misleading 
+heading information on both primary function displays (PFDs) and 
+multi-function displays (MFDs), and misleading
+
+[[Page 19029]]
+
+course information on flight management systems (FMSs). The FAA is 
+issuing this AD to prevent operation outside the terrain and 
+obstacle protection provided in instrument procedure and route 
+designs, which could result in reduced operational safety margins.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Amend Existing Airplane Flight Manual (AFM)
+
+    Within 30 days after the effective date of this AD: Revise the 
+existing AFM to incorporate the information specified in Section 05-
+15--Instrument Systems, of Chapter 5, ABNORMAL PROCEDURES, of the 
+applicable AFM identified in Figure 1 to paragraph (g) of this AD.
+[GRAPHIC] [TIFF OMITTED] TP01AP22.003
+
+(h) Other FAA AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, New 
+York ACO Branch, FAA, has the authority to approve AMOCs for this 
+AD, if requested using the procedures found in 14 CFR 39.19. In 
+accordance with 14 CFR 39.19, send your request to your principal 
+inspector or local Flight Standards District Office, as appropriate. 
+If sending information directly to the manager of the certification 
+office, send it to ATTN: Program Manager, Continuing Operational 
+Safety, FAA, New York ACO Branch, 1600 Stewart Avenue, Suite 410, 
+Westbury, NY 11590; telephone 516-228-7300. Before using any 
+approved AMOC, notify your appropriate principal inspector, or 
+lacking a principal inspector, the manager of the local flight 
+standards district office/certificate holding district office.
+    (2) Contacting the Manufacturer: For any requirement in this AD 
+to obtain instructions from a manufacturer, the instructions must be 
+accomplished using a method approved by the Manager, New York ACO 
+Branch, FAA; or Transport Canada Civil Aviation (TCCA); or MHI RJ 
+Aviation ULC's TCCA Design Approval Organization (DAO). If approved 
+by the DAO, the approval must include the DAO-authorized signature.
+
+(i) Related Information
+
+    (1) Refer to Mandatory Continuing Airworthiness Information 
+(MCAI) TCCA AD CF-2021-19, issued May 13, 2021, for related 
+information. This MCAI may be found in the AD docket on the internet 
+at https://www.regulations.gov by searching for and locating Docket 
+No. FAA-2022-0155.
+    (2) For more information about this AD, contact Thomas Niczky, 
+Aerospace Engineer, Avionics and Electrical Systems Section, FAA, 
+New York ACO Branch, 1600 Stewart Avenue, Suite 410, Westbury, NY 
+11590; telephone 516-228-7347; email <span class="__cf_email__" data-cfemail="b0899dd1c6c39ddec9d1d3df9dd3dfc3f0d6d1d19ed7dfc6">[email protected]</span>.
+    (3) For service information identified in this AD, contact MHI 
+RJ Aviation ULC, 12655 Henri-Fabre Blvd., Mirabel, Qu[eacute]bec J7N 
+1E1 Canada; Widebody Customer Response Center North America toll-
+free telephone +1-844-272-2720 or direct-dial telephone +1-514-855-
+8500; fax +1-514-855-8501; email <span class="__cf_email__" data-cfemail="700418145e13021a301d1819021a5e131f1d">[email protected]</span>; internet https://mhirj.com. You may view this service information at the FAA, 
+Airworthiness Products Section, Operational Safety Branch, 2200 
+South 216th St., Des Moines, WA. For information on the availability 
+of this material at the FAA, call 206-231-3195.
+
+    Issued on March 25, 2022.
+Ross Landes,
+Deputy Director for Regulatory Operations, Compliance & Airworthiness 
+Division, Aircraft Certification Service.
+[FR Doc. 2022-06771 Filed 3-31-22; 8:45 am]
+BILLING CODE 4910-13-P
+
+

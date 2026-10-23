@@ -1,0 +1,154 @@
+{
+  "status_of_this_file": "UNREVIEWED Claude Code subagent output used as REVIEW AID; not a production candidate; not human-accepted",
+  "source_document_id": "2022-06521",
+  "publication_date_manifest": "2022-04-01",
+  "document_sha256": "3434a29feff42e2437d89e87b255d3fed01a197a92d6ce3e4dd336cd55557396",
+  "source_hash_ok": true,
+  "source_text_mode": "govinfo_gpo_html_pre_text",
+  "original_text_url": "https://www.govinfo.gov/content/pkg/FR-2022-04-01/html/2022-06521.htm",
+  "agent_output": {
+    "source_document_id": "2022-06521",
+    "publication_date": "2022-04-01",
+    "is_event": true,
+    "event_type": "other_identifiable_change",
+    "status": "proposed",
+    "affected_group": "Handlers (and growers/importers) of walnuts grown in California subject to Federal Marketing Order No. 984 (7 CFR part 984), including handlers receiving imported walnuts",
+    "change_summary": "USDA/AMS announced a public hearing (April 19-20, 2022, remote via Zoom) on California Walnut Board-recommended amendments to Marketing Order No. 984 that would eliminate mandatory inspection and certification of outbound inshell/shelled walnuts (and imported walnuts), remove volume control authority, change handler assessments from kernelweight on shipped walnuts to inshell pound on received walnuts with a proposed initial rate of $0.0125 per inshell pound, and add authority to charge late payment/interest. This is a notification of hearing, the first step in formal rulemaking; amendments require later recommended decision, Secretary's decision and grower referendum before implementation.",
+    "effective_at": null,
+    "evidence": [
+      {
+        "field": "status",
+        "quote": "ACTION: Notification of hearing on proposed rulemaking."
+      },
+      {
+        "field": "status",
+        "quote": "USDA will oversee this formal rulemaking proceeding. The issuance \nof this notification of public hearing is the first of several steps in \nthe amendatory rulemaking process, including the issuance of a \nrecommended decision, public comment period, Secretary's decision, \ngrower referendum, and handler sign-up (if the prior steps prove \nfavorable)."
+      },
+      {
+        "field": "status",
+        "quote": "Finally, any proposed amendments must be approved \nin a grower referendum before they can be implemented."
+      },
+      {
+        "field": "change_summary",
+        "quote": "The California \nWalnut Board (Board), which locally administers the Order, recommended \nproposed amendments that would eliminate mandatory inspection and \ncertification of inshelled and shelled walnuts, and of shelled walnuts \nfor processing; create a new mechanism for determining and collecting \nhandler assessments; add authority to charge interest for late \npayments; and remove volume control authority."
+      },
+      {
+        "field": "change_summary",
+        "quote": "As proposed, inspection and \ncertification of outbound walnuts would no longer be required, and \nhandler assessments would be calculated based on a proposed assessment \nrate recommended by the Board and applied to handlers' inbound walnuts \ninstead of outbound walnuts."
+      },
+      {
+        "field": "change_summary",
+        "quote": "The Board has proposed an initial assessment rate of \n$0.0125 per inshell pound of walnuts that would go into effect with the \nstart of the proposed new mechanism, if it were to be effectuated."
+      },
+      {
+        "field": "change_summary",
+        "quote": "DATES: The hearing will be held April 19-20, 2022, from 8:00 a.m. to \n5:00 p.m. Pacific Time (PT)"
+      },
+      {
+        "field": "affected_group",
+        "quote": "Notice is hereby given of a public hearing to receive evidence \non proposed amendments to Federal Marketing Order No. 984 (Order) \nregulating the handling of walnuts grown in California."
+      },
+      {
+        "field": "affected_group",
+        "quote": "If implemented, the Board states the proposed amendments would remove \nthe redundancy of the outbound inspection, thus reducing costs to both \nhandlers and producers and reducing administrative burden to the Board. \nAccordingly, inspection and certification requirements for imported \nwalnuts would also be removed."
+      },
+      {
+        "field": "effective_at",
+        "quote": "The Board also requested the current moratorium on enforcement \nof mandatory inspection requirements be extended until the effective \ndate of the proposed amendments summarized in this notification, if \napproved."
+      }
+    ],
+    "uncertainties": [
+      "No effective date; only hearing dates (April 19-20, 2022) and pre-registration deadline (April 12, 2022).",
+      "Proposed only; implementation depends on later steps and grower referendum; not assessed.",
+      "Internal inconsistency: narrative says $0.0125 per inshell pound while proposed regulatory text for Sec. 984.347 reads $0.125; flagged, not resolved.",
+      "event_type is a judgment call; could be price_or_terms_change.",
+      "Prior indefinite suspension of volume control (June 8, 2020, 85 FR 27107) and an existing moratorium on inspection enforcement mean some removals may already be non-enforced.",
+      "document.txt contains Cloudflare-obfuscated email spans; does not affect quoted passages.",
+      "manifest historical_date_approved=false."
+    ],
+    "economically_material": "REDACTED_FROM_REVIEWER_PATH (see agent_materiality_sidecar.json; may contain forward-looking speculation)"
+  },
+  "quote_checks": [
+    {
+      "field": "status",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "ACTION: Notification of hearing on proposed rulemaking."
+    },
+    {
+      "field": "status",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "USDA will oversee this formal rulemaking proceeding. The issuance \nof this notification of public hearing is the first of several steps in \nthe amendatory rulemaking process, including the issuance of a \nrecommended decision, public comment period, Secretary's decision, \ngrower referendum, and handler sign-up (if the prior steps prove \nfavorable)."
+    },
+    {
+      "field": "status",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "Finally, any proposed amendments must be approved \nin a grower referendum before they can be implemented."
+    },
+    {
+      "field": "change_summary",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "The California \nWalnut Board (Board), which locally administers the Order, recommended \nproposed amendments that would eliminate mandatory inspection and \ncertification of inshelled and shelled walnuts, and of shelled walnuts \nfor processing; create a new mechanism for determining and collecting \nhandler assessments; add authority to charge interest for late \npayments; and remove volume control authority."
+    },
+    {
+      "field": "change_summary",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "As proposed, inspection and \ncertification of outbound walnuts would no longer be required, and \nhandler assessments would be calculated based on a proposed assessment \nrate recommended by the Board and applied to handlers' inbound walnuts \ninstead of outbound walnuts."
+    },
+    {
+      "field": "change_summary",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "The Board has proposed an initial assessment rate of \n$0.0125 per inshell pound of walnuts that would go into effect with the \nstart of the proposed new mechanism, if it were to be effectuated."
+    },
+    {
+      "field": "change_summary",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "DATES: The hearing will be held April 19-20, 2022, from 8:00 a.m. to \n5:00 p.m. Pacific Time (PT)"
+    },
+    {
+      "field": "affected_group",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "Notice is hereby given of a public hearing to receive evidence \non proposed amendments to Federal Marketing Order No. 984 (Order) \nregulating the handling of walnuts grown in California."
+    },
+    {
+      "field": "affected_group",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "If implemented, the Board states the proposed amendments would remove \nthe redundancy of the outbound inspection, thus reducing costs to both \nhandlers and producers and reducing administrative burden to the Board. \nAccordingly, inspection and certification requirements for imported \nwalnuts would also be removed."
+    },
+    {
+      "field": "effective_at",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "The Board also requested the current moratorium on enforcement \nof mandatory inspection requirements be extended until the effective \ndate of the proposed amendments summarized in this notification, if \napproved."
+    }
+  ],
+  "code_verdict": "PASS_QUOTES"
+}

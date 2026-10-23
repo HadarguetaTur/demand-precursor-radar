@@ -1,0 +1,54 @@
+{
+  "status_of_this_file": "UNREVIEWED Claude Code subagent output used as REVIEW AID; not a production candidate; not human-accepted",
+  "source_document_id": "2022-06913",
+  "publication_date_manifest": "2022-04-01",
+  "document_sha256": "eaac11d36a5458c5ac0a9eac068b7651a0c5d18795d721f2cdea08976786e2f3",
+  "source_hash_ok": true,
+  "source_text_mode": "govinfo_gpo_html_pre_text",
+  "original_text_url": "https://www.govinfo.gov/content/pkg/FR-2022-04-01/html/2022-06913.htm",
+  "agent_output": {
+    "source_document_id": "2022-06913",
+    "publication_date": "2022-04-01",
+    "is_event": false,
+    "event_type": "other_identifiable_change",
+    "status": "notice_informational",
+    "affected_group": null,
+    "change_summary": null,
+    "effective_at": null,
+    "evidence": [
+      {
+        "field": "status",
+        "quote": "The notificants listed below have applied under the Change in Bank \nControl Act (Act) (12 U.S.C. 1817(j)) and Sec.  225.41 of the Board's \nRegulation Y (12 CFR 225.41) to acquire shares of a bank or bank \nholding company."
+      },
+      {
+        "field": "status",
+        "quote": "Comments regarding each of these applications must be received at \nthe Reserve Bank indicated or the offices of the Board of Governors, \nAnn E. Misback, Secretary of the Board, 20th Street and Constitution \nAvenue NW, Washington DC 20551-0001, not later than April 18, 2022."
+      }
+    ],
+    "uncertainties": [
+      "Not an event: routine Federal Reserve notice listing pending Change in Bank Control Act applications and inviting comment by April 18, 2022; no new rule, requirement, deadline, policy or pricing change for any identifiable group.",
+      "Document text contains a Cloudflare email-obfuscation artifact at line 51; manifest historical_date_approved=false.",
+      "Title says 'Acquisitions of Shares' but applications are to 'retain' voting shares; standard CBCA wording."
+    ],
+    "economically_material": "REDACTED_FROM_REVIEWER_PATH (see agent_materiality_sidecar.json; may contain forward-looking speculation)"
+  },
+  "quote_checks": [
+    {
+      "field": "status",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "The notificants listed below have applied under the Change in Bank \nControl Act (Act) (12 U.S.C. 1817(j)) and Sec.  225.41 of the Board's \nRegulation Y (12 CFR 225.41) to acquire shares of a bank or bank \nholding company."
+    },
+    {
+      "field": "status",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "Comments regarding each of these applications must be received at \nthe Reserve Bank indicated or the offices of the Board of Governors, \nAnn E. Misback, Secretary of the Board, 20th Street and Constitution \nAvenue NW, Washington DC 20551-0001, not later than April 18, 2022."
+    }
+  ],
+  "code_verdict": "NOT_EVENT"
+}

@@ -1,0 +1,19 @@
+{
+  "affected_group": null,
+  "candidate_is_event": false,
+  "candidate_warning": "Unreviewed AI/heuristic output. Not an approved event.",
+  "change_summary": null,
+  "document_sha256": "22451c4c2b87df68796e34d16f2ebdeee0b11333d7e4a2dd082ae9ea5539146b",
+  "effective_at": null,
+  "event_id": "federal-register-2022-06905",
+  "event_type": "other_identifiable_change",
+  "evidence": [],
+  "extraction_backend": "heuristic",
+  "extraction_protocol": "extraction-v0.1",
+  "publication_date": "2022-04-01",
+  "source_document_id": "2022-06905",
+  "source_id": "federal-register",
+  "uncertainties": [
+    "No rule signal"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "status_of_this_file": "UNREVIEWED Claude Code subagent output used as REVIEW AID; not a production candidate; not human-accepted",
+  "source_document_id": "2022-06927",
+  "publication_date_manifest": "2022-04-01",
+  "document_sha256": "a48945765bc9d7c4c21a7df8480381e5fe5bd8f386477dfa14af4997de13d4ef",
+  "source_hash_ok": true,
+  "source_text_mode": "govinfo_gpo_html_pre_text",
+  "original_text_url": "https://www.govinfo.gov/content/pkg/FR-2022-04-01/html/2022-06927.htm",
+  "agent_output": {
+    "source_document_id": "2022-06927",
+    "publication_date": "2022-04-01",
+    "is_event": true,
+    "event_type": "other_identifiable_change",
+    "status": "proposed",
+    "affected_group": "Participants in and managers of the Northeast skate complex fishery (seven skate species off the New England and mid-Atlantic coasts) managed under the Northeast Skate Complex FMP by the New England Fishery Management Council / NMFS",
+    "change_summary": "Notice of availability of proposed Amendment 8 to the Northeast Skate Complex Fishery Management Plan, submitted by the New England Fishery Management Council to NMFS for review/approval. The amendment would revise FMP management Objectives 2 and 5 (unchanged since 2003). The action is explicitly administrative, with no changes to regulatory text or specific management measures; NMFS requests public comments by May 31, 2022 before deciding whether to approve or disapprove.",
+    "effective_at": null,
+    "evidence": [
+      {
+        "field": "change_summary",
+        "quote": "The New England Fishery Management Council has submitted \nAmendment 8 to the Northeast Skate Complex Fishery Management Plan to \nNMFS for review and approval. Amendment 8 would update the objectives \nof the skate fishery management plan, which have been unchanged since \nthe original plan was adopted in 2003."
+      },
+      {
+        "field": "change_summary",
+        "quote": "This is an administrative amendment that contains no changes to the \nregulatory text or specific management measures of the Northeast skate \nfishery. However, NMFS will still decide whether to approve these \nrecommended changes to the central objectives of the FMP that guide and \ninform management decisions."
+      },
+      {
+        "field": "affected_group",
+        "quote": "The New England Fishery Management Council manages a complex of \nseven skate species (barndoor, clearnose, little, rosette, smooth, \nthorny, and winter skate) off the New England and mid-Atlantic coasts \nunder the Northeast Skate Complex Fishery Management Plan (FMP)."
+      },
+      {
+        "field": "status",
+        "quote": "ACTION: Notice of availability of proposed fishery management plan \namendment; request for comments."
+      },
+      {
+        "field": "status",
+        "quote": "DATES: Comments must be received on or before May 31, 2022."
+      }
+    ],
+    "uncertainties": [
+      "No effective date stated; only a comment deadline (May 31, 2022). effective_at null, not inferred.",
+      "Borderline: only concrete behavior change is a public comment opportunity on a proposed, explicitly administrative amendment; document states no immediate or direct impact on the fishery. Alternative classification is_event=false.",
+      "NMFS approval not determined in this document.",
+      "manifest historical_date_approved=false; publication date from GPO header and manifest, not human-verified."
+    ],
+    "economically_material": "REDACTED_FROM_REVIEWER_PATH (see agent_materiality_sidecar.json; may contain forward-looking speculation)"
+  },
+  "quote_checks": [
+    {
+      "field": "change_summary",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "The New England Fishery Management Council has submitted \nAmendment 8 to the Northeast Skate Complex Fishery Management Plan to \nNMFS for review and approval. Amendment 8 would update the objectives \nof the skate fishery management plan, which have been unchanged since \nthe original plan was adopted in 2003."
+    },
+    {
+      "field": "change_summary",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "This is an administrative amendment that contains no changes to the \nregulatory text or specific management measures of the Northeast skate \nfishery. However, NMFS will still decide whether to approve these \nrecommended changes to the central objectives of the FMP that guide and \ninform management decisions."
+    },
+    {
+      "field": "affected_group",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "The New England Fishery Management Council manages a complex of \nseven skate species (barndoor, clearnose, little, rosette, smooth, \nthorny, and winter skate) off the New England and mid-Atlantic coasts \nunder the Northeast Skate Complex Fishery Management Plan (FMP)."
+    },
+    {
+      "field": "status",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "ACTION: Notice of availability of proposed fishery management plan \namendment; request for comments."
+    },
+    {
+      "field": "status",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "DATES: Comments must be received on or before May 31, 2022."
+    }
+  ],
+  "code_verdict": "PASS_QUOTES"
+}

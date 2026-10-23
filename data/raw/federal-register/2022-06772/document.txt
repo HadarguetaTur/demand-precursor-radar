@@ -1,0 +1,424 @@
+
+[Federal Register Volume 87, Number 63 (Friday, April 1, 2022)]
+[Proposed Rules]
+[Pages 19029-19032]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2022-06772]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+Docket No. FAA-2022-0385; Project Identifier MCAI-2021-00786-E]
+RIN 2120-AA64
+
+
+Airworthiness Directives; GE Aviation Czech s.r.o. (Type 
+Certificate Previously Held by WALTER Engines a.s., Walter a.s., and 
+MOTORLET a.s.) Turboprop Engines
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Notice of proposed rulemaking (NPRM).
+
+-----------------------------------------------------------------------
+
+[[Page 19030]]
+
+SUMMARY: The FAA proposes to adopt a new airworthiness directive (AD) 
+for certain GE Aviation Czech s.r.o. (GEAC) M601D-11, M601E-11, M601E-
+11A, M601E-11AS, M601E-11S, and M601F model turboprop engines. This 
+proposed AD was prompted by the absence of life limits for propeller 
+shaft part number (P/N) M601-6081.6 in the airworthiness limitation 
+section of the applicable GEAC M601 Engine Shop Manual. This AD was 
+also prompted by a report that operators may not have been provided 
+with enough data to determine the accumulated life of certain propeller 
+shafts. For M601F model turboprop engines, this proposed AD would 
+require removal and replacement of the propeller shaft before the 
+propeller shaft accumulates 12,000 flight hours (FHs) since first 
+installation on an engine, or before accumulating 350 FHs after the 
+effective date of this AD, whichever occurs later, with a part eligible 
+for installation. For M601D-11, M601E-11, M601E-11A, M601E-11AS, and 
+M601E-11S model turboprop engines, this proposed AD would require 
+calculation of the accumulated life of the propeller shaft and, 
+depending on the number of accumulated FHs removal and replacement of 
+the propeller shaft with a part eligible for installation. The FAA is 
+proposing this AD to address the unsafe condition on these products.
+
+DATES: The FAA must receive comments on this proposed AD by May 16, 
+2022.
+
+ADDRESSES: You may send comments, using the procedures found in 14 CFR 
+11.43 and 11.45, by any of the following methods:
+    <bullet> Federal eRulemaking Portal: Go to https://www.regulations.gov. Follow the instructions for submitting comments.
+    <bullet> Fax: (202) 493-2251.
+    <bullet> Mail: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE, Washington, DC 20590.
+    <bullet> Hand Delivery: Deliver to Mail address above between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays.
+    For service information identified in this NPRM, contact GE 
+Aviation Czech s.r.o., Beranov[yacute]ch 65, 199 02 Praha 9, 
+Let[ncaron]any, Czech Republic; phone: +420 222 538 111. You may view 
+this service information at the FAA, Airworthiness Products Section, 
+Operational Safety Branch, 1200 District Avenue, Burlington, MA 01803. 
+For information on the availability of this material at the FAA, call 
+(817) 222-5110.
+
+Examining the AD Docket
+
+    You may examine the AD docket at https://www.regulations.gov by 
+searching for and locating Docket No. FAA-2022-0385; or in person at 
+Docket Operations between 9 a.m. and 5 p.m., Monday through Friday, 
+except Federal holidays. The AD docket contains this NPRM, the 
+mandatory continuing airworthiness information (MCAI), any comments 
+received, and other information. The street address for Docket 
+Operations is listed above.
+
+FOR FURTHER INFORMATION CONTACT: Barbara Caufield, Aviation Safety 
+Engineer, ECO Branch, FAA, 1200 District Avenue, Burlington, MA 01803; 
+phone: (781) 238-7146; email: <span class="__cf_email__" data-cfemail="f99b988b9b988b98d79a988c9f909c959db99f9898d79e968f">[email protected]</span>.
+
+SUPPLEMENTARY INFORMATION:
+
+Comments Invited
+
+    The FAA invites you to send any written relevant data, views, or 
+arguments about this proposal. Send your comments to an address listed 
+under ADDRESSES. Include ``Docket No. FAA-2022-0385; Project Identifier 
+MCAI-2021-00786-E'' at the beginning of your comments. The most helpful 
+comments reference a specific portion of the proposal, explain the 
+reason for any recommended change, and include supporting data. The FAA 
+will consider all comments received by the closing date and may amend 
+this proposal because of those comments.
+    Except for Confidential Business Information (CBI) as described in 
+the following paragraph, and other information as described in 14 CFR 
+11.35, the FAA will post all comments received, without change, to 
+https://www.regulations.gov, including any personal information you 
+provide. The agency will also post a report summarizing each 
+substantive verbal contact received about this NPRM.
+
+Confidential Business Information
+
+    CBI is commercial or financial information that is both customarily 
+and actually treated as private by its owner. Under the Freedom of 
+Information Act (FOIA) (5 U.S.C. 552), CBI is exempt from public 
+disclosure. If your comments responsive to this NPRM contain commercial 
+or financial information that is customarily treated as private, that 
+you actually treat as private, and that is relevant or responsive to 
+this NPRM, it is important that you clearly designate the submitted 
+comments as CBI. Please mark each page of your submission containing 
+CBI as ``PROPIN.'' The FAA will treat such marked submissions as 
+confidential under the FOIA, and they will not be placed in the public 
+docket of this NPRM. Submissions containing CBI should be sent to 
+Barbara Caufield, Aviation Safety Engineer, ECO Branch, FAA, 1200 
+District Avenue, Burlington, MA 01803. Any commentary that the FAA 
+receives which is not specifically designated as CBI will be placed in 
+the public docket for this rulemaking.
+
+Background
+
+    The European Union Aviation Safety Agency (EASA), which is the 
+Technical Agent for the Member States of the European Union, has issued 
+EASA AD 2021-0154, dated July 1, 2021 (referred to after this as ``the 
+MCAI''), to address the unsafe condition on these products. The MCAI 
+states:
+
+    It has been determined that the life limit for the propeller 
+shaft P/N M601-6081.6 is not published in the applicable ALS for 
+M601 engines. In addition, it has also been reported that some data, 
+which can be used to determine the accumulated life of certain 
+propeller shafts, may have not been provided to operators, so the 
+propeller shaft life limit may not have been implemented correctly.
+    These conditions, if not corrected, may lead to failure of a 
+propeller shaft, possibly resulting in detachment of the propeller 
+and consequent damage to the engine and/or the aircraft, and reduced 
+control of the aeroplane.
+    To address this potential unsafe condition, GEAC issued the 
+original issue of the ASB, providing applicable instructions, and 
+EASA issued AD 2021-0052 to require implementation of the applicable 
+life limit and replacing each propeller shaft with a serviceable 
+propeller shaft.
+    Since that [EASA] AD was issued, additional data, which can be 
+used to determine the accumulated life of certain propeller shafts, 
+and to support an extended compliance time for Group 1 engines, has 
+been made available; GEAC revised accordingly the ASB (now at 
+revision 02).
+    For the reasons described above, this [EASA] AD partially 
+retains the requirements of EASA AD 2021-0052, which is superseded, 
+introducing updated affected population and different compliance 
+times.
+
+    You may obtain further information by examining the MCAI in the AD 
+docket at https://www.regulations.gov by searching for and locating 
+Docket No. FAA-2022-0385.
+
+FAA's Determination
+
+    This product has been approved by the aviation authority of another 
+country, and is approved for operation in the United States. Pursuant 
+to the FAA's bilateral agreement with the State of Design Authority, 
+the FAA has been notified of the unsafe condition described in the EASA 
+AD. The FAA is issuing this AD after determining that the unsafe 
+condition described previously is likely to exist or develop
+
+[[Page 19031]]
+
+in other products of the same type design.
+
+Related Service Information Under 1 CFR Part 51
+
+    The FAA reviewed GE Aviation Czech Alert Service Bulletin (ASB) 
+ASB-M601F-72-10-00-0056 [02], ASB-M601D-72-10-00-0072 [02], ASB-M601E-
+72-10-00-0103 [02], and ASB-M601Z-72-10-00-0056 [02] (single document; 
+formatted as service bulletin identifier [revision number]), dated May 
+31, 2021. This ASB specifies procedures for calculating the accumulated 
+life of certain propeller shafts. This ASB also specifies procedures 
+for replacing certain propeller shafts. This service information is 
+reasonably available because the interested parties have access to it 
+through their normal course of business or by the means identified in 
+ADDRESSES.
+
+Proposed AD Requirements in This NPRM
+
+    For M601F model turboprop engines, this proposed AD would require 
+removal and replacement of the propeller shaft with a part eligible for 
+installation before the propeller shaft accumulates 12,000 FHs since 
+first installation on an engine, or before accumulating 350 FHs after 
+the effective date of this AD, whichever occurs later. For M601D-11, 
+M601E-11, M601E-11A, M601E-11AS, and M601E-11S model turboprop engines, 
+this proposed AD would require calculation of the accumulated life of 
+the propeller shaft and, depending on the number of accumulated FHs, 
+removal and replacement of the propeller shaft with a part eligible for 
+installation.
+
+Differences Between This Proposed AD and the MCAI
+
+    EASA AD 2021-0154, dated July 1, 2021, applies to M601D, M601D-1, 
+M601D-2, M601D-11, M601D-11NZ, M601E, M601E-11, M601E-11A, M601E-11AS, 
+M601E-11S, M601E-21, M601F, M601F-11, M601F-22, M601F-32, M601FS, 
+M601T, and M601Z model turboprop engines. This AD does not include 
+M601D, M601D-1, M601D-2, M601D-11NZ, M601E, M601E-21, M601F-11, M601F-
+22, M601F-32, M601FS, M601T, and M601Z model turboprop engines as these 
+engine models are not type certificated in the United States.
+
+Costs of Compliance
+
+    The FAA estimates that this AD, if adopted as proposed, would 
+affect 14 engines installed on airplanes of U.S. registry. The FAA 
+estimates that 7 M601D-11, and 7 M601E-11 model turboprop engines 
+installed on airplanes of U.S. registry would require calculation of 
+the time since new (TSN) of the propeller shaft and removal and 
+replacement of the propeller shaft. The FAA estimates that zero M601E-
+11A, M601E-11AS, M601E-11S, and M601F model turboprop engines installed 
+on airplanes of U.S. registry would require replacement of the 
+propeller shaft.
+    The FAA estimates the following costs to comply with this proposed 
+AD:
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                     Cost per      Cost on U.S.
+                Action                         Labor cost           Parts cost        product        operators
+----------------------------------------------------------------------------------------------------------------
+Calculate the total TSN of the          1 work-hour x $85 per                 $0             $85          $1,190
+ propeller shaft.                        hour = $85.
+Remove and replace the propeller shaft  105 work-hours x $85 per          17,827          26,752         374,528
+                                         hour = $8,925.
+----------------------------------------------------------------------------------------------------------------
+
+    The FAA has included all known costs in its cost estimate. 
+According to the manufacturer, however, some of the costs of this 
+proposed AD may be covered under warranty, thereby reducing the cost 
+impact on affected operators.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    The FAA determined that this proposed AD would not have federalism 
+implications under Executive Order 13132. This proposed AD would not 
+have a substantial direct effect on the States, on the relationship 
+between the national government and the States, or on the distribution 
+of power and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify this proposed 
+regulation:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Would not affect intrastate aviation in Alaska, and
+    (3) Would not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Proposed Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA proposes to amend 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive:
+
+GE Aviation Czech s.r.o. (Type Certificate previously held by WALTER 
+Engines a.s., Walter a.s., and MOTORLET a.s.): Docket No. FAA-2022-
+0385; Project Identifier MCAI-2021-00786-E.
+
+(a) Comments Due Date
+
+    The FAA must receive comments on this airworthiness directive 
+(AD) by May 16, 2022.
+
+(b) Affected ADs
+
+    None.
+
+[[Page 19032]]
+
+(c) Applicability
+
+    This AD applies to:
+    (1) GE Aviation Czech s.r.o. (GEAC) M601F model turboprop 
+engines with an engine serial number (ESN) listed in Attachment 1, 
+List of Affected Engines--Group 1, of GE Aviation Czech Alert 
+Service Bulletin (ASB) ASB-M601F-72-10-00-0056 [02], ASB-M601D-72-
+10-00-0072 [02], ASB-M601E-72-10-00-0103 [02], and ASB-M601Z-72-10-
+00-0056 [02] (single document; formatted as service bulletin 
+identifier [revision number]), dated May 31, 2021 (the ASB);
+    (2) M601E-11 and M601E-11A model turboprop engines with an ESN 
+listed in Attachment 2, List of Affected Parts--Group 2, of the ASB; 
+and
+    (3) M601D-11, M601E-11AS, and M601E-11S model turboprop engines 
+with propeller shaft P/N M601-6081.2 or P/N M601-6081.4.
+
+(d) Subject
+
+    Joint Aircraft System Component (JASC) Code 7210, Turbine Engine 
+Reduction Gear.
+
+(e) Unsafe Condition
+
+    This AD was prompted by the absence of life limits for propeller 
+shaft part number (P/N) M601-6081.6 in the airworthiness limitation 
+section of the applicable GEAC M601 Engine Shop Manual. This AD was 
+also prompted by a report that operators may not have been provided 
+with enough data to determine the accumulated life of certain 
+propeller shafts. The FAA is issuing this AD to prevent the failure 
+of the propeller shaft. The unsafe condition, if not addressed, 
+could result in damage to the engine, damage to the airplane, and 
+reduced control of the airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Required Actions
+
+    (1) For affected M601F model turboprop engines, before the 
+propeller shaft accumulates 12,000 flight hours (FHs) since first 
+installation on an engine, or before accumulating 350 FHs after the 
+effective date of this AD, whichever occurs later, remove the 
+propeller shaft and replace with a part eligible for installation.
+    (2) For affected M601D-11, M601E-11, M601E-11A, M601E-11AS, and 
+M601E-11S model turboprop engines:
+    (i) Within 100 FHs after the effective date of this AD, 
+calculate the total time since new of the propeller shaft in 
+accordance with the Accomplishment Instructions, paragraph 2.2.1, of 
+the ASB.
+    (ii) Remove the propeller shaft prior to reaching its applicable 
+life limit and replace with a part eligible for installation in 
+accordance with the Accomplishment Instructions, paragraph 2.2.2., 
+of the ASB.
+
+(h) Definitions
+
+    (1) For the purpose of this AD, a ``part eligible for 
+installation'' on M601F, M601E-11, and M601E-11A model turboprop 
+engines is a propeller shaft identified in the Configuration 
+Description, paragraph 1.5, Table 1, of the ASB, as applicable to 
+the engine model, with a calculated life that has not exceeded the 
+applicable life limit.
+    (2) For the purpose of this AD, a ``part eligible for 
+installation'' on M601D-11 model turboprop engines is a propeller 
+shaft with P/N M601-6081.2, P/N M601-6081.4, or P/N M601-6081.5, 
+with a calculated life that has not exceeded the applicable life 
+limit.
+    (3) For the purpose of this AD, a ``part eligible for 
+installation'' on M601E-11AS and M601E-11S model turboprop engines 
+is a propeller shaft with P/N M601-6081.2, P/N M601-6081.5, or P/N 
+M601-6081.6, with a calculated life that has not exceeded the 
+applicable life limit.
+
+(i) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, ECO Branch, FAA, has the authority to approve 
+AMOCs for this AD, if requested using the procedures found in 14 CFR 
+39.19. In accordance with 14 CFR 39.19, send your request to your 
+principal inspector or local Flight Standards District Office, as 
+appropriate. If sending information directly to the manager of the 
+certification office, send it to the attention of the person 
+identified in paragraph (j)(1) of this AD and email to: <span class="__cf_email__" data-cfemail="34757a711975701975797b77745255551a535b42">[email protected]</span>.
+    (2) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the local flight standards district office/certificate holding 
+district office.
+
+(j) Related Information
+
+    (1) For more information about this AD, contact Barbara 
+Caufield, Aviation Safety Engineer, ECO Branch, FAA, 1200 District 
+Avenue, Burlington, MA 01803; phone: (781) 238-7146; email: 
+<span class="__cf_email__" data-cfemail="c6a4a7b4a4a7b4a7e8a5a7b3a0afa3aaa286a0a7a7e8a1a9b0">[email protected]</span>.
+    (2) Refer to European Union Aviation Safety Agency (EASA) AD 
+2021-0154, dated July 1, 2021, for more information. You may examine 
+the EASA AD in the AD docket at https://www.regulations.gov by 
+searching for and locating it in Docket No. FAA-2022-0385.
+    (3) For service information identified in this AD, contact GE 
+Aviation Czech s.r.o., Beranov[yacute]ch 65, 199 02 Praha 9, 
+Let[ncaron]any, Czech Republic; phone: +420 222 538 111. You may 
+view this reference information at the FAA, Airworthiness Products 
+Section, 1200 District Avenue, Burlington, MA 01803. For information 
+on the availability of this material at the FAA, call (817) 222-
+5110.
+
+    Issued on March 25, 2022.
+Lance T. Gant,
+Director, Compliance & Airworthiness Division, Aircraft Certification 
+Service.
+[FR Doc. 2022-06772 Filed 3-31-22; 8:45 am]
+BILLING CODE 4910-13-P
+
+

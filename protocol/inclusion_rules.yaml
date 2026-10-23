@@ -1,0 +1,29 @@
+version: 0.1.0
+candidate_types:
+  - new_legal_requirement
+  - compliance_deadline
+  - end_of_support
+  - platform_policy_change
+  - price_or_terms_change
+  - new_program_or_eligibility
+  - infrastructure_constraint
+  - other_identifiable_change
+screening_keywords_are_recall_aids_only:
+  - required
+  - requirement
+  - compliance
+  - mandatory
+  - prohibited
+  - deadline
+  - effective
+  - termination
+  - end of support
+  - will no longer
+  - new rule
+  - final rule
+  - applications open
+screening_limitations:
+  - keyword-missed events must be estimated by inspecting rejected documents
+  - an administrative or editorial change alone is not an economically material event
+  - a federal rule may have multiple effects; current one-document-one-event pilot may undercount
+  - manual reviewer must adjudicate event materiality without viewing subsequent outcomes

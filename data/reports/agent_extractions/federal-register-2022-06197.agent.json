@@ -1,0 +1,115 @@
+{
+  "status_of_this_file": "UNREVIEWED Claude Code subagent output used as REVIEW AID; not a production candidate; not human-accepted",
+  "source_document_id": "2022-06197",
+  "publication_date_manifest": "2022-04-01",
+  "document_sha256": "445807dcdf33efc059e9df0e5bd888a7a0c2ba421a9f14b6f70dafb12ba7b6f3",
+  "source_hash_ok": true,
+  "source_text_mode": "govinfo_gpo_html_pre_text",
+  "original_text_url": "https://www.govinfo.gov/content/pkg/FR-2022-04-01/html/2022-06197.htm",
+  "agent_output": {
+    "source_document_id": "2022-06197",
+    "publication_date": "2022-04-01",
+    "is_event": true,
+    "event_type": "new_legal_requirement",
+    "status": "final_future_effective",
+    "affected_group": "Federal agencies that authorize, fund, or carry out actions in the Bering, Chukchi, and Beaufort seas (and, via ESA section 7 consultation, the third parties they permit or fund, primarily the oil and gas sector; also in-water/coastal construction, dredging, commercial fishing, oil spill response, and military readiness activities)",
+    "change_summary": "NMFS issues a final rule under the Endangered Species Act designating critical habitat for the Arctic subspecies of the ringed seal, covering an area of marine habitat in the Bering, Chukchi, and Beaufort seas (excluding an area north of the Beaufort Sea shelf for national security reasons). Once effective on May 2, 2022, Federal agencies must ensure through ESA section 7 consultation that their actions are not likely to destroy or adversely modify the designated critical habitat; the agency estimates incremental costs of $714,000-$834,000 (present value), mostly administrative consultation costs borne by the oil and gas sector.",
+    "effective_at": "2022-05-02",
+    "evidence": [
+      {
+        "field": "change_summary",
+        "quote": "SUMMARY: We, the National Marine Fisheries Service (NMFS), issue this \nfinal rule to designate critical habitat for the Arctic subspecies of \nthe ringed seal (Pusa hispida hispida) under the Endangered Species Act \n(ESA). The critical habitat designation comprises an area of marine \nhabitat in the Bering, Chukchi, and Beaufort seas. Based on \nconsideration of national security impacts, we have excluded an area \nnorth of the Beaufort Sea shelf from the designation."
+      },
+      {
+        "field": "change_summary",
+        "quote": "Thus, once the \nArctic ringed seal critical habitat designation becomes effective, any \nsection 7 consultations on federally managed fisheries will be required \nto address the additional requirement that Federal agencies ensure that \ntheir actions are not likely to adversely modify or destroy designated \ncritical habitat."
+      },
+      {
+        "field": "affected_group",
+        "quote": "A \nvariety of activities may affect Arctic ringed seal critical habitat \nand, if carried out, funded, or authorized by a Federal agency, may be \nsubject to ESA section 7 consultation. Such activities include: In-\nwater and coastal construction; activities that generate water \npollution; dredging; commercial fishing; oil and gas exploration, \ndevelopment, and production; oil spill response; and certain military \nreadiness activities."
+      },
+      {
+        "field": "affected_group",
+        "quote": "the costs associated with the designation of critical habitat \nfor the Arctic ringed seal are expected to primarily consist of \nadditional administrative costs to consider the critical habitat as \npart of future section 7 consultations, with third-party costs \nprimarily borne by the oil and gas sector."
+      },
+      {
+        "field": "effective_at",
+        "quote": "DATES: This rule is effective May 2, 2022."
+      },
+      {
+        "field": "status",
+        "quote": "ACTION: Final rule."
+      },
+      {
+        "field": "status",
+        "quote": "DATES: This rule is effective May 2, 2022."
+      }
+    ],
+    "uncertainties": [
+      "Designation of critical habitat does not itself regulate activities; operates only through ESA section 7 consultation on Federal actions.",
+      "Effective date is the rule's stated date, not independently verified first availability; manifest historical_date_approved=false; text fetched 2026-10-23 from GovInfo.",
+      "Precise geographic boundaries (50 CFR 226) not read in full.",
+      "The document file contains NUL bytes in its first 8 KB per the reader warning; quotes were copied from the rendered text and may need byte-level verification."
+    ],
+    "economically_material": "REDACTED_FROM_REVIEWER_PATH (see agent_materiality_sidecar.json; may contain forward-looking speculation)"
+  },
+  "quote_checks": [
+    {
+      "field": "change_summary",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "SUMMARY: We, the National Marine Fisheries Service (NMFS), issue this \nfinal rule to designate critical habitat for the Arctic subspecies of \nthe ringed seal (Pusa hispida hispida) under the Endangered Species Act \n(ESA). The critical habitat designation comprises an area of marine \nhabitat in the Bering, Chukchi, and Beaufort seas. Based on \nconsideration of national security impacts, we have excluded an area \nnorth of the Beaufort Sea shelf from the designation."
+    },
+    {
+      "field": "change_summary",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "Thus, once the \nArctic ringed seal critical habitat designation becomes effective, any \nsection 7 consultations on federally managed fisheries will be required \nto address the additional requirement that Federal agencies ensure that \ntheir actions are not likely to adversely modify or destroy designated \ncritical habitat."
+    },
+    {
+      "field": "affected_group",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "A \nvariety of activities may affect Arctic ringed seal critical habitat \nand, if carried out, funded, or authorized by a Federal agency, may be \nsubject to ESA section 7 consultation. Such activities include: In-\nwater and coastal construction; activities that generate water \npollution; dredging; commercial fishing; oil and gas exploration, \ndevelopment, and production; oil spill response; and certain military \nreadiness activities."
+    },
+    {
+      "field": "affected_group",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "the costs associated with the designation of critical habitat \nfor the Arctic ringed seal are expected to primarily consist of \nadditional administrative costs to consider the critical habitat as \npart of future section 7 consultations, with third-party costs \nprimarily borne by the oil and gas sector."
+    },
+    {
+      "field": "effective_at",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "DATES: This rule is effective May 2, 2022."
+    },
+    {
+      "field": "status",
+      "exact_in_source": false,
+      "verbatim_in_source": true,
+      "below_20_char_floor": true,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "ACTION: Final rule."
+    },
+    {
+      "field": "status",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "DATES: This rule is effective May 2, 2022."
+    }
+  ],
+  "code_verdict": "PASS_CORE_FIELDS_SHORT_STATUS_QUOTE"
+}

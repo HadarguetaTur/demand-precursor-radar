@@ -1,0 +1,140 @@
+{
+  "status_of_this_file": "UNREVIEWED Claude Code subagent output used as REVIEW AID; not a production candidate; not human-accepted",
+  "source_document_id": "2022-06834",
+  "publication_date_manifest": "2022-04-01",
+  "document_sha256": "b38816bce622a7f5c0d22ec93cc23687eb9ac01587c35033e17508360ef7dab6",
+  "source_hash_ok": true,
+  "source_text_mode": "govinfo_gpo_html_pre_text",
+  "original_text_url": "https://www.govinfo.gov/content/pkg/FR-2022-04-01/html/2022-06834.htm",
+  "agent_output": {
+    "source_document_id": "2022-06834",
+    "publication_date": "2022-04-01",
+    "is_event": true,
+    "event_type": "new_legal_requirement",
+    "status": "final_in_force",
+    "affected_group": "Recreational (sport) Pacific halibut anglers and fishing vessels in IPHC regulatory Area 2A (off Washington, Oregon, and California), including recreational fishing port communities",
+    "change_summary": "NMFS final rule approving changes to the 2022 Pacific Halibut Catch Sharing Plan for IPHC Area 2A and implementing 2022 recreational fishery management measures: subarea quotas, season opening/closing dates, and daily bag limits for Washington, Oregon, and California recreational halibut fisheries, plus a revision to 50 CFR 300.63(c)(1)(iii) allowing NMFS inseason transfer of projected unused quota from any recreational subarea north of Cape Falcon to another Washington recreational subarea. The 30-day delay in effectiveness was waived so the rule took effect March 31, 2022, ahead of the first season opening April 7, 2022.",
+    "effective_at": "2022-03-31",
+    "evidence": [
+      {
+        "field": "change_summary",
+        "quote": "SUMMARY: This final rule approves changes to the Pacific Halibut Catch \nSharing Plan for the International Pacific Halibut Commission's \nregulatory Area 2A off of Washington, Oregon, and California. In \naddition, this final rule implements management measures governing the \n2022 recreational fisheries that are not implemented through the \nInternational Pacific Halibut Commission. These measures include the \nrecreational fishery seasons, quotas, and management measures for Area \n2A."
+      },
+      {
+        "field": "change_summary",
+        "quote": "    (iii) If any of the recreational fishery subareas north of Cape \nFalcon, Oregon are not projected to utilize their respective quotas, \nNMFS may take inseason action to transfer any projected unused quota to \nanother Washington recreational subarea."
+      },
+      {
+        "field": "change_summary",
+        "quote": "    As described in the response to Comment 1 above, NMFS changed\n\n[[Page 19011]]\n\nseason dates off of Oregon in this final rule."
+      },
+      {
+        "field": "affected_group",
+        "quote": "The recreational Pacific halibut fisheries have high \nparticipation, and some subareas close months before the end of the \nseason due to subarea allocation attainment. If the fisheries do not \nopen on their intended timelines, fishing opportunity is lost, \npotentially causing economic harm to communities at recreational \nfishing ports."
+      },
+      {
+        "field": "affected_group",
+        "quote": "All recreational fishing in Area 2A is managed on a \n``port of landing'' basis, whereby any halibut landed into a port \ncounts toward the quota for the area in which that port is located"
+      },
+      {
+        "field": "effective_at",
+        "quote": "DATES: This rule is effective on March 31, 2022."
+      },
+      {
+        "field": "effective_at",
+        "quote": "NMFS finds good cause to waive the 30-day delay in the date of \neffectiveness and make this rule effective on March 31, 2022, in time \nfor the start of recreational Pacific halibut fisheries on April 7, \n2022, pursuant to 5 U.S.C. 553(d)(3)."
+      },
+      {
+        "field": "status",
+        "quote": "ACTION: Final rule."
+      },
+      {
+        "field": "status",
+        "quote": "[FR Doc. 2022-06834 Filed 3-31-22; 8:45 am]"
+      }
+    ],
+    "uncertainties": [
+      "Effective date (March 31, 2022) precedes the FR publication date (April 1, 2022); matches the filing date.",
+      "Full Catch Sharing Plan changes are in the proposed rule (87 FR 9021; February 17, 2022) and not repeated here.",
+      "Annual recurring action since 1995; novelty limited to 2022-specific dates, quotas, and the regulatory text revision.",
+      "Season dates and quotas subject to inseason modification.",
+      "manifest historical_date_approved=false."
+    ],
+    "economically_material": "REDACTED_FROM_REVIEWER_PATH (see agent_materiality_sidecar.json; may contain forward-looking speculation)"
+  },
+  "quote_checks": [
+    {
+      "field": "change_summary",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "SUMMARY: This final rule approves changes to the Pacific Halibut Catch \nSharing Plan for the International Pacific Halibut Commission's \nregulatory Area 2A off of Washington, Oregon, and California. In \naddition, this final rule implements management measures governing the \n2022 recreational fisheries that are not implemented through the \nInternational Pacific Halibut Commission. These measures include the \nrecreational fishery seasons, quotas, and management measures for Area \n2A."
+    },
+    {
+      "field": "change_summary",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "    (iii) If any of the recreational fishery subareas north of Cape \nFalcon, Oregon are not projected to utilize their respective quotas, \nNMFS may take inseason action to transfer any projected unused quota to \nanother Washington recreational subarea."
+    },
+    {
+      "field": "change_summary",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "    As described in the response to Comment 1 above, NMFS changed\n\n[[Page 19011]]\n\nseason dates off of Oregon in this final rule."
+    },
+    {
+      "field": "affected_group",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "The recreational Pacific halibut fisheries have high \nparticipation, and some subareas close months before the end of the \nseason due to subarea allocation attainment. If the fisheries do not \nopen on their intended timelines, fishing opportunity is lost, \npotentially causing economic harm to communities at recreational \nfishing ports."
+    },
+    {
+      "field": "affected_group",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "All recreational fishing in Area 2A is managed on a \n``port of landing'' basis, whereby any halibut landed into a port \ncounts toward the quota for the area in which that port is located"
+    },
+    {
+      "field": "effective_at",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "DATES: This rule is effective on March 31, 2022."
+    },
+    {
+      "field": "effective_at",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "NMFS finds good cause to waive the 30-day delay in the date of \neffectiveness and make this rule effective on March 31, 2022, in time \nfor the start of recreational Pacific halibut fisheries on April 7, \n2022, pursuant to 5 U.S.C. 553(d)(3)."
+    },
+    {
+      "field": "status",
+      "exact_in_source": false,
+      "verbatim_in_source": true,
+      "below_20_char_floor": true,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "ACTION: Final rule."
+    },
+    {
+      "field": "status",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "[FR Doc. 2022-06834 Filed 3-31-22; 8:45 am]"
+    }
+  ],
+  "code_verdict": "PASS_CORE_FIELDS_SHORT_STATUS_QUOTE"
+}

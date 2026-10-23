@@ -1,0 +1,128 @@
+{
+  "status_of_this_file": "UNREVIEWED Claude Code subagent output used as REVIEW AID; not a production candidate; not human-accepted",
+  "source_document_id": "2022-06769",
+  "publication_date_manifest": "2022-04-01",
+  "document_sha256": "40ea6b09f7bdf3f311fcd3d26744bc7a52604d78ccf988618ca3f564885bb736",
+  "source_hash_ok": true,
+  "source_text_mode": "govinfo_gpo_html_pre_text",
+  "original_text_url": "https://www.govinfo.gov/content/pkg/FR-2022-04-01/html/2022-06769.htm",
+  "agent_output": {
+    "source_document_id": "2022-06769",
+    "publication_date": "2022-04-01",
+    "is_event": true,
+    "event_type": "new_legal_requirement",
+    "status": "proposed",
+    "affected_group": "U.S. operators of certain MHI RJ Aviation ULC (formerly Bombardier) CRJ airplanes: Model CL-600-2C10 (RJ 700/701/702), CL-600-2C11 (RJ 550), CL-600-2D15 (RJ 705), CL-600-2D24 (RJ 900), and CL-600-2E25 (RJ 1000), within specified serial number ranges; FAA estimates 457 airplanes of U.S. registry affected.",
+    "change_summary": "FAA notice of proposed rulemaking (NPRM) proposing a new airworthiness directive that would require replacing primary ejector fuel feed flexible hoses (P/N CC670-62022-3 and CC670-62022-4, serial numbers 001 through 2470) on affected CRJ-family airplanes per Bombardier Service Bulletin 670BA-28-040, due to reports of hose liner cracking causing fuel leaks, lateral fuel imbalance, and potential dual inflight engine shutdown. Estimated cost $3,892 per airplane, $1,778,644 total for U.S. operators. Comments due May 16, 2022. This is a proposal only; no requirement is in force as of publication.",
+    "effective_at": null,
+    "evidence": [
+      {
+        "field": "status",
+        "quote": "ACTION: Notice of proposed rulemaking (NPRM)."
+      },
+      {
+        "field": "status",
+        "quote": "DATES: The FAA must receive comments on this proposed AD by May 16, \n2022."
+      },
+      {
+        "field": "change_summary",
+        "quote": "SUMMARY: The FAA proposes to adopt a new airworthiness directive (AD) \nfor certain MHI RJ Aviation ULC Model CL-600-2C10 (Regional Jet Series \n700, 701 & 702), CL-600-2C11 (Regional Jet Series 550), CL-600-2D15 \n(Regional Jet Series 705), CL-600-2D24 (Regional Jet Series 900), and \nCL-600-2E25 (Regional Jet Series 1000) airplanes. This proposed AD was \nprompted by reports of the failure of certain primary ejector fuel feed \nflexible hoses, which may have a thinner liner than specified by design \nrequirements, and are therefore more susceptible to cracking. This \nproposed AD would require replacing the hoses."
+      },
+      {
+        "field": "change_summary",
+        "quote": "this AD: Replace each hose having part number (P/N) CC670-62022-3 \nand P/N CC670-62022-4 and serial number 001 through 2470 inclusive, \nin accordance with Part B of the Accomplishment Instructions of \nBombardier Service Bulletin 670BA-28-040, dated September 30, 2019."
+      },
+      {
+        "field": "change_summary",
+        "quote": "12 work-hours x $85 per hour = $1,020........................          $2,872           $3,892       $1,778,644"
+      },
+      {
+        "field": "affected_group",
+        "quote": "The FAA estimates that this AD, if adopted as proposed, would \naffect 457 airplanes of U.S. registry."
+      },
+      {
+        "field": "affected_group",
+        "quote": "(1) Model CL-600-2C10 (Regional Jet Series 700, 701 & 702) and \nCL-600-2C11 (Regional Jet Series 550) airplanes, serial numbers \n10002 through 10325 inclusive.\n    (2) Model CL-600-2D15 (Regional Jet Series 705) and CL-600-2D24 \n(Regional Jet Series 900) airplanes, serial numbers 15001 through \n15263 inclusive.\n    (3) Model CL-600-2E25 (Regional Jet Series 1000), serial numbers \n19001 through 19013 inclusive."
+      },
+      {
+        "field": "effective_at",
+        "quote": "The FAA must receive comments on this airworthiness directive \n(AD) by May 16, 2022."
+      }
+    ],
+    "uncertainties": [
+      "Proposed rule (NPRM), not a final AD; no effective date; effective_at null.",
+      "Compliance times are in a figure shown only as [GRAPHIC] [TIFF OMITTED]; intervals not recoverable from text.",
+      "457 count is an FAA estimate.",
+      "Underlying unsafe condition and TCCA AD CF-2020-03 (March 5, 2020) predate this notice by about two years.",
+      "manifest historical_date_approved=false."
+    ],
+    "economically_material": "REDACTED_FROM_REVIEWER_PATH (see agent_materiality_sidecar.json; may contain forward-looking speculation)"
+  },
+  "quote_checks": [
+    {
+      "field": "status",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "ACTION: Notice of proposed rulemaking (NPRM)."
+    },
+    {
+      "field": "status",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "DATES: The FAA must receive comments on this proposed AD by May 16, \n2022."
+    },
+    {
+      "field": "change_summary",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "SUMMARY: The FAA proposes to adopt a new airworthiness directive (AD) \nfor certain MHI RJ Aviation ULC Model CL-600-2C10 (Regional Jet Series \n700, 701 & 702), CL-600-2C11 (Regional Jet Series 550), CL-600-2D15 \n(Regional Jet Series 705), CL-600-2D24 (Regional Jet Series 900), and \nCL-600-2E25 (Regional Jet Series 1000) airplanes. This proposed AD was \nprompted by reports of the failure of certain primary ejector fuel feed \nflexible hoses, which may have a thinner liner than specified by design \nrequirements, and are therefore more susceptible to cracking. This \nproposed AD would require replacing the hoses."
+    },
+    {
+      "field": "change_summary",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "this AD: Replace each hose having part number (P/N) CC670-62022-3 \nand P/N CC670-62022-4 and serial number 001 through 2470 inclusive, \nin accordance with Part B of the Accomplishment Instructions of \nBombardier Service Bulletin 670BA-28-040, dated September 30, 2019."
+    },
+    {
+      "field": "change_summary",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "12 work-hours x $85 per hour = $1,020........................          $2,872           $3,892       $1,778,644"
+    },
+    {
+      "field": "affected_group",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "The FAA estimates that this AD, if adopted as proposed, would \naffect 457 airplanes of U.S. registry."
+    },
+    {
+      "field": "affected_group",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "(1) Model CL-600-2C10 (Regional Jet Series 700, 701 & 702) and \nCL-600-2C11 (Regional Jet Series 550) airplanes, serial numbers \n10002 through 10325 inclusive.\n    (2) Model CL-600-2D15 (Regional Jet Series 705) and CL-600-2D24 \n(Regional Jet Series 900) airplanes, serial numbers 15001 through \n15263 inclusive.\n    (3) Model CL-600-2E25 (Regional Jet Series 1000), serial numbers \n19001 through 19013 inclusive."
+    },
+    {
+      "field": "effective_at",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "The FAA must receive comments on this airworthiness directive \n(AD) by May 16, 2022."
+    }
+  ],
+  "code_verdict": "PASS_QUOTES"
+}

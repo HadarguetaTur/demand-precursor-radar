@@ -1,0 +1,359 @@
+
+[Federal Register Volume 87, Number 63 (Friday, April 1, 2022)]
+[Proposed Rules]
+[Pages 19032-19035]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2022-06769]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2022-0388; Project Identifier MCAI-2020-01604-T]
+RIN 2120-AA64
+
+
+Airworthiness Directives; MHI RJ Aviation ULC (Type Certificate 
+Previously Held by Bombardier, Inc.) Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Notice of proposed rulemaking (NPRM).
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA proposes to adopt a new airworthiness directive (AD) 
+for certain MHI RJ Aviation ULC Model CL-600-2C10 (Regional Jet Series 
+700, 701 & 702), CL-600-2C11 (Regional Jet Series 550), CL-600-2D15 
+(Regional Jet Series 705), CL-600-2D24 (Regional Jet Series 900), and 
+CL-600-2E25 (Regional Jet Series 1000) airplanes. This proposed AD was 
+prompted by reports of the failure of certain primary ejector fuel feed 
+flexible hoses, which may have a thinner liner than specified by design 
+requirements, and are therefore more susceptible to cracking. This 
+proposed AD would require replacing the hoses. The FAA is proposing 
+this AD to address the unsafe condition on these products.
+
+DATES: The FAA must receive comments on this proposed AD by May 16, 
+2022.
+
+ADDRESSES: You may send comments, using the procedures found in 14 CFR 
+11.43 and 11.45, by any of the following methods:
+    <bullet> Federal eRulemaking Portal: Go to https://www.regulations.gov. Follow the instructions for submitting comments.
+    <bullet> Fax: 202-493-2251.
+    <bullet> Mail: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE, Washington, DC 20590.
+    <bullet> Hand Delivery: Deliver to Mail address above between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays.
+    For Bombardier service information identified in this NPRM, contact 
+MHI RJ Aviation ULC, 12655 Henri-Fabre Blvd., Mirabel, Qu[eacute]bec 
+J7N 1E1 Canada; Widebody Customer Response Center North America toll-
+free telephone +1-844-272-2720 or direct-dial telephone +1-514-855-
+8500; fax +1-514-855-8501; email <span class="__cf_email__" data-cfemail="f0849894de93829ab09d9899829ade939f9d">[email protected]</span>; internet https://mhirj.com. You may view this service information at the FAA,
+
+[[Page 19033]]
+
+Airworthiness Products Section, Operational Safety Branch, 2200 South 
+216th St., Des Moines, WA. For information on the availability of this 
+material at the FAA, call 206-231-3195.
+
+Examining the AD Docket
+
+    You may examine the AD docket at https://www.regulations.gov by 
+searching for and locating Docket No. FAA-2022-0388; or in person at 
+Docket Operations between 9 a.m. and 5 p.m., Monday through Friday, 
+except Federal holidays. The AD docket contains this NPRM, any comments 
+received, and other information. The street address for Docket 
+Operations is listed above.
+
+FOR FURTHER INFORMATION CONTACT: Joseph Catanzaro, Aerospace Engineer, 
+Airframe and Propulsion Section, FAA, New York ACO Branch, 1600 Stewart 
+Avenue, Suite 410, Westbury, NY 11590; telephone 516-228-7366; email <span class="__cf_email__" data-cfemail="9fa6b2fee9ecb2f1e6fefcf0b2fcf0ecdff9fefeb1f8f0e9">[email protected]</span>.
+
+SUPPLEMENTARY INFORMATION:
+
+Comments Invited
+
+    The FAA invites you to send any written relevant data, views, or 
+arguments about this proposal. Send your comments to an address listed 
+under ADDRESSES. Include ``Docket No. FAA-2022-0388; Project Identifier 
+MCAI-2020-01604-T'' at the beginning of your comments. The most helpful 
+comments reference a specific portion of the proposal, explain the 
+reason for any recommended change, and include supporting data. The FAA 
+will consider all comments received by the closing date and may amend 
+the proposal because of those comments.
+    Except for Confidential Business Information (CBI) as described in 
+the following paragraph, and other information as described in 14 CFR 
+11.35, the FAA will post all comments received, without change, to 
+https://www.regulations.gov, including any personal information you 
+provide. The agency will also post a report summarizing each 
+substantive verbal contact received about this NPRM.
+
+Confidential Business Information
+
+    CBI is commercial or financial information that is both customarily 
+and actually treated as private by its owner. Under the Freedom of 
+Information Act (FOIA) (5 U.S.C. 552), CBI is exempt from public 
+disclosure. If your comments responsive to this NPRM contain commercial 
+or financial information that is customarily treated as private, that 
+you actually treat as private, and that is relevant or responsive to 
+this NPRM, it is important that you clearly designate the submitted 
+comments as CBI. Please mark each page of your submission containing 
+CBI as ``PROPIN.'' The FAA will treat such marked submissions as 
+confidential under the FOIA, and they will not be placed in the public 
+docket of this NPRM. Submissions containing CBI should be sent to 
+Joseph Catanzaro, Aerospace Engineer, Airframe and Propulsion Section, 
+FAA, New York ACO Branch, 1600 Stewart Avenue, Suite 410, Westbury, NY 
+11590; telephone 516-228-7366; email <span class="__cf_email__" data-cfemail="5b62763a2d287635223a3834763834281b3d3a3a753c342d">[email protected]</span>. Any 
+commentary that the FAA receives which is not specifically designated 
+as CBI will be placed in the public docket for this rulemaking.
+
+Background
+
+    Transport Canada Civil Aviation (TCCA), which is the aviation 
+authority for Canada, has issued TCCA AD CF-2020-03, dated March 5, 
+2020 (TCCA AD CF-2020-03) (also referred to after this as the Mandatory 
+Continuing Airworthiness Information, or the MCAI), to correct an 
+unsafe condition for certain MHI RJ Aviation ULC Model CL-600-2C10 
+(Regional Jet Series 700, 701 & 702), CL-600-2C11 (Regional Jet Series 
+550), CL-600-2D15 (Regional Jet Series 705), CL-600-2D24 (Regional Jet 
+Series 900), and CL-600-2E25 (Regional Jet Series 1000) airplanes. You 
+may examine the MCAI in the AD docket at https://www.regulations.gov by 
+searching for and locating Docket No. FAA-2022-0388.
+    This proposed AD was prompted by reports of the failure of primary 
+ejector fuel feed flexible hoses with more than 30,000 flight hours, 
+installed in accordance with Bombardier Service Bulletin 670BA-28-008C, 
+dated January 23, 2003. In four of the events, the fuel was leaking 
+inside the center fuel tank from the cracked inner liner of the hose, 
+and caused a lateral fuel imbalance condition on the airplane. These 
+events resulted in an emergency descent or air turn back (ATB). 
+Subsequent investigation determined that hoses with part numbers (P/N) 
+CC670-62022-3 and CC670-62022-4, and serial numbers 001 through 2470 
+inclusive, may have a thinner Teflon[supreg] liner than specified by 
+the design requirements, and therefore are more susceptible to 
+cracking. Analysis also indicates that, depending on the size of the 
+crack and the resultant amount of fuel leakage, a fuel supply 
+disruption to the engines could be significant enough to cause an 
+inflight engine shutdown (IFSD). The FAA is proposing this AD to 
+address a possible fuel hose leak, which could cause a lateral 
+imbalance with an adverse effect on the airplane's controllability, or 
+could result in a dual IFSD. See the MCAI for additional background 
+information.
+
+Related Service Information Under 1 CFR Part 51
+
+    Bombardier has issued Service Bulletin 670BA-28-040, dated 
+September 30, 2019. This service information describes procedures for, 
+among other actions, replacing any primary ejector fuel feed flexible 
+hose, (P/N) CC670-62022-3 and CC670-62022-4, having serial numbers 001 
+through 2470 inclusive. This service information is reasonably 
+available because the interested parties have access to it through 
+their normal course of business or by the means identified in the 
+ADDRESSES section.
+
+FAA's Determination
+
+    This product has been approved by the aviation authority of another 
+country, and is approved for operation in the United States. Pursuant 
+to the FAA's bilateral agreement with the State of Design Authority, 
+the FAA has been notified of the unsafe condition described in the MCAI 
+and service information referenced above. The FAA is proposing this AD 
+because the FAA evaluated all the relevant information and determined 
+the unsafe condition described previously is likely to exist or develop 
+on other products of the same type design.
+
+Proposed AD Requirements in This NPRM
+
+    This proposed AD would require accomplishing the actions specified 
+in the service information already described.
+
+Costs of Compliance
+
+    The FAA estimates that this AD, if adopted as proposed, would 
+affect 457 airplanes of U.S. registry. The FAA estimates the following 
+costs to comply with this proposed AD:
+
+[[Page 19034]]
+
+
+
+                                      Estimated Costs for Required Actions
+----------------------------------------------------------------------------------------------------------------
+                                                                                    Cost per       Cost on U.S.
+                          Labor cost                              Parts cost        product         operators
+----------------------------------------------------------------------------------------------------------------
+12 work-hours x $85 per hour = $1,020........................          $2,872           $3,892       $1,778,644
+----------------------------------------------------------------------------------------------------------------
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    The FAA determined that this proposed AD would not have federalism 
+implications under Executive Order 13132. This proposed AD would not 
+have a substantial direct effect on the States, on the relationship 
+between the national Government and the States, or on the distribution 
+of power and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify this proposed 
+regulation:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Would not affect intrastate aviation in Alaska, and
+    (3) Would not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Proposed Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA proposes to amend 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13   [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive:
+
+MHI RJ Aviation ULC (Type Certificate Previously Held by Bombardier, 
+Inc.): Docket No. FAA-2022-0388; Project Identifier MCAI-2020-01604-
+T.
+
+(a) Comments Due Date
+
+    The FAA must receive comments on this airworthiness directive 
+(AD) by May 16, 2022.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to MHI RJ Aviation ULC (Type Certificate 
+Previously Held by Bombardier, Inc.) airplanes identified in 
+paragraphs (c)(1) through (3) of this AD, certificated in any 
+category.
+    (1) Model CL-600-2C10 (Regional Jet Series 700, 701 & 702) and 
+CL-600-2C11 (Regional Jet Series 550) airplanes, serial numbers 
+10002 through 10325 inclusive.
+    (2) Model CL-600-2D15 (Regional Jet Series 705) and CL-600-2D24 
+(Regional Jet Series 900) airplanes, serial numbers 15001 through 
+15263 inclusive.
+    (3) Model CL-600-2E25 (Regional Jet Series 1000), serial numbers 
+19001 through 19013 inclusive.
+
+ (d) Subject
+
+    Air Transport Association (ATA) of America Code 28, Fuel system.
+
+(e) Unsafe Condition
+
+    This AD was prompted by reports of the failure of certain 
+primary ejector fuel feed flexible hoses, which may have a thinner 
+liner than specified by design requirements, and are therefore more 
+susceptible to cracking. The FAA is issuing this AD to address a 
+possible fuel hose leak, which could cause a lateral imbalance with 
+an adverse effect on the airplane's controllability, or result in a 
+dual inflight engine shutdown (IFSD).
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Required Actions
+
+    At the applicable time specified in figure 1 to paragraph (g) of 
+this AD: Replace each hose having part number (P/N) CC670-62022-3 
+and P/N CC670-62022-4 and serial number 001 through 2470 inclusive, 
+in accordance with Part B of the Accomplishment Instructions of 
+Bombardier Service Bulletin 670BA-28-040, dated September 30, 2019.
+BILLING CODE 4910-13-P
+
+[[Page 19035]]
+
+[GRAPHIC] [TIFF OMITTED] TP01AP22.002
+
+(h) Other FAA AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, New 
+York ACO Branch, FAA, has the authority to approve AMOCs for this 
+AD, if requested using the procedures found in 14 CFR 39.19. In 
+accordance with 14 CFR 39.19, send your request to your principal 
+inspector or responsible Flight Standards Office, as appropriate. If 
+sending information directly to the manager of the certification 
+office, send it to ATTN: Program Manager, Continuing Operational 
+Safety, FAA, New York ACO Branch, 1600 Stewart Avenue, Suite 410, 
+Westbury, NY 11590; telephone 516-228-7300. Before using any 
+approved AMOC, notify your appropriate principal inspector, or 
+lacking a principal inspector, the manager of the responsible Flight 
+Standards Office.
+    (2) Contacting the Manufacturer: For any requirement in this AD 
+to obtain instructions from a manufacturer, the instructions must be 
+accomplished using a method approved by the Manager, New York ACO 
+Branch, FAA; or Transport Canada Civil Aviation (TCCA); or MHI RJ 
+Aviation ULC's TCCA Design Approval Organization (DAO). If approved 
+by the DAO, the approval must include the DAO-authorized signature.
+
+(i) Related Information
+
+    (1) Refer to Mandatory Continuing Airworthiness Information 
+(MCAI) TCCA AD CF-2020-03, dated March 5, 2020, for related 
+information. This MCAI may be found in the AD docket on the internet 
+at https://www.regulations.gov by searching for and locating Docket 
+No. FAA-2022-0388.
+    (2) For more information about this AD, contact Joseph 
+Catanzaro, Aerospace Engineer, Airframe and Propulsion Section, FAA, 
+New York ACO Branch, 1600 Stewart Avenue, Suite 410, Westbury, NY 
+11590; telephone 516-228-7366; email <span class="__cf_email__" data-cfemail="142d39756267397a6d75777b39777b67547275753a737b62">[email protected]</span>.
+    (3) For Bombardier service information identified in this AD, 
+contact MHI RJ Aviation ULC, 12655 Henri-Fabre Blvd., Mirabel, 
+Qu[eacute]bec J7N 1E1 Canada; Widebody Customer Response Center 
+North America toll-free telephone +1-844-272-2720 or direct-dial 
+telephone +1-514-855-8500; fax +1-514-855-8501; email 
+<span class="__cf_email__" data-cfemail="cfbba7abe1acbda58fa2a7a6bda5e1aca0a2">[email protected]</span>; internet https://mhirj.com. You may view this 
+service information at the FAA, Airworthiness Products Section, 
+Operational Safety Branch, 2200 South 216th St., Des Moines, WA. For 
+information on the availability of this material at the FAA, call 
+206-231-3195.
+
+    Issued on March 25, 2022.
+Lance T. Gant,
+Director, Compliance & Airworthiness Division, Aircraft Certification 
+Service.
+[FR Doc. 2022-06769 Filed 3-31-22; 8:45 am]
+BILLING CODE 4910-13-C
+
+

@@ -1,0 +1,414 @@
+{
+  "candidate_validation_failures": 95,
+  "extracted_candidates": 95,
+  "failure_details": [
+    {
+      "errors": [
+        "AFFECTED_GROUP_MISSING",
+        "CHANGE_SUMMARY_MISSING",
+        "NO_SUPPORTED_QUOTE_FOR_AFFECTED_GROUP"
+      ],
+      "event_id": "federal-register-2022-04705"
+    },
+    {
+      "errors": [
+        "AFFECTED_GROUP_MISSING",
+        "CHANGE_SUMMARY_MISSING",
+        "NO_SUPPORTED_QUOTE_FOR_AFFECTED_GROUP"
+      ],
+      "event_id": "federal-register-2022-06173"
+    },
+    {
+      "errors": [
+        "AFFECTED_GROUP_MISSING",
+        "CHANGE_SUMMARY_MISSING",
+        "NO_SUPPORTED_QUOTE_FOR_AFFECTED_GROUP"
+      ],
+      "event_id": "federal-register-2022-06197"
+    },
+    {
+      "errors": [
+        "AFFECTED_GROUP_MISSING",
+        "CHANGE_SUMMARY_MISSING",
+        "NO_SUPPORTED_QUOTE_FOR_AFFECTED_GROUP"
+      ],
+      "event_id": "federal-register-2022-06366"
+    },
+    {
+      "errors": [
+        "AFFECTED_GROUP_MISSING",
+        "CHANGE_SUMMARY_MISSING",
+        "NO_SUPPORTED_QUOTE_FOR_AFFECTED_GROUP"
+      ],
+      "event_id": "federal-register-2022-06503"
+    },
+    {
+      "errors": [
+        "AFFECTED_GROUP_MISSING",
+        "CHANGE_SUMMARY_MISSING",
+        "NO_SUPPORTED_QUOTE_FOR_AFFECTED_GROUP"
+      ],
+      "event_id": "federal-register-2022-06517"
+    },
+    {
+      "errors": [
+        "AFFECTED_GROUP_MISSING",
+        "CHANGE_SUMMARY_MISSING",
+        "NO_SUPPORTED_QUOTE_FOR_AFFECTED_GROUP"
+      ],
+      "event_id": "federal-register-2022-06521"
+    },
+    {
+      "errors": [
+        "AFFECTED_GROUP_MISSING",
+        "CHANGE_SUMMARY_MISSING",
+        "NO_SUPPORTED_QUOTE_FOR_AFFECTED_GROUP"
+      ],
+      "event_id": "federal-register-2022-06559"
+    },
+    {
+      "errors": [
+        "AFFECTED_GROUP_MISSING",
+        "CHANGE_SUMMARY_MISSING",
+        "NO_SUPPORTED_QUOTE_FOR_AFFECTED_GROUP"
+      ],
+      "event_id": "federal-register-2022-06561"
+    },
+    {
+      "errors": [
+        "AFFECTED_GROUP_MISSING",
+        "CHANGE_SUMMARY_MISSING",
+        "NO_SUPPORTED_QUOTE_FOR_AFFECTED_GROUP"
+      ],
+      "event_id": "federal-register-2022-06562"
+    },
+    {
+      "errors": [
+        "AFFECTED_GROUP_MISSING",
+        "CHANGE_SUMMARY_MISSING",
+        "NO_SUPPORTED_QUOTE_FOR_AFFECTED_GROUP"
+      ],
+      "event_id": "federal-register-2022-06563"
+    },
+    {
+      "errors": [
+        "AFFECTED_GROUP_MISSING",
+        "CHANGE_SUMMARY_MISSING",
+        "NO_SUPPORTED_QUOTE_FOR_AFFECTED_GROUP"
+      ],
+      "event_id": "federal-register-2022-06648"
+    },
+    {
+      "errors": [
+        "AFFECTED_GROUP_MISSING",
+        "CHANGE_SUMMARY_MISSING",
+        "NO_SUPPORTED_QUOTE_FOR_AFFECTED_GROUP"
+      ],
+      "event_id": "federal-register-2022-06730"
+    },
+    {
+      "errors": [
+        "AFFECTED_GROUP_MISSING",
+        "CHANGE_SUMMARY_MISSING",
+        "NO_SUPPORTED_QUOTE_FOR_AFFECTED_GROUP"
+      ],
+      "event_id": "federal-register-2022-06748"
+    },
+    {
+      "errors": [
+        "AFFECTED_GROUP_MISSING",
+        "CHANGE_SUMMARY_MISSING",
+        "NO_SUPPORTED_QUOTE_FOR_AFFECTED_GROUP"
+      ],
+      "event_id": "federal-register-2022-06767"
+    },
+    {
+      "errors": [
+        "AFFECTED_GROUP_MISSING",
+        "CHANGE_SUMMARY_MISSING",
+        "NO_SUPPORTED_QUOTE_FOR_AFFECTED_GROUP"
+      ],
+      "event_id": "federal-register-2022-06769"
+    },
+    {
+      "errors": [
+        "AFFECTED_GROUP_MISSING",
+        "CHANGE_SUMMARY_MISSING",
+        "NO_SUPPORTED_QUOTE_FOR_AFFECTED_GROUP"
+      ],
+      "event_id": "federal-register-2022-06771"
+    },
+    {
+      "errors": [
+        "AFFECTED_GROUP_MISSING",
+        "CHANGE_SUMMARY_MISSING",
+        "NO_SUPPORTED_QUOTE_FOR_AFFECTED_GROUP"
+      ],
+      "event_id": "federal-register-2022-06772"
+    },
+    {
+      "errors": [
+        "AFFECTED_GROUP_MISSING",
+        "CHANGE_SUMMARY_MISSING",
+        "NO_SUPPORTED_QUOTE_FOR_AFFECTED_GROUP"
+      ],
+      "event_id": "federal-register-2022-06815"
+    },
+    {
+      "errors": [
+        "AFFECTED_GROUP_MISSING",
+        "CHANGE_SUMMARY_MISSING",
+        "NO_SUPPORTED_QUOTE_FOR_AFFECTED_GROUP"
+      ],
+      "event_id": "federal-register-2022-06816"
+    },
+    {
+      "errors": [
+        "AFFECTED_GROUP_MISSING",
+        "CHANGE_SUMMARY_MISSING",
+        "NO_SUPPORTED_QUOTE_FOR_AFFECTED_GROUP"
+      ],
+      "event_id": "federal-register-2022-06827"
+    },
+    {
+      "errors": [
+        "AFFECTED_GROUP_MISSING",
+        "CHANGE_SUMMARY_MISSING",
+        "NO_SUPPORTED_QUOTE_FOR_AFFECTED_GROUP"
+      ],
+      "event_id": "federal-register-2022-06830"
+    },
+    {
+      "errors": [
+        "AFFECTED_GROUP_MISSING",
+        "CHANGE_SUMMARY_MISSING",
+        "NO_SUPPORTED_QUOTE_FOR_AFFECTED_GROUP"
+      ],
+      "event_id": "federal-register-2022-06834"
+    },
+    {
+      "errors": [
+        "AFFECTED_GROUP_MISSING",
+        "CHANGE_SUMMARY_MISSING",
+        "NO_SUPPORTED_QUOTE_FOR_AFFECTED_GROUP"
+      ],
+      "event_id": "federal-register-2022-06838"
+    },
+    {
+      "errors": [
+        "AFFECTED_GROUP_MISSING",
+        "CHANGE_SUMMARY_MISSING",
+        "NO_SUPPORTED_QUOTE_FOR_AFFECTED_GROUP"
+      ],
+      "event_id": "federal-register-2022-06839"
+    },
+    {
+      "errors": [
+        "AFFECTED_GROUP_MISSING",
+        "CHANGE_SUMMARY_MISSING",
+        "NO_SUPPORTED_QUOTE_FOR_AFFECTED_GROUP"
+      ],
+      "event_id": "federal-register-2022-06840"
+    },
+    {
+      "errors": [
+        "AFFECTED_GROUP_MISSING",
+        "CHANGE_SUMMARY_MISSING",
+        "NO_SUPPORTED_QUOTE_FOR_AFFECTED_GROUP"
+      ],
+      "event_id": "federal-register-2022-06842"
+    },
+    {
+      "errors": [
+        "AFFECTED_GROUP_MISSING",
+        "CHANGE_SUMMARY_MISSING",
+        "NO_SUPPORTED_QUOTE_FOR_AFFECTED_GROUP"
+      ],
+      "event_id": "federal-register-2022-06844"
+    },
+    {
+      "errors": [
+        "AFFECTED_GROUP_MISSING",
+        "CHANGE_SUMMARY_MISSING",
+        "NO_SUPPORTED_QUOTE_FOR_AFFECTED_GROUP"
+      ],
+      "event_id": "federal-register-2022-06845"
+    },
+    {
+      "errors": [
+        "AFFECTED_GROUP_MISSING",
+        "CHANGE_SUMMARY_MISSING",
+        "NO_SUPPORTED_QUOTE_FOR_AFFECTED_GROUP"
+      ],
+      "event_id": "federal-register-2022-06846"
+    },
+    {
+      "errors": [
+        "AFFECTED_GROUP_MISSING",
+        "CHANGE_SUMMARY_MISSING",
+        "NO_SUPPORTED_QUOTE_FOR_AFFECTED_GROUP"
+      ],
+      "event_id": "federal-register-2022-06849"
+    },
+    {
+      "errors": [
+        "AFFECTED_GROUP_MISSING",
+        "CHANGE_SUMMARY_MISSING",
+        "NO_SUPPORTED_QUOTE_FOR_AFFECTED_GROUP"
+      ],
+      "event_id": "federal-register-2022-06851"
+    },
+    {
+      "errors": [
+        "AFFECTED_GROUP_MISSING",
+        "CHANGE_SUMMARY_MISSING",
+        "NO_SUPPORTED_QUOTE_FOR_AFFECTED_GROUP"
+      ],
+      "event_id": "federal-register-2022-06852"
+    },
+    {
+      "errors": [
+        "AFFECTED_GROUP_MISSING",
+        "CHANGE_SUMMARY_MISSING",
+        "NO_SUPPORTED_QUOTE_FOR_AFFECTED_GROUP"
+      ],
+      "event_id": "federal-register-2022-06853"
+    },
+    {
+      "errors": [
+        "AFFECTED_GROUP_MISSING",
+        "CHANGE_SUMMARY_MISSING",
+        "NO_SUPPORTED_QUOTE_FOR_AFFECTED_GROUP"
+      ],
+      "event_id": "federal-register-2022-06855"
+    },
+    {
+      "errors": [
+        "AFFECTED_GROUP_MISSING",
+        "CHANGE_SUMMARY_MISSING",
+        "NO_SUPPORTED_QUOTE_FOR_AFFECTED_GROUP"
+      ],
+      "event_id": "federal-register-2022-06859"
+    },
+    {
+      "errors": [
+        "AFFECTED_GROUP_MISSING",
+        "CHANGE_SUMMARY_MISSING",
+        "NO_SUPPORTED_QUOTE_FOR_AFFECTED_GROUP"
+      ],
+      "event_id": "federal-register-2022-06860"
+    },
+    {
+      "errors": [
+        "AFFECTED_GROUP_MISSING",
+        "CHANGE_SUMMARY_MISSING",
+        "NO_SUPPORTED_QUOTE_FOR_AFFECTED_GROUP"
+      ],
+      "event_id": "federal-register-2022-06861"
+    },
+    {
+      "errors": [
+        "AFFECTED_GROUP_MISSING",
+        "CHANGE_SUMMARY_MISSING",
+        "NO_SUPPORTED_QUOTE_FOR_AFFECTED_GROUP"
+      ],
+      "event_id": "federal-register-2022-06862"
+    },
+    {
+      "errors": [
+        "AFFECTED_GROUP_MISSING",
+        "CHANGE_SUMMARY_MISSING",
+        "NO_SUPPORTED_QUOTE_FOR_AFFECTED_GROUP"
+      ],
+      "event_id": "federal-register-2022-06863"
+    },
+    {
+      "errors": [
+        "AFFECTED_GROUP_MISSING",
+        "CHANGE_SUMMARY_MISSING",
+        "NO_SUPPORTED_QUOTE_FOR_AFFECTED_GROUP"
+      ],
+      "event_id": "federal-register-2022-06864"
+    },
+    {
+      "errors": [
+        "AFFECTED_GROUP_MISSING",
+        "CHANGE_SUMMARY_MISSING",
+        "NO_SUPPORTED_QUOTE_FOR_AFFECTED_GROUP"
+      ],
+      "event_id": "federal-register-2022-06865"
+    },
+    {
+      "errors": [
+        "AFFECTED_GROUP_MISSING",
+        "CHANGE_SUMMARY_MISSING",
+        "NO_SUPPORTED_QUOTE_FOR_AFFECTED_GROUP"
+      ],
+      "event_id": "federal-register-2022-06866"
+    },
+    {
+      "errors": [
+        "AFFECTED_GROUP_MISSING",
+        "CHANGE_SUMMARY_MISSING",
+        "NO_SUPPORTED_QUOTE_FOR_AFFECTED_GROUP"
+      ],
+      "event_id": "federal-register-2022-06867"
+    },
+    {
+      "errors": [
+        "AFFECTED_GROUP_MISSING",
+        "CHANGE_SUMMARY_MISSING",
+        "NO_SUPPORTED_QUOTE_FOR_AFFECTED_GROUP"
+      ],
+      "event_id": "federal-register-2022-06869"
+    },
+    {
+      "errors": [
+        "AFFECTED_GROUP_MISSING",
+        "CHANGE_SUMMARY_MISSING",
+        "NO_SUPPORTED_QUOTE_FOR_AFFECTED_GROUP"
+      ],
+      "event_id": "federal-register-2022-06870"
+    },
+    {
+      "errors": [
+        "AFFECTED_GROUP_MISSING",
+        "CHANGE_SUMMARY_MISSING",
+        "NO_SUPPORTED_QUOTE_FOR_AFFECTED_GROUP"
+      ],
+      "event_id": "federal-register-2022-06871"
+    },
+    {
+      "errors": [
+        "AFFECTED_GROUP_MISSING",
+        "CHANGE_SUMMARY_MISSING",
+        "NO_SUPPORTED_QUOTE_FOR_AFFECTED_GROUP"
+      ],
+      "event_id": "federal-register-2022-06873"
+    },
+    {
+      "errors": [
+        "AFFECTED_GROUP_MISSING",
+        "CHANGE_SUMMARY_MISSING",
+        "NO_SUPPORTED_QUOTE_FOR_AFFECTED_GROUP"
+      ],
+      "event_id": "federal-register-2022-06874"
+    },
+    {
+      "errors": [
+        "AFFECTED_GROUP_MISSING",
+        "CHANGE_SUMMARY_MISSING",
+        "NO_SUPPORTED_QUOTE_FOR_AFFECTED_GROUP"
+      ],
+      "event_id": "federal-register-2022-06875"
+    }
+  ],
+  "human_accepted_events": 0,
+  "human_review_records": 0,
+  "interpretation": "These are Stage-1 provenance/screening metrics only, not demand prediction results.",
+  "raw_documents": 100,
+  "screened_candidates": 95,
+  "screened_documents": 100,
+  "screened_out_requiring_negative_audit": 5,
+  "source_counts_accepted": {}
+}

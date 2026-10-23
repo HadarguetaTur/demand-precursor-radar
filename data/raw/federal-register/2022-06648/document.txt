@@ -1,0 +1,2073 @@
+
+[Federal Register Volume 87, Number 63 (Friday, April 1, 2022)]
+[Rules and Regulations]
+[Pages 18994-19007]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2022-06648]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+National Highway Traffic Safety Administration
+
+49 CFR Part 578
+
+[Docket No. NHTSA-2021-0001]
+RIN 2127-AM32
+
+
+Civil Penalties
+
+AGENCY: National Highway Traffic Safety Administration (NHTSA), 
+Department of Transportation (DOT).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: On January 14, 2021, NHTSA published an interim final rule in 
+response to a petition for rulemaking from the Alliance for Automotive 
+Innovation. The interim final rule applied the adjusted civil penalty 
+rate applicable to automobile manufacturers that violate relevant 
+corporate average fuel economy (CAFE) standards beginning with vehicle 
+Model Year (MY) 2022. The interim final rule also requested comment. In 
+light of a subsequent Executive order and the agency's review of 
+comments, NHTSA reviewed and reconsidered that interim final rule, a 
+process that included a supplemental notice of proposed rulemaking 
+(SNPRM) to consider the appropriate path forward and to allow 
+interested parties sufficient time to provide comments. As a result of 
+this review and reconsideration, including a careful consideration of 
+the comments received in response to the SNPRM, NHTSA is repealing the 
+interim final rule and reverting to the December 2016 final rule that 
+would apply the adjustment for the CAFE civil penalty rate beginning 
+with Model Year 2019. In this rule, NHTSA is also applying the 
+statutorily required annual adjustments through 2022. Going forward, 
+NHTSA will continue to make the mandatory adjustments to the CAFE civil 
+penalty rate, as required by law for all civil monetary penalties.
+
+DATES: 
+    Effective date: This rule is effective as May 31, 2022.
+    Petitions for reconsideration: Petitions for reconsideration of 
+this final rule must be received not later than May 16, 2022.
+
+ADDRESSES: Any petitions for reconsideration should refer to the docket 
+number of this document and be submitted to: Deputy Administrator, 
+National Highway Traffic Safety Administration, 1200 New Jersey Avenue 
+SE, West Building, Fourth Floor, Washington, DC 20590.
+    Docket: All documents in the docket are listed on the 
+www.regulations.gov website. Although listed in the index, some 
+information is not publicly available, e.g., confidential business 
+information or other information whose disclosure is restricted by 
+statute. Certain other material, such as copyrighted material, is not 
+placed on the internet and will be publicly available only in hard copy 
+form. Publicly available docket materials are available either 
+electronically through www.regulations.gov or in hard copy at the 
+following location: Docket Management Facility, M-30, U.S. Department 
+of Transportation, West Building, Ground Floor, Rm. W12-140, 1200 New 
+Jersey Avenue SE, Washington, DC 20590. The telephone number for the 
+docket management facility is (202) 366-9324. The docket management 
+facility is open between 9 a.m. and 5 p.m. Eastern Time, Monday through 
+Friday, except Federal holidays.
+
+FOR FURTHER INFORMATION CONTACT: Michael Kuppersmith, Office of Chief 
+Counsel, NHTSA, email <span class="__cf_email__" data-cfemail="137e7a707b72767f3d786663637661607e7a677b53777c673d747c65">[email protected]</span>, telephone (202) 366-
+2992, facsimile (202) 366-3820, 1200 New Jersey Ave. SE, Washington, DC 
+20590.
+
+SUPPLEMENTARY INFORMATION:
+
+Table of Contents
+
+A. CAFE Statutory and Regulatory Background
+B. Civil Penalties Inflation Adjustment Act Improvements Act of 2015
+C. NHTSA's Actions to Date Regarding CAFE Civil Penalties
+    1. Initial Interim Final Rule
+    2. Initial Petition for Reconsideration and Response
+    3. NHTSA Reconsideration
+    4. Subsequent Petitions and Interim Final Rule
+    5. Supplemental Notice of Proposed Rulemaking
+D. Overview of the Comments Received
+E. Response to the Comments
+    1. Agency Reconsideration
+    2. Procedural Issues
+    3. Statutory Authorization
+    4. Retroactivity
+    5. Reliance Interests
+    6. Economic Impact of the COVID-19 Pandemic and Other Factors
+    7. Usage of Credits
+    8. Additional Adjustments Required by Law
+F. Rulemaking Analyses and Notices
+    1. Executive Order 12866, Executive Order 13563, and DOT 
+Regulatory Policies and Procedures
+    2. Regulatory Flexibility Act
+    3. Executive Order 13132 (Federalism)
+    4. Unfunded Mandates Reform Act of 1995
+    5. National Environmental Policy Act
+    6. Executive Order 12778 (Civil Justice Reform)
+    7. Paperwork Reduction Act
+    8. Privacy Act
+
+A. CAFE Statutory and Regulatory Background
+
+    NHTSA sets \1\ and enforces \2\ corporate average fuel economy 
+(CAFE) standards for the United States light-duty automobile fleet, and 
+in doing so, assesses civil penalties against manufacturers that 
+violate applicable standards and are unable to make up the shortfall 
+with credits.\3\ The civil penalty amount for CAFE violations was 
+originally set by statute in 1975, and beginning in 1997, included a 
+rate of $5.50 per each tenth of a mile per gallon (0.1) that a 
+manufacturer's CAFE performance falls short of its compliance 
+obligation. This shortfall amount is then multiplied by the number of 
+vehicles in that manufacturer's fleet.\4\ The basic equation for 
+calculating a manufacturer's civil penalty amount, before accounting 
+for credits, is as follows:
+---------------------------------------------------------------------------
+
+    \1\ 49 U.S.C. 32902. The authorities vested in the Secretary 
+under chapter 329 of Title 49, U.S.C., have been delegated to NHTSA. 
+49 CFR 1.95(a).
+    \2\ 49 U.S.C. 32911, 32912.
+    \3\ Within statutory constraints, credits may be either earned 
+(for over-compliance by a given manufacturer's fleet, in a given 
+model year), transferred (from one fleet to another), or purchased 
+(in which case, another manufacturer earned the credits by over-
+complying and chose to sell that surplus). 49 U.S.C. 32903.
+    \4\ A manufacturer may have up to three fleets of vehicles, for 
+CAFE compliance purposes, in any given model year--a domestic 
+passenger car fleet, an imported passenger car fleet, and a light 
+truck fleet. Each fleet belonging to each manufacturer has its own 
+compliance obligation, with the potential for either over-compliance 
+or under-compliance. There is no overarching CAFE requirement for a 
+manufacturer's total production.
+
+(penalty rate, in $ per 0.1 mpg per vehicle) x (amount of shortfall, 
+in tenths of an
+
+[[Page 18995]]
+
+mpg) x (# of vehicles in manufacturer's fleet).\5\
+---------------------------------------------------------------------------
+
+    \5\ The process of determining civil penalties occurs after the 
+end of a model year, following NHTSA's receipt of final reports from 
+the Environmental Protection Agency (EPA). See 77 FR 62624, 63126 
+(Oct. 15, 2012). NHTSA uses the penalty rate from the calendar year 
+that is the same as the model year to assess CAFE violations. For 
+example, NHTSA will assess the civil penalties for Model Year 2022 
+vehicles using the 2022 calendar year rate--even if NHTSA ultimately 
+assesses the penalty in a later calendar year.
+
+    Starting with Model Year 2011, the Energy Independence and Security 
+Act of 2007 (EISA) provided for credit transfers among a manufacturer's 
+various fleets.\6\ The law also provided for trading between vehicle 
+manufacturers, which has allowed vehicle manufacturers the opportunity 
+to acquire credits from competitors rather than paying civil penalties 
+for violations. Manufacturers can choose to carry back credits to apply 
+to any of three model years before they are earned or carry them 
+forward to apply to any of the five model years after they are earned.
+---------------------------------------------------------------------------
+
+    \6\ Public Law 110-140, 104.
+---------------------------------------------------------------------------
+
+    In complement to NHTSA's regulation of fuel economy, the 
+Environmental Protection Agency (EPA) regulates the emissions of light-
+duty vehicles. These regulations include standards to regulate 
+greenhouse gas emissions from the light-duty fleet. The Clean Air Act 
+requires EPA to set greenhouse gas (GHG) emissions standards from 
+light-duty vehicles since EPA has made an ``endangerment finding'' that 
+greenhouse gases ``cause[s] or contribute[s] to air pollution which may 
+reasonably be anticipated to endanger public health or welfare.'' \7\ 
+Although NHTSA and EPA have different roles and independent enforcement 
+and compliance obligations, and operate under different statutory 
+authority, the agencies work together to achieve the goals of their 
+respective statutes, and their light-duty vehicle fuel economy 
+rulemakings are harmonized to the extent possible to work in tandem. 
+However, the CAFE program is subject to various statutory requirements 
+not applicable to the EPA GHG program. One such requirement, for 
+example, requires automakers to meet a separate average fleet 
+requirement for automobiles that are manufactured domestically.\8\ The 
+Clean Air Act does not include a similar requirement for EPA's GHG 
+standards.
+---------------------------------------------------------------------------
+
+    \7\ 42 U.S.C. 7521, see also 74 FR 66495 (Dec. 15, 2009) 
+(``Endangerment and Cause or Contribute Findings for Greenhouse 
+Gases under Section 202(a) of the Clean Air Act'').
+    \8\ 49 U.S.C. 32902(b)(4).
+---------------------------------------------------------------------------
+
+B. Civil Penalties Inflation Adjustment Act Improvements Act of 2015
+
+    On November 2, 2015, the Federal Civil Penalties Inflation 
+Adjustment Act Improvements Act (2015 Act), Public Law 114-74, Section 
+701, was signed into law. The 2015 Act required Federal agencies to 
+promulgate an interim final rule to make an initial ``catch-up'' 
+adjustment to the civil monetary penalties they administer, and then to 
+make subsequent annual adjustments. The 2015 Act limited the initial 
+adjustment to 150 percent of the then-current penalty.
+    In a February 24, 2016 memorandum, the Director of the Office of 
+Management and Budget (OMB) provided initial guidance to all Federal 
+agencies on how to calculate the initial adjustment required by the 
+2015 Act.\9\ The initial ``catch-up'' adjustment was based on the 
+change between the Consumer Price Index for all Urban Consumers (CPI-U) 
+for the month of October in the year the penalty amount was established 
+or last adjusted by Congress and the October 2015 CPI-U. The February 
+24, 2016 memorandum contained a table with a multiplier for the change 
+in CPI-U from the year the penalty was established or last adjusted to 
+2015. To arrive at the adjusted penalty, the agency multiplied the 
+penalty amount when it was established or last adjusted by Congress, 
+excluding adjustments under a prior adjustment statute, by the 
+multiplier for the increase in CPI-U from the year the penalty was 
+established or adjusted. Ensuing guidance from OMB identifies the 
+appropriate multiplier for agencies to use to calculate the subsequent 
+annual adjustments.\10\
+---------------------------------------------------------------------------
+
+    \9\ Memorandum from the Director of OMB to Heads of Executive 
+Departments and Agencies, Implementation of the Federal Civil 
+Penalties Inflation Adjustment Act Improvements Act of 2015 (Feb. 
+24, 2016), available online at https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2016/m-16-06.pdf.
+    \10\ Memorandum from the Director of OMB to Heads of Executive 
+Departments and Agencies, Implementation of the 2017 Annual 
+Adjustment Pursuant to the Federal Civil Penalties Inflation 
+Adjustment Act Improvements Act of 2015 (Dec. 16, 2016), available 
+online at https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-11_0.pdf; Memorandum from the Director of OMB to 
+Heads of Executive Departments and Agencies, Implementation of 
+Penalty Inflation Adjustments for 2018, Pursuant to the Federal 
+Civil Penalties Inflation Adjustment Act Improvements Act of 2015 
+(Dec. 15, 2017), available online at https://www.whitehouse.gov/wp-content/uploads/2017/11/M-18-03.pdf; Memorandum from the Director of 
+OMB to Heads of Executive Departments and Agencies, Implementation 
+of Penalty Inflation Adjustments for 2019, Pursuant to the Federal 
+Civil Penalties Inflation Adjustment Act Improvements Act of 2015 
+(Dec. 14, 2018), available online at https://www.whitehouse.gov/wp-content/uploads/2017/11/m_19_04.pdf; Memorandum from the Acting 
+Director of OMB to Heads of Executive Departments and Agencies, 
+Implementation of Penalty Inflation Adjustments for 2020, Pursuant 
+to the Federal Civil Penalties Inflation Adjustment Act Improvements 
+Act of 2015 (Dec. 16, 2019), available online at https://www.whitehouse.gov/wp-content/uploads/2019/12/M-20-05.pdf; 
+Memorandum from the Director of OMB to Heads of Executive 
+Departments and Agencies, Implementation of Penalty Inflation 
+Adjustments for 2021, Pursuant to the Federal Civil Penalties 
+Inflation Adjustment Act Improvements Act of 2015 (Dec. 23, 2020), 
+available online at https://www.whitehouse.gov/wp-content/uploads/2020/12/M-21-10.pdf.
+---------------------------------------------------------------------------
+
+C. NHTSA's Actions to Date Regarding CAFE Civil Penalties
+
+1. Initial Interim Final Rule
+
+    On July 5, 2016, NHTSA published an interim final rule, adopting 
+the adjustments required by the statute for all civil penalties under 
+its administration, following the procedure and the formula in the 2015 
+Act. One of the adjustments NHTSA made at the time was raising the 
+civil penalty rate for CAFE violations from $5.50 to $14.\11\ NHTSA 
+also indicated in that interim final rule that the Secretary's 
+statutory authority under the Energy Policy and Conservation Act (EPCA) 
+to establish an additional increase for such violations would similarly 
+need to be adjusted from the statutory cap of $10 to $25, but did not 
+codify this change in the regulatory text. In the preamble discussion, 
+NHTSA provided detailed discussion of the authority granted in Public 
+Law 95-619, 402, 92 Stat. 3255 (Nov. 9, 1978), which allowed the 
+Secretary of Transportation to establish a new civil penalty for each 
+.1 of a mile a gallon by which the applicable average fuel economy 
+standard under EPCA exceeds the average fuel economy for automobiles to 
+which the standard applies manufactured by the manufacturer during the 
+model year. NHTSA explained that these amendments, codified in 49 
+U.S.C. 32912(c), state that the new civil penalty cannot be more than 
+$10. NHTSA further explained that applying the multiplier for the 
+increase in CPI-U for 1978 in Table A of the February 24, 2016 
+memorandum (3.54453) to the $10 maximum penalty the Secretary is 
+permitted to establish under 49 U.S.C. 32912(c) results in an adjusted 
+civil penalty of $35. NHTSA then explained that because this 
+calculation would result in an increase of greater than 150 percent, 
+the adjusted maximum civil penalty that the Secretary is permitted to 
+establish under 49 U.S.C. 32912(c) is $25 (current maximum penalty $10 
+x 2.5). NHTSA concluded that because the new maximum penalty that the 
+Secretary is permitted to establish under
+
+[[Page 18996]]
+
+49 U.S.C. 32912(c) is $25, the new adjusted civil penalty in 49 CFR 
+578.6(h)(2) of $14 does not exceed the maximum penalty that the 
+Secretary is permitted to impose. NHTSA addresses the adjustments that 
+occurred to the statutory cap since that time and codifies the adjusted 
+cap in this final rule. That initial interim final rule became 
+effective on August 4, 2016.
+---------------------------------------------------------------------------
+
+    \11\ 81 FR 43524 (July 5, 2016).
+---------------------------------------------------------------------------
+
+2. Initial Petition for Reconsideration and Response
+
+    On August 1, 2016, the then-Alliance of Automobile Manufacturers 
+and the Association of Global Automakers (since combined to form the 
+Alliance for Automotive Innovation) jointly petitioned NHTSA for 
+reconsideration of the CAFE penalty provisions issued in the interim 
+final rule.\12\ The Alliance and Global joint petition raised concerns 
+with the impact that the increased penalty rate would have on CAFE 
+compliance costs, which they estimated to be at least $1 billion 
+annually. Specifically, the petition identified several issues, 
+including retroactivity. The petitioners were concerned that applying 
+the penalty increase associated with model years that had already been 
+completed or for which a company's compliance plan had already been 
+``set'' was a retroactive application of the adjustment.
+---------------------------------------------------------------------------
+
+    \12\ Jaguar Land Rover North America, LLC also filed a petition 
+for reconsideration in response to the July 5, 2016 interim final 
+rule raising the same concerns as those raised in the joint 
+petition. Both petitions, along with a supplement to the joint 
+petition, can be found in Docket No. NHTSA-2016-0075 at 
+www.regulations.gov.
+---------------------------------------------------------------------------
+
+    In response to the joint petition, NHTSA issued a final rule on 
+December 28, 2016.\13\ In that rule, NHTSA agreed that raising the 
+penalty rate for model years already fully complete at the time the 
+2015 Act was enacted would be inappropriate, given that courts 
+generally disfavor the retroactive application of statutes, and that 
+applying penalties to model years that were already completed could not 
+deter non-compliance, incentivize compliance, or lead to any 
+improvements in fuel economy. NHTSA also agreed that raising the rate 
+for model years for which product changes were infeasible due to lack 
+of lead time from the enactment of the 2015 Act did not seem consistent 
+with Congress's intent that the CAFE program be responsive to consumer 
+demand. Accordingly, NHTSA stated that it would not apply the adjusted 
+penalty rate of $14 (plus any other required adjustments that occurred 
+or may occur) until Model Year 2019, as the agency believed that 2019 
+would be the first year after the 2015 Act in which product changes 
+could reasonably be made in response to the higher penalty rate. This 
+final rule had an effective date of January 27, 2017.
+---------------------------------------------------------------------------
+
+    \13\ 81 FR 95489 (December 28, 2016).
+---------------------------------------------------------------------------
+
+3. NHTSA Reconsideration
+
+    Beginning in January 2017, NHTSA took a series of actions to delay 
+the effective date of the December 2016 final rule, ultimately leading 
+to a rule announcing that the effective date would be delayed 
+indefinitely.\14\ In April 2018, the United States Court of Appeals for 
+the Second Circuit vacated NHTSA's indefinite delay of the rule's 
+effective date, stating that the December 2016 rule was in force.\15\
+---------------------------------------------------------------------------
+
+    \14\ 82 FR 8694 (January 30, 2017); 82 FR 15302 (March 28, 
+2017); 82 FR 29009 (June 27, 2017); 82 FR 32139 (July 12, 2017).
+    \15\ Order, ECF No. 196, Natural Res. Def. Council v. NHTSA, 
+Case No. 17-2780 (2d Cir. Apr. 24, 2018); see also Natural Res. Def. 
+Council v. NHTSA (NRDC), 894 F.3d 95, 116 (2d Cir. 2018) (``The 
+Civil Penalties Rule, 81 FR 95,489, 95,489-92 (December 28, 2016), 
+no longer suspended, is now in force.'').
+---------------------------------------------------------------------------
+
+    In July 2019, NHTSA finalized a rule determining, in part, that the 
+2015 Act did not apply to the CAFE civil penalty rate. On September 9, 
+2019, the Institute for Policy Integrity at New York University School 
+of Law (IPI) submitted a petition for reconsideration of NHTSA's July 
+2019 final rule. IPI argued that the rule was unreasonable and not in 
+the public interest because it did not properly account for the 
+associated costs and benefits. Additionally, IPI challenged NHTSA's 
+statutory interpretations.
+    On August 31, 2020, the United States Court of Appeals for the 
+Second Circuit vacated the July 2019 rule and ruled again that the 
+December 2016 rule was in force.\16\ The Second Circuit denied panel 
+rehearing on November 2, 2020. NHTSA did not issue a decision on the 
+IPI petition prior to the Second Circuit's decision vacating the rule.
+---------------------------------------------------------------------------
+
+    \16\ New York v. NHTSA, 974 F.3d 87 (2d Cir. 2020).
+---------------------------------------------------------------------------
+
+4. Subsequent Petitions and Interim Final Rule
+
+    Following the Second Circuit's decision, on October 2, 2020, NHTSA 
+received a petition for rulemaking from the Alliance for Automotive 
+Innovation (Auto Innovators) requesting that the adjustment to $14 not 
+be applied until Model Year 2022.\17\ According to the Auto Innovators' 
+petition, ``Model Years 2019 and 2020 are effectively lapsed now,'' and 
+``[m]anufacturers are unable to change MY 2021 plans at this point.'' 
+The Auto Innovators argued that, as in the December 2016 rule, applying 
+the increased penalty to any violations that cannot practically be 
+remedied does not serve the statutory purposes of deterring prohibited 
+conduct or incentivizing favored conduct. According to the Auto 
+Innovators, doing so would effectively be punishing violators 
+retroactively.
+---------------------------------------------------------------------------
+
+    \17\ The Auto Innovators also submitted a supplement to its 
+petition on October 22, 2020. The petition, the supplement, and 
+other supporting materials were posted with the interim final rule 
+and can be found in Docket No. NHTSA-2021-0001 at 
+www.regulations.gov.
+---------------------------------------------------------------------------
+
+    In addition to relying on the reasoning of the December 2016 rule 
+as it applied to the increase based on the timing of the enactment of 
+the 2015 Act, the Auto Innovators' petition noted, but did not provide 
+detailed evidence of, the significant economic impact suffered by the 
+industry due to COVID-19. Accordingly, the Auto Innovators' petition 
+also cited the now-revoked Executive Order 13924,\18\ requiring Federal 
+agencies to take appropriate action--consistent with applicable law--to 
+combat the economic emergency caused by COVID-19. Several individual 
+vehicle manufacturers submitted supplemental information to NHTSA 
+further articulating the negative economic position they were in due to 
+the COVID-19 public health emergency and the potential and significant 
+adverse economic consequences of the increased civil penalty rate.
+---------------------------------------------------------------------------
+
+    \18\ See Executive Order 14018, 86 FR 11855, ``Revocation of 
+Certain Presidential Actions'' (Feb. 24, 2021).
+---------------------------------------------------------------------------
+
+    After considering the issues raised, NHTSA granted the Auto 
+Innovators' petition and promulgated an interim final rule providing 
+that the increase \19\ will apply beginning with Model Year 2022. The 
+interim final rule stated that applying the increased civil penalty 
+rate to vehicles in Model Years 2019, 2020, and 2021 would not result 
+in additional fuel savings and would impose higher penalties 
+retroactively because those model years were already completed, or, for 
+Model Year 2021, production plans were set prior to the Second 
+Circuit's decision striking down the 2019 rule. The interim final rule 
+relied in large part on the reasoning in the December 2016 final rule, 
+though it did not discuss the extent to which the four years between 
+the two rules should affect that reasoning. Additionally, the interim 
+final rule addressed the negative economic impact on the automotive 
+sector caused by the global outbreak of COVID-19.\20\ That interim 
+final rule
+
+[[Page 18997]]
+
+amended the relevant regulatory text accordingly--effective immediately 
+and without having afforded prior notice or the ability to comment in 
+advance--and requested comment within ten days. The interim final rule 
+also noted that IPI's petition was moot, and, to the extent it was not 
+moot, NHTSA denied it.
+---------------------------------------------------------------------------
+
+    \19\ The rate is increasing to $14, plus any required 
+adjustments that occurred or may occur. 49 CFR 578.6(h)(2).
+    \20\ The reasoning for the interim final rule is set forth more 
+fully in the January 14, 2021 document published at 86 FR 3016.
+---------------------------------------------------------------------------
+
+    The interim final rule is currently the subject of legal challenges 
+that have been consolidated in the Second Circuit.\21\
+---------------------------------------------------------------------------
+
+    \21\ Natural Res. Def. Council v. NHTSA, No. 21-139 (2d Cir.) 
+(consolidated with New York v. NHTSA, No. 21-339 (2d Cir.) and 
+Tesla, Inc. v. NHTSA, No. 21-593, transferred from No. 21-70367 (9th 
+Cir.)). This litigation is currently being held in abeyance pending 
+NHTSA's reconsideration of the interim final rule.
+---------------------------------------------------------------------------
+
+5. Supplemental Notice of Proposed Rulemaking
+
+    Before NHTSA's interim final rule was published but after the 
+agency had announced, through the publication of the Fall 2020 Unified 
+Agenda of Regulatory and Deregulatory Actions, that it had initiated a 
+rulemaking in response to the Auto Innovators' petition, NHTSA received 
+two letters regarding the rulemaking: One jointly from the State of New 
+York, the Natural Resources Defense Council, and the Sierra Club, and 
+one from Tesla.\22\ These letters raised concerns with NHTSA's 
+rulemaking, particularly with the entities' inability to review or 
+comment on the Auto Innovators' petition for rulemaking in advance. 
+NHTSA did not respond to these letters prior to the publication of the 
+interim final rule, but NHTSA included both letters in the docket when 
+the interim final rule was published and noted that they would ``be 
+treated as comments for appropriate consideration.'' \23\
+---------------------------------------------------------------------------
+
+    \22\ NHTSA-2021-0001-0001; NHTSA-2021-0001-0009.
+    \23\ 86 FR 3016, 3023 n.74 (Jan. 14, 2021).
+---------------------------------------------------------------------------
+
+    After the interim final rule was published, NHTSA received eight 
+more substantive comments.\24\ NHTSA received comments from:
+---------------------------------------------------------------------------
+
+    \24\ NHTSA received a ninth comment that simply said, ``Help.'' 
+NHTSA-2021-0001-0018. Without any additional information, NHTSA 
+cannot reasonably address or respond to this commenter's concern. 
+After the close of the comment period, NHTSA also received a letter 
+from two U.S. Representatives regarding the economic harms of 
+applying the adjustment before Model Year 2022. NHTSA-2021-0001-
+0046. NHTSA is treating this letter as a comment for this rulemaking 
+and addressing the issue it raises in this final rule. See 49 CFR 
+553.23.
+---------------------------------------------------------------------------
+
+    <bullet> The Attorneys General of California, New York, 
+Connecticut, Delaware, Illinois, Iowa, Maine, Maryland, Massachusetts, 
+Minnesota, New Jersey, Oregon, Pennsylvania, Rhode Island, Washington, 
+and Vermont; \25\
+---------------------------------------------------------------------------
+
+    \25\ NHTSA-2021-0001-0017.
+---------------------------------------------------------------------------
+
+    <bullet> American Council for an Energy-Efficient Economy, Center 
+for Auto Safety, Center for Biological Diversity, Consumer Federation 
+of America, Consumer Reports, The Ecology Center (Michigan), 
+Environmental Law and Policy Center, Interfaith Power & Light, Sierra 
+Club, Union of Concerned Scientists; \26\
+---------------------------------------------------------------------------
+
+    \26\ NHTSA-2021-0001-0015.
+---------------------------------------------------------------------------
+
+    <bullet> Natural Resources Defense Council and Sierra Club; \27\
+---------------------------------------------------------------------------
+
+    \27\ NHTSA-2021-0001-0013.
+---------------------------------------------------------------------------
+
+    <bullet> The Institute for Policy Integrity at New York University 
+School of Law; \28\
+---------------------------------------------------------------------------
+
+    \28\ NHTSA-2021-0001-0011.
+---------------------------------------------------------------------------
+
+    <bullet> Tesla; \29\
+---------------------------------------------------------------------------
+
+    \29\ NHTSA-2021-0001-0012.
+---------------------------------------------------------------------------
+
+    <bullet> The Alliance for Automotive Innovation; \30\
+---------------------------------------------------------------------------
+
+    \30\ NHTSA-2021-0001-0014.
+---------------------------------------------------------------------------
+
+    <bullet> The National Automobile Dealers Association (NADA); \31\ 
+and
+---------------------------------------------------------------------------
+
+    \31\ NHTSA-2021-0001-0016.
+---------------------------------------------------------------------------
+
+    <bullet> An anonymous individual.\32\
+---------------------------------------------------------------------------
+
+    \32\ NHTSA-2021-0001-0019.
+---------------------------------------------------------------------------
+
+    Most of the comments opposed the interim final rule, raising 
+serious procedural, legal, and substantive concerns. In general, these 
+comments argued that NHTSA did not have the authority to delay the 
+application of the adjusted rate beyond Model Year 2019 and that, 
+regardless, NHTSA would have to do so through notice-and-comment, not 
+by an interim final rule that was effective immediately without prior 
+notice and without the opportunity to comment in advance. In supporting 
+these arguments, the commenters relied, in part, upon the two earlier 
+decisions by the Second Circuit.
+    Most of these comments also challenged the interim final rule as 
+arbitrary and capricious on multiple grounds. For example, the comments 
+discussed that applying the increased rate before Model Year 2022 would 
+not be retroactive because the increased rate was originally applied in 
+2016 when it was still prospective--both in the initial interim final 
+rule in July 2016 and in the rule in response to the initial petition 
+for reconsideration in December 2016--and NHTSA's subsequent actions 
+that were invalidated by the Second Circuit did not change that fact. 
+In these commenters' view, manufacturers have been on notice of the 
+increase since well before Model Year 2019, and any reliance to the 
+contrary was undue. These comments argued that this was particularly 
+true given the rulings from the Second Circuit litigation, in which 
+many of these commenters and the Auto Innovators were involved, with 
+the predecessor organizations having intervened and participated in 
+this litigation. The comments further argued that delaying the 
+application of the increased rate would affect future compliance 
+because manufacturers may be incentivized to hold credits for model 
+years when the higher rate will apply. That is, a credit earned at the 
+$5.50 rate is likely to be more valuable--either for the manufacturer's 
+own use or to sell to another manufacturer--in a model year when the 
+rate increases to at least $14 (although credits must be used within a 
+limited number of years before they expire). The comments also argued 
+that the interim final rule improperly analyzed the economic effects of 
+the COVID-19 pandemic, for example, by not accounting for any positive 
+economic data and disregarding that some of the relevant conduct 
+occurred before the pandemic.
+    These comments also argued that the interim final rule violated the 
+National Environmental Policy Act of 1969 (NEPA), by, for example, not 
+taking a hard look at the environmental consequences of the action and 
+ignoring the environmental harms that may result from delaying the 
+penalty increase. Lastly, in response to NHTSA's request for comment 
+about whether the adjustment should be delayed further until Model Year 
+2023, these comments opposed any additional delay. Some of these 
+comments also expressed concern with the short ten-day comment period 
+provided by the interim final rule--and only after the rule was already 
+effective without any opportunity to comment beforehand.
+    Two of the comments supported the interim final rule. The Auto 
+Innovators reiterated the reasoning set forth in its petition, which 
+NHTSA granted in the interim final rule. According to the Auto 
+Innovators, the interim final rule was consistent with NHTSA's December 
+2016 rule; appropriately accounted for the industry's production and 
+design processes, including the unforeseen challenges of the COVID-19 
+public health emergency; and fairly implemented the Second Circuit's 
+decision. The Auto Innovators also noted that Model Year 2022 vehicles 
+could have begun being produced as early as January 2, 2021--about two 
+weeks before the interim final rule was published--but it believes 
+NHTSA was reasonable to make the adjustment applicable beginning in 
+Model Year 2022, declining to request a further delay in the adjustment 
+to Model Year 2023. NADA supported the Auto
+
+[[Page 18998]]
+
+Innovators' comment, adding that increased CAFE civil penalties before 
+Model Year 2022 would lead to higher vehicle prices for consumers or 
+manufacturer shifts in available offerings, without any associated 
+environmental or safety benefits.
+    On January 20, 2021--while the post-promulgation comment period for 
+the interim final rule was still open--the President issued Executive 
+Order 13990, entitled ``Protecting Public Health and the Environment 
+and Restoring Science to Tackle the Climate Crisis.'' E.O. 13990 
+directs the heads of all agencies to immediately review all existing 
+regulations, orders, guidance documents, policies, and any other 
+similar agency actions promulgated, issued, or adopted between January 
+20, 2017, and January 20, 2021, that are, or may be inconsistent with, 
+or present obstacles to, the policy set forth in E.O. 13990: A policy 
+``to listen to the science; to improve public health and protect our 
+environment; to ensure access to clean air and water; to limit exposure 
+to dangerous chemicals and pesticides; to hold polluters accountable, 
+including those who disproportionately harm communities of color and 
+low-income communities; to reduce greenhouse gas emissions; to bolster 
+resilience to the impacts of climate change; to restore and expand our 
+national treasures and monuments; and to prioritize both environmental 
+justice and the creation of the well-paying union jobs necessary to 
+deliver on these goals.'' \33\ The Secretary of Transportation 
+expressly identified the January 14, 2021 CAFE civil penalties interim 
+final rule as subject to E.O. 13990.\34\
+---------------------------------------------------------------------------
+
+    \33\ 86 FR 7037, 7037 (Jan. 25, 2021).
+    \34\ Memorandum from the Acting General Counsel of DOT to the 
+Chief Counsel and Acting Deputy Administrator of NHTSA and Special 
+Advisor, ``Implementation of Executive Order 13990, entitled 
+`Protecting Public Health and the Environment and Restoring Science 
+to Tackle the Climate Crisis' '' (Feb. 22, 2021). https://www.transportation.gov/sites/dot.gov/files/2021-02/Memo-to-NHTSA.pdf.
+---------------------------------------------------------------------------
+
+    In accord with E.O. 13990 and the Secretary's determination, and in 
+light of the significant concerns raised by the commenters after the 
+interim final rule was issued, NHTSA began reviewing and reconsidering 
+the January 14, 2021 interim final rule. Specifically, NHTSA considered 
+repealing the interim final rule and reverting to the December 2016 
+final rule that would apply the adjusted rate beginning with Model Year 
+2019--the rule that the Second Circuit has said twice is ``now in 
+force.'' \35\
+---------------------------------------------------------------------------
+
+    \35\ Nat. Res. Def. Council v. Nat'l Highway Traffic Safety 
+Admin., 894 F.3d 95, 116 (2d Cir. 2018); New York v. Nat'l Highway 
+Traffic Safety Admin., 974 F.3d 87, 101 (2d Cir. 2020).
+---------------------------------------------------------------------------
+
+    NHTSA believed that an additional period of public comment would 
+aid the agency in its reexamination of the issues involved in the 
+interim final rule. Considering the importance of this rulemaking and 
+the short comment period--ten days--previously provided to interested 
+parties, NHTSA published a supplemental notice of proposed rulemaking 
+(SNPRM) on August 20, 2021, to provide the public with an appropriate 
+amount of time to comment and to enable NHTSA to more fully review and 
+consider the issues.\36\ In doing so, NHTSA expressly requested comment 
+on whether it should proceed to a final rule that repeals the interim 
+final rule and reverts to the December 2016 final rule, restoring the 
+application of the increased CAFE civil penalty rate beginning with 
+Model Year 2019. NHTSA also accepted comments on whether the adjustment 
+should apply beginning with a model year later than Model Year 2019, 
+with commenters arguing for such a position asked to explain how it is 
+consistent with the 2015 Act and the Second Circuit's decisions. NHTSA 
+also noted it would consider comments already submitted in response to 
+the interim final rule as part of its review and the anticipated 
+promulgation of a final rule following the comment period. The comment 
+period for the SNPRM closed on September 20, 2021.
+---------------------------------------------------------------------------
+
+    \36\ 86 FR 46811 (Aug. 20, 2021).
+---------------------------------------------------------------------------
+
+D. Overview of the Comments Received
+
+    In addition to the comments received in response to the interim 
+final rule,\37\ NHTSA received seventeen substantive comments in 
+response to the SNPRM.\38\ NHTSA received comments from:
+---------------------------------------------------------------------------
+
+    \37\ Shortly prior to publication of the interim final rule, 
+NHTSA received two letters regarding the rulemaking. Both letters 
+are included in the docket for this matter and were treated as 
+comments for appropriate consideration.
+    \38\ An eighteenth comment only expressed a desire to have the 
+sides of the freeways in the Los Angeles area cleaned. NHTSA-2021-
+0001-0030. As NHTSA is required to consider only relevant matter in 
+finalizing a rule, this comment is outside the scope of this 
+rulemaking.
+---------------------------------------------------------------------------
+
+    <bullet> The Attorneys General of California, New York, 
+Connecticut, Delaware, Illinois, Iowa, Maryland, Massachusetts, New 
+Jersey, Oregon, Pennsylvania, Washington, and Vermont; \39\
+---------------------------------------------------------------------------
+
+    \39\ NHTSA 2021-0001-0039. After the close of the comment 
+period, the Attorneys General of New York, Connecticut, Delaware, 
+Illinois, Iowa, Maine, Maryland, Massachusetts, Minnesota, New 
+Jersey, Oregon, Pennsylvania, Rhode Island, Vermont, and Washington 
+jointly submitted an additional letter regarding the need to adjust 
+the CAFE civil penalty rate for 2022. NHTSA-2021-0001-0047. NHTSA is 
+treating this letter as a comment for this rulemaking and addressing 
+the issue it raises in this final rule. See 49 CFR 553.23.
+---------------------------------------------------------------------------
+
+    <bullet> Natural Resources Defense Council and Sierra Club; \40\
+---------------------------------------------------------------------------
+
+    \40\ NHTSA 2021-0001-0037.
+---------------------------------------------------------------------------
+
+    <bullet> Tesla; \41\
+---------------------------------------------------------------------------
+
+    \41\ NHTSA-2021-0001-0036.
+---------------------------------------------------------------------------
+
+    <bullet> The Institute for Policy Integrity at New York University 
+School of Law; \42\
+---------------------------------------------------------------------------
+
+    \42\ NHTSA 2021-0001-0038.
+---------------------------------------------------------------------------
+
+    <bullet> The Alliance for Automotive Innovation; \43\
+---------------------------------------------------------------------------
+
+    \43\ NHTSA 2021-0001-0043.
+---------------------------------------------------------------------------
+
+    <bullet> Stellantis (FCA US LLC); \44\
+---------------------------------------------------------------------------
+
+    \44\ NHTSA 2021-0001-0042. Stellantis requested confidential 
+treatment for the business information included in its comment, 
+pursuant to 49 CFR part 512. As with the companies that requested 
+confidential treatment for some of the business information included 
+in each of their individual submissions supplementing the Auto 
+Innovators' petition that resulted in the interim final rule, the 
+public version of Stellantis' submission can be found in the docket 
+for this action at www.regulations.gov.
+---------------------------------------------------------------------------
+
+    <bullet> Jaguar Land Rover North America LLC; \45\
+---------------------------------------------------------------------------
+
+    \45\ NHTSA 2021-0001-0040.
+---------------------------------------------------------------------------
+
+    <bullet> Ferrari; \46\
+---------------------------------------------------------------------------
+
+    \46\ NHTSA-2021-0001-0044. NHTSA received this comment after the 
+comment period closed, but still considered it in promulgating this 
+final rule. Under NHTSA's regulations, ``[l]ate filed comments will 
+be considered to the extent practicable.'' 49 CFR 553.23.
+---------------------------------------------------------------------------
+
+    <bullet> The National Automobile Dealers Association (NADA); \47\ 
+and
+---------------------------------------------------------------------------
+
+    \47\ NHTSA 2021-0001-0041.
+---------------------------------------------------------------------------
+
+    <bullet> Private citizens and anonymous individuals.\48\
+---------------------------------------------------------------------------
+
+    \48\ NHTSA-2021-0001-0028; NHTSA 2021-0001-0029; NHTSA 2021-
+0001-0032; NHTSA 2021-0001-0033; NHTSA 2021-0001-0034; NHTSA 2021-
+0001-0035; NHTSA 2021-0001-0045.
+---------------------------------------------------------------------------
+
+    The majority of comments submitted in response to the interim final 
+rule and to the supplemental notice of proposed rulemaking support 
+returning to the December 2016 final rule. These comments primarily 
+argue that NHTSA lacked the statutory authority to issue the January 
+2021 interim final rule. These comments also generally argue that 
+retroactivity was not an issue: Automakers were already aware as of 
+December 2016 that the adjustment would apply in Model Year 2019 and 
+beyond. It was not until Model Year 2019 was already nearly complete 
+that NHTSA issued a final rule changing that, which the Second Circuit 
+subsequently determined was legally invalid. The predecessor 
+organizations of Auto Innovators participated in that litigation as 
+intervenors and were well aware of the possibility that the Second 
+Circuit would restore the applicability of the adjusted rate beginning 
+with Model Year 2019. In fact, the Second Circuit decision expressly 
+stated that the court understood the effect of its decisions to be that 
+the increased penalty amount was in effect. Accordingly, these 
+commenters argue
+
+[[Page 18999]]
+
+that it would be appropriate for NHTSA to revisit the interim final 
+rule's characterization of the application of the adjustment beginning 
+with Model Year 2019 as ``retroactive.'' Moreover, these commenters 
+raised concerns regarding the procedures that the agency used in 
+issuing the interim final rule, which did not proceed through a more 
+typical notice-and-comment process and which made the rule effective 
+immediately upon publication. In addition, these commenters urged NHTSA 
+to further review and consider the Second Circuit's prior decisions 
+and, in light of the ongoing litigation, assess the legal risk of 
+leaving the interim final rule in place, as the interim final rule was 
+based on an assertion of discretion that is in conflict with the 2015 
+Act and the Second Circuit's decisions.
+    The comments in favor of retaining the interim final rule largely 
+re-raised the reasoning of the December 2016 final rule, noting that 
+the affected model years have already lapsed or largely lapsed, and 
+design and production cycles for the affected model years were already 
+locked in based on the unadjusted CAFE civil penalty rate. These 
+comments also described the economic harm that applying the adjusted 
+rate would have on the industry, which is already facing difficult 
+economic conditions due to the effects of COVID-19, microchip 
+shortages, and other supply chain issues.
+
+E. Response to the Comments
+
+1. Agency Reconsideration
+
+    As a threshold matter and as NHTSA has explained before, NHTSA, 
+like all agencies, must continually consider a range of possible 
+statutory interpretations and reassess their validity, including in 
+response to changed circumstances or when questions arise regarding the 
+legality of the prior action--particularly when a Federal court already 
+has ruled twice on related issues. Not only is it an agency's 
+responsibility to reevaluate its interpretations to ensure they are 
+legally sound, an agency is allowed to change its interpretations, 
+within reason, based on evolving notions about the appropriate balance 
+of varying policy considerations. NHTSA is permitted to change its 
+views based upon its experience and expertise, provided that the 
+requirements of the Administrative Procedure Act (APA) and other 
+governing statutes are met. To do so, an agency must show that it is 
+aware it is changing its position and must provide a reasoned 
+explanation for the change.\49\
+---------------------------------------------------------------------------
+
+    \49\ Encino Motorcars, LLC v. Navarro, 579 U.S. 211, 221 (2016); 
+FCC v. Fox Television Stations, Inc., 556 U.S. 502, 515-16 (2009).
+---------------------------------------------------------------------------
+
+    In the SNPRM, NHTSA expressly acknowledged that it was 
+reconsidering the January 2021 interim final rule as a result of E.O. 
+13990, the Secretary's related determination, the significant concerns 
+raised by commenters in the earlier rulemakings on this issue, further 
+review and consideration of the Second Circuit's prior decisions, and 
+in light of the pending litigation. NHTSA provided a reasoned 
+explanation for its tentative decision in the SNPRM that it does not 
+have discretion over when the required adjustment should begin to take 
+effect, and after careful consideration of the relevant information, 
+finalizes and elaborates on that decision here. In particular, NHTSA 
+concludes that the interim final rule was procedurally flawed and did 
+not appropriately carry out the clear command from the Second Circuit's 
+decision that struck down the 2019 final rule.
+    As explained further below, NHTSA does not believe that ``its prior 
+policy has engendered serious reliance interests that must be taken 
+into account,'' which may require the agency to ``provide a more 
+detailed justification than what would suffice for a new policy created 
+on a blank slate.'' \50\ Nonetheless, NHTSA has provided ``a more 
+detailed justification'' in the following discussion. Moreover, the 
+administrative and public process leading to this rule has been more 
+thorough than the process leading to the interim final rule. NHTSA 
+undertook extensive agency review, issued an SNPRM, gave the public an 
+opportunity to comment in advance, and responded to those comments in 
+detail here. By contrast, NHTSA promulgated the interim final rule 
+without notice, with only a brief window for public comments, and 
+without the opportunity to comment in advance.
+---------------------------------------------------------------------------
+
+    \50\ FCC v. Fox Television Stations, Inc., 556 U.S. 502, 515 
+(2009).
+---------------------------------------------------------------------------
+
+2. Procedural Issues
+
+    NHTSA promulgated the January 2021 interim final rule without 
+providing notice and without providing the opportunity to comment in 
+advance. NHTSA also made the interim final rule effective immediately 
+and only provided ten days after publication for comments. The interim 
+final rule did not explain why the post-promulgation comment period was 
+so short, even though NHTSA could have provided more time for comments 
+given that the rule was already in effect.
+    Upon review, NHTSA agrees with the commenters that argue that these 
+procedural issues alone merit repeal of the interim final rule. The 
+Second Circuit previously held that changing the effective date of the 
+rule that was in force at the time would generally require notice-and-
+comment.\51\ For the January 2021 interim final rule, NHTSA concluded 
+that good cause existed for immediate implementation of the rule 
+without prior notice and comment on the grounds that it was 
+impracticable to delay publication of the interim final rule for notice 
+and comment, public comment was unnecessary, and the agency's action 
+was in the public interest. However, as many of the affected 
+manufacturers and their trade association have noted for other 
+purposes, the affected model years were either completed or already 
+underway at the time of the interim final rule. There was no pressing 
+emergency that would have made it impracticable to provide notice and 
+request comment in advance.
+---------------------------------------------------------------------------
+
+    \51\ Natural Res. Def. Council v. NHTSA, 894 F.3d 95, 113 (2d 
+Cir. 2018).
+---------------------------------------------------------------------------
+
+    Public comment was also necessary. While the 2015 Act provides that 
+the first adjustment shall be made through an interim final rulemaking 
+without public comment, NHTSA's first adjustment was made in an interim 
+final rule in July 2016 with a subsequent final rule issued in December 
+2016. The January 2021 interim final rule was issued years later--after 
+multiple rounds of requests for comments in other notices on this same 
+issue.
+    Moreover, NHTSA should have sought comment given the public 
+interest. NHTSA was aware of the public interest in this issue, having 
+received multiple rounds of comments from a variety of entities and 
+having proceeded through two rounds of litigation. While the automotive 
+industry argued in its petition that it has faced unprecedented 
+economic challenges arising from the COVID-19 national emergency, NHTSA 
+did not consider any countervailing evidence, discussed further below. 
+Additionally, any economic harm--which would only be caused by 
+manufacturers' failures to comply with the applicable CAFE standards--
+does not outweigh the public interest in commenting on the change in 
+advance. Indeed, affording the public the opportunity to comment on the 
+petition in advance would have given NHTSA additional insight into the 
+impact of the COVID-19 national emergency on the industry.
+    Because NHTSA lacked good cause, the interim final rule also should 
+not have gone into effect immediately upon
+
+[[Page 19000]]
+
+publication in the Federal Register under 5 U.S.C. 553(d)(3) and 5 
+U.S.C. 808(2).\52\
+---------------------------------------------------------------------------
+
+    \52\ The interim final rule also stated that a delayed effective 
+date was not required because, under 5 U.S.C 553(d)(2), it 
+``relieve[d] a restriction'' by allowing additional time before the 
+higher penalty rate would have begun to apply. Regardless of whether 
+NHTSA continues to believe that delaying the application of a higher 
+penalty rate counts as relieving a restriction, the lack of good 
+issue and other procedural issues would still merit repeal of the 
+interim final rule.
+---------------------------------------------------------------------------
+
+3. Statutory Authorization
+
+    In the interim final rule, NHTSA described its authority to issue 
+the rule as based on its specific statutory authority to administer the 
+CAFE program and its general statutory authority to do so efficiently 
+and in the public interest.\53\ NHTSA also explained that the procedure 
+established in the Energy Policy and Conservation Act (EPCA) \54\ to 
+increase the CAFE civil penalty rate implies that NHTSA has the broader 
+authority to oversee the administration and enforcement of the rate 
+more generally.\55\ NHTSA also noted that for the CAFE civil penalty to 
+be covered by the 2015 Act, NHTSA must have the authority to assess or 
+enforce it, and thus oversee and administer it as appropriate.\56\
+---------------------------------------------------------------------------
+
+    \53\ 86 FR 3016, 3019-20 (Jan. 14, 2021).
+    \54\ Public Law 94-163, 89 Stat. 871 (1975). EPCA created a 
+comprehensive approach to federal energy policy, including 
+establishing the CAFE program.
+    \55\ 86 FR 3016, 3020 (Jan. 14, 2021).
+    \56\ 86 FR 3016, 3020 (Jan. 14, 2021).
+---------------------------------------------------------------------------
+
+    For the reasons explained by the Second Circuit and the comments, 
+NHTSA did not have statutory authority to promulgate the interim final 
+rule.\57\ As the Second Circuit noted, ``an agency may only act within 
+the authority granted to it by statute.'' \58\ Neither the 2015 Act, 
+which applied to all Federal agencies, nor EPCA authorized NHTSA to 
+issue an interim final rule delaying the application of the previously-
+issued adjustment.\59\ To the contrary, the Second Circuit has 
+concluded that the 2015 Act contains a ``highly circumscribed schedule 
+for penalty increases'' that confers ``no discretion to the agencies 
+regarding the timing of the adjustments.'' \60\
+---------------------------------------------------------------------------
+
+    \57\ To the extent that the interpretation of NHTSA's statutory 
+authority in the interim final rule was reasonable, NHTSA 
+nonetheless concludes that a different interpretation is appropriate 
+now, for the reasons described throughout this rule.
+    \58\ NRDC, 894 F.3d at 108. Agencies do possess some inherent 
+powers, but issuing an interim final rule to delay the application 
+of a previously-issued rule is not one of them.
+    \59\ See id. at 112 (noting that EPCA provides no authority ``to 
+delay the penalty as part of'' NHTSA's ``responsibility for 
+administering the fuel economy portions of that statute'').
+    \60\ New York v. NHTSA, 974 F.3d 87, 100 (2d Cir. 2020); Natural 
+Res. Def. Council v. NHTSA, 894 F.3d 95, 109, 113 n.12 (2d Cir. 
+2018).
+---------------------------------------------------------------------------
+
+    Further, as the Second Circuit made clear, the procedure in EPCA 
+that allows NHTSA to increase the CAFE civil penalty rate does not 
+conflict with the agency's duty to comply with the 2015 Act,\61\ which 
+includes the timing of when the adjustment will apply. To the contrary, 
+the limited nature of the specific statutory procedure in EPCA for 
+increasing the CAFE penalty rate (apart from the 2015 Act) suggests 
+that Congress was restricting the scope of NHTSA's power, authorizing 
+it to increase the CAFE civil penalty rate only under certain 
+circumstances. Note that, as NHTSA has previously explained, EPCA acts 
+as a ``one-way ratchet'' with no means for lowering the CAFE civil 
+penalty rate \62\ or conferring NHTSA any discretion over when 
+penalties ought to be assessed. The 2015 Act and its procedures for 
+adjustments are consistent with EPCA.
+---------------------------------------------------------------------------
+
+    \61\ See New York, 974 F.3d at 99-100.
+    \62\ 84 FR 36007, 36021 (July 26, 2019).
+---------------------------------------------------------------------------
+
+    To the extent that the 2015 Act affords NHTSA any discretion to 
+act, NHTSA concludes that its discretion would be limited. For example, 
+the 2015 Act provides express procedures and deadlines for agencies to 
+apply the adjustments. It also provides narrow exceptions for the 
+amount of the adjustment and only for the initial ``catch-up'' 
+adjustment. The purposes of the 2015 Act, as Congress stated in the Act 
+itself, include ``allow[ing] for regular adjustment for inflation of 
+civil monetary penalties'' and ``maintain[ing] the deterrent effect of 
+civil monetary penalties and promote compliance with the law.'' \63\ 
+NHTSA notes that the CAFE civil penalty rate was established as $5 in 
+1975 and held constant at $5.50 since 1997 and that making the required 
+adjustment aligns with the legislative purpose of catching up the rate 
+for the lack of adjustments. Accordingly, NHTSA would decline to delay 
+the adjustment further, even if it had the discretion to do so.
+---------------------------------------------------------------------------
+
+    \63\ 28 U.S.C. 2461 note, sec. 2(b)(1)-(2).
+---------------------------------------------------------------------------
+
+4. Retroactivity
+
+    In the January 2021 interim final rule being repealed by this 
+action, NHTSA accepted the industry petition's argument that applying 
+the increased civil penalty rate to completed or largely completed 
+model years would raise serious retroactivity concerns.\64\ NHTSA 
+acknowledged that retroactivity generally is not favored in the law and 
+concluded that imposing a higher civil penalty rate for model years 
+already completed or nearly so would not have incentivized improvements 
+to fuel economy, given the industry timelines for the design, 
+development, and production of new vehicles.\65\
+---------------------------------------------------------------------------
+
+    \64\ 86 FR 3016, 3020-21 (Jan. 14, 2021).
+    \65\ 86 FR 3016, 3020-21 (Jan. 14, 2021).
+---------------------------------------------------------------------------
+
+    While retroactivity generally is not favored in the law, there is 
+no rule that Congress cannot legislate retroactively. The 2015 Act 
+expressly recognizes that it may have a partially retroactive effect; 
+that is part of the statute's design and Congress's intent. The statute 
+provides that ``[a]ny increase under this Act in a civil monetary 
+penalty shall apply only to civil monetary penalties, including those 
+whose associated violation predated such increase, which are assessed 
+after the date the increase takes effect.'' \66\
+---------------------------------------------------------------------------
+
+    \66\ 28 U.S.C. 2461 note, sec. 6 (emphasis added).
+---------------------------------------------------------------------------
+
+    Nonetheless, NHTSA now concludes that the effect of the adjustment 
+here applying beginning in Model Year 2019 is not retroactive. As NHTSA 
+mentioned in the SNPRM, automakers were aware, as of December 2016, 
+that the adjustment would apply beginning with Model Year 2019. The 
+Second Circuit confirmed that an immediate adjustment was compelled by 
+the 2015 Act, which long preceded Model Year 2019.\67\ Indeed, the Auto 
+Innovators acknowledge that ``manufacturers knew there was a 
+possibility that the $14 civil penalty rate might be applied to MYs 
+2019 to 2021 vehicles.'' \68\ It was not until Model Year 2019 was 
+already nearly complete that the agency issued a final rule changing 
+that--a rule that the Second Circuit subsequently determined was 
+legally invalid. Auto Innovators (through its predecessor entities) 
+participated in that litigation as an intervenor and was well aware of 
+the possibility that the Second Circuit would--and indeed, did--restore 
+the applicability of the adjustment beginning with Model Year 2019. 
+Accordingly, NHTSA has reconsidered and rejected its previous 
+characterization of the application of the adjustment beginning with 
+Model Year 2019 as ``retroactive.''
+---------------------------------------------------------------------------
+
+    \67\ Natural Res. Def. Council v. NHTSA, 894 F.3d 95, 109 (2d 
+Cir. 2018).
+    \68\ Auto Innovators Comment, at 6.
+---------------------------------------------------------------------------
+
+    Any violation of the CAFE standards for Model Years 2019 through 
+2021 occurred or will occur well after NHTSA confirmed in December 2016 
+that it would apply penalties beginning with Model Year 2019--in 
+response to a petition from industry to delay the effective application 
+of the penalty increase precisely to Model Year 2019. Indeed, industry 
+had reason to believe from the enactment of the 2015 Act and NHTSA's 
+July 2016 adjustments that the adjustments could have applied
+
+[[Page 19001]]
+
+immediately, or in any event, well before Model Year 2019. To the 
+extent that manufacturers did not have notice by the 2015 Act itself, 
+they unquestionably had notice by NHTSA's 2016 rules. The industry 
+previously argued that vehicle designs are often fixed years in 
+advance. Thus, by the time NHTSA promulgated its July 2019 final rule 
+(that was promptly challenged in litigation and was subsequently 
+vacated by the Second Circuit), automakers' designs for Model Years 
+2019 through 2021 were likely largely set already. At that time, 
+NHTSA's regulations stated that the CAFE civil penalty adjustment to 
+$14 (plus any other adjustments that needed to be made) would go into 
+effect beginning with Model Year 2019. There was no guarantee at that 
+time that NHTSA would have issued a rule reversing course and blocking 
+the adjustment, and any attempt to do so would have been legally 
+vulnerable. Any automakers that made their plans for Model Years 2019 
+through 2021 thinking that penalties would not increase did so at their 
+own risk and in defiance of the Second Circuit's decisions.
+    The Second Circuit ruled that NHTSA's previous actions to delay or 
+avoid the adjustment were unlawful, ultimately determining--twice--that 
+the adjustment was ``now in force.'' \69\ And the Auto Innovators 
+concede that the Court's determinations that the adjustment is ``now in 
+force'' is currently ``having effects on manufacturers' decisions with 
+regard to future model-year fuel economy decisions,'' even though the 
+interim final rule remained on the books until the effective date of 
+this final rule.\70\ That some manufacturers may have chosen to base 
+their compliance decisions and production plans on the chance that 
+NHTSA may take additional action to attempt to delay or avoid the 
+adjustment despite legal vulnerability is a risk they took on their 
+own, aware of the circumstances. The Auto Innovators' argument is 
+expressly based on assumptions manufacturers made about how the 
+Administration was ``likely'' to act.\71\ These manufacturers--
+particularly those, as noted by the Auto Innovators, that participated 
+in the court proceedings through their trade associations--were aware 
+(or at least should have been aware) of the possibility that their 
+predictions regarding NHTSA's actions would ultimately prove 
+incorrect.\72\ That possibility is not enough to create retroactivity 
+concerns.
+---------------------------------------------------------------------------
+
+    \69\ New York, 974 F.3d at 101; NRDC, 894 F.3d at 116.
+    \70\ Auto Innovators Comment, at 7.
+    \71\ Auto Innovators Comment, at 7 (``[Manufacturers] had every 
+reason to assume that, if the rule under review in the New York case 
+were vacated, NHTSA would have the authority to undertake the same 
+non-retroactivity analysis that the Obama Administration Department 
+of Transportation undertook in the December 2016 Final Rule. They 
+also had every reason to assume that NHTSA was likely to opt for a 
+first model year later than MY 2019 for the application of the $14 
+civil penalty rate and was not precluded by either Second Circuit 
+decision from doing so.'' (emphasis added)).
+    \72\ At least one manufacturer had been budgeting for the 
+possibility of paying civil penalties with the adjustment in effect 
+before the July 2019 final rule was enacted. See IPI Comment, at 7.
+---------------------------------------------------------------------------
+
+    The Auto Innovators did argue that the statutory purposes of an 
+adjustment are ``primarily deterrent,'' as stated in the 2015 Act and 
+acknowledged by the Second Circuit.\73\ However, the first purpose 
+listed in the statute--and also recognized by the Second Circuit as ``a 
+primary purpose'' of the statute \74\--is to ``allow for regular 
+adjustment for inflation of civil monetary penalties.'' \75\ Making the 
+initial ``catch-up'' adjustment will allow NHTSA to conduct the 
+required subsequent annual adjustments in line with the agency's other 
+civil penalties that have already been adjusted on a regular basis. 
+Furthermore, establishing the increased rate may have a deterrent 
+effect in future model years as the rate continues to increase. And, 
+indeed, the fact that automakers knew that an adjustment under the 
+statute was likely at the time of the statute's passage, as well as 
+upon the adoption of the 2016 rule--as the Auto Innovators 
+acknowledged--very likely served as a deterrent for those manufacturers 
+who opted to meet fuel economy standards rather than pay penalties.
+---------------------------------------------------------------------------
+
+    \73\ See 28 U.S.C. 2461 note, sec. 2(b)(2); see also id., sec. 
+2(a)(2); NRDC, 894 F.3d at 109.
+    \74\ NRDC, 894 F.3d at 109.
+    \75\ 28 U.S.C. 2461 note, sec. 2(b)(1).
+---------------------------------------------------------------------------
+
+    Moreover, the Auto Innovators note elsewhere that imposing an 
+appropriately adjusted rate to vehicles in Model Years 2019 to 2021 
+could still have future environmental impacts.\76\ In any event, these 
+purpose-based policy concerns, even if correct, are insufficient to 
+override the language and structure of the governing statute, as the 
+Second Circuit has plainly interpreted it.
+---------------------------------------------------------------------------
+
+    \76\ Auto Innovators Comment, at 10. The Auto Innovators argue 
+that ``the imposition of the $14 civil penalty rate to MYs 2019 to 
+2021 vehicles actually could have deleterious environmental impacts: 
+Penalties that lead to increases in the prices of newer vehicles 
+could discourage consumers from purchasing more efficient, cleaner 
+vehicles.'' Id. While NHTSA agrees that applying the adjusted rate 
+to Model Year 2019 to Model Year 2021 vehicles could have 
+environmental effects, NHTSA believes it is likely that 
+manufacturers have already priced in the potential of having to pay 
+increased penalties--if not during the earlier rounds of litigation 
+and rulemaking, then very likely when the SNPRM was made public.
+---------------------------------------------------------------------------
+
+    The Auto Innovators also noted that ``in the December 2016 Final 
+Rule, NHTSA recognized the need for lead time (and in fact used the 18-
+month CAFE statutory lead time as a proxy) when initially delaying 
+applicability of the $14 civil penalty rate to MY 2019.'' \77\ NHTSA 
+does acknowledge the importance of lead time for manufacturers, but 
+concludes here that manufacturers did receive appropriate lead time for 
+Model Years 2019 through 2021 when the timing of the adjustment was 
+established in December 2016--established at that time in response to a 
+request from industry for delay. Under the interim final rule, the 
+mandatory adjustment would not be applied until Model Year 2022, i.e., 
+to vehicles sold more than five years after the statutory deadline for 
+agencies to make their initial adjustments.
+---------------------------------------------------------------------------
+
+    \77\ Auto Innovators Comment, at 7.
+---------------------------------------------------------------------------
+
+    NHTSA also notes that it does not need to give 18 months' lead time 
+before this adjustment becomes effective. The statutory lead time 
+provision in EPCA for increasing the CAFE civil penalty rate expressly 
+refers to the specific process described in that paragraph for 
+increasing the penalty rate, not to adjustments required to be made 
+pursuant to a separate statute.\78\ The 2015 Act established the timing 
+NHTSA and all other federal agencies were required to follow for the 
+initial catch-up adjustment and the process for doing so through an 
+interim final rulemaking without notice-and-comment.
+---------------------------------------------------------------------------
+
+    \78\ ``A higher amount prescribed under subparagraph (A) of this 
+paragraph is effective for the model year beginning at least 18 
+months after the regulation stating the higher amount becomes 
+final.'' 49 U.S.C. 32912(c)(1)(D).
+---------------------------------------------------------------------------
+
+    NHTSA will make the mandatory adjustments to the CAFE civil penalty 
+rate going forward, as required by law for all civil monetary 
+penalties.
+
+5. Reliance Interests
+
+    For similar reasons, to the extent that industry relied on the CAFE 
+civil penalty rate not being adjusted as required by the statute, any 
+such reliance was unreasonable and was at those manufacturers' own 
+risk--prior to the promulgation of the January 2021 interim final rule 
+or after.
+    In the January 2021 interim final rule, NHTSA concluded that the 
+industry's reliance on the $5.50 rate was reasonable, as NHTSA 
+reconsidered application of the 2015 Act by proposing in 2018 that the 
+2015 Act did not apply and finalizing the proposal in
+
+[[Page 19002]]
+
+2019.\79\ However, manufacturers knew (or should have known) that the 
+CAFE civil penalty rate was going to be adjusted when the 2015 Act was 
+enacted, when NHTSA issued its initial catch-up adjustments in July 
+2016, and when NHTSA issued its response to industry's petition in 
+December 2016 establishing the timing of the adjustment (and 
+accommodating the industry's request for additional lead time in doing 
+so). Indeed, the industry petition in 2016 acknowledged and did not 
+challenge that the 2015 Act applied to the CAFE civil penalty rate.\80\ 
+While there was subsequent rulemaking on the issue, industry 
+participants were also aware that there was litigation over the 
+subsequent rules--indeed, they participated actively in the 
+litigation--and they relied on those subsequent rules at their own 
+risk. Once the Second Circuit vacated each of the rules, the industry 
+had no basis for relying on either of those agency actions.\81\ By 
+industry's own argument, to the extent that manufacturers relied on the 
+July 2019 final rule, much less the January 2021 interim final rule, 
+the planning for Model Years 2019 to 2021 was already or largely 
+complete. This was not a longstanding policy in effect for years 
+before. Moreover, the interim final rule, by definition, was an interim 
+rule that remained subject to change following public comment. It was 
+also quickly subject to legal challenge and agency reconsideration. In 
+particular, the President issued Executive Order 13990, directing 
+review of the interim final rule and other regulations, just one week 
+after the interim final rule was published in the Federal Register and 
+while the post-promulgation comment period was still open. Given this 
+short window, there was minimal time for manufacturers to reasonably 
+rely on the interim final rule remaining in effect.
+---------------------------------------------------------------------------
+
+    \79\ 86 FR 3016, 3021 (Jan. 14, 2021).
+    \80\ NRDC, 894 F.3d at 102 (``[I]ndustry petitioners conceded 
+that `NHTSA was obligated to take some action in response to the 
+Improvements Act' and `NHTSA [was] not empowered to exempt the CAFE 
+program from this directive.' '').
+    \81\ See States Attorneys General Comment, at 5 (citing Envtl. 
+Def. v. Leavitt, 329 F. Supp. 2d 55, 64 (D.C. Cir. 2004) (``[T]he 
+vacatur restores the status quo before the invalid rule took effect 
+and the agency must initiate another rulemaking proceeding if it 
+would seek to confront the problem anew.'' (internal citations and 
+quotations omitted))); Nat'l Fuel Gas Supply Corp. v. Fed. Energy 
+Regulatory Comm'n, 59 F.3d 1281, 1288 (D.C. Cir. 1995); see also 
+United States v. Sec. Indus. Bank, 459 U.S. 70, 79 (1982) (``The 
+principle that statutes operate only prospectively, while judicial 
+decisions operate retrospectively, is familiar to every law 
+student.'')).
+---------------------------------------------------------------------------
+
+    Furthermore, there are countervailing reliance interests to 
+consider here. It is very likely that some manufacturers relied on the 
+2015 statute, the July 2015 initial catch-up adjustment, and the 
+December 2016 final rule in planning for an adjustment to be in effect 
+for Model Year 2019 and continued to do so given the uncertainty of the 
+legal challenges to NHTSA's subsequent actions regarding the CAFE civil 
+penalty rate.\82\ And manufacturers had a strong financial incentive to 
+do so, given that the value of credits for over-complying with the 
+standards would be expected to increase dramatically with the initial 
+adjustment to the CAFE civil penalty rate.\83\ Delaying the application 
+of the adjustment would almost certainly diminish the value of those 
+credits.
+---------------------------------------------------------------------------
+
+    \82\ See, e.g., Tesla Comment on IFR, NHTSA-2021-0001-0012, at 
+9.
+    \83\ See, e.g., Tesla Comment at 9-10.
+---------------------------------------------------------------------------
+
+    As noted in the comments,\84\ industry could have asked the Second 
+Circuit to invoke its equitable discretion and to remand to NHTSA 
+without vacatur, but they did not do so in either case that has already 
+been decided (nor in the pending case challenging the January 2021 
+interim final rule). The Court also did not do so on its own, instead 
+confirming twice its conclusion that the December 2016 rule was ``now 
+in force.'' \85\
+---------------------------------------------------------------------------
+
+    \84\ State Attorneys General Comment, at 5 (citing NRDC v. EPA, 
+808 F.3d 556, 584 (2d Cir. 2015) (when equity demands, remand 
+without vacatur allows agencies to correct legal deficiencies while 
+leaving challenged, unlawful regulations in place); see also Sugar 
+Cane Growers Coop. of Fla. v. Veneman, 289 F.3d 89, 97-98 (D.C. Cir. 
+2002) (invoking equitable discretion to remand without vacatur 
+because there was ``no apparent way to restore the status quo 
+ante''); Allied-Signal, Inc. v. U.S. Nuclear Regulatory Comm'n, 988 
+F.2d 146, 150-51 (D.C. Cir. 1993)).
+    \85\ See NRDC, 894 F.3d at 116; New York, 974 F.3d at 101.
+---------------------------------------------------------------------------
+
+6. Economic Impact of the COVID-19 Pandemic and Other Factors
+
+    In the January 2021 interim final rule, NHTSA concluded that, based 
+on the available information, applying the adjustment to the CAFE civil 
+penalty rate beginning in Model Year 2019 might inhibit economic 
+recovery from the effects of the pandemic, while applying the 
+adjustment beginning in Model Year 2022 was an appropriate action to 
+take for the purpose of promoting job creation and economic growth, 
+citing Executive Order 13924, ``Regulatory Relief To Support Economic 
+Recovery.'' \86\
+---------------------------------------------------------------------------
+
+    \86\ 86 FR 3016, 3022 (Jan. 14, 2021).
+---------------------------------------------------------------------------
+
+    Executive Order 13924 has since been revoked.\87\ Moreover, because 
+NHTSA now concludes that it did not have the authority to issue the 
+interim final rule and lacks discretion regarding when to apply the 
+adjustment, there is no opportunity for NHTSA to consider the economic 
+impact of the COVID-19 pandemic or other economic impacts such as those 
+caused by supply chain shortages and microchip shortages in determining 
+when to apply the adjustment.\88\ It is true that the 2015 Act did 
+allow an agency to make the first adjustment of the amount of a civil 
+monetary penalty by less than the otherwise required amount if 
+increasing the civil monetary penalty by the otherwise required amount 
+would have a negative economic impact, or if the social costs of 
+increasing the civil monetary penalty by the otherwise required amount 
+outweighed the benefits.\89\ However, NHTSA's attempt to apply this 
+exception through the ``negative economic impact'' prong was vacated by 
+the Second Circuit as too late, and the statute provides that the 
+exception could only be applied to the initial ``catch-up'' adjustment. 
+Accordingly, there is no need for NHTSA to evaluate the economic 
+evidence now to determine when it should apply the required adjustment; 
+as the Second Circuit held, NHTSA has no such discretion.
+---------------------------------------------------------------------------
+
+    \87\ 86 FR 11855, 11855 (Mar. 1, 2021).
+    \88\ EPCA does, of course, allow the agency to consider general 
+economic impacts in determining whether to further increase the CAFE 
+civil penalty rate under U.S.C. 32912(c)(1), as well as the specific 
+economic conditions of a particular manufacturer in determining 
+whether to compromise or remit a penalty under 49 U.S.C. 32913. 
+However, neither provision is relevant here.
+    \89\ 28 U.S.C. 2461 note, 4(c). Note also that this exception 
+only related to the amount of the adjustment, not the timing of it.
+---------------------------------------------------------------------------
+
+    Regardless, the economic record on this question is mixed. For 
+example, despite the industry having lower sales in the middle of 2020, 
+sales bounced back in 2021. Indeed, NADA reported ``incredibly high 
+sales in April 2021, . . . the fourth highest monthly total since the 
+year 2000,'' \90\ Demand also remained ``strong,'' despite ``new-
+vehicle average transaction prices reach[ing] record highs at the end 
+of second quarter.'' \91\ Additional information reported by the 
+manufacturers themselves also shows evidence of economic success, 
+despite the challenges presented by the COVID-19 pandemic, microchip 
+shortages, and other supply chain issues.\92\
+---------------------------------------------------------------------------
+
+    \90\ NADA Blog, NADA Issues 2021 Second Quarter Auto Sales 
+Analysis (July 8, 2021), https://blog.nada.org/2021/07/08/nada-issues-2021-second-quarter-auto-sales-analysis/.
+    \91\ Id.
+    \92\ See, e.g., Tesla Comment, at 7-9.
+---------------------------------------------------------------------------
+
+    NHTSA also notes that the CAFE civil penalty formula incorporates 
+the number of vehicles manufactured, so if production is reduced 
+because of lower sales, supply chain issues, or microchip shortages, 
+then the CAFE civil penalty
+
+[[Page 19003]]
+
+liability will also be reduced (before accounting for credits).
+    Two additional points bear noting. On the ``front end,'' much of 
+the relevant conduct (i.e., designing and manufacturing) occurred 
+before the COVID-19 pandemic commenced. The earliest cases that were 
+later classified as COVID-19 were first identified in December 
+2019.\93\ By that time, Model Year 2019 was complete for almost the 
+entire industry, and under the industry's own view, the planning for 
+Model Year 2020 had long since been completed by then with planning for 
+Model Year 2021 well underway in the very least. Further, it was not 
+until mid-March 2020 when the World Health Organization (WHO) declared 
+COVID-19 a pandemic and the President declared a national emergency in 
+the United States--approximately halfway through Model Year 2020 and 
+only six months before the beginning of Model Year 2021 for most 
+manufacturers.
+---------------------------------------------------------------------------
+
+    \93\ ``CDC Museum COVID-19 Timeline,'' https://www.cdc.gov/museum/timeline/covid19.html.
+---------------------------------------------------------------------------
+
+    On the ``back end,'' NHTSA has not yet assessed CAFE civil 
+penalties for Model Year 2019 and beyond. It is possible that the 
+economic state of the industry will be stronger, perhaps even above 
+average, when those penalties are assessed. And the industry may have 
+accrued or planned to accrue more credits by then to offset any 
+additional penalty liability.
+
+7. Usage of Credits
+
+    As noted in the SNPRM, some commenters on this issue have argued 
+that delaying the application of the increased rate would negatively 
+affect future compliance because manufacturers may be incentivized to 
+hold credits for model years when the higher rate will apply. Similar 
+to the economic evidence discussed above, NHTSA lacks discretion to 
+consider manufacturers' planned uses of credits in determining when to 
+apply the required adjustment. The government-wide 2015 Act applies 
+regardless of how manufacturers plan to apply credits to any 
+shortfalls.
+    Even if NHTSA could consider the use of credits in determining the 
+appropriate timing of the adjustment, the Auto Innovators acknowledge 
+that while manufacturers would likely use their earliest earned credits 
+to offset their shortfalls before those credits expire, there could 
+still be some credits that manufacturers would need to decide whether 
+to use immediately or carry forward to future model years.\94\ While 
+the magnitude of the effects of these decisions may be small in the 
+immediately affected model years, the magnitude of the effects could be 
+compounded in future model years in a cascade as additional credits 
+continue to be time-shifted.
+---------------------------------------------------------------------------
+
+    \94\ Auto Innovators Comment, at 12 (``[O]lder credits will be 
+used to mostly, if not completely, cancel any shortfalls. For this 
+reason, delaying the application of a $14 civil penalty rate to MY 
+2022 is highly unlikely to affect manufacturers' compliance 
+strategies by allowing them to delay the use of 2017 or later 
+credits to MY 2022.'').
+---------------------------------------------------------------------------
+
+8. Additional Adjustments Required by Law
+
+    Under the SNPRM, which NHTSA is now finalizing, the civil penalty 
+rate for violations of CAFE standards for model years beginning with MY 
+2019 was $14, plus any adjustments that occurred or may occur.\95\ $14 
+was the initial ``catch-up'' adjustment made by NHTSA on July 5, 2016, 
+following the procedure and the formula in the 2015 Act. NHTSA is now 
+addressing the adjustments that occurred since that time. Applying the 
+annual adjustment procedures in the 2015 Act (including the requirement 
+to round to the nearest $1) does not result in an increase in the $14 
+rate for the annual adjustments in 2017 through 2021,\96\ but does 
+result in an increase to $15 for 2022. Therefore, NHTSA is codifying 
+the civil penalty rate of $15, along with clarifying regulatory text 
+explaining that the civil penalty rate is $14 for MY 2019 through MY 
+2021 (and $5.50 for MYs before 2019).
+---------------------------------------------------------------------------
+
+    \95\ The January 2021 interim final rule also used this 
+language, requiring that the civil penalty rate be $14, plus any 
+adjustments that occurred or may occur. 86 FR 3016, 3026 (Jan. 14, 
+2021).
+    \96\ The adjusted amount would have rounded down to remain $14 
+for each required annual adjustment for 2017 through 2021.
+---------------------------------------------------------------------------
+
+    EPCA provides a separate statutory authority for NHTSA to increase 
+the CAFE civil penalty rate based on the impacts on energy conservation 
+and the economy.\97\ Any increase pursuant to that authority was 
+initially capped by the statute at $10, based on the original $5 civil 
+penalty rate. In the 2016 interim final rule, NHTSA noted that the 2015 
+Act, which required an initial adjustment of the CAFE civil penalty 
+rate to $14, also required a corresponding adjustment on the cap under 
+NHTSA's EPCA authority to $25 (from $10). NHTSA explained this in the 
+preamble of the 2016 interim final rule, but this adjustment was 
+inadvertently never codified in NHTSA's regulations.\98\ NHTSA is now 
+codifying that adjustment and the necessary adjustments for the 
+intervening years. Applying the multipliers for the subsequent years, 
+the adjusted amount would have remained $25 for 2017, increased to $26 
+for 2018, increased to $27 for 2019, remained $27 for 2020 and 2021, 
+before being increased to $29 for 2022. Therefore, NHTSA is codifying 
+the cap at $29, and NHTSA will make subsequent annual adjustments as 
+required.
+---------------------------------------------------------------------------
+
+    \97\ 49 U.S.C. 32912(c).
+    \98\ 81 FR 43524, 43526 (July 5, 2016).
+---------------------------------------------------------------------------
+
+    Pursuant to the 2015 Act, NHTSA did not undertake notice or comment 
+to enact these adjustments. The 2015 Act provides clear direction for 
+how to adjust the civil penalties, and states at Section 4(b)(2) that 
+these adjustments shall be made ``notwithstanding section 553 of title 
+5, United States Code.'' NHTSA will continue to make the mandatory 
+adjustments to the CAFE civil penalty rate and the statutory cap going 
+forward, as required by law for all civil monetary penalties.
+
+F. Rulemaking Analyses and Notices
+
+1. Executive Order 12866, Executive Order 13563, and DOT Regulatory 
+Policies and Procedures
+
+    NHTSA has considered the impact of this rulemaking action under 
+Executive Order 12866, Executive Order 13563, and the Department of 
+Transportation's regulatory policies and procedures. OMB has designated 
+this rule as a ``significant regulatory action'' under section 3(f) of 
+Executive Order 12866. The Office of Information and Regulatory Affairs 
+(OIRA) has determined that this rulemaking is ``economically 
+significant'' and a ``major rule'' as NHTSA believes that the 
+difference in the amount of penalties received by the government as a 
+result of this rule are likely to exceed $100 million in at least one 
+of the years affected by this rulemaking and that there may be 
+additional economic effects as discussed below.
+    As explained in the SNPRM, the adjusted civil penalty rate will 
+likely induce some degree of greater compliance with fuel economy 
+standards as a general matter. Manufacturers that are paying civil 
+penalties for CAFE violations have likely calculated that it is less 
+costly or otherwise preferable to pay the penalties than to meet the 
+statutory and regulatory requirements. An increased penalty rate, as 
+required by the statute, changes this calculation, as it likely raises 
+either the costs of credits a noncompliant manufacturer may choose to 
+purchase, the total penalty amount a manufacturer will pay, or both.
+    In this final rule, NHTSA is repealing the interim final rule, 
+which delayed the adjusted penalty rate by three model years, two of 
+which are already
+
+[[Page 19004]]
+
+complete and the last one which is largely complete. This final rule 
+also codifies the adjusted penalty rate for 2022. An analysis here 
+would be limited to estimating over this short time horizon: (1) Which 
+manufacturers did not produce compliant fleets for Model Years 2019 and 
+2020 and are likely to not produce compliant fleets for Model Years 
+2021 and 2022; (2) what the shortfalls will be for those non-compliant 
+manufacturers; and (3) the extent to which those manufacturers will 
+choose to use credits (either their own or those purchased from over-
+compliant manufacturers) or pay penalties to address these shortfalls. 
+Pointedly, such an analysis would not have sufficient information to 
+account for whether, and if so, how manufacturers will adjust the 
+composition of the fleet for these model years in response to the 
+penalty change.
+    Any analysis would estimate what the compliance shortfalls will be 
+and whether manufacturers will pay penalties or use credits. These 
+estimates could be used to estimate the effects on individual 
+manufacturers in the form of higher penalty payments, higher payments 
+to other manufacturers for credits, or higher receipts for 
+overcomplying manufacturers for credits sold to other manufacturers. 
+However, NHTSA has only limited ability to estimate what strategies 
+manufacturers will take either to use credits or pay penalties to deal 
+with any noncompliance. That is a decision that each manufacturer must 
+take based on their unique circumstances, and historically, NHTSA is 
+not privy to the financial terms of any trades manufacturers make with 
+each other. In the past, the vast majority of manufacturers pay no 
+penalties, as only five manufacturers have paid civil penalties since 
+Model Year 2011.\99\ And only one of those manufacturers faced 
+particularly heavy penalties--even before the $14 rate would have gone 
+into effect--for failing to comply with the minimum domestic passenger 
+car standard, which cannot be made up through the application of 
+transferred or traded credits.\100\
+---------------------------------------------------------------------------
+
+    \99\ See ``Civil Penalties,'' available online at https://one.nhtsa.gov/cafe_pic/CAFE_PIC_Fines_LIVE.html.
+    \100\ 49 U.S.C. 32903(f)(2), (g)(4); 49 CFR 536.9(c).
+---------------------------------------------------------------------------
+
+    Despite this uncertainty, NHTSA continues to be confident that, 
+based on the experience of recent model years, this rule will lead to 
+at least $100 million difference in the amount of penalties in at least 
+one model year. As explained in the SNPRM, NHTSA projects that the 
+difference in the nationwide fleetwide net shortfall would result in at 
+least $100 million more civil penalties being assessed at the $14 rate 
+than the $5.50 for Model Year 2019.\101\ Specifically, based on mid-
+model year fuel economy performance data and assuming a similar 
+magnitude of production from Model Year 2018 for Model Year 2019, the 
+projected shortfall of 1.3 miles per gallon across the U.S. fleet in 
+Model year 2019 would result in a nationwide fleet-wide net shortfall 
+of approximately $115.4 million at the $5.50 rate or an approximately 
+$293.9 million shortfall at the $14 rate--an approximately $178.5 
+million difference.
+---------------------------------------------------------------------------
+
+    \101\ 86 FR 46811, 46816-17 (Aug. 20, 2021).
+---------------------------------------------------------------------------
+
+    As previously noted, it is expected that much of this increase 
+would likely fall on a single automobile manufacturer and likely is due 
+to a failure to comply with the minimum domestic passenger car standard 
+(which, by law, cannot be made up for through transferred or traded 
+credits).
+    In addition, NHTSA reiterates that commenters on this issue have 
+raised valid questions about further economic effects, namely that 
+longer-term impacts may vary as a result of manufacturer multi-year 
+planning, the transfer of credits across model years and between 
+manufacturers, and the changing value of credits over time. According 
+to these commenters, if such variation were to occur, applying the $14 
+penalty rate beginning in Model Year 2019 may result in manufacturers 
+applying credit balances to Model Year 2019 through 2021 vehicles and 
+being incentivized to make fuel economy improvements in their fleet 
+beyond that timeframe. And for manufacturers that do not currently have 
+credits or cannot transfer or trade for them to make up a shortfall of 
+the minimum domestic passenger car standard, applying the adjusted 
+penalty rate beginning in Model Year 2019 places an even greater 
+incentive on future compliance and fuel economy improvements to avoid 
+additional higher penalties going forward, on top of the added benefits 
+of energy conservation and improved environmental and public health 
+benefits.
+    In any event, based on further consideration of the 2015 Act and 
+the Second Circuit's decisions on this issue, NHTSA believes that that 
+it does not have discretion over when the adjustment should begin to 
+take effect. Further, the 2015 Act provided NHTSA no discretion over 
+what the adjusted rate should be, as that is merely a function of the 
+formula established by Congress and calculated by OMB, and mandated 
+streamlined processes for making both the initial adjustment and any 
+subsequent adjustments that do not require accompanying analyses or 
+public comment.\102\
+---------------------------------------------------------------------------
+
+    \102\ The 2015 Act, of course, did allow NHTSA one opportunity 
+at the time of the initial catch-up to use the notice-and-comment 
+process to adjust the rate ``less than the otherwise required 
+amount'' under two conditions, but the Second Circuit rejected 
+NHTSA's belated attempt to use this provision in its decision on the 
+July 2019 final rule. See New York, 974 F.3d at 100-01.
+---------------------------------------------------------------------------
+
+2. Regulatory Flexibility Act
+
+    Pursuant to the Regulatory Flexibility Act (5 U.S.C. 601 et seq., 
+as amended by the Small Business Regulatory Enforcement Fairness Act 
+(SBREFA) of 1996), whenever an agency is required to publish a notice 
+of proposed rulemaking or final rule, it must prepare and make 
+available for public comment a regulatory flexibility analysis that 
+describes the effect of the rule on small entities (i.e., small 
+businesses, small organizations, and small governmental jurisdictions). 
+No regulatory flexibility analysis is required if the head of an agency 
+certifies the proposal will not have a significant economic impact on a 
+substantial number of small entities. NHTSA has considered the impacts 
+of this notice under the Regulatory Flexibility Act and recertifies 
+that this rule would not have a significant economic impact on a 
+substantial number of small entities under 5 U.S.C. 605(b), based on 
+the factual basis provided in the SNPRM. NHTSA requested comment on the 
+economic impact of this rule on small entities. None of the comments 
+NHTSA received in response to the interim final rule or the SNPRM 
+discussed this issue. The Small Business Administration's (SBA) 
+regulations define a small business in part as a ``business entity 
+organized for profit, with a place of business located in the United 
+States, and which operates primarily within the United States or which 
+makes a significant contribution to the U.S. economy through payment of 
+taxes or use of American products, materials or labor.'' \103\ SBA's 
+size standards were previously organized according to Standard 
+Industrial Classification (``SIC'') Codes. SIC Code 336211 ``Motor 
+Vehicle Body Manufacturing'' applied a small business size standard of 
+1,000 employees or fewer. SBA now uses size standards based on the 
+North American Industry Classification System (``NAICS''), Subsector 
+336--Transportation Equipment Manufacturing. This action is expected to 
+affect manufacturers of motor
+
+[[Page 19005]]
+
+vehicles. Specifically, this action affects manufacturers from NAICS 
+codes 336111--Automobile Manufacturing, and 336112--Light Truck and 
+Utility Vehicle Manufacturing, which both have a small business size 
+standard threshold of 1,500 employees.
+---------------------------------------------------------------------------
+
+    \103\ 13 CFR 121.105(a).
+---------------------------------------------------------------------------
+
+    Though civil penalties collected under 49 CFR 578.6(h)(1) and (2) 
+apply to some small manufacturers, low volume manufacturers can 
+petition for an exemption from the Corporate Average Fuel Economy 
+standards under 49 CFR part 525. This would lessen the impacts of this 
+rulemaking on small business by allowing them to avoid liability for 
+penalties under 49 CFR 578.6(h)(2). Small organizations and 
+governmental jurisdictions will not be affected significantly as the 
+price of motor vehicles and equipment ought not to change as the result 
+of this rule.
+
+3. Executive Order 13132 (Federalism)
+
+    Executive Order 13132 requires NHTSA to develop an accountable 
+process to ensure ``meaningful and timely input by State and local 
+officials in the development of regulatory policies that have 
+federalism implications.'' ``Policies that have federalism 
+implications'' is defined in the Executive order to include regulations 
+that have ``substantial direct effects on the States, on the 
+relationship between the [N]ational [G]overnment and the States, or on 
+the distribution of power and responsibilities among the various levels 
+of government.'' Under Executive Order 13132, the agency may not issue 
+a regulation with federalism implications, that imposes substantial 
+direct compliance costs, and that is not required by statute, unless 
+the Federal Government provides the funds necessary to pay the direct 
+compliance costs incurred by State and local governments, the agency 
+consults with State and local governments, or the agency consults with 
+State and local officials early in the process of developing the 
+proposed regulation. As noted previously, this rulemaking will not have 
+substantial direct effects on the States, on the relationship between 
+the National Government and the States, or on the distribution of power 
+and responsibilities among the various levels of government, as 
+specified in Executive Order 13132. The reason is that this rulemaking 
+is expected to generally apply to motor vehicle manufacturers. Thus, 
+the requirements of Section 6 of the Executive order do not apply.
+
+4. Unfunded Mandates Reform Act of 1995
+
+    The Unfunded Mandates Reform Act of 1995, Public Law 104-4, 
+requires agencies to prepare a written assessment of the cost, 
+benefits, and other effects of proposed or final rules that include a 
+Federal mandate likely to result in the expenditure by State, local, or 
+tribal governments, in the aggregate, or by the private sector, of more 
+than $100 million annually. Because this rulemaking does not include a 
+Federal mandate, no unfunded mandate assessment has been prepared.
+
+5. National Environmental Policy Act
+
+    The National Environmental Policy Act of 1969 (NEPA) \104\ directs 
+that Federal agencies proposing ``major Federal actions significantly 
+affecting the quality of the human environment'' must, ``to the fullest 
+extent possible,'' prepare ``a detailed statement'' on the 
+environmental impacts of the proposed action (including alternatives to 
+the proposed action).\105\ However, there are some instances where NEPA 
+does not apply. One consideration is whether the action at issue is a 
+non-discretionary action to which NEPA may not apply or for which NEPA 
+may require less detailed analysis.\106\
+---------------------------------------------------------------------------
+
+    \104\ 42 U.S.C. 4321-4347.
+    \105\ 42 U.S.C. 4332.
+    \106\ See Dept. of Transp. v. Public Citizen, 541 U.S. 752, 768-
+69 (2014) (holding that the agency need not prepare an Environmental 
+Impact Statement (EIS) or analyze certain environmental effects in 
+its EA, and stating, ``[s]ince [the Federal Motor Carrier Safety 
+Administration] FMCSA has no ability categorically to prevent the 
+cross-border operations of Mexican motor carriers, the environmental 
+impact of the cross-border operations would have no effect on 
+FMCSA's decisionmaking--FMCSA simply lacks the power to act on 
+whatever information might be contained in the EIS.'').
+---------------------------------------------------------------------------
+
+    NHTSA addressed NEPA in promulgating the interim final rule, 
+concluding that even though a NEPA analysis ``is not required, this 
+section [of the preamble to the interim final rule] may serve as the 
+Agency's Environmental Assessment (EA) and Finding of No Significant 
+Impact (FONSI) for this interim final rule.'' \107\ In the SNPRM, NHTSA 
+again concluded that no further analysis pursuant to NEPA is required 
+in adjusting the penalty rate this time, which is in line with legal 
+precedent concerning non-discretionary agency action.\108\ NHTSA 
+reiterates that conclusion here.
+---------------------------------------------------------------------------
+
+    \107\ 86 FR 3025.
+    \108\ 86 FR 46818.
+---------------------------------------------------------------------------
+
+    Although NHTSA tentatively concluded in the SNPRM (and affirms 
+here) that it does not have discretion on whether to adjust the CAFE 
+civil penalty rate as required by the statute and thus that a NEPA 
+analysis was not required, NHTSA prepared an environmental assessment 
+to evaluate the effects of the timing of such an increase on the 
+environment. When a Federal agency prepares an environmental 
+assessment, the Council on Environmental Quality (CEQ) NEPA 
+implementing regulations require the agency to (1) ``[b]riefly provide 
+sufficient evidence and analysis for determining whether to prepare an 
+environmental impact statement or a finding of no significant impact,'' 
+and (2) ``[b]riefly discuss the purpose and need for the proposed 
+action, alternatives . . . , and the environmental impacts of the 
+proposed action and alternatives, and include a listing of [a]gencies 
+and persons consulted.'' \109\ Generally, based on the environmental 
+assessment, the agency must make a determination to prepare an 
+environmental impact statement or ``prepare a finding of no significant 
+impact if the [a]gency determines, based on the environmental 
+assessment, not to prepare an environmental impact statement because 
+the proposed action will not have significant effects.'' \110\
+---------------------------------------------------------------------------
+
+    \109\ 40 CFR 1501.5(c).
+    \110\ 40 CFR 1501.6(a).
+---------------------------------------------------------------------------
+
+    NHTSA solicited public comments on the applicability of NEPA to 
+this action and the contents and tentative conclusions of the Draft EA. 
+The comments were silent on NEPA issues or agreed that no additional 
+analysis was necessary.\111\ Having reviewed the comments, this section 
+may serve as the Agency's EA and FONSI for this final rule. NHTSA 
+considered the findings of this EA prior to deciding that the adjusted 
+rate will go into effect beginning in Model Year 2019 and making the 
+subsequent required adjustments through 2022.
+---------------------------------------------------------------------------
+
+    \111\ See NHTSA-2021-0001-0036, at 5-6 (arguing that the interim 
+final rule was ``procedurally invalid'' for failing to abide by the 
+NEPA requirement to take a hard look at the environmental 
+consequences of the rule, but raising no objections to the NEPA 
+analysis in the SNPRM); NHTSA 2021-0001-0037, at 8 (``[T]he agency 
+need not conduct a NEPA analysis before repealing the Exemption 
+Rule.''); NHTSA 2021-0001-0043, at 13 (``NHTSA's NEPA analysis [in 
+the interim final rule] was adequate,'' and ``to the extent that 
+NHTSA is concerned about the NEPA issue or any of the other 
+procedural issues raised by commenters, this SNPRM proceeding 
+provides the opportunity to promulgate a rule in accordance with 
+applicable procedural standards.'').
+---------------------------------------------------------------------------
+
+I. Purpose and Need
+    The SNPRM and this final rule set forth the purpose of and need for 
+this action. Pursuant to the 2015 Act and the Second Circuit's 
+decision, NHTSA is required to make an initial ``catch-up''
+
+[[Page 19006]]
+
+adjustment to the civil monetary penalties it administers for the CAFE 
+program. The purpose of the SNPRM and this final rule is to consider 
+the timing of the application of the adjustment to the CAFE civil 
+penalty rate, consistent with the statutory requirements.
+II. Alternatives
+    NHTSA considered two alternatives for this action. The first 
+alternative was to restore the status quo ante prior to the interim 
+final rule, which is adjusting the CAFE civil penalty rate from $5.50 
+to $14 beginning in Model Year 2019, before making any subsequent 
+required adjustments. This timing was originally established by the 
+December 2016 final rule and was twice made effective by decisions of 
+the Second Circuit. The second alternative was applying the initial 
+adjustment beginning in Model Year 2022, which reflects the action 
+taken in the interim final rule (the No Action Alternative). As noted 
+in the SNPRM, NHTSA was no longer considering the alternative of 
+applying the initial adjustment beginning in Model Year 2023, but NHTSA 
+accepted comments on whether it should consider other alternatives of 
+the adjustment applying beginning with a model year later than Model 
+Year 2019. No commenter suggested any other alternative. This EA 
+describes the potential environmental impacts associated with the two 
+alternatives in comparison with each other.
+III. Environmental Impacts of the Action and Alternatives
+    In the interim final rule, NHTSA asserted that it anticipated no 
+differences in environmental impacts associated with the alternatives 
+of applying the adjustment beginning in Model Year 2019, 2020, 2021, or 
+2022. NHTSA based this conclusion on the fact that vehicles for Model 
+Years 2019 and 2020 had largely if not entirely been produced already, 
+and many manufacturers were already selling Model Year 2021 vehicles.
+    As explained in the SNPRM, NHTSA reconsidered whether this 
+assessment is complete after reviewing the comments received in 
+response to the interim final rule. Commenters had argued that, 
+regardless of the impact of this rulemaking action on Model Year 2019 
+through 2021 vehicles, longer-term impacts may vary as a result of 
+manufacturer multi-year planning, the transfer of credits across model 
+years and between manufacturers, and the changing value of credits over 
+time. If this is correct, applying the adjustment earlier could result 
+in manufacturers applying credit balances to Model Year 2019 through 
+2021 vehicles and being incentivized to make fuel economy improvements 
+in their fleet beyond that timeframe, rather than paying civil 
+penalties at the $5.50 rate for Model Years 2019 through 2021 and 
+saving the credits for future model years when they could be valued 
+more due to the adjustment. Additionally, for manufacturers without 
+credit balances, the potential application of a significantly higher 
+civil penalty for Model Years 2019 through 2021 may spur more rapid 
+implementation of fuel-saving technology in order to allow the 
+manufacturer to accrue credits that may be carried back to cover the 
+shortfall in Model Years 2019 through 2021.
+    Overall, NHTSA anticipates that applying the adjustment beginning 
+with Model Year 2019 may lead to the eventual application of more fuel-
+saving technology, resulting in fewer greenhouse gas emissions and 
+reductions in many criteria and toxic air pollutants compared to 
+applying the adjustment beginning in Model Year 2022.\112\ Although 
+Model Years 2019 and 2020 are already completed, and Model Year 2021 is 
+essentially complete, the civil penalty assessment process is not yet 
+complete for any of them, much less for Model Year 2022.\113\ As a 
+result, NHTSA does not yet know the anticipated manufacturer compliance 
+shortfall for these model years. Because manufacturers can apply 
+credits across a multi-year window, their decisions about how to apply 
+credits in earlier model years will affect the availability of credits 
+and the application of fuel-saving technology in later model years. 
+However, NHTSA does not know whether and to what degree manufacturers 
+will choose to pay fines in lieu of applying accrued credits, trade 
+credits with other manufacturers, or rely on multi-year planning and 
+credit carry-forward and carry-back to address shortfalls. NHTSA 
+invited comments, information, and analyses from the public on the 
+degree to which this may occur as a result of changes to the civil 
+penalty rate in Model Year 2019 versus Model Year 2022. The Auto 
+Innovators provided an analysis arguing that ``delaying the application 
+of a $14 civil penalty rate to MY 2022 is highly unlikely to affect 
+manufacturers' compliance strategies by allowing them to delay the use 
+of 2017 or later credits to MY 2022'' because ``older credits will be 
+used to mostly, if not completely, cancel any shortfalls.'' \114\
+---------------------------------------------------------------------------
+
+    \112\ See NHTSA's Final Environmental Impact Statements for the 
+CAFE rulemaking for MYs 2017 and beyond (Docket No. NHTSA-2011-0056) 
+and for MYs 2021-2026 (Docket No. NHTSA-2017-0069), both of which 
+illustrate these trends as fuel economy standard stringency 
+increases across alternatives. Both EISs are also available on the 
+agency's fuel economy website: https://www.nhtsa.gov/laws-regulations/corporate-average-fuel-economy.
+    \113\ Because NHTSA does not have final model year performance 
+data verified by EPA for these model years, any quantitative 
+projections of the environmental impact across multiple model years 
+would be too speculative to rely upon at this time.
+    \114\ Auto Innovators Comment, at 12.
+---------------------------------------------------------------------------
+
+    At this time, NHTSA continues to anticipate the impacts to be 
+small. The difference between the alternatives contemplated in this 
+action is only whether or not the initial civil penalty rate increase 
+applies to three Model Years: 2019, 2020, and 2021. NHTSA continues to 
+believe the impacts on those Model Years alone is expected to be de 
+minimis, as all three model years have largely if not entirely been 
+produced already. Further, as NHTSA has addressed in its CAFE 
+rulemakings, many manufacturers have been unwilling to pay civil 
+penalties historically. Those manufacturers may continue to opt to 
+apply credits even if a lower civil penalty rate applied, rather than 
+hold credits for future model years when the civil penalty rate would 
+be higher.
+IV. Agencies and Persons Consulted
+    NHTSA and DOT have consulted with OMB and the U.S. Department of 
+Justice and provided other Federal agencies with the opportunity to 
+review and provide feedback on this rulemaking.
+V. Conclusion
+    NHTSA has reviewed the information presented in this EA and 
+concludes that adjusting the CAFE civil penalty rate beginning with 
+Model Year 2019, as compared to Model Year 2022, would have, at most, a 
+more positive impact on the quality of the human environment to the 
+extent that manufacturers may be more likely to expend credit balances 
+on Model Year 2019 through 2021 vehicles than if the civil penalty rate 
+remained at $5.50 for those model years. Lacking such credits in future 
+years, manufacturers would be more likely to make improvements to the 
+fuel economy of their fleets to avoid paying the higher civil penalty 
+rates that would occur under either alternative. Additionally, higher 
+civil penalty rates in Model Years 2019 through 2021 may cause 
+manufacturers to more rapidly implement fuel-saving technology so that 
+they may accrue credits to be carried back to cover compliance 
+shortfalls. But NHTSA does not expect any differences in the impacts 
+under either of the alternatives to rise to the
+
+[[Page 19007]]
+
+level of significance that would necessitate the preparation of an 
+Environmental Impact Statement.
+VI. Finding of No Significant Impact
+    NHTSA has reviewed this EA. Based on the EA, NHTSA concludes that 
+implementation of either of the action alternatives (including this 
+final rule) will not have a significant effect on the human environment 
+and that a ``finding of no significant impact'' is appropriate. This 
+statement constitutes the Agency's ``finding of no significant 
+impact,'' and an environmental impact statement will not be 
+prepared.\115\
+---------------------------------------------------------------------------
+
+    \115\ 40 CFR 1501.6(a).
+---------------------------------------------------------------------------
+
+6. Executive Order 12988 (Civil Justice Reform)
+
+    This rulemaking does not have a preemptive effect. For the reasons 
+explained above, this rulemaking does not have a retroactive effect. 
+Judicial review of the interim final rule or a subsequent final rule 
+may be obtained pursuant to 5 U.S.C. 702.
+
+7. Paperwork Reduction Act
+
+    In accordance with the Paperwork Reduction Act of 1980, NHTSA 
+states that there are no requirements for information collection 
+associated with this rulemaking action.
+
+8. Privacy Act
+
+    Please note that anyone is able to search the electronic form of 
+all comments received into any of DOT's dockets by the name of the 
+individual submitting the comment (or signing the comment, if submitted 
+on behalf of an association, business, labor union, etc.). You may 
+review DOT's complete Privacy Act Statement in the Federal Register 
+published on April 11, 2000 (65 FR 19477), or you may visit https://www.transportation.gov/privacy.
+
+List of Subjects in 49 CFR Part 578
+
+    Imports, Motor vehicle safety, Motor vehicles, Penalties, Rubber 
+and rubber products, Tires.
+
+    In consideration of the foregoing, 49 CFR part 578 is amended as 
+set forth below.
+
+PART 578--CIVIL AND CRIMINAL PENALTIES
+
+0
+1. The authority citation for 49 CFR part 578 continues to read as 
+follows:
+
+    Authority:  Pub. L. 92-513, Pub. L. 94-163, Pub. L. 98-547, Pub. 
+L. 101-410, Pub. L. 102-388, Pub. L. 102-519, Pub. L. 104-134, Pub. 
+L. 109-59, Pub. L. 110-140, Pub. L. 112-141, Pub. L. 114-74, Pub. L. 
+114-94 (49 U.S.C. 30165, 30170, 30505, 32308, 32309, 32507, 32709, 
+32710, 32902, 32912, 33114, and 33115); delegation of authority at 
+49 CFR 1.81, 1.95.
+
+
+0
+2. Amend Sec.  578.6 by revising paragraph (h)(2) and adding paragraph 
+(h)(3) to read as follows:
+
+
+Sec.  578.6   Civil penalties for violations of specified provisions of 
+Title 49 of the United States Code.
+
+* * * * *
+    (h) * * *
+    (2) Except as provided in 49 U.S.C. 32912(c), a manufacturer that 
+violates a standard prescribed for a model year under 49 U.S.C. 32902 
+is liable to the United States Government for a civil penalty of $15 
+(for model years before model year 2019, the civil penalty is $5.50; 
+for model years 2019 through 2021, the civil penalty is $14), 
+multiplied by each .1 of a mile a gallon by which the applicable 
+average fuel economy standard under that section exceeds the average 
+fuel economy--
+    (i) Calculated under 49 U.S.C. 32904(a)(1)(A) or (B) for 
+automobiles to which the standard applies produced by the manufacturer 
+during the model year;
+    (ii) Multiplied by the number of those automobiles; and
+    (iii) Reduced by the credits available to the manufacturer under 49 
+U.S.C. 32903 for the model year.
+    (3) If a higher amount for each .1 of a mile a gallon to be used in 
+calculating a civil penalty under paragraph (h)(2) of this section is 
+prescribed pursuant to the process provided in 49 U.S.C. 32912(c), the 
+amount prescribed may not be more than $29 for each .1 of a mile a 
+gallon.
+* * * * *
+
+    Issued in Washington, DC, under authority delegated in 49 CFR 
+1.95 and 501.5.
+Steven S. Cliff,
+Deputy Administrator.
+[FR Doc. 2022-06648 Filed 3-31-22; 8:45 am]
+BILLING CODE 4910-59-P
+
+

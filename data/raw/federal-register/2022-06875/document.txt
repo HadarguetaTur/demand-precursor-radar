@@ -1,0 +1,351 @@
+
+[Federal Register Volume 87, Number 63 (Friday, April 1, 2022)]
+[Proposed Rules]
+[Pages 19037-19039]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2022-06875]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT
+
+24 CFR Part 203
+
+[Docket No. FR-6263-P-01]
+RIN 2502-AJ59
+
+
+Increased Forty-Year Term for Loan Modifications
+
+AGENCY: Office of Housing, HUD.
+
+ACTION: Proposed rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: HUD's current regulations allow mortgagees to modify a Federal 
+Housing Administration (FHA) insured mortgage by recasting the total 
+unpaid loan for a term limited to 360 months to cure a borrower's 
+default. This proposed rule would amend HUD's current regulation to 
+allow for mortgagees to recast the total unpaid loan for a new term 
+limit of 480 months. Increasing the maximum term limit to 480 months 
+would allow mortgagees to further reduce the borrower's monthly payment 
+as the outstanding balance would be spread over a longer time frame, 
+providing more borrowers with FHA-insured mortgages the ability to 
+retain their homes after default. This change would also align FHA with 
+modifications available to borrowers with mortgages backed by the 
+Federal National Mortgage Association (Fannie Mae) and the Federal Home 
+Loan Mortgage Corporation (Freddie Mac), which both currently provide a 
+40-year loan modification option.
+
+DATES: Comment Due Date: May 31, 2022.
+
+ADDRESSES: HUD invites interested persons to submit comments to the 
+Office of the General Counsel, Regulations Division, Department of 
+Housing and Urban Development, 451 7th Street SW, Room 10276, 
+Washington, DC 20410-0500. Communications should refer to the above 
+docket number and title and should contain the information specified in 
+the ``Request for Comments'' section. There are two methods for 
+submitting public comments.
+    1. Submission of Comments by Mail. Comments may be submitted by 
+mail to the Regulations Division, Office of General Counsel, Department 
+of Housing and Urban Development, 451 7th Street SW, Room 10276, 
+Washington, DC 20410-0500. Due to security measures at all federal 
+agencies, however, submission of comments by mail often results in 
+delayed delivery. To ensure timely receipt, HUD recommends that 
+comments be mailed at least two weeks in advance of the public comment 
+deadline.
+    2. Electronic Submission of Comments. Comments may also be 
+submitted electronically through the Federal eRulemaking Portal at 
+http://www.regulations.gov. HUD strongly encourages commenters to 
+submit comments electronically. Electronic submission of comments 
+allows the commenter maximum time to prepare and submit a comment, 
+ensures timely receipt by HUD, and enables HUD to make comments 
+immediately available to the public. Comments submitted electronically 
+through the website can be viewed by other commenters and interested 
+members of the public. Commenters should follow instructions provided 
+on that site to submit comments electronically.
+
+    Note: To receive consideration as public comments, comments must 
+be submitted using one of the two methods specified above. Again, 
+all submissions must refer to the docket number and title of the 
+notice.
+
+    No Facsimile Comments. Facsimile (fax) comments are not acceptable.
+    Public Inspection of Comments. All comments and communications 
+submitted to HUD will be available for public inspection and copying 
+between 8 a.m. and 5 p.m. weekdays at the above address. Due to 
+security measures at HUD Headquarters, an advance appointment to review 
+the public comments must be scheduled by calling the Regulations 
+Division at 202-708-3055. This is not a toll-free number. Copies of all 
+comments submitted are available for inspection and downloading at 
+http://www.regulations.gov.
+
+FOR FURTHER INFORMATION CONTACT: Elissa Saunders, Department of Housing 
+and Urban Development, 451 7th Street SW, Suite 9278, Washington, DC 
+20410-4000; telephone number 202-708-2121 (this is not a toll-free 
+number). Persons with hearing or speech impairments may contact the 
+numbers above via TTY by calling the Relay Service at 800-877-8339 
+(this is a toll-free number).
+
+SUPPLEMENTARY INFORMATION: 
+
+I. Background
+
+    The Federal Housing Administration (FHA) was established by 
+Congress in 1934 to improve nationwide housing standards, to provide 
+employment and stimulate industry, to improve conditions with respect 
+to home mortgage financing, to prevent speculative excesses in new 
+mortgage investment, and to eliminate the necessity for costly second 
+mortgage
+
+[[Page 19038]]
+
+financing.\1\ HUD's regulations for Title II FHA single family forward 
+mortgage insurance are codified in 24 CFR part 203. These regulations 
+address mortgagee eligibility requirements and underwriting procedures, 
+contract rights and obligations, and the mortgagee's servicing 
+obligations. These regulations also address a mortgagee's obligations 
+to offer loss mitigation options when a mortgagor defaults on a loan, 
+as provided in 24 CFR 203.501.
+---------------------------------------------------------------------------
+
+    \1\ 12 U.S.C. 1701 et seq.
+---------------------------------------------------------------------------
+
+    Mortgagees are required to consider utilizing deeds in lieu of 
+foreclosure, pre-foreclosure sales, partial claims, assumptions, 
+special forbearance, and recasting of mortgages.\2\ In 1996, the 
+Balanced Budget Downpayment Act, I (Pub. L. 104-99, approved January 
+26, 1996) amended sections 204 and 230 of the National Housing Act to 
+provide that HUD may pay insurance benefits to a mortgagee to 
+recompense the mortgagee for its actions to provide an alternative to 
+the foreclosure of a mortgage that is in default. These actions may 
+include special forbearance, loan modification, and/or deeds in lieu of 
+foreclosure, all upon terms and conditions as the mortgagee shall 
+determine in the mortgagee's sole discretion, within guidelines 
+provided by HUD.\3\ In response, HUD promulgated an interim final rule 
+(61 FR 35014, July 3, 1996), followed by a final rule (62 FR 60124, 
+November 6, 1997) adding loss mitigation options to 24 CFR part 203. 
+One of these options allows mortgagees to modify a mortgage for the 
+purpose of changing the amortization provisions and recasting the total 
+unpaid amount due for a term not exceeding 360 months from the date of 
+the modification.\4\
+---------------------------------------------------------------------------
+
+    \2\ 24 CFR 203.501.
+    \3\ 12 U.S.C. 1715u.
+    \4\ 24 CFR 203.616.
+---------------------------------------------------------------------------
+
+II. This Proposed Rule
+
+    HUD proposes to amend 24 CFR 203.616, which allows a mortgagee to 
+modify a mortgage for the purpose of changing the amortization 
+provisions by recasting the total unpaid amount due for a new term, by 
+replacing the current maximum of 360 months with a new maximum of 480 
+months.
+    Allowing mortgagees to provide a 40-year loan modification would 
+support HUD's mission of fostering homeownership by assisting more 
+borrowers with retaining their homes after a default episode while 
+mitigating losses to FHA's Mutual Mortgage Insurance (MMI) Fund. HUD 
+believes there are situations in which a mortgagee seeks to engage in 
+loss mitigation but is unable to provide loss mitigation to a degree 
+sufficient to prevent default. In such cases, an additional 120 months 
+on the length of the recast mortgage would allow for a lower, more 
+sustainable monthly payment.
+    Many borrowers who have become delinquent would have difficulty 
+making payments at the monthly rate of their mortgage before default. 
+Therefore, a lower monthly payment is a key element to bring the 
+mortgage current, prevent imminent re-default, and ultimately retain 
+their home and continue to build wealth through homeownership. HUD 
+anticipates that a 40-year loan modification as part of loss mitigation 
+could decrease a borrower's monthly principal and interest payment by a 
+meaningful amount sufficient to prevent several thousand borrowers a 
+year from foreclosure by increasing a borrower's ability to afford the 
+modified payment. Given the large number of FHA-insured mortgages that 
+have been originated or refinanced in the past few years in a 
+historically low interest rate environment, simply extending out the 
+term of a mortgage in default for another 30 years at a similar 
+interest rate would not provide a substantial reduction to a borrower's 
+monthly mortgage payment.
+    Additionally, borrowers impacted by the COVID-19 pandemic, 
+including those who may re-default in the future after having received 
+a loss mitigation option under COVID-19 policies, may need a 40-year 
+loan modification to obtain affordable monthly payments that would 
+allow them to stay in their homes. This would also reduce losses to the 
+MMI Fund as fewer properties would be sold at a loss in foreclosure or 
+out of FHA's real estate-owned (REO) inventory.\5\
+---------------------------------------------------------------------------
+
+    \5\ It is also worth noting that, per its recent press release, 
+Ginnie Mae is now permitting the pooling of 40-year mortgages for 
+the purposes of providing FHA loan modifications with lower payments 
+to help keep borrowers in their homes. Ginnie Mae's mortgage-backed 
+securities include the requirement that loans must be 90 or more 
+days delinquent or have successfully completed a trial payment plan 
+before they can be bought out of a Ginnie Mae pool.
+---------------------------------------------------------------------------
+
+    All else held equal, borrowers who choose a 40-year loan 
+modification would be subject to slower equity accumulation and 
+additional interest payments over the course of the modified mortgage 
+relative to a 30-year loan modification. However, to the extent a 40-
+year modification helps borrowers avoid foreclosure, the slower equity 
+accumulation and additional interest would be greatly outweighed by the 
+benefits of being able to retain their homes. Moreover, a borrower is 
+not obligated to carry the loan for 40 years. FHA data indicates that 
+the average life of a 30-year FHA-insured mortgage is approximately 
+seven years, although it is possible that prepayment behavior could be 
+different with a longer-term loan.
+    The 40-year mortgage remains rare but has become more commonly 
+recognized in the mortgage industry. The Government Sponsored 
+Enterprises (GSEs), Fannie Mae and Freddie Mac, both allow for 40-year 
+mortgage loan modifications.\6\ The National Credit Union Association 
+also allows for 40-year mortgages and a federal credit union may set 
+the maturity date for modified or refinanced mortgages beyond the 
+regulatory 40-year maturity limit as long as the terms of the original 
+loan were no more than 40 years. The U.S. Department of Agriculture 
+allows for loan modification up to 40 years where certain conditions 
+are met above the requirements for a 30-year loan modification.\7\ By 
+allowing 40-year loan modifications, HUD would align with the GSEs, 
+NCUA, and USDA and ensure that FHA borrowers receive comparable 
+opportunities for home retention.
+---------------------------------------------------------------------------
+
+    \6\ See D2-3.2-07: Fannie Mae Flex Modification (09/09/2020), 
+available at: https://servicing-guide.fanniemae.com/THE-SERVICING-GUIDE/Part-D-Providing-Solutions-to-a-Borrower/Subpart-D2-Assisting-a-Borrower-Who-is-Facing-Default-or/Chapter-D2-3-Fannie-Mae-s-Home-Retention-and-Liquidation/Section-D2-3-2-Home-Retention-Workout-Options/D2-3-2-07-Fannie-Mae-Flex-Modification/1042575201/D2-3-2-07-Fannie-Mae-Flex-Modification-09-09-2020.htm; Freddie Mac Flex 
+Modification Reference Guide, March 2021, available at: https://sf.freddiemac.com/content/_assets/resources/pdf/other/flex_mod_ref_guide.pdf.
+    \7\ For more information, see 7 CFR 3555.304.
+---------------------------------------------------------------------------
+
+III. Findings and Certifications
+
+Regulatory Review--Executive Orders 12866 and 13563
+
+    Pursuant to Executive Order 12866 (Regulatory Planning and Review), 
+a determination must be made whether a regulatory action is significant 
+and therefore, subject to review by the Office of Management and Budget 
+(OMB) in accordance with the requirements of the order. Executive Order 
+13563 (Improving Regulations and Regulatory Review) directs executive 
+agencies to analyze regulations that are ``outmoded, ineffective, 
+insufficient, or excessively burdensome, and to modify, streamline, 
+expand, or repeal them in accordance with what has been learned.'' 
+Executive Order 13563 also directs that, where relevant, feasible, and 
+consistent with regulatory objectives, and to the extent permitted by 
+law, agencies are to identify and consider regulatory approaches that 
+reduce burdens and maintain flexibility and freedom of choice for the 
+public.
+
+[[Page 19039]]
+
+    This proposed rule was determined to be a ``significant regulatory 
+action'' because it is likely to have an annual effect on the economy 
+of $100 million or more. This proposed rule would increase available 
+loss mitigation options for borrowers and enable more borrowers to 
+avoid foreclosure and remain in their homes. HUD also anticipates that 
+this would have a positive effect on the FHA MMI Fund by lowering 
+defaults. The docket file is available for public inspection on http://www.regulations.gov and in the Regulations Division, Office of General 
+Counsel, Department of Housing and Urban Development, 451 7th Street 
+SW, Room 10276, Washington, DC 20410-0500. Due to security measures at 
+the HUD Headquarters building, please schedule an appointment to review 
+the docket file by calling the Regulations Division at 202-402-3055 
+(this is not a toll-free number). Individuals with speech or hearing 
+impairments may access this number via TTY by calling the Relay Service 
+at 800-877-8339 (this is a toll-free number).
+
+Regulatory Flexibility Act
+
+    The Regulatory Flexibility Act (RFA) (5 U.S.C. 601 et seq.) 
+generally requires an agency to conduct a regulatory flexibility 
+analysis of any rule subject to notice and comment rulemaking 
+requirements, unless the agency certifies that the rule will not have a 
+significant economic impact on a substantial number of small entities. 
+The change of this proposed rule would be limited to requiring 
+mortgagees to consider and, where appropriate, utilize an extended term 
+limit. Mortgagees are already required to consider mortgage 
+modification so this change should not have an economic impact on 
+mortgagees. If there is an economic effect on mortgagees, it would fall 
+equally on all mortgagees. Further, HUD anticipates that allowing an 
+additional loss mitigation tool would have a net positive economic 
+impact on mortgagees by decreasing the number of defaults and therefore 
+the costs associated with those defaults.
+    Accordingly, the undersigned certifies that the proposed rule will 
+not have a significant economic impact on a substantial number of small 
+entities. Notwithstanding HUD's determination that this rule will not 
+have a significant effect on a substantial number of small entities, 
+HUD specifically invites comments regarding any less burdensome 
+alternatives to this rule that will meet HUD's objectives as described 
+in the preamble to this rule.
+
+Environmental Impact
+
+    A Finding of No Significant Impact (FONSI) with respect to the 
+environment was made at the proposed rule stage, in accordance with HUD 
+regulations at 24 CFR part 50, which implement section 102(2)(C) of the 
+National Environmental Policy Act of 1969 (42 U.S.C. 4332(2)(C)). The 
+Finding of No Significant Impact remains applicable to this final rule 
+and is available for public inspection between the hours of 8 a.m. and 
+5 p.m. weekdays in the Regulations Division, Office of General Counsel, 
+Department of Housing and Urban Development, 451 Seventh Street SW, 
+Room 10276, Washington, DC 20410. Due to security measures at the HUD 
+Headquarters building, please schedule an appointment to review the 
+FONSI by calling the Regulations Division at (202) 708-3055 (this is 
+not a toll-free number). Individuals with speech or hearing impairments 
+may access this number via TTY by calling the Federal Relay Service at 
+(800) 877-8339.
+
+Executive Order 13132, Federalism
+
+    Executive Order 13132 (entitled ``Federalism'') prohibits an agency 
+from publishing any rule that has federalism implications if the rule 
+either: (i) Imposes substantial direct compliance costs on state and 
+local governments and is not required by statute, or (ii) preempts 
+state law, unless the agency meets the consultation and funding 
+requirements of section 6 of the Executive Order. This proposed rule 
+does not have federalism implications and does not impose substantial 
+direct compliance costs on state and local governments or preempt state 
+law within the meaning of the Executive Order.
+
+Unfunded Mandates Reform Act
+
+    Title II of the Unfunded Mandates Reform Act of 1995 (2 U.S.C. 
+1531-1538) (UMRA) establishes requirements for federal agencies to 
+assess the effects of their regulatory actions on state, local, and 
+tribal governments, and on the private sector. This proposed rule would 
+not impose any federal mandates on any state, local, or tribal 
+governments, or on the private sector, within the meaning of the UMRA.
+
+List of Subjects in 24 CFR Part 203
+
+    Hawaiian Natives, Home improvement, Indians-lands, Loan programs-
+housing and community development, Mortgage insurance, Reporting and 
+recordkeeping requirements, and Solar energy.
+
+    For the reasons discussed in the preamble, HUD proposes to amend 24 
+CFR part 203 as follows:
+
+PART 203--SINGLE FAMILY MORTGAGE INSURANCE
+
+0
+1. The authority for 24 CFR part 203 continues to read as follows:
+
+    Authority:  12 U.S.C. 1707, 1709, 1710, 1715b, 1715z-16, 1715u, 
+and 1715z-21; 15 U.S.C. 1639c; 42 U.S.C. 3535(d).
+
+
+Sec.  203.616   [Amended]
+
+0
+2. Amend Sec.  203.616 by removing the number ``360'' and adding in its 
+place, the number ``480''.
+
+Lopa P. Kolluri,
+Principal Deputy Assistant Secretary, Office of Housing-Federal Housing 
+Administration.
+[FR Doc. 2022-06875 Filed 3-31-22; 8:45 am]
+BILLING CODE 4210-67-P
+
+

@@ -1,0 +1,25 @@
+{
+  "warning": "Agent-authored materiality opinions; may include forward-looking demand speculation; NOT for use in reviewer adjudication or selection",
+  "items": {
+    "2022-06197": "unclear: NMFS estimates small incremental administrative costs ($714,000-$834,000 present value) mostly to the oil and gas sector and states the designation is not expected to change the level of oil and gas activity, but could create demand for consultation/compliance services.",
+    "2022-06366": "yes - the rule imposes a new mandatory pre-travel electronic authorization (with existing ESTA fee) on an estimated 3.2-4.1 million land-border VWP applications over FY2019-FY2028, changing border-crossing behavior for VWP travelers from Canada and Mexico.",
+    "2022-06503": "unclear - imposes firmware/software and certification changes on all TV-band white space devices marketed in the US within six months, but the document characterizes the change as a fairly simple matter and non-major under the Congressional Review Act; market size not described.",
+    "2022-06517": "unclear: the compliance burden is explicitly limited (about 20 respondents, 7,100 total hours, Total Annual Cost: No cost), so direct market effect is small, though the data feeds later FCC rate reform for inmate calling services.",
+    "2022-06521": "unclear - would remove mandatory outbound inspection/certification costs and restructure assessments for California walnut handlers, but it is only a hearing notice with no adopted rule or effective date.",
+    "2022-06559": "no - the Coast Guard certifies no significant economic impact on a substantial number of small entities and the zone is a temporary, narrow (100 yard) moving safety zone around tall ships for about two months.",
+    "2022-06648": "yes - the document states OIRA designated the rule economically significant and a major rule because the difference in penalties is likely to exceed $100 million in at least one affected year (NHTSA projects approximately $178.5 million difference for MY 2019 alone).",
+    "2022-06769": "unclear - total U.S. operator cost of $1,778,644 across 457 airplanes ($3,892 each) and FAA certifies no significant economic impact, though it would create bounded demand for specific replacement hose parts and maintenance labor if finalized.",
+    "2022-06815": "no - the document only corrects a URL in a prior proposed rule and imposes no behavior change on any party.",
+    "2022-06816": "no - the FAA itself certifies the anticipated impact is so minimal and that the rule will not have a significant economic impact on a substantial number of small entities, affecting only a single remote Alaskan airway.",
+    "2022-06834": "unclear: the document states no significant economic impact on a substantial number of small entities and not significant under EO 12866, yet asserts delayed opening could cause economic harm to communities at recreational fishing ports; regionally concentrated and small in aggregate.",
+    "2022-06842": "unclear: NMFS itself estimates net economic benefits of $9.16-$10.17 million (2019 dollars) per year and certified no significant impact on a substantial number of small entities, so the change is material to a narrow fishery sector but modest in aggregate.",
+    "2022-06852": "unclear: new annual training and recordkeeping obligations on BYX Member broker-dealers, but BYX Members are largely also FINRA/Cboe members already subject to substantially identical rules, so incremental burden is likely small.",
+    "2022-06860": "no - the notice concerns individual medical exemption applications for 14 named drivers and a comment solicitation, with no market-wide requirement, price, platform, or program change.",
+    "2022-06879": "unclear: more stringent criteria across 406 potentially affected Washington point sources, but EPA's own analysis found no incremental costs to sampled major dischargers and only $98,000-$179,000 annual state TMDL costs, and certified no significant regulatory action or small-entity impact.",
+    "2022-06900": "no - a routine weekly administrative listing of EIS filings creates no new obligation or demand shift by itself.",
+    "2022-06911": "no - the notice only re-estimates paperwork burden for an existing cruise-ship illness reporting program and solicits comments, with no new costs to respondents other than time already incurred.",
+    "2022-06913": "no - routine public-comment notice on two small-bank ownership-retention filings with no behavior-changing requirement for any population.",
+    "2022-06927": "no - the document states the amendment is administrative, changes no regulatory text or management measures, and has no immediate or direct impact on the fishery.",
+    "2022-06928": "no - a public advisory committee meeting notice with no binding or scheduled regulatory change affecting any market participants."
+  }
+}

@@ -1,0 +1,134 @@
+
+[Federal Register Volume 87, Number 63 (Friday, April 1, 2022)]
+[Rules and Regulations]
+[Pages 18993-18994]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2022-06517]
+
+
+-----------------------------------------------------------------------
+
+FEDERAL COMMUNICATIONS COMMISSION
+
+47 CFR Part 64
+
+[WC Docket No. 12-375, DA 22-52; FR ID 77980]
+
+
+Rates for Interstate Inmate Calling Services
+
+AGENCY: Federal Communications Commission.
+
+ACTION: Final rule; announcement of effective date.
+
+-----------------------------------------------------------------------
+
+SUMMARY: In this document, the Federal Communications Commission 
+(Commission) announces the Office of Management and Budget (OMB) has 
+approved, for a period of three years, an information collection 
+associated with the Mandatory Data Collection Order, DA 22-52, issued 
+by the Commission's Wireline Competition Bureau (WCB or Bureau) and 
+Office Economics and Analytics (collectively WCB/OEA) on January 18, 
+2022. In that Order, WCB/OEA adopted instructions, a reporting 
+template, and a certification form related to a data collection 
+regarding calling services for incarcerated people. OMB approved the 
+data collection on March 1, 2022. This document establishes an 
+effective date for the Mandatory Data Collection Order. Responses to to 
+the Third Mandatory Data Collection are due June 30, 2022.
+
+DATES: The effective date of the order published March 23, 2022 at 87 
+FR 16560 is April 1, 2022.
+
+FOR FURTHER INFORMATION CONTACT: Erik Raven-Hansen, Pricing Policy 
+Division, Wireline Competition Bureau, (202) 418-1532, or email 
+<span class="__cf_email__" data-cfemail="a8cddac1c386dac9decdc685c0c9c6dbcdc6e8cecbcb86cfc7de">[email protected]</span>[email protected].
+
+SUPPLEMENTARY INFORMATION: This document announces that, on March 1, 
+2022, OMB approved, for a period of three years, the information 
+collection requirements adopted on January 18, 2022, in the Mandatory 
+Data Collection Order, DA 22-52, published March 23, 2022 at 87 FR 
+16560. The OMB Control Number is 3060-1300. The Commission publishes 
+this document as an announcement of the effective date of the 
+requirements for the Mandatory Data Collection.
+    In the Mandatory Data Collection Order, WCB/OEA directed that 
+requirements for the Mandatory Data Collection adopted in that Order 
+would become effective on the date specified in a document published in 
+the Federal Register announcing OMB approval. We note that inmate 
+calling services (ICS) providers' responses to the data collection are 
+due no later than June 30, 2022.
+    If you have any comments on the Mandatory Data Collection, or how 
+the Commission can improve the collections and reduce any burdens 
+caused thereby, please contact Nicole Ongele, Federal Communications 
+Commission, 45 L Street NE, Washington, DC 20002. Please include the 
+OMB Control Number, 3060-1300, in your correspondence. The Commission 
+will also accept your comments via email at <span class="__cf_email__" data-cfemail="6a3a382b2a0c0909440d051c">[email protected]</span>.
+    To request materials in accessible formats for people with 
+disabilities (Braille, large print, electronic files, audio format), 
+send an email to <span class="__cf_email__" data-cfemail="3f595c5c0a0f0b7f595c5c11585049">[email protected]</span> or call the Consumer and Governmental 
+Affairs Bureau at (202) 418-0530 (voice), (202) 418-0432 (TTY).
+
+Synopsis
+
+    As required by the Paperwork Reduction Act of 1995 (44 U.S.C. 
+3507), the FCC is notifying the public that it received OMB approval on 
+March 1, 2022 for the information collection requirements contained in 
+WCB/OEA's Mandatory Data Collection Order. Under 5 CFR part 1320, an 
+agency may not conduct or sponsor a collection of information unless it 
+displays a current, valid OMB Control Number. No person shall be 
+subject to any penalty for failing to comply with a collection of 
+information subject to the Paperwork Reduction Act that does not 
+display a current, valid OMB Control Number. The OMB Control Number is 
+3060-1300.
+    The foregoing notification is required by the Paperwork Reduction 
+Act of 1995, Public Law 104-13, October 1, 1995, and 44 U.S.C. 3507.
+    The total data collection burdens and costs for the respondents are 
+as follows:
+    OMB Control Number: 3060-1300.
+    OMB Approval Date: March 1, 2022.
+    Expiration Date: March 31, 2025.
+    Title: Inmate Calling Service (ICS) 2022 One-time Data Collection, 
+WC Docket No. 12-375, FCC 21-60.
+    Form Numbers: FCC Form 2302(a) and FCC Form 2302(b).
+    Respondents: Business or other for profit.
+    Number of Respondents and Responses: 20 respondents; 20 responses.
+    Estimated Time per Response: 355 hours on average.
+    Frequency of Response: One-time reporting requirement.
+    Total Annual Burden: 7,100 hours.
+    Total Annual Cost: No cost.
+    Obligation To Respond: Required to obtain or retain benefits. 
+Statutory authority for this information collection is contained in 
+sections 1, 4(i)-(j), 201(b), 218, 220, 225, 255, 276, 403, and 617 of 
+the Communications Act of 1934, as amended, 47 U.S.C. 151, 154(i)-(j), 
+201(b), 218, 220, 225, 255, 276, 403, and 617.
+    Privacy Act Impact Assessment: No Impact(s).
+    Nature and Extent of Confidentiality: The Commission anticipates 
+treating as presumptively confidential any particular information 
+identified as proprietary by calling services providers.
+    Needs and Uses: Section 201 of the Communications Act of 1934, as 
+amended (Act), 47 U.SC. 201, requires that calling services providers' 
+interstate and international rates and practices be just and 
+reasonable. Section 276 of the Act, 47 U.S.C. 276, requires that 
+payphone service providers (including calling services providers) be 
+fairly compensated for completed calls.
+    On May 24, 2021, the Commission released the Third Report and Order 
+(86 FR 40682, July 28, 2021), Order on Reconsideration (86 FR 40340, 
+July 28, 2021), and Fifth Further Notice of Proposed Rulemaking (86 FR 
+40416,
+
+[[Page 18994]]
+
+July 28, 2021), WC Docket No. 12-375, FCC 21-60 (2021 ICS Order), in 
+which it continued its reform of the calling services marketplace. In 
+that Order, the Commission, among other actions, delegated authority to 
+WCB/OEA to implement a data collection for ICS providers. Pursuant to 
+that delegation, WCB/OEA adopted the Mandatory Data Collection Order, 
+including the instructions, reporting template, and certification form 
+for the data collection, on January 18, 2022.
+
+Federal Communications Commission.
+Lynne Engledow,
+Deputy Chief, Pricing Policy Division, Wireline Competition Bureau.
+[FR Doc. 2022-06517 Filed 3-31-22; 8:45 am]
+BILLING CODE 6712-01-P
+
+

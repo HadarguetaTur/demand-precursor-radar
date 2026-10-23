@@ -1,0 +1,1786 @@
+
+[Federal Register Volume 87, Number 63 (Friday, April 1, 2022)]
+[Rules and Regulations]
+[Pages 18967-18981]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2022-06366]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF HOMELAND SECURITY
+
+8 CFR Parts 103, 212, 217, and 286
+
+[Docket No. USCBP-2021-0014; CBP Dec. 22-07]
+RIN 1651-AB14
+
+
+Implementation of the Electronic System for Travel Authorization 
+(ESTA) at U.S. Land Borders
+
+AGENCY: U.S. Customs and Border Protection, Department of Homeland 
+Security (DHS).
+
+ACTION: Interim final rule; solicitation of comments.
+
+-----------------------------------------------------------------------
+
+SUMMARY: This rule amends Department of Homeland Security (DHS) 
+regulations to implement the Electronic System for Travel Authorization 
+(ESTA) requirements under section 711 of the Implementing 
+Recommendations of the 9/11 Commission Act of 2007, for noncitizens who 
+intend to enter the United States under the Visa Waiver Program (VWP) 
+at land ports of entry. Currently, noncitizens from VWP countries must 
+provide certain biographic information to U.S. Customs and Border 
+Protection (CBP) officers at land ports of entry on a paper I-94W 
+Nonimmigrant Visa Waiver Arrival/Departure Record (Form I-94W). Under 
+this rule, these VWP travelers will instead provide this information to 
+CBP electronically through ESTA prior to application for admission to 
+the United States. DHS has already implemented the ESTA requirements 
+for noncitizens who intend to enter the United States under the VWP at 
+air or sea ports of entry.
+
+DATES: This rule is effective May 2, 2022. Comments must be received on 
+or before May 2, 2022.
+
+ADDRESSES: You may submit comments, identified by docket number, by the 
+following method:
+    <bullet> Federal eRulemaking Portal: https://www.regulations.gov. 
+Follow the instructions for submitting comments via docket number 
+USCBP-2021-0014.
+    Due to COVID-19-related restrictions, CBP has temporarily suspended 
+its ability to receive public comments by mail.
+    Instructions: All submissions received must include the agency name 
+and docket number for this rulemaking. All comments received will be 
+posted without change to http://www.regulations.gov, including any 
+personal information provided. For detailed instructions on submitting 
+comments and additional information on the rulemaking process, see the 
+``Public Participation'' heading of the SUPPLEMENTARY INFORMATION 
+section of this document.
+    Docket: For access to the docket to read background documents or 
+comments received, go to http://www.regulations.gov. Due to relevant 
+COVID-19-related restrictions, CBP has temporarily suspended its on-
+site public inspection of submitted comments.
+
+FOR FURTHER INFORMATION CONTACT: Sikina S. Hasham, Director, Electronic 
+System for Travel Authorization (ESTA), Office of Field Operations, 
+202-325-8000, <span class="__cf_email__" data-cfemail="cdbea4a6a4a3ace3a5acbea5aca08daeafbde3a9a5bee3aaa2bb">[email protected]</span>.
+
+SUPPLEMENTARY INFORMATION:
+
+[[Page 18968]]
+
+Table of Contents
+
+I. Public Participation
+II. Executive Summary
+III. Background
+    A. Visa Waiver Program
+    1. Current CBP Processing of VWP Travelers at Land Ports of 
+Entry
+    2. Current CBP Processing of VWP Travelers at Air and Sea Ports 
+of Entry
+    B. Expanding ESTA to Land Ports of Entry
+    1. Obtaining a Travel Authorization
+    2. Travel Authorization
+    3. Timeline for Obtaining a Travel Authorization
+    4. Required ESTA Data Elements
+    5. Scope of Travel Authorization
+    6. Duration
+    7. Events Requiring New Travel Authorization
+    8. Fee
+    9. Judicial Review
+    C. Discussion of Regulatory Changes
+    1. 8 CFR Part 103
+    2. 8 CFR Part 212
+    3. 8 CFR Part 217
+    4. 8 CFR Part 286
+IV. Statutory and Regulatory Requirements
+    A. Administrative Procedure Act
+    1. Procedural Rule Exception
+    2. Foreign Affairs Function Exception
+    B. Executive Orders 13563 and 12866
+    1. Purpose of Rule
+    2. Population Affected by Rule
+    3. Costs of Rule
+    4. Benefits of Rule
+    5. Net Impact of Rule
+    C. Regulatory Flexibility Act
+    D. Unfunded Mandates Reform Act of 1995
+    E. Executive Order 13132
+    F. Executive Order 12988 Civil Justice Reform
+    G. Paperwork Reduction Act
+    H. Privacy Interests
+
+I. Public Participation
+
+    Interested persons are invited to participate in this rulemaking by 
+submitting written data, views, or arguments on all aspects of this 
+interim final rule. U.S. Customs and Border Protection (CBP) also 
+invites comments on the economic, environmental, or federalism effects 
+that might result from this regulatory change. Comments that will 
+provide the most assistance to CBP will reference a specific portion of 
+the rule, explain the reason for any recommended change, and include 
+data, information, or authority that support such recommended change. 
+Written comments must be submitted on or before May 2, 2022. CBP will 
+consider those comments and make any changes appropriate after 
+consideration of those comments.
+
+II. Executive Summary
+
+    The Visa Waiver Program (VWP) permits eligible citizens and 
+nationals from 40 participating countries to apply for admission to the 
+United States at ports of entry for periods of 90 days or less for 
+business or pleasure without first obtaining a nonimmigrant B-1, B-2, 
+or B-1/B-2 visa. The Department of Homeland Security (DHS) is amending 
+its regulations to require VWP travelers applying for admission at U.S. 
+land ports of entry to receive a travel authorization via the 
+Electronic System for Travel Authorization (ESTA) from CBP prior to 
+applying for admission to the United States.
+    A travel authorization via ESTA is a positive determination of 
+eligibility to travel to the United States under the VWP. Travelers 
+without a travel authorization must have a visa issued by a U.S. 
+Embassy or Consulate for admission to the United States.
+    Currently, VWP travelers applying for admission at U.S. land ports 
+of entry must complete a paper I-94W Nonimmigrant Visa Waiver Arrival/
+Departure Record (Form I-94W) prior to admission that provides 
+biographical and travel information to CBP. Through this interim rule, 
+instead of completing a paper Form I-94W at land ports of entry, VWP 
+travelers must now provide this information electronically to CBP via 
+ESTA.
+    DHS has already instituted the ESTA program at air and sea ports of 
+entry. On June 9, 2008, DHS published an interim final rule (IFR), 
+``Changes to the Visa Waiver Program to Implement the Electronic System 
+for Travel Authorization (ESTA) Program,'' in the Federal Register (73 
+FR 32440) (hereafter, ``ESTA Air and Sea IFR'') announcing the creation 
+of the ESTA program for nonimmigrant visitors traveling to the United 
+States by air or sea under the VWP. After a thorough review of the 
+comments received, on June 8, 2015, DHS published in the Federal 
+Register (80 FR 32267) a final rule titled ``Changes to the Visa Waiver 
+Program to Implement the Electronic System for Travel Authorization 
+(ESTA) Program and the Fee for Use of the System'' (hereafter, ``ESTA 
+Air, Sea, and Fee Final Rule'').\1\ Specifically, DHS amended title 8 
+of the Code of Federal Regulations (CFR) to provide that VWP travelers 
+applying for admission at U.S. air and sea ports of entry must receive 
+a travel authorization from CBP via ESTA. See 8 CFR 217.5 (ESTA 
+regulations). The ESTA regulations set forth the general requirements, 
+the time frame for obtaining a travel authorization, the required data 
+elements, the duration of a travel authorization, and the fee for 
+obtaining a travel authorization. With the implementation of ESTA, VWP 
+travelers who arrive at air and sea ports of entry are no longer 
+required to complete a paper Form I-94W.
+---------------------------------------------------------------------------
+
+    \1\ On August 9, 2010, DHS published an IFR in the Federal 
+Register (75 FR 47701) to establish a fee for ESTA.
+---------------------------------------------------------------------------
+
+    This interim rule expands the requirements of ESTA to land ports of 
+entry. Specifically, it extends the electronic collection of the 
+information requested on paper Form I-94W to VWP travelers who intend 
+to travel to the United States by land. For these travelers, all the 
+ESTA requirements in 8 CFR 217.5 are identical to air and sea 
+travelers, except for the time frame for receiving a travel 
+authorization.
+    As provided in 8 CFR 217.5(b), air and sea VWP travelers must 
+receive a travel authorization prior to embarking on a carrier for 
+travel to the United States. Under this interim rule, however, VWP 
+travelers intending to travel to the United States by land must instead 
+receive a travel authorization prior to application for admission to 
+the United States. The different time frames take into account the fact 
+that travel by land is often by privately owned vehicle or on foot and 
+not by carrier, as is usually the case when people travel to the United 
+States by air or sea.
+    To expedite the admission process, DHS encourages VWP travelers who 
+intend to travel to the United States by land to apply for a travel 
+authorization at least 72 hours in advance of their anticipated arrival 
+at a U.S. land port of entry. By submitting an ESTA application well in 
+advance of anticipated arrival at a land port of entry, a traveler will 
+be able to minimize the likelihood that he or she will be found to be 
+inadmissible under the VWP upon arrival at the port of entry and 
+prevent a potentially long wait time at the border while his or her 
+application is under review.
+    Implementing ESTA at land ports of entry will expedite the 
+admission of VWP travelers and reduce traveler delays, especially when 
+VWP travelers apply for a travel authorization in advance of travel. A 
+travel authorization will be valid at all ports of entry. Therefore, if 
+a VWP traveler already has a valid travel authorization obtained for 
+air or sea travel, the traveler will not need to obtain another travel 
+authorization for admission at a land port of entry.
+    Following the implementation of ESTA at U.S. land ports of entry, 
+all VWP travelers are required to complete the electronic version of 
+the paper Form I-94W (i.e., an ESTA application) instead of the paper 
+Form I-94W.
+    As discussed in Section IV(B) of the Background section, 
+``Executive Orders 13563 and 12866,'' and detailed in the complete 
+regulatory assessment entitled ``Regulatory Assessment for the
+
+[[Page 18969]]
+
+Implementation of the Electronic System for Travel Authorization (ESTA) 
+at U.S. Land Borders Interim Final Rule,'' available at docket number 
+USCBP-2021-0014, this rule will provide immediate benefits to VWP 
+travelers and to CBP. This rule will produce a consistent, modern VWP 
+admission policy, strengthen national security through enhanced 
+traveler vetting, expedite entry processing at land ports of entry, 
+collect Form I-94W information electronically, and reduce inadmissible 
+traveler inspections, generating time and cost savings for CBP and VWP 
+travelers.
+
+III. Background
+
+A. Visa Waiver Program
+
+    Pursuant to section 217 of the Immigration and Nationality Act 
+(INA), 8 U.S.C. 1187, the Secretary of Homeland Security, in 
+consultation with the Secretary of State, may designate countries for 
+participation in the VWP if certain requirements are met. See 8 U.S.C. 
+1187(c)(2). The INA also sets forth requirements for continued 
+eligibility and termination of VWP status.
+    Eligible citizens and nationals of VWP countries may apply for 
+admission at a U.S. port of entry as nonimmigrant visitors for a period 
+of ninety (90) days or less for business or pleasure without first 
+obtaining a nonimmigrant B-1, B-2, or B-1/B-2 visa. These travelers, 
+however, must comply with applicable regulations and be admissible 
+under statutory and regulatory requirements.\2\ Other nonimmigrant 
+visitors who are not from VWP countries, or visitors from VWP countries 
+who are traveling for purposes other than business or pleasure, must 
+obtain a visa from a U.S. Embassy or Consulate and generally must 
+undergo an interview by consular officials overseas in advance of 
+travel to the United States.
+---------------------------------------------------------------------------
+
+    \2\ For VWP travelers arriving at the United States at air and 
+sea ports of entry, the ESTA requirements as set forth in 8 CFR 
+217.5 apply. ESTA requirements are described in detail in Section 
+III(B) of the Background section of this document.
+---------------------------------------------------------------------------
+
+1. Current CBP Processing of VWP Travelers at Land Ports of Entry
+    The way in which a VWP traveler is processed at a land port of 
+entry depends on the documentation the traveler presents upon 
+application for admission. In some cases, the VWP traveler may be 
+referred to secondary processing. Generally, in secondary processing, 
+the traveler must complete a paper Form I-94W and pay a $6.00 
+processing fee. CBP estimates that the paper Form I-94W takes 16 
+minutes (0.2667 hours) to complete.\3\
+---------------------------------------------------------------------------
+
+    \3\ Source: U.S. Customs and Border Protection. Supporting 
+Statement for Paperwork Reduction Act Submission 1651-0111: Arrival 
+and Departure Record (Forms I-94, I-94W) and Electronic System for 
+Travel Authorization (ESTA). February 12, 2019. Available at https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=201810-1651-001. 
+Accessed May 22, 2019.
+---------------------------------------------------------------------------
+
+    In secondary, once a VWP traveler completes the paper Form I-94W, a 
+CBP officer enters the traveler's passport and paper Form I-94W 
+information into an internal database and collects the traveler's 
+biometric data (i.e., fingerprints and photograph). CBP uses the data 
+collected on the paper Form I-94W to populate a database of crossing 
+history and admission status in the United States. This database stores 
+the admissions and departures of travelers entering or leaving the 
+United States. The CBP officer also checks the visitor's personal 
+information against lost and stolen passport databases, government 
+watch lists, and other DHS resources. Based on this information, as 
+well as an interview with the traveler, the CBP officer determines 
+whether or not the traveler is admissible to the United States. If 
+admissible, the CBP officer stamps the traveler's paper Form I-94W and 
+passport, provides the traveler with the departure portion of the paper 
+Form I-94W (``I-94W Departure Record'') and grants the traveler 
+admission to the United States for a period of up to 90 days (``90-day 
+VWP admission period'').\4\
+---------------------------------------------------------------------------
+
+    \4\ Generally, admitted VWP visitors must surrender the I-94W 
+Departure Record when leaving the United States. This allows CBP to 
+accurately record traveler departures. However, admitted VWP 
+travelers are not required to surrender the Form I-94W Departure 
+Record when departing the United States for Canada or Mexico for a 
+trip of less than 30 days. These travelers may retain their I-94W 
+Departure Record so that when they resume their visit to the United 
+States, via a land port of entry, they are not required to complete 
+another paper Form I-94W. They may be readmitted into the United 
+States for the balance of time remaining on their 90-day VWP 
+admission period.
+---------------------------------------------------------------------------
+
+    The processing of a VWP traveler at a land port of entry may be 
+different if the traveler is within a current 90-day VWP admission 
+period (meaning, the traveler has been processed and admitted into the 
+United States under the VWP within the last 90 days, with or without a 
+current ESTA travel authorization), or if the traveler has a current 
+ESTA travel authorization, but is not within a current 90-day VWP 
+admission period.
+    In the former case, where the traveler is within a current 90-day 
+VWP admission period, the traveler may generally be processed at CBP's 
+primary inspection. This is because the information typically gathered 
+during secondary processing was already captured earlier through either 
+the traveler's ESTA application (if he or she first arrived in the 
+United States by air or sea) or the Form I-94W (if he or she first 
+arrived in the United States by land). This scenario typically occurs 
+when a VWP traveler who has already been admitted into the United 
+States takes a brief excursion into Canada or Mexico, and then seeks to 
+re-enter the United States to resume his or her visit.
+    In the latter case, when a VWP traveler has a valid ESTA travel 
+authorization, but is not within a current 90-day VWP admission period, 
+the traveler must go to secondary processing and pay the $6.00 
+processing fee, but he or she does not need to complete the paper Form 
+I-94W because CBP already has the traveler's relevant information 
+through his or her ESTA application.
+    If a traveler is refused admission to the United States under the 
+VWP, he or she can visit the nearest U.S. Embassy or Consulate to apply 
+for a nonimmigrant B-1, B-2, or B-1/B-2 visa. This visa would cost a 
+traveler approximately $302 in fees and time costs to obtain.\5\ The 
+overall U.S.
+
+[[Page 18970]]
+
+admission refusal rate for VWP travelers at land ports of entry is low. 
+From fiscal year (FY) 2013 to FY 2017, CBP recorded 4.0 million VWP 
+traveler arrivals at U.S. land ports of entry, with 99.9 percent of 
+arrivals resulting in admissions to the United States and 0.1 percent 
+resulting in refusals based on paper Form I-94W processing.\6\
+---------------------------------------------------------------------------
+
+    \5\ The fees to obtain a nonimmigrant B-1, B-2, or B-1/B-2 visa 
+include a $160.00 U.S. Department of State fee for DS-160: Online 
+Nonimmigrant Visa Application processing and an estimated $40.00 in 
+photo, courier, and other miscellaneous expenses. The time cost to 
+obtain a nonimmigrant B-1, B-2, or B-1/B-2 visa is approximately 
+$102, based on the estimated 5-hour time burden to obtain a 
+nonimmigrant B-1, B-2, or B-1/B-2 visa (including the time spent 
+completing Form DS-160: Online Nonimmigrant Visa Application, 
+traveling to a U.S. Embassy or Consulate for the nonimmigrant B-1, 
+B-2, or B-1/B-2 visa interview, waiting for the interview, and 
+undergoing the interview) and a VWP traveler's hourly time value of 
+$20.40. CBP bases the $20.40 hourly time value for VWP travelers on 
+the U.S. Department of Transportation's (DOT) hourly time value of 
+$20.40 for all-purpose, intercity travel by surface-modes, except 
+high-speed rail. For the purposes of this analysis, CBP assumes that 
+the DOT time value, reported in 2015 U.S. dollars, would be the same 
+for 2019. Source of visa processing fee cost: U.S. Department of 
+State. ``Fees for Visa Services.'' Available at https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/fees/fees-visa-services.html. Accessed May 7, 2018. Source 
+of photo cost: U.S. Department of State. Supporting Statement for 
+Paperwork Reduction Act Submission: 1405-0015, Application for 
+Immigrant Visa and Alien Registration (Form DS-230). August 3, 2018. 
+Available at https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=201808-1405-001. Accessed December 20, 2018. 
+Source of other fees: CBP estimates. Source of VWP traveler's hourly 
+time value: U.S. Department of Transportation, Office of 
+Transportation Policy. The Value of Travel Time Savings: 
+Departmental Guidance for Conducting Economic Evaluations Revision 2 
+(2016 Update). ``Table 4 (Revision 2--2016 Update): Recommended 
+Hourly Values of Travel Time Savings.'' September 27, 2016. 
+Available at https://www.transportation.gov/sites/dot.gov/files/docs/2016%20Revised%20Value%20of%20Travel%20Time%20Guidance.pdf. 
+Accessed June 11, 2018.
+    \6\ Email correspondence with CBP's Office of Field Operations 
+on April 24, 2015 and May 17, 2018.
+---------------------------------------------------------------------------
+
+2. Current CBP Processing of VWP Travelers at Air and Sea Ports of 
+Entry
+    A nonimmigrant noncitizen arriving at a U.S. air or sea port of 
+entry under the VWP must obtain a travel authorization via ESTA prior 
+to embarking on a carrier for travel to the United States. If the 
+traveler does not have a travel authorization, he or she must hold an 
+unexpired visa issued by a U.S. Embassy or Consulate. See Section 
+217(a) of the INA, 8 U.S.C. 1187(a). See also 8 CFR part 217. The 
+relevant history regarding this ESTA requirement is set forth below.
+    In response to the events of September 11, 2001, Congress enacted 
+the Implementing Recommendations of the 9/11 Commission Act of 2007, 
+Public Law 110-53 (9/11 Act). To address aviation security 
+vulnerabilities of the VWP, section 711 of the 9/11 Act required the 
+Secretary of Homeland Security, in consultation with the Secretary of 
+State, to develop and implement a fully automated electronic travel 
+authorization system for VWP travelers visiting the United States. The 
+system would collect biographical and other information the DHS 
+Secretary deems necessary to evaluate, in advance of travel, the 
+eligibility of the applicant to travel to the United States under the 
+VWP, and whether such travel poses a law enforcement or security risk. 
+See 8 U.S.C. 1187(h)(3)(A). Prior to the establishment of ESTA, VWP 
+travelers could board planes to the United States and be found 
+inadmissible upon arrival at CBP inspection. By establishing ESTA, DHS 
+is able to identify whether the traveler is likely to be admissible 
+upon arrival before the traveler embarks on travel to the United 
+States.
+    DHS established the electronic equivalent of the paper Form I-94W 
+process at air and sea ports of entry as set forth in the ESTA Air and 
+Sea IFR (73 FR 32440), published on June 9, 2008, and in the ESTA Air, 
+Sea, and Fee Final Rule (80 FR 32267), published on June 8, 2015. ESTA 
+provides for an electronic collection of the information required on 
+the paper Form I-94W in advance of travel. ESTA fulfills the statutory 
+requirements described in section 711 of the 9/11 Act.
+    DHS stated in the ESTA Air and Sea IFR that the development and 
+implementation of the ESTA program would eventually allow DHS to 
+automate the requirement that VWP travelers complete a paper Form I-94W 
+prior to being admitted to the United States. See 73 FR 32440 at 32443. 
+While the ESTA Air and Sea IFR established the regulations for ESTA, 
+section 711 of the 9/11 Act required DHS to announce implementation of 
+a mandatory ESTA system by publication of a notice in the Federal 
+Register no less than 60 days before the date on which ESTA would 
+become mandatory for all VWP travelers. On November 13, 2008, DHS 
+published such a notice in the Federal Register (73 FR 67354) 
+announcing that ESTA would be mandatory for all VWP travelers traveling 
+to the United States seeking admission at air and sea ports of entry 
+beginning January 12, 2009. At that point, DHS began an informed 
+compliance period during which VWP travelers who arrived without prior 
+ESTA authorization were not refused admission on that basis, but were 
+instead permitted to complete the paper I-94W upon arrival in the 
+United States. As of June 29, 2010, however, VWP travelers have been 
+required to receive a travel authorization through the ESTA website, 
+https://www.cbp.gov/esta, prior to boarding a conveyance destined for a 
+U.S. air or sea port of entry. See 80 FR 32267 at 32285. Travelers who 
+do not receive authorization through ESTA may still apply for a 
+nonimmigrant B-1, B-2, or B-1/B-2 visa issued by a U.S. Embassy or 
+Consulate.
+    On March 4, 2010, the United States Capitol Police Administrative 
+Technical Corrections Act of 2009, Public Law 111-145, was enacted. 
+Section 9 of this law, the Travel Promotion Act of 2009 (TPA), mandated 
+that the Secretary of Homeland Security establish a fee for the use of 
+ESTA and begin assessing and collecting the fee.
+    On August 9, 2010, DHS published an interim final rule ``Electronic 
+System for Travel Authorization (ESTA); Travel Promotion Fee and Fee 
+for Use of the System'' in the Federal Register (75 FR 47701) 
+(hereafter, ``ESTA Fee IFR'') announcing that beginning September 8, 
+2010, a $4.00 ESTA operational fee would be charged to each ESTA 
+applicant to ensure recovery of the full costs of providing and 
+administering the system and an additional $10.00 Trade Promotion Act 
+(TPA) fee would be charged to each ESTA applicant receiving travel 
+authorization through September 30, 2015.\7\ See 8 U.S.C. 
+1187(h)(3)(B), as amended, and 8 CFR 217.5(h).
+---------------------------------------------------------------------------
+
+    \7\ On February 9, 2018, section 30203(a) of the Bipartisan 
+Budget Act of 2018, Public Law 115-123, extended the sunset 
+provision of the travel promotion fee through September 30, 2027. On 
+December 20, 2019, section 806 of the Further Consolidated 
+Appropriations Act of 2020, Public Law 116-94, increased the travel 
+promotion fee from $10 to $17. CBP will be publishing a separate 
+rule to reflect these legislative changes.
+---------------------------------------------------------------------------
+
+    In response to the request for comments in the ESTA Air and Sea IFR 
+and the ESTA Fee IFR, DHS received a total of 39 submissions. Most of 
+these submissions contained comments providing support, voicing 
+concerns, highlighting issues, or offering suggestions for 
+modifications to the ESTA program. After review and analysis of the 
+comments, on June 8, 2015, DHS published the ESTA Air, Sea, and Fee 
+Final Rule in the Federal Register (80 FR 32267) with two substantive 
+regulatory changes. The first change allows the Secretary of Homeland 
+Security to adjust travel authorization validity periods on a per 
+country basis from a general validity period of two years, to a three-
+year maximum or to a lesser period of time. The second change concerns 
+the TPA fee. In accordance with Section 605 of the Consolidated and 
+Further Continuing Appropriations Act of 2015, DHS extended the end 
+date for assessment of the Travel Promotion Act fee to September 30, 
+2020. DHS also removed a specific reference to the Pay.gov payment 
+system in order to allow for flexibility in how CBP may collect ESTA 
+fees.
+    The ESTA Air, Sea, and Fee Final Rule also outlines the various 
+operational changes DHS has implemented since the ESTA program's 
+inception based on the experience DHS gained from operating the ESTA 
+program. For example, VWP travelers who provide an email address to DHS 
+when they submit their application will receive an automated email 
+notification indicating that their travel authorization will expire 
+soon. DHS has also updated the information on the ESTA website to 
+address some of the comments. Finally, DHS has also revised some of the 
+ESTA questions to make them more understandable, removed one of the 
+questions, and added some new questions to improve the screening of 
+travelers before their travel to the United States.\8\ All these 
+changes took effect on November 3, 2014.
+---------------------------------------------------------------------------
+
+    \8\ The ESTA application and the paper Form I-94W are covered by 
+OMB Control Number 1651-0111. The updated questions and additional 
+questions were described in various notices regarding the extension 
+and revision of information collection 1651-0111 requesting public 
+comments published in the Federal Register on November 26, 2013 (78 
+FR 70570), February 14, 2014 (79 FR 8984), December 9, 2014 (79 FR 
+73096), June 23, 2016 (81 FR 40892), and August 31, 2016 (81 FR 
+60014).
+
+---------------------------------------------------------------------------
+
+[[Page 18971]]
+
+    For more details regarding ESTA and the fees associated with ESTA, 
+please see: ESTA Air and Sea IFR; ESTA Fee IFR; and ESTA Air, Sea, and 
+Fee Final Rule. Additional information may also be found on the ESTA 
+website at https://esta.cbp.dhs.gov.
+
+B. Expanding ESTA to Land Ports of Entry
+
+    From FY 2013 to FY 2017, CBP recorded 4.0 million VWP traveler 
+arrivals at U.S. land ports of entry, with 99.9 percent of arrivals 
+resulting in admissions to the United States and 0.1 percent resulting 
+in refusals based on paper Form I-94W processing. Of the total 
+arrivals, approximately 3.1 million (77.8 percent) were distinct, 
+meaning that they corresponded to VWP travelers required to complete 
+new paper Form I-94Ws and undergo related processing. These distinct 
+travelers were either taking their first trip to the United States by 
+land or they lacked valid Form I-94W Departure Records. The remaining 
+888,000 arrivals (22.2 percent) were non-distinct, meaning that they 
+corresponded to VWP travelers making repeat visits to the United States 
+using an initial, valid Form I-94W Departure Record.\9\
+---------------------------------------------------------------------------
+
+    \9\ Travelers with a valid Form I-94W Departure Record are those 
+who departed the United States for Canada or Mexico for a trip of 
+less than 30 days.
+---------------------------------------------------------------------------
+
+    This interim final rule (hereafter ``ESTA Land IFR'') amends title 
+8 of the CFR to implement ESTA for noncitizens who intend to travel to 
+the United States under the VWP by land. These travelers must now 
+submit an ESTA application instead of the paper Form I-94W. The rule 
+requires each noncitizen traveling to the United States by land under 
+the VWP to obtain from CBP a travel authorization via ESTA prior to 
+application for admission to the United States. With this expansion of 
+ESTA, all VWP travelers will be required to have a travel authorization 
+in advance of applying for admission to the United States.
+    As summarized in the Executive Summary and in Section IV(B), 
+``Executive Orders 13563 and 12866,'' this rule has many benefits. In 
+addition to fulfilling a statutory mandate, ESTA serves the twin goals 
+of promoting border security and legitimate travel to the United 
+States. ESTA increases national security and provides efficiencies in 
+the screening of international travelers by vetting subjects of 
+potential interest before admittance into the United States. The ESTA 
+Land IFR also generates various additional benefits to foreign 
+travelers and DHS (particularly CBP).
+    VWP travelers intending to arrive at U.S. land ports of entry will 
+benefit from ESTA, especially when the traveler already has a travel 
+authorization or applies for a travel authorization before traveling to 
+the United States. By implementing ESTA at land ports of entry, 
+travelers will no longer have to complete the paper Form I-94W at the 
+land port of entry. This will shorten the admission process at U.S. 
+land ports of entry for both VWP travelers and DHS. Travelers who 
+already have an ESTA travel authorization that is still valid will not 
+have to obtain a new travel authorization or complete the paper Form I-
+94W when entering at a land port of entry. VWP travelers will also save 
+time by obtaining a travel authorization in advance of travel, which 
+may prevent them from spending time and money to travel to a U.S. land 
+port of entry and possibly be refused admission.
+    ESTA enables DHS to determine whether a noncitizen is eligible to 
+travel to the United States under the VWP and to identify potential 
+grounds of inadmissibility before the VWP traveler applies for 
+admission at a U.S. land port of entry. By making these determinations 
+before the noncitizen embarks on travel to the United States, DHS will 
+likely be able to reduce the number of noncitizens arriving at U.S. 
+ports of entry who are determined to be inadmissible upon arrival. In 
+turn, this will reduce the number of inadmissible noncitizens that DHS 
+must process for appropriate refusal or removal proceedings upon 
+arrival. Furthermore, by implementing ESTA at land ports of entry, DHS 
+will also likely reduce wait times for other international travelers 
+arriving at U.S. ports of entry. With reduced wait times, DHS will 
+better allocate existing resources towards screening passengers at U.S. 
+ports of entry, thereby facilitating legitimate travel.
+    As explained more fully in section III(B)(1), ``Obtaining a Travel 
+Authorization,'' as a result of this interim final rule, VWP travelers 
+entering the United States at land ports of entry must receive an ESTA 
+travel authorization prior to application for admission to the United 
+States. This time frame is different from the time frame applicable to 
+VWP travelers entering the United States at air and sea ports of entry. 
+VWP travelers entering the United States at air and sea ports of entry 
+must have a travel authorization prior to boarding a carrier destined 
+for the United States. The different time frames take into account the 
+fact that travel by land is often more spontaneous, and sometimes last 
+minute, and often not by a carrier. DHS will not require land carriers 
+(such as bus and rail companies) to screen passengers or necessitate a 
+travel authorization in advance of arrival to a U.S. land port of 
+entry. Other than the different time frames, the ESTA procedures and 
+requirements for VWP travelers arriving at land ports of entry will be 
+the same as the procedures and requirements for VWP travelers arriving 
+at air or sea ports of entry as provided in 8 CFR 217.5. These 
+procedures and requirements are explained below.
+1. Obtaining a Travel Authorization
+    VWP travelers obtain the required travel authorization by 
+electronically submitting to CBP, via the ESTA website (https://esta.cbp.dhs.gov), an application consisting of biographical and other 
+information specified by the Secretary of Homeland Security. The ESTA 
+application captures all data elements included on the paper Form I-
+94W. To apply for a travel authorization, a traveler should select the 
+``Apply'' feature on the ESTA web page, enter his or her biographical 
+and travel information as prompted by the fields marked with a red 
+asterisk (the mandatory data elements), enter the optional data 
+elements, if known, and submit the application information. A third 
+party (such as a commercial carrier, travel agent, visa service 
+provider, or relative) may submit an ESTA application on a traveler's 
+behalf. For each travel authorization, the traveler must pay a fee.
+    CBP will use information included in a traveler's ESTA application 
+to determine the eligibility of the noncitizen to travel to the United 
+States and whether the visitor poses a law enforcement or security 
+risk.\10\
+---------------------------------------------------------------------------
+
+    \10\ See 8 U.S.C. 1187(h)(3).
+---------------------------------------------------------------------------
+
+    CBP will check information submitted by the traveler, or on behalf 
+of a traveler, in his or her ESTA application against all appropriate 
+databases, including lost and stolen passport databases and appropriate 
+watch lists. CBP may deny the traveler's ESTA application if: (1) A 
+noncitizen does not provide the required information; (2) a noncitizen 
+provides false information; (3) any evidence exists indicating 
+ineligibility to travel to the United States under the VWP; or (4) the 
+travel poses a law enforcement or security risk. Consistent with 
+section 711 of the 9/11 Act, the Secretary, acting through CBP, retains
+
+[[Page 18972]]
+
+discretion to revoke a travel authorization determination at any time 
+and for any reason. See 8 U.S.C. 1187(h)(3)(C)(i). If a noncitizen's 
+travel authorization application is denied, the noncitizen may still 
+apply to obtain a visa to travel to the United States from an 
+appropriate U.S. Embassy or Consulate.
+    To verify that the ESTA application has been approved and a travel 
+authorization has been issued, the traveler must return to the ESTA 
+website to view his or her ESTA status. CBP requires a minimum of two 
+hours to make an ESTA application determination. While most 
+determinations will generally be made in approximately two hours, there 
+is no guarantee that an application will be processed in that time 
+frame and some determinations may take longer. In most cases, the 
+applicant will receive an ESTA decision within 72 hours. An applicant 
+may contact the ESTA Help Desk at the Traveler Communications Center by 
+telephone at 1-202-325-5120 for assistance in processing his or her 
+pending application.
+    DHS recommends that travelers apply for a travel authorization 
+early in the travel planning process, rather than waiting until the 
+traveler is approaching the port of entry. By planning ahead, a 
+traveler who is unable to obtain a travel authorization will still have 
+time to apply for a nonimmigrant B-1, B-2, or B-1/B-2 visa from a U.S. 
+Embassy or Consulate before travel.
+2. Travel Authorization
+    A travel authorization is a positive determination that a 
+noncitizen is eligible to travel to the United States under the VWP 
+during the period of time the travel authorization is valid. A travel 
+authorization is not a determination that the noncitizen is ultimately 
+admissible into the United States. That determination is made by a CBP 
+officer only after an applicant for admission is inspected by a CBP 
+officer at a U.S. port of entry. In addition, ESTA is not a visa or a 
+process that acts in lieu of any visa issuance determination made by 
+the Department of State.
+3. Timeline for Obtaining a Travel Authorization
+    Each VWP traveler arriving at a U.S. land port of entry must have a 
+travel authorization prior to application for admission at a land port 
+of entry. A VWP traveler who does not have a valid travel authorization 
+at the time he or she applies for admission to the United States at a 
+land port of entry will be ineligible for admission under the VWP.
+    If a VWP traveler arrives at a U.S. land port of entry without a 
+valid travel authorization and wants to apply for one, the traveler 
+will be permitted to withdraw his or her application for admission, 
+return to Mexico or Canada, submit an ESTA application there, and await 
+receipt of a travel authorization in Mexico or Canada before returning 
+to a U.S. port of entry. Receipt of a travel authorization will take at 
+least two hours from the time that it is submitted. If the traveler's 
+ESTA application is approved, the traveler may return to a U.S. land 
+port of entry to seek admission. If the traveler's ESTA application is 
+not approved, the traveler is not eligible to seek admission to the 
+United States under the VWP. In such a case, the traveler may apply for 
+a nonimmigrant B-1, B-2, or B-1/B-2 visa from a U.S. Embassy or 
+Consulate and then reapply for admission to the United States.
+    It should be noted that because VWP travelers arriving at U.S. land 
+ports of entry will need to have a travel authorization prior to 
+application for admission, rather than prior to boarding a carrier, 
+land carriers transporting VWP travelers are not responsible for 
+confirming that the VWP traveler is ESTA-compliant. For example, this 
+interim rule would not require bus companies to confirm that their 
+passengers are ESTA-compliant or to transmit any ESTA data elements on 
+behalf of these travelers to CBP.
+4. Required ESTA Data Elements
+    The current ESTA regulations provide that ESTA will collect such 
+information as the Secretary deems necessary to issue a travel 
+authorization as reflected on the ESTA application. See 8 CFR 217.5(c). 
+This information is included on the ESTA website. VWP travelers 
+arriving at land ports of entry will have to provide these same data 
+elements. The ESTA website also includes some optional data elements. 
+This data should be provided, if known.
+5. Scope of Travel Authorization
+    Consistent with section 711 of the 9/11 Act, a travel authorization 
+does not restrict, limit, or otherwise affect the authority of CBP to 
+determine a noncitizen's admissibility into the United States during 
+inspection at a port of entry.
+6. Duration
+    The same general rule and exceptions regarding the duration of a 
+travel authorization as set forth in 8 CFR 217.5(d) will apply to a 
+travel authorization issued for travel to air, sea, and land ports of 
+entry. DHS will notify an individual with an approved ESTA 
+authorization at the email address he or she provided in the 
+application when his or her ESTA expiration date is approaching. 
+Subject to certain exceptions, each travel authorization will generally 
+be valid for a period of two years from the date of issuance, meaning a 
+noncitizen may travel to the United States repeatedly within a two-year 
+period without obtaining another authorization.
+7. Events Requiring New Travel Authorization
+    The events requiring a new travel authorization as set forth in 8 
+CFR 217.5(e) and summarized below are the same regardless of whether 
+the travel authorization was issued for travel to U.S. air, sea, or 
+land ports of entry.
+    A VWP traveler must obtain a new travel authorization approval if 
+any of the following conditions occurs: (1) The noncitizen is issued a 
+new passport; (2) the noncitizen changes his or her name; (3) the 
+noncitizen changes his or her gender; (4) the noncitizen changes his or 
+her country of citizenship; or (5) the circumstances underlying the 
+noncitizen's previous responses to any of the ESTA application 
+questions requiring a ``yes'' or ``no'' response (eligibility 
+questions) have changed.
+8. Fee
+    The TPA mandated that the Secretary of Homeland Security establish 
+a fee for the use of ESTA and begin assessing and collecting the fee. 
+DHS implemented the fee requirements of the TPA in the ESTA Fee IFR and 
+ESTA Air and Sea Final Rule. VWP travelers applying for a travel 
+authorization to travel to U.S. air and sea ports of entry must pay a 
+$4.00 ESTA operational fee and an additional $10.00 Travel Promotion 
+Act fee through September 30, 2020.<SUP>11 12</SUP>
+---------------------------------------------------------------------------
+
+    \11\ If the ESTA application is denied, the applicant will be 
+refunded the $10.00 Travel Promotion Act fee. The fee was originally 
+authorized by the TPA through September 30, 2015, but was extended 
+through September 2020 by the Consolidated and Further Continuing 
+Appropriations Act of 2015.
+    \12\ On February 9, 2018, section 30203(a) of the Bipartisan 
+Budget Act of 2018, Public Law 115-123, extended the sunset 
+provision of the travel promotion fee through September 30, 2027. On 
+December 20, 2019, section 806 of the Further Consolidated 
+Appropriations Act of 2020, Public Law 116-94, increased the travel 
+promotion fee from $10 to $17. CBP will be publishing a separate 
+rule to reflect these legislative changes. CBP has not yet begun 
+collecting the higher fee, but will do so after the fee rule has 
+been published.
+---------------------------------------------------------------------------
+
+    This same fee will apply to VWP travelers arriving at U.S. land 
+ports of entry. For a detailed discussion about this fee, see the ESTA 
+Fee IFR and the ESTA Air and Sea Final Rule.
+
+[[Page 18973]]
+
+    It is important to note that a noncitizen may travel to the United 
+States repeatedly within the validity period using the same travel 
+authorization, regardless of the mode of transportation used. 
+Therefore, VWP travelers who intend to arrive in the United States at a 
+land port of entry and already have a travel authorization that is 
+still valid will not need to apply for a new travel authorization or 
+pay another ESTA fee.
+    However, a VWP traveler arriving at U.S. land ports of entry will 
+still have to pay the $6.00 I-94W fee provided for in 8 CFR 
+103.7(d)(5), unless he or she is entering within a current 90-day VWP 
+admission period. This fee covers processing costs, including those 
+involved in collecting traveler fingerprints.\13\ Although the 
+collection of the I-94W data elements will now be done electronically 
+through ESTA, travelers at the land border will continue to receive a 
+printed departure record. This printed departure record is equivalent 
+to the departure portion of the paper Form I-94W. This document will be 
+stamped by the CBP officer who processes the traveler's admission and 
+should be retained by the traveler while he or she is in the United 
+States. VWP visitors who depart from the United States via a land port 
+will generally be required to surrender this document upon leaving the 
+United States.\14\ CBP will enter the departure information manually 
+into the appropriate CBP database.\15\ The $6.00 fee supports CBP's 
+efforts in issuing these departure records and entering the departure 
+information.
+---------------------------------------------------------------------------
+
+    \13\ Travelers arriving by air and sea pay the same fee; 
+however, the fee is included in the price of the carrier tickets and 
+is not collected separately upon arrival.
+    \14\ Admitted VWP travelers will not be required to surrender 
+the printed departure record when departing the United States for 
+Canada or Mexico for a trip of less than 30 days. These travelers 
+may retain their printed departure record so that when they resume 
+their visit to the United States, CBP will not have to print another 
+departure record and the traveler may be readmitted into the United 
+States for the balance of time remaining on his or her I-94W 
+Departure Record.
+    \15\ This process differs from the departure process at air and 
+sea ports of entry where departure information is received and 
+recorded electronically.
+---------------------------------------------------------------------------
+
+9. Judicial Review
+    Section 711 of the 9/11 Act amended section 217 of the INA to 
+provide that no court shall have jurisdiction to review an eligibility 
+determination under the electronic travel authorization system. See INA 
+section 217(h)(3)(C)(iv), 8 U.S.C. 1187. Accordingly, a determination 
+under ESTA will be final and, notwithstanding any other provision of 
+the law, is not subject to judicial review.
+
+C. Discussion of Regulatory Changes
+
+    DHS is amending parts 103, 212, 217, and 286 of title 8 of the CFR, 
+as set forth below, in order to expand the ESTA requirements to VWP 
+travelers arriving at U.S. land ports of entry and to update the 
+regulations.
+1. 8 CFR Part 103
+    Section 103.7(d)(5) of the DHS regulations (8 CFR 103.7), titled 
+``Form I-94W,'' enumerates the $6.00 fee associated with the issuance 
+of Form I-94W. The paragraph is revised to incorporate a definition of 
+``issuance'' that reflects the new procedure involved in electronically 
+collecting the traveler's information, then using that information to 
+print a departure record for VWP travelers entering the United States 
+at land ports of entry. The new provision will now clarify that ``the 
+term `issuance' includes, but is not limited to, the creation of an 
+electronic record of admission or arrival/departure by DHS following an 
+inspection performed by a CBP officer, which may be provided to the 
+nonimmigrant as a printout or other confirmation of the electronic 
+record stored in DHS systems.''
+2. 8 CFR Part 212
+    Section 212.1 of the DHS regulations (8 CFR 212.1), titled 
+``Documentary requirements for nonimmigrants,'' refers to the Visa 
+Waiver Pilot Program. On October 30, 2000, the Visa Waiver Permanent 
+Program Act, Public Law 106-396, established the VWP as a permanent 
+program and replaced the Visa Waiver Pilot Program. Therefore, this 
+section is amended to remove the reference to the ``Visa Waiver Pilot 
+Program'' and refer instead to the ``Visa Waiver Program.''
+3. 8 CFR Part 217
+    Section 217.1 of the DHS regulations (8 CFR 217.1), titled 
+``Scope,'' refers to the Visa Waiver Pilot Program. This section is 
+amended to remove the reference to the ``Visa Waiver Pilot Program'' 
+and instead refer to the ``Visa Waiver Program (VWP).''
+    Section 217.2 of the DHS regulations (8 CFR 217.2) describes the 
+eligibility requirements to travel under the VWP. Specifically, Sec.  
+217.2(b)(1) provides that in addition to meeting all the requirements 
+for the ``Visa Waiver Pilot Program,'' each applicant must possess a 
+valid, unexpired passport issued by a designated country and present a 
+completed, signed Form I-94W. This provision is amended to delete the 
+reference to Form I-94W and add the new requirement to obtain a travel 
+authorization via ESTA. Also, the paragraph is amended to delete the 
+reference to the ``Visa Waiver Pilot Program'' and refer instead to the 
+``Visa Waiver Program.''
+    This rule also makes non-substantive amendments to Sec.  217.2 to 
+make the regulation current, correct, and consistent. Specifically, 
+Sec. Sec.  217.2(a), (c), and (d) and 217.3(b) are amended to delete 
+the references to the ``Visa Waiver Pilot Program'' and refer instead 
+to the ``Visa Waiver Program (VWP).'' These provisions are also being 
+updated by replacing the legacy Immigration and Naturalization Service 
+position title (``immigration officer'') with the current DHS position 
+title (``CBP officer'').
+    Section 217.5 (8 CFR 217.5) sets forth the requirements for ESTA. 
+In particular, Sec.  217.5(a) requires nonimmigrant noncitizens 
+intending to travel by air or sea to the United States under the VWP to 
+receive a travel authorization prior to boarding a carrier destined for 
+the United States. This provision is amended to require nonimmigrant 
+noncitizens intending to travel by land to the United States under the 
+VWP to obtain a travel authorization prior to application for admission 
+to the United States at a land port of entry.
+    Section 217.5(b) specifies the time frames for obtaining a travel 
+authorization through ESTA for VWP travelers arriving at air and sea 
+ports of entry. The paragraph is amended to also specify the time frame 
+for obtaining a travel authorization for VWP travelers arriving at land 
+ports of entry, i.e., prior to application for admission to the United 
+States. Current Sec.  217.5(c) provides that the DHS Secretary may 
+collect certain information to issue a travel authorization and refers 
+to the Form I-94W. When the ESTA program is implemented at U.S. land 
+ports of entry, DHS will no longer require VWP travelers to complete 
+the Form I-94W. Therefore, the paragraph is amended by removing the 
+references to the Form I-94W and referring instead to ESTA.
+    Current Sec.  217.5(g) provides that once ESTA is implemented as a 
+mandatory program, 60 days following publication by the Secretary of a 
+notice in the Federal Register, citizens and eligible nationals of 
+countries that participate in the VWP must comply with the requirements 
+of this section. It further provides that as new countries are added to 
+the VWP, citizens and eligible nationals of those countries will be 
+required to obtain a travel authorization prior to traveling to the 
+United States under the VWP. This language is outdated because it has 
+been overtaken by the following events. First, the
+
+[[Page 18974]]
+
+Secretary published the referenced notice in the Federal Register on 
+November 13, 2008 (73 FR 67354), and ESTA was implemented as a 
+mandatory program for VWP travelers arriving at air and sea ports 60 
+days later. Second, this interim final rule expanding ESTA to VWP 
+travelers arriving at land ports of entry will be effective 30 days 
+after publication. Third, the provision about new countries is now 
+fully covered by the general provision about travel authorization in 
+Sec.  217.5(a). Therefore, the outdated language is deleted.
+4. 8 CFR Part 286
+    Part 286 of the DHS regulations (8 CFR part 286) concerns 
+immigration user fees. Specifically, Sec.  286.9 describes the fee for 
+processing applications and issuing documentation at land border ports 
+of entry. This section will be amended to delete the references to the 
+``Visa Waiver Pilot Program'' and refer instead to the ``Visa Waiver 
+Program.''
+
+IV. Statutory and Regulatory Requirements
+
+A. Administrative Procedure Act
+
+1. Procedural Rule Exception
+    The Administrative Procedure Act (APA) generally requires agencies 
+to publish a notice of proposed rulemaking in the Federal Register (5 
+U.S.C. 553(b)) and provide interested persons the opportunity to submit 
+comments (5 U.S.C. 553(c)). However, the APA provides an exception to 
+this prior notice and comment requirement for ``rules of agency 
+organization, procedure, or practice'' 5 U.S.C. 553(b)(A). This interim 
+final rule is a procedural rule promulgated for efficiency purposes 
+that falls within this exception.
+    This rule is procedural because it merely changes the method of 
+submission for an existing reporting requirement for nonimmigrant 
+noncitizens pursuant to existing statutes and regulations. See 8 U.S.C. 
+1103, 1184 and 1187. See also 8 CFR 212.1, 299.1, and 8 CFR parts 2 and 
+217. The rule merely changes the manner in which noncitizens seeking 
+admission to the United States under the VWP, at ports of entry along 
+the land border, present information to DHS and does not alter the 
+rights or interests of those noncitizens as they seek admission to the 
+United States. Such arriving noncitizens will no longer be required to 
+complete and submit the paper Form I-94W. Instead, all required 
+information will be submitted to DHS electronically through the ESTA 
+website. In addition, this rule neither affects the substantive 
+criteria by which CBP officers inspect noncitizens upon arrival nor the 
+nature of the information at CBP's disposal.
+2. Foreign Affairs Function Exception
+    This interim final rule is also exempt from the rulemaking 
+provisions of the Administrative Procedure Act (APA) pursuant to 5 
+U.S.C. 553(a)(1) as it involves a foreign affairs function of the 
+United States. This rule advances the President's foreign policy goals 
+and directly involves relationships between the United States and its 
+noncitizen visitors.
+    ESTA is an integral part of the administration of the VWP, a 
+program that involves an inherently foreign affairs function of the 
+United States. Specifically, the VWP, which is administered by DHS in 
+consultation with the Department of State, enables eligible citizens or 
+nationals of designated countries to travel to the United States for 
+tourism or business for stays of 90 days or less without first 
+obtaining a visa, provided they meet certain requirements. Among other 
+things, a traveler must have a valid authorization through ESTA. As 
+part of the ESTA screening process, CBP reviews available information 
+regarding ESTA applicants to determine whether they present a concern 
+to U.S. national security or law enforcement (to include immigration 
+enforcement) interests. Accordingly, any rulemaking actions undertaken 
+to implement ESTA at land ports of entry are exempt from APA notice and 
+comment requirements. However, DHS is interested in receiving public 
+comments on this interim final rule and, therefore, is providing the 
+public with the opportunity to comment without delaying implementation 
+of this rule.
+
+B. Executive Orders 13563 and 12866
+
+    Executive Orders (EOs) 13563 (``Improving Regulation and Regulatory 
+Review'') and 12866 (``Regulatory Planning and Review'') direct 
+agencies to assess the costs and benefits of available regulatory 
+alternatives and, if regulation is necessary, to select regulatory 
+approaches that maximize net benefits (including potential economic, 
+environmental, public health and safety effects, distributive impacts, 
+and equity). Executive Order 13563 emphasizes the importance of 
+quantifying both costs and benefits, of reducing costs, of harmonizing 
+rules, and of promoting flexibility.
+    This rule is not a ``significant regulatory action,'' under section 
+3(f) of Executive Order 12866. Accordingly, the Office of Management 
+and Budget has not reviewed this rule. Although this rule is not 
+subject to the requirements of Executive Orders 13563 and 12866 due to 
+the foreign affairs exception, DHS has reviewed this interim final rule 
+to ensure its consistency with the regulatory philosophy and principles 
+set forth in those Executive orders. DHS has also prepared a regulatory 
+impact assessment to help inform stakeholders of the impacts of this 
+rule, which DHS has summarized below. The complete assessment can be 
+found in the public docket for this rulemaking at www.regulations.gov.
+1. Purpose of Rule
+    This rule will extend the regulatory requirements of ESTA to the 
+land environment per the 9/11 Act. For VWP travelers arriving at U.S. 
+land ports of entry (POEs), all the ESTA requirements currently in 8 
+CFR 217.5 will remain the same as the requirements for VWP travelers 
+arriving at air and sea ports, except for the time frame for obtaining 
+the travel authorization. Under the ESTA Land IFR, VWP travelers 
+intending to travel to the United States by land must receive a travel 
+authorization prior to application for admission to, rather than prior 
+to embarking on a carrier destined for, the United States. These 
+travelers may obtain the required travel authorization by submitting an 
+electronic application to CBP through the ESTA website (https://esta.cbp.dhs.gov/esta/) and paying the ESTA application fee, which 
+consists of an operational fee and Travel Promotion Act (TPA) fee valid 
+until FY 2021.\16\ The ESTA application serves as an electronic version 
+of the paper Form I-94W, asking for the same biographical, personal, 
+and trip-related information currently requested on the paper Form I-
+94W as well as several additional security-related questions not on the 
+paper Form I-94W but typically asked during paper Form I-94W 
+processing. CBP will use the ESTA application information to assess a 
+traveler's likely admissibility and any potential risks to the United 
+States. Based on this assessment, CBP will either grant or deny an ESTA 
+travel authorization, which will generally take two hours for CBP to 
+complete. If CBP grants an ESTA travel authorization, the authorization
+
+[[Page 18975]]
+
+will generally be valid for a period of two years from the date of 
+issuance (barring revocation), meaning that the VWP traveler granted 
+the authorization may travel to the United States repeatedly within a 
+two-year period without obtaining another authorization. If CBP denies 
+an ESTA travel authorization, CBP will refer the VWP traveler denied 
+the authorization to a U.S. Embassy or Consulate to apply to obtain a 
+visa, like in the current paper Form I-94W environment.
+---------------------------------------------------------------------------
+
+    \16\ As previously stated, on February 9, 2018, section 30203(a) 
+of the Bipartisan Budget Act of 2018, Public Law 115-123, extended 
+the sunset provision of the travel promotion fee through September 
+30, 2027. On December 20, 2019, section 806 of the Further 
+Consolidated Appropriations Act of 2020, Public Law 116-94, 
+increased the travel promotion fee from $10 to $17. See 8 U.S.C. 
+1187(h)(3)(B), as amended, and 8 CFR 217.5(h). CBP will be 
+publishing a separate rule to reflect these legislative changes. 
+This analysis does not capture these changes.
+---------------------------------------------------------------------------
+
+    If a VWP traveler arrives without an advance ESTA travel 
+authorization, CBP will generally advise the traveler to complete the 
+ESTA application in an area outside of the U.S. land POE. In this case, 
+the traveler may be permitted to withdraw his or her application for 
+admission, and once withdrawn, travel back to either Canada or Mexico, 
+apply for the ESTA authorization there, and typically wait two hours to 
+receive his or her authorization status. Once approved, the traveler 
+can then return to a U.S. land POE to apply for admission.
+    In addition to fulfilling a statutory mandate, this rule will 
+strengthen national security through enhanced traveler vetting, 
+streamline Form I-94W processing through automation, reduce 
+inadmissible traveler arrivals, and produce a uniform VWP admission 
+policy in all U.S. travel environments, which will benefit VWP 
+travelers, CBP, and the public.
+2. Population Affected by Rule
+    This rule will affect VWP travelers, CBP, and the public. Due to 
+numerous factors that affect travel, CBP uses two different projection 
+methods to estimate the population of VWP travelers affected by this 
+rule over a 10-year period of analysis spanning from FY 2019 to FY 
+2028. Under these methods, CBP estimates that VWP travelers will submit 
+between 3.2 million and 4.1 million ESTA applications for land 
+admission during the period of analysis, though CBP will deny about 
+3,200 to 4,100 of these applications and related travel authorizations 
+(see Table 1).\17\ These denials will be higher with ESTA's enhanced 
+vetting, though the extent is unknown.\18\ Given ESTA's existing 
+requirements in the U.S. air and sea environments, some of the 
+application figures in Table 1 may correspond to travelers who already 
+have valid ESTA travel authorizations first obtained for travel to the 
+United States by air and sea that will allow them to avoid completing 
+travel authorizations with this rule. However, the number of such 
+travelers is unknown.
+---------------------------------------------------------------------------
+
+    \17\ Note that the estimates in this table are based on 
+historical VWP traveler arrivals prior to FY 2019. Poland officially 
+joined the VWP on November 11, 2019 (see 84 FR 60316 (November 8, 
+2019)), and Croatia officially joined the VWP on December 1, 2021 
+(see 86 FR 54029 (September 30, 2021)), so these estimates do not 
+account for VWP travelers from Poland or Croatia. A small number of 
+temporary business or pleasure visitors from Poland and Croatia who 
+would now be eligible for the VWP (and subject to this rule) enter 
+the United States at land POEs each year.
+    \18\ Source: Email correspondence with CBP's Office of Field 
+Operations on March 16, 2016.
+
+                                                     Table 1--Projected ESTA Applications With Rule
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                              Method 1 (primary estimate)--with rule                    Method 2--with rule
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                               ESTA            ESTA                            ESTA            ESTA
+                       Fiscal year                          application     application     Total ESTA      application     application     Total ESTA
+                                                             approvals        denials      applications      approvals        denials      applications
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+2019....................................................         323,504             324         323,828         349,190             350         349,540
+2020....................................................         323,504             324         323,828         359,317             360         359,677
+2021....................................................         323,504             324         323,828         371,894             372         372,266
+2022....................................................         323,504             324         323,828         385,281             386         385,667
+2023....................................................         323,504             324         323,828         398,381             399         398,780
+2024....................................................         323,504             324         323,828         411,926             412         412,338
+2025....................................................         323,504             324         323,828         425,932             426         426,358
+2026....................................................         323,504             324         323,828         440,413             441         440,854
+2027....................................................         323,504             324         323,828         455,870             456         455,843
+2028....................................................         323,504             324         323,828         470,870             471         471,341
+                                                         -----------------------------------------------------------------------------------------------
+    Total...............................................       3,235,040           3,240       3,238,280       4,068,591           4,073       4,072,664
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+Note: Estimates may not sum to total due to rounding.
+
+    CBP plans to conduct extensive outreach on ESTA's requirements in 
+the land environment prior to the effective date of this rule through 
+electronic messaging, informational bulletins, and travel partner 
+meetings.\19\ Nevertheless, some VWP travelers may not be fully aware 
+of this rule's requirements when traveling to the United States via 
+land. CBP estimates that 4 percent of the projected ESTA applications 
+in FY 2019 will correspond to VWP travelers who arrive to U.S. land 
+POEs without advance ESTA travel authorizations. CBP believes that this 
+share will decrease to 1 percent of annual ESTA applications for FY 
+2020 through FY 2028 due to the time and costs associated with arriving 
+without an ESTA travel authorization and increased knowledge of ESTA's 
+requirements.\20\ As shown in Table 2, CBP projects that 42,000 to 
+51,000 VWP travelers will arrive to U.S. land POEs without advance ESTA 
+travel authorizations over the period of analysis. CBP believes that 
+the vast majority of these arrivals will occur at U.S. land POEs along 
+the northern border based on the relatively high volume of VWP traveler 
+arrivals at those POEs.\21\
+---------------------------------------------------------------------------
+
+    \19\ Source: Correspondence with CBP's Office of Field 
+Operations on November 26, 2018.
+    \20\ Source: Email correspondence with CBP's Office of Field 
+Operations on September 11, 2018.
+    \21\ About 90 percent of VWP land traveler admissions between FY 
+2013 and FY 2017 occurred at U.S. land POEs along the northern 
+border. Sources: Email correspondence with CBP's Office of Field 
+Operations on May 17, 2018, and correspondence on November 26, 2018.
+
+[[Page 18976]]
+
+
+
+ Table 2--Projected Arrivals of VWP Travelers at U.S. Land POEs Without
+                   Advance ESTA Travel Authorizations
+------------------------------------------------------------------------
+                                   Method 1 (primary    Method 2-- with
+---------------------------------   estimate)--with          rule
+                                         rule        -------------------
+                                 --------------------
+                                  Total VWP traveler  Total VWP traveler
+           Fiscal year             arrivals without    arrivals without
+                                     advance ESTA        advance ESTA
+                                        travel              travel
+                                    authorizations      authorizations
+------------------------------------------------------------------------
+2019............................              12,953              13,982
+2020............................               3,238               3,597
+2021............................               3,238               3,723
+2022............................               3,238               3,857
+2023............................               3,238               3,988
+2024............................               3,238               4,123
+2025............................               3,238               4,264
+2026............................               3,238               4,409
+2027............................               3,238               4,558
+2028............................               3,238               4,713
+                                 ---------------------------------------
+    Total.......................              42,095              51,214
+------------------------------------------------------------------------
+Note: Estimates may not sum to total due to rounding.
+
+    With this rule, CBP anticipates that the nearly 3,200 to 4,100 VWP 
+travelers with ESTA application and travel authorization denials 
+between FY 2019 and FY 2028 will forgo travel to the United States 
+under the VWP altogether because they will be refused admission at U.S. 
+land POEs without travel authorizations. These ESTA denials will result 
+in 3,200 to 4,100 fewer distinct and total VWP traveler arrivals than 
+projected in the absence of this rulemaking. CBP assumes that these 
+ESTA denials will only affect the number of distinct arrivals 
+anticipated with this rule and not the number of non-distinct arrivals. 
+CBP estimates that the number of non-distinct arrivals of VWP travelers 
+with valid departure coupons that generally allow for the avoidance of 
+secondary processing and Form I-94W fee payments with this rule will be 
+the same number projected without this rule, ranging from 1.0 million 
+to 1.3 million over the period of analysis (see Table 3). The remaining 
+3.6 million to 4.6 million VWP land traveler arrivals projected with 
+this rule will represent distinct arrivals requiring CBP's primary and 
+secondary processing and Form I-94W fee payments (see Table 3). In 
+total, VWP land traveler arrivals are expected to reach 4.7 million to 
+5.9 million during the period of analysis with this rule (see Table 3). 
+To the extent that the application denials with this rule are greater 
+than projected, the number of total arrivals will be fewer than shown 
+in Table 3.
+
+                                        Table 3--Projected Arrivals of VWP Travelers at U.S. Land POEs With Rule
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                              Method 1 (primary estimate)--with rule                    Method 2--with rule
+                                                         -----------------------------------------------------------------------------------------------
+                       Fiscal year                           Distinct      Non-distinct                      Distinct      Non-distinct
+                                                             arrivals        arrivals     Total arrivals     arrivals        arrivals     Total arrivals
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+2019....................................................         363,528         103,824         467,352         392,392         112,068         504,460
+2020....................................................         363,528         103,824         467,352         403,771         115,318         519,089
+2021....................................................         363,528         103,824         467,352         417,904         119,354         537,258
+2022....................................................         363,528         103,824         467,352         432,948         123,651         556,599
+2023....................................................         363,528         103,824         467,352         447,668         127,855         575,523
+2024....................................................         363,528         103,824         467,352         462,889         132,202         595,091
+2025....................................................         363,528         103,824         467,352         478,628         136,696         615,324
+2026....................................................         363,528         103,824         467,352         494,901         141,344         636,245
+2027....................................................         363,528         103,824         467,352         511,727         146,150         657,877
+2028....................................................         363,528         103,824         467,352         529,126         151,119         680,245
+                                                         -----------------------------------------------------------------------------------------------
+    Total...............................................       3,635,280       1,038,240       4,673,520       4,571,954       1,305,757       5,877,711
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+Note: Estimates may not sum to total due to rounding.
+
+    This rule's impact on CBP operations depends on its changes to VWP 
+traveler arrivals and processing, whereas its effect on the public 
+depends on its ability to deter otherwise inadmissible VWP travelers 
+from traveling to the United States.
+3. Costs of Rule
+    CBP will sustain ESTA-related maintenance, operation, and 
+administration costs with this rule's implementation; however, CBP 
+believes that the ESTA application fee collected from VWP travelers in 
+the air, sea, and land environments will completely offset the ESTA 
+Land IFR's costs to the agency. Thus, this rule will not introduce any 
+unreimbursed costs to CBP. Instead, VWP travelers required to complete 
+an ESTA application will bear all the direct costs of this rule. As 
+stated earlier, this rule will require applicable VWP travelers to 
+submit an ESTA application, pay the accompanying ESTA application fee, 
+and receive a
+
+[[Page 18977]]
+
+travel authorization in advance of admission at a U.S. land POE. Each 
+ESTA application will take a VWP traveler an estimated 23 minutes 
+(0.3833 hours) to complete,\22\ at a time cost of $7.82.\23\ Depending 
+on whether CBP approves or denies an application and travel 
+authorization, VWP travelers must also pay a $4.00 operational fee, a 
+$10.00 Travel Promotion Act fee (for approved applications only until 
+FY 2021), and typically a foreign transaction fee with their ESTA 
+application.\24\
+---------------------------------------------------------------------------
+
+    \22\ Source: U.S. Customs and Border Protection. Supporting 
+Statement for Paperwork Reduction Act Submission 1651-0111: Arrival 
+and Departure Record (Forms I-94, I-94W) and Electronic System for 
+Travel Authorization (ESTA). February 12, 2019. Available at https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=201810-1651-001. 
+Accessed May 22, 2019.
+    \23\ $20.40 hourly time value x 0.3833-hour time burden to 
+complete ESTA application = $7.82 (rounded). CBP bases the $20.40 
+hourly time value for VWP travelers on the U.S. Department of 
+Transportation's (DOT) hourly time value of $20.40 for all-purpose, 
+intercity travel by surface-modes, except high-speed rail. For the 
+purposes of this analysis, CBP assumes that the DOT time value, 
+reported in 2015 U.S. dollars, would be the same for 2019. Source: 
+U.S. Department of Transportation, Office of Transportation Policy. 
+The Value of Travel Time Savings: Departmental Guidance for 
+Conducting Economic Evaluations Revision 2 (2016 Update). ``Table 4 
+(Revision 2--2016 Update): Recommended Hourly Values of Travel Time 
+Savings.'' September 27, 2016. Available at https://www.transportation.gov/sites/dot.gov/files/docs/2016%20Revised%20Value%20of%20Travel%20Time%20Guidance.pdf. Accessed 
+June 11, 2018.
+    \24\ When CBP applies the average foreign currency transaction 
+fee rate to the ESTA application and TPA fees, the full ESTA 
+application cost is $14.42 for travelers granted travel 
+authorizations through FY 2020.
+---------------------------------------------------------------------------
+
+    VWP travelers who arrive to U.S. land POEs without advance travel 
+authorizations will incur time, travel, toll, and internet access 
+expenses to travel to/from Canada and Mexico to apply and wait for an 
+ESTA travel authorization. These travelers will sustain a $36.72 
+additional CBP processing time cost, a $5.78 additional Canadian or 
+Mexican entry processing time cost, a $4.30 travel cost, and a $40.80 
+authorization wait time cost while traveling to/from Canada or Mexico 
+to apply and wait for an ESTA travel authorization. Approximately 20 
+percent of the population of VWP travelers projected to arrive to a 
+U.S. land POE without an advance ESTA travel authorization (see Table 
+2) will also sustain a toll cost of $3.50. Additionally, of the VWP 
+travelers projected to arrive to a U.S. land POE without an advance 
+ESTA travel authorization (see Table 2), an estimated 28 percent will 
+pay a $2.00 fee to use an internet-accessible computer to apply and 
+wait for their ESTA travel authorization. Considering these advance 
+ESTA travel authorization and wait time costs and the number of VWP 
+travelers projected to arrive without advance ESTA travel 
+authorizations under this alternative, CBP estimates that these 
+authorization requirements will introduce a total undiscounted cost of 
+$4.2 million to VWP travelers between FY 2019 and FY 2028 according to 
+CBP's primary estimation method.
+    In total, VWP travelers will sustain $49.1 million in undiscounted 
+time, fee, and other costs from this rule over the period of analysis 
+under Method 1, CBP's primary estimation method. In present value 
+terms, this cost to VWP travelers, which represents the total cost of 
+the rule, will measure $38.5 million (using a 7 percent discount rate; 
+see Table 4). On an annualized basis, the cost of this rule will equal 
+$5.1 million under the primary estimation method, as shown in Table 4 
+(using a 7 percent discount rate).
+
+              Table 4--Total Monetized Present Value and Annualized Costs of Rule, FY 2019-FY 2028
+                                               [2019 U.S. dollars]
+----------------------------------------------------------------------------------------------------------------
+                                                         3% Discount rate                7% Discount rate
+                                                 ---------------------------------------------------------------
+                                                   Present value    Annualized     Present value    Annualized
+                                                       cost            cost            cost            cost
+----------------------------------------------------------------------------------------------------------------
+Method 1 (Primary Estimate).....................     $43,929,986      $4,999,936     $38,529,526      $5,126,858
+Method 2........................................      53,652,846       6,106,554      46,527,106       6,191,040
+----------------------------------------------------------------------------------------------------------------
+Note: The estimates in this table are contingent upon CBP's expectations of the population affected by the rule
+  and the discount rates applied.
+
+4. Benefits of Rule
+    ESTA's Form I-94W automation, advance-vetting and travel 
+authorization denials, and uniform VWP admission policy will offer 
+benefits (including cost savings) to VWP travelers, CBP, and the 
+public. VWP travelers will experience 24 minutes (0.4 hours) of time 
+savings per distinct arrival from avoided paper Form I-94W processing 
+burdens,\25\ at a time cost saving of $8.16.\26\ Travelers denied 
+travel authorizations who choose to forgo travel to the United States 
+under the VWP will save 136 minutes (2.2667 hours) in avoided Form I-
+94W completion time and inadmissible inspection time,\27\ at a time 
+cost saving of $46.24, and $6.00 in avoided Form I-94W fee costs.\28\ 
+Together with the savings from Form I-94W automation and travel that 
+does not occur as a result of denied travel authorizations, VWP 
+travelers will enjoy $29.8 million in undiscounted, monetized cost 
+savings from this rule over the period of analysis under the primary 
+estimation method. VWP travelers will also enjoy non-quantified 
+benefits from this rule's uniform admission policy in all U.S. travel 
+environments, which may prevent some travelers from being denied 
+boarding on air or sea carriers because
+
+[[Page 18978]]
+
+they do not have an ESTA travel authorization.
+---------------------------------------------------------------------------
+
+    \25\ Sources: U.S. Customs and Border Protection. Supporting 
+Statement for Paperwork Reduction Act Submission 1651-0111: Arrival 
+and Departure Record (Forms I-94, I-94W) and Electronic System for 
+Travel Authorization (ESTA). February 12, 2019. Available at https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=201810-1651-001. 
+Accessed May 22, 2019; email correspondence with CBP's Office of 
+Field Operations on November 30, 2012.
+    \26\ Based on the assumed hourly time value for VWP travelers of 
+$20.40. $20.40 hourly time value x 0.4 hours saved from forgone 
+paper Form I-94W application and certain secondary processing time 
+burdens = $8.16 (rounded).
+    \27\ This includes the time it takes to complete a paper Form I-
+94W (16 minutes, or 0.2667 hours) and complete an inadmissible 
+traveler inspection (120 minutes, or 2 hours). For the purposes of 
+this analysis, CBP assumes that this time burden includes any time 
+burdens incurred at a U.S. land POE as an inadmissible VWP traveler. 
+This average time burden is greater than the time burden for VWP 
+travelers who simply arrive to a U.S. land POE without an advance 
+ESTA authorization because general inadmissibility examinations, 
+such as those for travelers who are outright inadmissible due to 
+reasons such as criminal history, outstanding warrant, or an expired 
+passport, typically require examinations that are more thorough and 
+require added processing time. Source: Email correspondence with 
+CBP's Office of Field Operations on March 16, 2016, correspondence 
+on November 26, 2018, and email correspondence on May 23, 2019.
+    \28\ Based on the assumed hourly time value for VWP travelers of 
+$20.40. $20.40 hourly time value x 2.2667 hours saved from forgone 
+inadmissible arrival time burdens = $46.24 (rounded).
+---------------------------------------------------------------------------
+
+    Similar to VWP travelers, CBP will enjoy 8 minutes (0.1333 hours) 
+of time savings per distinct arrival from this rule's Form I-94W 
+automation,\29\ at a time cost saving of $11.58.\30\ CBP will also save 
+120 minutes (2 hours) in avoided traveler inspection time per 
+inadmissible traveler inspection avoided through ESTA's implementation 
+in the land environment,\31\ at a time cost saving of $173.74.\32\ 
+Overall, this rule's Form I-94W automation and forgone arrivals by 
+those denied travel authorizations will offer $42.7 million in 
+undiscounted, monetized cost savings to CBP between FY 2019 and FY 2028 
+under the primary estimation method. Note that these are not budgetary 
+savings--they are savings that CBP will dedicate to other agency 
+mission areas, such as improving border security or expediting the 
+processing of travelers. In addition to these monetized benefits, 
+ESTA's advance and robust traveler screening process will offer the 
+benefit of strengthened national security, which the public will enjoy.
+---------------------------------------------------------------------------
+
+    \29\ Sources: U.S. Customs and Border Protection. Supporting 
+Statement for Paperwork Reduction Act Submission 1651-0111: Arrival 
+and Departure Record (Forms I-94, I-94W) and Electronic System for 
+Travel Authorization (ESTA). February 12, 2019. Available at https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=201810-1651-001. 
+Accessed May 22, 2019; email correspondence with CBP's Office of 
+Field Operations on November 30, 2012.
+    \30\ $86.87 fully loaded hourly wage rate for CBP officers x 
+0.1333 hours saved per distinct VWP traveler arrival = $11.58 
+(rounded). CBP bases the $86.87 hourly wage on the FY 2019 salary, 
+benefits, and non-salary costs (i.e., fully loaded wage) of the 
+national average of CBP officer positions. Source of wage rate: 
+Email correspondence with CBP's Office of Finance on June 1, 2018.
+    \31\ Source: Email correspondence with CBP's Office of Field 
+Operations on March 16, 2016, correspondence on November 26, 2018, 
+and email correspondence on May 23, 2019.
+    \32\ Based on the fully loaded hourly wage rate for CBP officers 
+of $86.87. $86.87 fully loaded hourly wage rate for CBP officers x 2 
+hours saved per inadmissible traveler inspection avoided = $173.74 
+(rounded).
+---------------------------------------------------------------------------
+
+    In total, this rule will offer undiscounted cost savings totaling 
+$72.5 million between FY 2019 and FY 2028 under the primary estimation 
+method. When discounted, these savings will measure $54.5 million in 
+present value and $7.2 million on an annualized basis (using a 7 
+percent discount rate; see Table 5). This rule will also strengthen 
+national security and introduce a uniform VWP admission policy in all 
+U.S. travel environments, providing non-quantifiable benefits to 
+travelers and the public. These estimates vary according to the 
+projection method and discount rate applied.
+
+     Table 5--Total Monetized Present Value and Annualized Benefits (Cost Savings) of Rule, FY 2019-FY 2028
+                                               [2019 U.S. dollars]
+----------------------------------------------------------------------------------------------------------------
+                                                         3% Discount rate                7% Discount rate
+                                                 ---------------------------------------------------------------
+                                                   Present value    Annualized     Present value    Annualized
+                                                      benefit         benefit         benefit         benefit
+----------------------------------------------------------------------------------------------------------------
+Method 1 (Primary Estimate).....................     $63,692,790      $7,249,260     $54,479,874      $7,249,260
+Method 2........................................      79,452,253       9,042,940      67,252,192       8,948,784
+----------------------------------------------------------------------------------------------------------------
+Note: The estimates in this table are contingent upon CBP's expectations of the population affected by the rule
+  and the discount rates applied.
+
+5. Net Impact of Rule
+    Table 6 summarizes the monetized and non-monetized costs and 
+benefits of this rule to VWP travelers, CBP, and the public. As shown, 
+the total monetized present value net benefit (or net cost saving) of 
+this rule is $16.0 million, while its annualized net benefit totals 
+$2.1 million according to CBP's primary estimation method (using a 7 
+percent discount rate). In addition to these monetized impacts, this 
+rule will strengthen national security through its advance and more 
+robust traveler screening process and produce a uniform VWP admission 
+policy in all U.S. travel environments, though these benefits are 
+unmeasured. These estimates vary according to the projection method and 
+discount rate applied.
+
+                                  Table 6--Net Benefit of Rule, FY 2019-FY 2028
+                                               [2019 U.S. dollars]
+----------------------------------------------------------------------------------------------------------------
+                                                         3% Discount rate                7% Discount rate
+                                                 ---------------------------------------------------------------
+                                                   Present value    Annualized     Present value    Annualized
+----------------------------------------------------------------------------------------------------------------
+                                           Method 1 (Primary Estimate)
+----------------------------------------------------------------------------------------------------------------
+Total Cost:
+    Monetized...................................     $43,929,986      $4,999,936     $38,529,526      $5,126,858
+    Non-Monetized, but Quantified...............  ..............  ..............  ..............  ..............
+    Non-Monetized and Non-Quantified............  ..............  ..............  ..............  ..............
+Total Benefit, Incl. Cost Savings:
+    Monetized (Cost Saving).....................      63,692,790       7,249,260      54,479,874       7,249,260
+    Non-Monetized, but Quantified...............  ..............  ..............  ..............  ..............
+                                                 ---------------------------------------------------------------
+    Non-Monetized and Non-Quantified............  Strengthened national security
+                                                     and uniform VWP admission
+                                                              policy.
+                                                  Strengthened national security
+                                                     and uniform VWP admission
+                                                              policy.
+                                                 ---------------------------------------------------------------
+    Total Net Benefit, Incl. Cost Savings:
+        Monetized (Net Cost Saving).............     $19,762,805      $2,249,324     $15,950,348      $2,122,403
+        Non-Monetized, but Quantified...........  ..............  ..............  ..............  ..............
+
+[[Page 18979]]
+
+ 
+        Non-Monetized and Non-Quantified........  Strengthened national security
+                                                     and uniform VWP admission
+                                                              policy.
+                                                  Strengthened national security
+                                                     and uniform VWP admission
+                                                              policy.
+----------------------------------------------------------------------------------------------------------------
+                                                    Method 2
+----------------------------------------------------------------------------------------------------------------
+Total Cost:
+    Monetized...................................     $53,652,846      $6,106,554     $46,527,106      $6,191,040
+    Non-Monetized, but Quantified...............  ..............  ..............  ..............  ..............
+    Non-Monetized and Non-Quantified............  ..............  ..............  ..............  ..............
+Total Benefit, Incl. Cost Savings:
+    Monetized (Cost Saving).....................      79,452,253       9,042,940      67,252,192       8,948,784
+    Non-Monetized, but Quantified...............  ..............  ..............  ..............  ..............
+                                                 ---------------------------------------------------------------
+    Non-Monetized and Non-Quantified............  Strengthened national security
+                                                     and uniform VWP admission
+                                                              policy.
+                                                  Strengthened national security
+                                                     and uniform VWP admission
+                                                              policy.
+                                                 ---------------------------------------------------------------
+    Total Net Benefit, Incl. Net Cost Savings:
+        Monetized (Net Cost Saving)                  $25,799,407      $2,936,386     $20,725,086      $2,757,744
+        Non-Monetized, but Quantified...........  ..............  ..............  ..............  ..............
+                                                 ---------------------------------------------------------------
+        Non-Monetized and Non-Quantified........  Strengthened national security
+                                                     and uniform VWP admission
+                                                              policy.
+                                                  Strengthened national security
+                                                     and uniform VWP admission
+                                                              policy.
+----------------------------------------------------------------------------------------------------------------
+Notes: The estimates in this table are contingent upon CBP's expectations of the population affected by the rule
+  and the discount rates applied. Estimates may not sum to total due to rounding.
+
+C. Regulatory Flexibility Act
+
+    The Regulatory Flexibility Act (5 U.S.C. 601 et seq.), as amended 
+by the Small Business Regulatory Enforcement and Fairness Act of 1996, 
+requires an agency to prepare and make available to the public a 
+regulatory flexibility analysis that describes the effect of a proposed 
+rule on small entities (i.e., small businesses, small organizations, 
+and small governmental jurisdictions) when the agency is required to 
+publish a general notice of proposed rulemaking for a rule. Since a 
+general notice of proposed rulemaking is not necessary for this rule, 
+CBP is not required to prepare a regulatory flexibility analysis for 
+this rule.
+
+D. Unfunded Mandates Reform Act of 1995
+
+    This rule will not result in the expenditure by State, local, and 
+tribal governments, in the aggregate, or by the private sector, of $100 
+million or more in any one year, and it will not significantly or 
+uniquely affect small governments. Therefore, no actions were deemed 
+necessary under the provisions of the Unfunded Mandates Reform Act of 
+1995.
+
+E. Executive Order 13132
+
+    This rule will not have substantial direct effects on the States, 
+on the relationship between the National Government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government. Therefore, in accordance with section 6 of 
+Executive Order 13132, DHS has determined that this interim final rule 
+does not have sufficient federalism implications to warrant the 
+preparation of a federalism summary impact statement.
+
+F. Executive Order 12988 Civil Justice Reform
+
+    This rule meets the applicable standards set forth in sections 3(a) 
+and 3(b)(2) of Executive Order 12988.
+
+G. Paperwork Reduction Act
+
+    An agency may not conduct, and a person is not required to respond 
+to, a collection of information unless the collection of information 
+displays a valid control number assigned by the Office of Management 
+and Budget (OMB).
+    OMB-approved collection 1651-0111 will be amended to reflect the 
+new applicants that will be using the ESTA website as a result of this 
+interim final rule. CBP estimates that this rule will result in an 
+additional 323,828 respondents (ESTA applicants) annually and an 
+additional 124,123 burden hours.\33\ Of the 323,828 new ESTA 
+respondents, CBP estimates that 323,504 will receive a travel 
+authorization and 324 will not. Collection 1651-0111 will be revised to 
+reflect the new total annual estimates for ESTA as follows:
+---------------------------------------------------------------------------
+
+    \33\ CBP uses the number of ESTA applications projected in FY 
+2019 under Method 1 of the regulatory impact analysis for this 
+estimate because it is CBP's primary estimation method.
+---------------------------------------------------------------------------
+
+    Estimated number of annual respondents: 23,333,828.
+    Estimated number of annual responses: 23,333,828.
+    Estimated time burden per response: 23 minutes (0.3833 hours).
+    Estimated total annual time burden: 8,943,856 hours.
+    These respondents include new and repeat ESTA applicants. Only new 
+applicants or applicants whose authorization has expired will be 
+required to pay the ESTA fee. The additional 323,828 ESTA applicants 
+introduced with this rule will pay the ESTA fee, which will result in 
+an additional estimated cost of $4,530,352 for this collection of 
+information. This cost is based on the additional number of respondents 
+granted a travel authorization through ESTA annually (323,504) 
+multiplied by (x) the $14.00 ESTA fee to apply and receive a travel 
+authorization = $4,529,056, plus the additional number of respondents 
+denied a travel authorization through ESTA (324) multiplied by (x) the 
+$4.00
+
+[[Page 18980]]
+
+ESTA operational fee = $1,296, for a total of $4,530,352.\34\
+---------------------------------------------------------------------------
+
+    \34\ These costs do not account for foreign transaction fees 
+that respondents may incur with their ESTA application.
+---------------------------------------------------------------------------
+
+    OMB-approved collection 1651-0111 will also be revised to reflect 
+the elimination of CBP's paper Form I-94W for land travelers, which is 
+an additional result of this rule. The current approved number of 
+estimated annual respondents for the paper Form I-94W of 941,291 will 
+be removed. Respondents will now be categorized under ``ESTA'' on the 
+collection because the paper Form I-94W data will now be collected 
+electronically through ESTA.
+
+H. Privacy Interests
+
+    DHS published an ESTA Privacy Impact Assessment (PIA) for the 
+interim final rule announcing ESTA at air or sea ports of entry on June 
+9, 2008. Additionally, at that time, DHS prepared a separate System of 
+Record Notice (SORN) that was published in conjunction with the IFR on 
+June 9, 2008. DHS has updated these documents since that time and the 
+most current ESTA PIA and SORN are available for viewing at: https://www.dhs.gov/privacy-documents-us-customs-and-border-protection.
+
+List of Subjects
+
+8 CFR Part 103
+
+    Administrative practice and procedure, Authority delegations 
+(Government agencies), Freedom of information, Immigration, Privacy, 
+Reporting and recordkeeping requirements, Surety bonds.
+
+8 CFR Part 212
+
+    Administrative practice and procedure, Aliens, Immigration, 
+Passport and visas, Reporting and recordkeeping requirements.
+
+8 CFR Part 217
+
+    Air carriers, Aliens, Maritime carriers, Passports and visas.
+
+8 CFR Part 286
+
+    Air carriers, Immigration, Maritime carriers, Reporting and 
+recordkeeping.
+
+Amendments to the Regulations
+
+    For the reasons stated in the preamble, DHS is amending 8 CFR parts 
+103, 212, 217, and 286 as set forth below.
+
+PART 103--IMMIGRATION BENEFIT REQUESTS; USCIS FILING REQUIREMENTS; 
+BIOMETRIC REQUIREMENTS; AVAILABILITY OF RECORDS
+
+0
+1. The authority citation for part 103 continues to read as follows:
+
+    Authority:  5 U.S.C. 301, 552, 552a; 8 U.S.C. 1101, 1103, 1304, 
+1356, 1365b; 31 U.S.C. 9701; Pub. L. 107-296, 116 Stat. 2135 (6 
+U.S.C. 1 et seq.); E.O. 12356, 47 FR 14874, 15557; 3 CFR, 1982 
+Comp., p. 166; 8 CFR part 2; Pub. L. 112-54; 125 Stat. 550; 31 CFR 
+part 223.
+
+
+0
+2. Amend Sec.  103.7 by revising paragraph (d)(5) to read as follows:
+
+
+Sec.  103.7  Fees.
+
+* * * * *
+    (d) * * *
+    (5) Form I-94W. For issuance of Form I-94W or other Nonimmigrant 
+Visa Waiver Arrival/Departure record at a land border port-of-entry 
+under section 217 of the Act: $6.00. The term `issuance' includes, but 
+is not limited to, the creation of an electronic record of admission or 
+arrival/departure by DHS following an inspection performed by a CBP 
+officer, which may be provided to the nonimmigrant as a printout or 
+other confirmation of the electronic record stored in DHS systems.
+* * * * *
+
+PART 212--DOCUMENTARY REQUIREMENTS: NONIMMIGRANTS; WAIVERS; 
+ADMISSION OF CERTAIN INADMISSIBLE ALIENS; PAROLE
+
+0
+3. The authority citation for part 212 continues to read as follows:
+
+    Authority:  6 U.S.C. 111, 202(4) and 271; 8 U.S.C. 1101 and 
+note, 1102, 1103, 1182 and note, 1184, 1187, 1223, 1225, 1226, 1227, 
+1255, 1359; section 7209 of Pub. L. 108-458 (8 U.S.C. 1185 note); 
+Title VII of Pub. L. 110-229 (8 U.S.C. 1185 note); 8 CFR part 2; 
+Pub. L. 115-218.
+    Section 212.1(q) also issued under section 702, Pub. L. 110-229, 
+122 Stat. 754, 854.
+
+
+Sec.  212.1  [Amended]
+
+0
+4. Amend Sec.  212.1 by removing the word ``Pilot'' from the heading 
+and text of paragraph (i).
+
+PART 217--VISA WAIVER PROGRAM
+
+0
+5. The authority citation for part 217 continues to read as follows:
+
+    Authority: 8 U.S.C. 1103, 1187; 8 CFR part 2.
+
+
+Sec.  217.1  [Amended]
+
+0
+6. Amend Sec.  217.1 by removing the word ``Pilot'' and removing the 
+parenthetical ``(VWPP)'' and adding in its place ``(VWP)''.
+
+0
+7. Amend Sec.  217.2 as follows:
+0
+a. Remove the word ``Pilot'' wherever it appears; and
+0
+b. Revise paragraphs (b)(1) and (c)(2).
+    The revisions read as follows:
+
+
+Sec.  217.2  Eligibility.
+
+* * * * *
+    (b) * * *
+    (1) General. In addition to meeting all of the requirements for the 
+Visa Waiver Program specified in section 217 of the Act, each applicant 
+must possess a valid, unexpired passport issued by a designated country 
+and obtain a travel authorization via the Electronic System for Travel 
+Authorization (ESTA) as provided in Sec.  217.5.
+* * * * *
+    (c) * * *
+    (2) Applicants arriving at land border ports of entry. Any Visa 
+Waiver Program applicant arriving at a land border port of entry must 
+provide evidence to the CBP officer of financial solvency and a 
+domicile abroad to which the applicant intends to return. An applicant 
+arriving at a land border port of entry will be charged a fee as 
+prescribed in Sec.  103.7(d)(5) of this chapter for issuance of Form I-
+94W, Nonimmigrant Visa Waiver Arrival/Departure Form. A round-trip 
+transportation ticket is not required.
+* * * * *
+
+
+Sec.  217.3  [Amended]
+
+0
+8. Amend Sec.  217.3(b) by removing the word ``Pilot''.
+
+0
+9. Amend Sec.  217.5 as follows:
+0
+a. Revise paragraphs (a), (b), and (c); and
+0
+b. Remove and reserve paragraph (g).
+    The revisions read as follows:
+
+
+Sec.  217.5  Electronic System for Travel Authorization.
+
+    (a) Travel authorization required. Each nonimmigrant alien 
+intending to travel by air, sea, or land to the United States under the 
+Visa Waiver Program (VWP) must, within the time specified in paragraph 
+(b) of this section, receive a travel authorization, which is a 
+positive determination of eligibility to travel to the United States 
+under the VWP via the Electronic System for Travel Authorization 
+(ESTA), from CBP. In order to receive a travel authorization, each 
+nonimmigrant alien intending to travel to the United States by air, 
+sea, or land under the VWP must provide the data elements set forth in 
+paragraph (c) of this section to CBP, in English, in the manner 
+specified herein, and must pay a fee as described in paragraph (h) of 
+this section.
+    (b) Time--(1) Applicants arriving at air or sea ports of entry. 
+Each alien
+
+[[Page 18981]]
+
+falling within the provisions of paragraph (a) of this section and 
+intending to travel by air or sea to the United States under the VWP 
+must receive a travel authorization via ESTA prior to boarding a 
+carrier destined for travel to the United States.
+    (2) Applicants arriving at land ports of entry. Each alien falling 
+within the provisions of paragraph (a) of this section and intending to 
+travel by land to the United States under the VWP must receive a travel 
+authorization via ESTA prior to application for admission to the United 
+States.
+    (c) Required elements. CBP will collect such information as the 
+Secretary deems necessary to issue a travel authorization as reflected 
+in the ESTA application.
+* * * * *
+
+PART 286--IMMIGRATION USER FEE
+
+0
+10. The authority citation for part 286 continues to read as follows:
+
+    Authority: 8 U.S.C. 1101, 1103, 1356; Title VII of Public Law 
+110-229; 8 CFR part 2.
+
+
+Sec.  286.9  [Amended]
+
+0
+11. Amend Sec.  286.9(b)(2) as follows:
+0
+a. Remove the word ``Pilot''; and
+0
+b. Add the words ``, as prescribed in Sec.  103.7(d)(5) of this 
+chapter,'' after ``Form I-94W''.
+
+Alejandro N. Mayorkas,
+Secretary, U.S. Department of Homeland Security.
+[FR Doc. 2022-06366 Filed 3-31-22; 8:45 am]
+BILLING CODE 9111-14-P
+
+

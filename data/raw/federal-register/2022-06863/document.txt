@@ -1,0 +1,215 @@
+
+[Federal Register Volume 87, Number 63 (Friday, April 1, 2022)]
+[Notices]
+[Pages 19174-19176]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2022-06863]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Motor Carrier Safety Administration
+
+[Docket No. FMCSA-2021-0085]
+
+
+Qualification of Drivers; Exemption Applications; Implantable 
+Cardioverter Defibrillator (ICD)
+
+AGENCY: Federal Motor Carrier Safety Administration (FMCSA), Department 
+of Transportation (DOT).
+
+ACTION: Notice of denials.
+
+-----------------------------------------------------------------------
+
+SUMMARY: FMCSA announces its decision to deny the applications from 
+three individuals treated with an ICD who requested an exemption from 
+the Federal Motor Carrier Safety Regulations (FMCSRs) prohibiting 
+operation of a commercial motor vehicle (CMV) in interstate commerce by 
+persons with a current clinical diagnosis of myocardial infarction, 
+angina pectoris, coronary insufficiency, thrombosis, or any other 
+cardiovascular disease of a variety known to be accompanied by syncope 
+(transient loss of consciousness), dyspnea (shortness of breath), 
+collapse, or congestive heart failure.
+
+FOR FURTHER INFORMATION CONTACT: Ms. Christine A. Hydock, Chief, 
+Medical Programs Division, (202) 366-4001, <span class="__cf_email__" data-cfemail="b3d5ded0c0d2ded6d7dad0d2dff3d7dcc79dd4dcc5">[email protected]</span>, FMCSA, 
+DOT, 1200 New Jersey Avenue SE, Room W64-224, Washington, DC 20590-
+0001. Office hours are from 8:30 a.m. to 5 p.m., ET, Monday through 
+Friday, except Federal holidays. If you have questions regarding 
+viewing materials in the docket, contact Dockets Operations, (202) 366-
+9826.
+
+SUPPLEMENTARY INFORMATION: 
+
+I. Public Participation
+
+A. Viewing Comments
+
+    To view comments go to www.regulations.gov. Insert the docket 
+number, FMCSA-2021-0085, in the keyword box, and click ``Search.'' 
+Next, sort the results by ``Posted (Newer-Older),'' choose the first 
+notice listed, and click ``Browse Comments.'' If you do not have access 
+to the internet, you may view the docket online by visiting Dockets 
+Operations in Room W12-140 on the ground floor of the DOT West 
+Building, 1200 New Jersey Avenue SE, Washington, DC 20590-0001, between 
+9 a.m. and 5 p.m., ET, Monday through Friday, except Federal holidays. 
+To be sure someone is there to help you, please call (202) 366-9317 or 
+(202) 366-9826 before visiting Dockets Operations.
+
+[[Page 19175]]
+
+B. Privacy Act
+
+    In accordance with 49 U.S.C. 31315(b)(6), DOT solicits comments 
+from the public on the exemption request. DOT posts these comments, 
+without edit, including any personal information the commenter 
+provides, to www.regulations.gov, as described in the system of records 
+notice (DOT/ALL-14 FDMS), which can be reviewed at www.dot.gov/privacy.
+
+II. Background
+
+    On July 28, 2021, FMCSA published a Federal Register notice (86 FR 
+40677) announcing receipt of applications from three individuals 
+treated with ICDs and requested comments from the public. The 
+individuals requested an exemption from 49 CFR 391.41(b)(4) which 
+prohibits operation of a CMV in interstate commerce by persons with a 
+current clinical diagnosis of myocardial infarction, angina pectoris, 
+coronary insufficiency, thrombosis, or any other cardiovascular disease 
+of a variety known to be accompanied by syncope, dyspnea, collapse, or 
+congestive heart failure. The public comment period closed on August 
+27, 2021, and eight comments were received.
+    FMCSA has evaluated the eligibility of the applicants and concluded 
+that granting an exemption would not provide a level of safety that 
+would be equivalent to, or greater than, the level of safety that would 
+be obtained by complying with Sec.  391.41(b)(4). A summary of each 
+applicant's medical history related to their ICD exemption request was 
+discussed in the July 28, 2021, Federal Register notice and will not be 
+repeated here.
+    The Agency's decision regarding this exemption application is based 
+on information from the Cardiovascular Medical Advisory Criteria, an 
+April 2007 evidence report titled ``Cardiovascular Disease and 
+Commercial Motor Vehicle Driver Safety,'' \1\ and a December 2014 
+focused research report titled ``Implantable Cardioverter 
+Defibrillators and the Impact of a Shock in a Patient When Deployed.'' 
+Copies of these reports are included in the docket.
+---------------------------------------------------------------------------
+
+    \1\ The report is available on the internet at https://rosap.ntl.bts.gov/view/dot/16462.
+---------------------------------------------------------------------------
+
+    FMCSA has published advisory criteria to assist medical examiners 
+in determining whether drivers with certain medical conditions are 
+qualified to operate a CMV in interstate commerce.\2\ The advisory 
+criteria for Sec.  391.41(b)(4) indicates that coronary artery bypass 
+surgery and pacemaker implantation are remedial procedures and thus, 
+not medically disqualifying. ICDs are disqualifying due to risk of 
+syncope.
+---------------------------------------------------------------------------
+
+    \2\ These criteria may be found in 49 CFR part 391, APPENDIX A 
+TO PART 391--MEDICAL ADVISORY CRITERIA, section D. Cardiovascular: 
+Sec.  391.41(b)(4), paragraph 4, which is available on the internet 
+at https://www.gpo.gov/fdsys/pkg/CFR-2015-title49-vol5/pdf/CFR-2015-title49-vol5-part391-appA.pdf.
+---------------------------------------------------------------------------
+
+III. Discussion of Comments
+
+    FMCSA received eight comments in this proceeding. Each of the eight 
+comments supported Mr. Willard Drysdale's request for an ICD exemption. 
+Mr. Drysdale's cardiologist stated that the chance of Mr. Drysdale 
+experiencing an appropriate ICD discharge in the next 5 years is 
+approximately 2 to 3 percent. Mr. Drysdale's cardiac rehabilitation 
+program attested to his excellent progress with his rehabilitation and 
+maintenance program and noted that he was asymptomatic during his 
+rehabilitation. The Minnesota Department of Public Safety commented 
+that it has no objection to Mr. Drysdale's exemption request. Four 
+private citizens familiar with Mr. Drysdale, attested to his years of 
+successful CMV driving experience, his good physical condition, and 
+that his ICD has not discharged since it was implanted. One of the four 
+private citizens also commented on each key question in the April 2007 
+and December 2014 ICD Evidence Reports regarding how they relate to Mr. 
+Drysdale's circumstances and his ICD exemption request. Regarding the 
+April 2007 report, the commenter's opinion was that for two of the most 
+relevant studies, one was done in Canada where ICDs are not addressed, 
+and that the other study did not find evidence supporting the 
+contention that CMV drivers are at an increased risk for a crash in a 
+motor vehicle. The commenter further opined that the study was very 
+limited and therefore the commenter believed a more comprehensive and 
+current study should be implemented. The commenter noted with respect 
+to the key questions in the December 2014 report, that Mr. Drysdale's 
+ICD had never discharged and offered that Mr. Drysdale would be willing 
+to participate in a group study involving ICDs if granted an exemption. 
+The applicant, Mr. Drysdale also commented and questioned why he is not 
+permitted to cross state lines and go more than 150 miles with a CMV 
+yet is permitted to drive across the State of Minnesota to deliver 
+exempt agricultural commodities.
+    FMCSA evaluates each ICD exemption application received to 
+determine whether an equivalent or greater level of safety can be 
+achieved by the applicant. FMCSA acknowledges that the existing 
+evidence is not conclusive concerning the impact of ICD treatment on 
+the safe operation of CMVs and that more studies are needed prior to 
+permitting individuals with ICDs to operate CMVs in interstate 
+commerce. Regarding Mr. Drysdale's comments, the provisions referenced 
+are handled under two separate sections in the FMCSRs. Specifically, 
+transportation of agricultural commodities is handled under Sec.  
+390.39 and does not require the driver to have a physical qualification 
+examination, meet the physical qualification standards in Sec.  
+391.41(b)(1) through (13), and receive a Medical Examiner's 
+Certificate, Form MCSA-5876.
+
+IV. Basis for Exemption Determination
+
+    Under 49 U.S.C. 31136(e) and 31315(b), FMCSA may grant an exemption 
+from the FMCSRs for no longer than a 5-year period if it finds such 
+exemption would likely achieve a level of safety that is equivalent to, 
+or greater than, the level that would be achieved absent such 
+exemption.
+    The Agency's decision regarding these exemption applications is 
+based on an individualized assessment of the applicants' medical 
+information, available medical and scientific data concerning ICDs, and 
+any relevant public comments received.
+    In the case of persons with ICDs, the underlying condition for 
+which the ICD was implanted places the individual at high risk for 
+syncope or other unpredictable events known to result in gradual or 
+sudden incapacitation. ICDs may discharge, which could result in loss 
+of ability to safely control a CMV. The December 2014 focused research 
+report referenced previously upholds the findings of the April 2007 
+report and indicates that the available scientific data on persons with 
+ICDs and CMV driving does not support that persons with ICDs who 
+operate CMVs are able to meet an equal or greater level of safety.
+
+V. Conclusion
+
+    The Agency has determined that the available medical and scientific 
+literature and research provides insufficient data to enable the Agency 
+to conclude that granting these exemptions would achieve a level of 
+safety equivalent to, or greater than, the level of safety maintained 
+without the exemption. Therefore, the following three applicants have 
+been denied an exemption from the physical qualification standards in 
+Sec.  391.41(b)(4):
+
+
+[[Page 19176]]
+
+
+Willard Drysdale (MN)
+William Edwards (NY)
+Francisco Garcia (NJ)
+
+    The applicants have, prior to this notice, received a letter of 
+final disposition regarding their exemption request. The decision 
+letter fully outlined the basis for the denial and constitute final 
+action by the Agency. The names of these individuals published in this 
+notice summarizes the Agency's recent denials as required under 49 
+U.S.C. 31315(b)(4).
+
+Larry W. Minor,
+Associate Administrator for Policy.
+[FR Doc. 2022-06863 Filed 3-31-22; 8:45 am]
+BILLING CODE 4910-EX-P
+
+

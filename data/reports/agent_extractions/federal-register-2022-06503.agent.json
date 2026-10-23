@@ -1,0 +1,201 @@
+{
+  "status_of_this_file": "UNREVIEWED Claude Code subagent output used as REVIEW AID; not a production candidate; not human-accepted",
+  "source_document_id": "2022-06503",
+  "publication_date_manifest": "2022-04-01",
+  "document_sha256": "d44d16263d4e31bb146ff15305db3facd6f9c2b1c5083ea64a83ee59a7038f92",
+  "source_hash_ok": true,
+  "source_text_mode": "govinfo_gpo_html_pre_text",
+  "original_text_url": "https://www.govinfo.gov/content/pkg/FR-2022-04-01/html/2022-06503.htm",
+  "agent_output": {
+    "source_document_id": "2022-06503",
+    "publication_date": "2022-04-01",
+    "is_event": true,
+    "event_type": "new_legal_requirement",
+    "status": "final_future_effective",
+    "affected_group": "Manufacturers, importers, marketers and operators of fixed and Mode II personal/portable unlicensed white space devices operating in the TV bands (except narrowband devices), and white space database administrators; indirectly licensed wireless microphone operators.",
+    "change_summary": "FCC final rule (Second Order on Reconsideration, FCC 22-6) removes the never-implemented push notification requirement for white space databases and replaces it with a mandatory database re-check at least every 60 minutes for fixed and Mode II personal/portable white space devices in the TV bands (except narrowband devices); devices must cease operation 120 minutes after last successful database contact; push notification becomes optional. Transition: devices certified, imported, marketed or in operation beginning six months after the effective date must comply. The existing waiver of 47 CFR 15.37(j)/15.711(i) is extended to the effective date. Separately, the Commission denies NAB's petition for reconsideration of Nominet UK's (now RED Technologies) designation as a database administrator.",
+    "effective_at": "2022-05-02",
+    "evidence": [
+      {
+        "field": "change_summary",
+        "quote": "The Commission removes \nthe push notification requirement and replaces it with a simpler rule \nthat requires certain white space devices to re-check the database more \nfrequently."
+      },
+      {
+        "field": "change_summary",
+        "quote": "    (i) A device that has been in a powered-on state shall access the \nwhite space database at least once every 60 minutes to verify that the \noperating channel(s) and associated maximum power levels continue to be \navailable at its location."
+      },
+      {
+        "field": "change_summary",
+        "quote": "    (ii) If a device fails to successfully contact the white space \ndatabase, it may continue to operate until no longer than 120 minutes \nafter the last successful contact, at which time it must cease \noperations until it reestablishes contact with the white space database"
+      },
+      {
+        "field": "change_summary",
+        "quote": "    (i) Push notifications. Device manufacturers and database \nadministrators may implement a system that pushes updated channel \navailability information from the"
+      },
+      {
+        "field": "change_summary",
+        "quote": "    (j) White space devices which are approved by Telecommunication \nCertification Bodies beginning [six months after the effective date of \nthe rules] shall comply with the database re-check requirements in \nSec.  15.711(h) of this part. White space devices that are in \noperation, imported or marketed beginning [six months after the \neffective date of the rules] shall also comply with these requirements."
+      },
+      {
+        "field": "change_summary",
+        "quote": "    It is further ordered that the waiver of Sections 15.37(j) and \n15.711(i) of the Commission's rules, 47 CFR 15.37(j) and 15.711(i), \nadopted by the Commission on September 30, 2021, DA 21-349, is extended \nuntil the effective date of the rules adopted herein."
+      },
+      {
+        "field": "change_summary",
+        "quote": "In the Order, the Commission denies a petition for \nreconsideration of the Office of Engineering and Technology's (OET's) \ndesignation of Nominet UK (now RED Technologies) as a white space \ndatabase administrator."
+      },
+      {
+        "field": "affected_group",
+        "quote": "The actions being taken will provide \nadditional certainty to white space device users, manufacturers and \ndatabase administrators to enable unlicensed white space devices to \noperate efficiently and protect other spectrum users, in particular \nwireless microphone users."
+      },
+      {
+        "field": "affected_group",
+        "quote": "    (h) Database re-check requirement. (1) Fixed and Mode II personal/\nportable devices, except for narrowband devices, operating in the \ntelevision bands."
+      },
+      {
+        "field": "affected_group",
+        "quote": "The Commission also \nrequires that within six months after the effective date of the rules, \nall white space devices imported into or marketed within the United \nStates comply with these requirements, regardless of when they were \ncertified."
+      },
+      {
+        "field": "effective_at",
+        "quote": "DATES: Effective May 2, 2022."
+      },
+      {
+        "field": "effective_at",
+        "quote": "such rule amendments will become effective 30 days after the date of \npublication in the Federal Register."
+      },
+      {
+        "field": "status",
+        "quote": "ACTION: Final rule."
+      },
+      {
+        "field": "status",
+        "quote": "document, Second Order on Reconsideration and Order, ET Docket No. 14-\n165, GN Docket No. 12-268, ET Docket No. 20-36 and ET Docket No. 04-\n186; FCC 22-6, adopted January 25, 2022 and released January 26, 2022."
+      }
+    ],
+    "uncertainties": [
+      "Legal effective date 2022-05-02, but device compliance obligation begins six months after (~2022-11-02), not stated as a calendar date.",
+      "Underlying FCC order adopted 2022-01-25 and released 2022-01-26, publicly available on fcc.gov before FR publication; 2022-04-01 is FR publication date, not first public availability.",
+      "Also references a FNPRM on narrowband/mobile re-check intervals, which is proposed and not part of the final rule text.",
+      "Push notification requirement never came into effect due to waivers; practical change is daily to hourly re-check.",
+      "Nominet/RED petition denial is adjudicatory, no new requirement.",
+      "manifest historical_date_approved=false."
+    ],
+    "economically_material": "REDACTED_FROM_REVIEWER_PATH (see agent_materiality_sidecar.json; may contain forward-looking speculation)"
+  },
+  "quote_checks": [
+    {
+      "field": "change_summary",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "The Commission removes \nthe push notification requirement and replaces it with a simpler rule \nthat requires certain white space devices to re-check the database more \nfrequently."
+    },
+    {
+      "field": "change_summary",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "    (i) A device that has been in a powered-on state shall access the \nwhite space database at least once every 60 minutes to verify that the \noperating channel(s) and associated maximum power levels continue to be \navailable at its location."
+    },
+    {
+      "field": "change_summary",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "    (ii) If a device fails to successfully contact the white space \ndatabase, it may continue to operate until no longer than 120 minutes \nafter the last successful contact, at which time it must cease \noperations until it reestablishes contact with the white space database"
+    },
+    {
+      "field": "change_summary",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "    (i) Push notifications. Device manufacturers and database \nadministrators may implement a system that pushes updated channel \navailability information from the"
+    },
+    {
+      "field": "change_summary",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "    (j) White space devices which are approved by Telecommunication \nCertification Bodies beginning [six months after the effective date of \nthe rules] shall comply with the database re-check requirements in \nSec.  15.711(h) of this part. White space devices that are in \noperation, imported or marketed beginning [six months after the \neffective date of the rules] shall also comply with these requirements."
+    },
+    {
+      "field": "change_summary",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "    It is further ordered that the waiver of Sections 15.37(j) and \n15.711(i) of the Commission's rules, 47 CFR 15.37(j) and 15.711(i), \nadopted by the Commission on September 30, 2021, DA 21-349, is extended \nuntil the effective date of the rules adopted herein."
+    },
+    {
+      "field": "change_summary",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "In the Order, the Commission denies a petition for \nreconsideration of the Office of Engineering and Technology's (OET's) \ndesignation of Nominet UK (now RED Technologies) as a white space \ndatabase administrator."
+    },
+    {
+      "field": "affected_group",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "The actions being taken will provide \nadditional certainty to white space device users, manufacturers and \ndatabase administrators to enable unlicensed white space devices to \noperate efficiently and protect other spectrum users, in particular \nwireless microphone users."
+    },
+    {
+      "field": "affected_group",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "    (h) Database re-check requirement. (1) Fixed and Mode II personal/\nportable devices, except for narrowband devices, operating in the \ntelevision bands."
+    },
+    {
+      "field": "affected_group",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "The Commission also \nrequires that within six months after the effective date of the rules, \nall white space devices imported into or marketed within the United \nStates comply with these requirements, regardless of when they were \ncertified."
+    },
+    {
+      "field": "effective_at",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "DATES: Effective May 2, 2022."
+    },
+    {
+      "field": "effective_at",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "such rule amendments will become effective 30 days after the date of \npublication in the Federal Register."
+    },
+    {
+      "field": "status",
+      "exact_in_source": false,
+      "verbatim_in_source": true,
+      "below_20_char_floor": true,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "ACTION: Final rule."
+    },
+    {
+      "field": "status",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "document, Second Order on Reconsideration and Order, ET Docket No. 14-\n165, GN Docket No. 12-268, ET Docket No. 20-36 and ET Docket No. 04-\n186; FCC 22-6, adopted January 25, 2022 and released January 26, 2022."
+    }
+  ],
+  "code_verdict": "PASS_CORE_FIELDS_SHORT_STATUS_QUOTE"
+}

@@ -1,0 +1,116 @@
+{
+  "status_of_this_file": "UNREVIEWED Claude Code subagent output used as REVIEW AID; not a production candidate; not human-accepted",
+  "source_document_id": "2022-06517",
+  "publication_date_manifest": "2022-04-01",
+  "document_sha256": "aede3139f6bf86e0a58ef5fe993a3ff6855cf04630338dac0b5925ab3a0de1d2",
+  "source_hash_ok": true,
+  "source_text_mode": "govinfo_gpo_html_pre_text",
+  "original_text_url": "https://www.govinfo.gov/content/pkg/FR-2022-04-01/html/2022-06517.htm",
+  "agent_output": {
+    "source_document_id": "2022-06517",
+    "publication_date": "2022-04-01",
+    "is_event": true,
+    "event_type": "compliance_deadline",
+    "status": "final_in_force",
+    "affected_group": "Inmate calling services (ICS) providers (approximately 20 for-profit business respondents) subject to the FCC's Third Mandatory Data Collection, WC Docket No. 12-375",
+    "change_summary": "The FCC announces OMB approval (March 1, 2022, Control No. 3060-1300) of the information collection in the Mandatory Data Collection Order (DA 22-52), making the data collection requirements effective April 1, 2022; ICS providers must submit responses (FCC Forms 2302(a)/(b), one-time, est. 355 hours each) no later than June 30, 2022.",
+    "effective_at": "2022-04-01",
+    "evidence": [
+      {
+        "field": "change_summary",
+        "quote": "This document establishes an \neffective date for the Mandatory Data Collection Order. Responses to to \nthe Third Mandatory Data Collection are due June 30, 2022."
+      },
+      {
+        "field": "change_summary",
+        "quote": "In that Order, WCB/OEA adopted instructions, a reporting \ntemplate, and a certification form related to a data collection \nregarding calling services for incarcerated people. OMB approved the \ndata collection on March 1, 2022."
+      },
+      {
+        "field": "affected_group",
+        "quote": "We note that inmate \ncalling services (ICS) providers' responses to the data collection are \ndue no later than June 30, 2022."
+      },
+      {
+        "field": "affected_group",
+        "quote": "Respondents: Business or other for profit.\n    Number of Respondents and Responses: 20 respondents; 20 responses.\n    Estimated Time per Response: 355 hours on average."
+      },
+      {
+        "field": "effective_at",
+        "quote": "DATES: The effective date of the order published March 23, 2022 at 87 \nFR 16560 is April 1, 2022."
+      },
+      {
+        "field": "status",
+        "quote": "ACTION: Final rule; announcement of effective date."
+      },
+      {
+        "field": "status",
+        "quote": "The Commission publishes \nthis document as an announcement of the effective date of the \nrequirements for the Mandatory Data Collection."
+      }
+    ],
+    "uncertainties": [
+      "Substantive requirements adopted earlier (DA 22-52, Jan 18, 2022; published Mar 23, 2022 at 87 FR 16560); this document only sets the effective date and restates the June 30, 2022 deadline.",
+      "Event type could alternatively be new_legal_requirement.",
+      "'Obligation To Respond: Required to obtain or retain benefits' vs 'Mandatory'; legal consequence of non-response not spelled out.",
+      "manifest historical_date_approved=false.",
+      "Email addresses in stored text obfuscated by Cloudflare spans; no substantive content affected."
+    ],
+    "economically_material": "REDACTED_FROM_REVIEWER_PATH (see agent_materiality_sidecar.json; may contain forward-looking speculation)"
+  },
+  "quote_checks": [
+    {
+      "field": "change_summary",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "This document establishes an \neffective date for the Mandatory Data Collection Order. Responses to to \nthe Third Mandatory Data Collection are due June 30, 2022."
+    },
+    {
+      "field": "change_summary",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "In that Order, WCB/OEA adopted instructions, a reporting \ntemplate, and a certification form related to a data collection \nregarding calling services for incarcerated people. OMB approved the \ndata collection on March 1, 2022."
+    },
+    {
+      "field": "affected_group",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "We note that inmate \ncalling services (ICS) providers' responses to the data collection are \ndue no later than June 30, 2022."
+    },
+    {
+      "field": "affected_group",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "Respondents: Business or other for profit.\n    Number of Respondents and Responses: 20 respondents; 20 responses.\n    Estimated Time per Response: 355 hours on average."
+    },
+    {
+      "field": "effective_at",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "DATES: The effective date of the order published March 23, 2022 at 87 \nFR 16560 is April 1, 2022."
+    },
+    {
+      "field": "status",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "ACTION: Final rule; announcement of effective date."
+    },
+    {
+      "field": "status",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "The Commission publishes \nthis document as an announcement of the effective date of the \nrequirements for the Mandatory Data Collection."
+    }
+  ],
+  "code_verdict": "PASS_QUOTES"
+}

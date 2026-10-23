@@ -1,0 +1,2280 @@
+
+[Federal Register Volume 87, Number 63 (Friday, April 1, 2022)]
+[Proposed Rules]
+[Pages 19046-19063]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2022-06879]
+
+
+-----------------------------------------------------------------------
+
+ENVIRONMENTAL PROTECTION AGENCY
+
+40 CFR Part 131
+
+[EPA-HQ-OW-2015-0174; FRL-7253.1-01-OW]
+RIN 2040-AG21
+
+
+Restoring Protective Human Health Criteria in Washington
+
+AGENCY: Environmental Protection Agency (EPA).
+
+ACTION: Proposed rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The Environmental Protection Agency (EPA) has determined that 
+Washington's human health criteria (HHC) are not protective of 
+Washington's designated uses and are not based on sound scientific 
+rationale and, accordingly, is proposing to restore protective HHC for 
+Washington's waters. EPA partially approved and partially disapproved 
+Washington's HHC in November 2016, and simultaneously promulgated 
+federal HHC based on sound scientific rationale. In May 2019, EPA 
+reversed its November 2016 disapproval and approved Washington's HHC, 
+and in June 2020 withdrew the 2016 HHC that EPA promulgated for 
+Washington. Based on the best scientific information and analyses 
+currently available, and consideration of these past decisions, EPA has 
+concluded that Washington's existing HHC are not based on sound 
+scientific rationale and are therefore not protective of the applicable 
+designated uses in Washington. EPA is therefore proposing to reinstate 
+the protective and science-based federal HHC that EPA withdrew in June 
+2020 to protect Washington's waters, including waters where tribes hold 
+treaty-reserved rights to fish.
+
+DATES: Comments must be received on or before May 31, 2022. Public 
+Hearing: EPA will hold two public hearings during the public comment 
+period. Please refer to the SUPPLEMENTARY INFORMATION section for 
+additional information on the public hearings.
+
+ADDRESSES: You may send comments, identified by Docket ID No. EPA-HQ-
+OW-2015-0174, by any of the following methods:
+    <bullet> Federal eRulemaking Portal: https://www.regulations.gov/ 
+(our preferred method). Follow the online instructions for submitting 
+comments.
+    <bullet> Mail: U.S. Environmental Protection Agency, EPA Docket 
+Center, Standards and Health Protection Division Docket, Mail Code 
+28221T, 1200 Pennsylvania Avenue NW, Washington, DC 20460.
+    <bullet> Hand Delivery or Courier (by scheduled appointment only): 
+EPA Docket Center, WJC West Building, Room 3334, 1301 Constitution 
+Avenue NW, Washington, DC 20004. The Docket Center's hours of 
+operations are 8:30 a.m.-4:30 p.m., Monday-Friday (except Federal 
+holidays).
+    Instructions: All submissions received must include the Docket ID 
+No. EPA-HQ-OW-2015-0174 for this rulemaking. Comments received may be 
+posted without change to https://www.regulations.gov/, including any 
+personal information provided. For detailed instructions on sending 
+comments and additional information on the rulemaking process, see the 
+``Public Participation'' heading of the SUPPLEMENTARY INFORMATION 
+section of this document. Out of an abundance of caution for members of 
+the public and our staff, the EPA Docket Center and Reading Room are 
+open to the public by appointment only, to reduce the risk of 
+transmitting COVID-19. Our Docket Center staff also continues to 
+provide remote customer service via email, phone, and webform. Hand 
+deliveries and couriers may be received by scheduled appointment only. 
+For further information on EPA Docket Center services and the current 
+status, please visit us online at https://www.epa.gov/dockets.
+    EPA is offering two public hearings on this proposed rulemaking. 
+Refer to the SUPPLEMENTARY INFORMATION section below for additional 
+information.
+
+FOR FURTHER INFORMATION CONTACT: Erica Fleisig, Office of Water, 
+Standards and Health Protection Division (4305T), Environmental 
+Protection Agency, 1200 Pennsylvania Avenue NW, Washington, DC 20460; 
+telephone number: (202) 566-1057; email address: <span class="__cf_email__" data-cfemail="17717b727e647e703972657e74765772677639707861">[email protected]</span>.
+
+SUPPLEMENTARY INFORMATION: This proposed rulemaking is organized as 
+follows:
+I. Public Participation
+    A. Written Comments
+    B. Public Hearings
+II. General Information
+    A. Does this action apply to me?
+III. Background
+    A. Statutory and Regulatory Background
+    B. General Recommended Approach for Deriving Human Health 
+Criteria
+    C. Prior EPA Actions Related to Washington's Human Health 
+Criteria
+IV. Administrator's Determination That New or Revised HHC are 
+Necessary for Washington
+    A. Existing Criteria Are Not Protective of Designated Uses of 
+Waters in the State of Washington
+    B. Clean Water Act 303(c)(4)(B) Administrator's Determination
+V. Derivation of Human Health Criteria for Washington
+    A. Scope of EPA's Proposal
+    B. Washington-Specific Human Health Criteria Inputs
+    C. Proposed Human Health Criteria for Washington
+    D. Applicability
+    E. Alternative Regulatory Approaches and Implementation 
+Mechanisms
+VI. Economic Analysis
+    A. Identifying Affected Entities
+    B. Method for Estimating Costs to Point Sources
+    C. Results
+VII. Statutory and Executive Order Reviews
+    A. Executive Order 12866: Regulatory Planning and Review and 
+Executive Order 13563: Improving Regulation and Regulatory Review
+    B. Paperwork Reduction Act
+
+[[Page 19047]]
+
+    C. Regulatory Flexibility Act
+    D. Unfunded Mandates Reform Act
+    E. Executive Order 13132: Federalism
+    F. Executive Order 13175: Consultation and Coordination With 
+Indian Tribal Governments
+    G. Executive Order 13045: Protection of Children From 
+Environmental Health and Safety Risks
+    H. Executive Order 13211: Actions That Significantly Affect 
+Energy Supply, Distribution, or Use
+    I. National Technology Transfer and Advancement Act of 1995
+    J. Executive Order 12898: Federal Actions To Address 
+Environmental Justice in Minority Populations and Low-Income 
+Populations
+
+I. Public Participation
+
+A. Written Comments
+
+    Submit your comments, identified by Docket ID No. EPA-HQ-OW-2015-
+0174, at https://www.regulations.gov (our preferred method), or the 
+other methods identified in the ADDRESSES section. Once submitted, 
+comments cannot be edited or removed from the docket. EPA may publish 
+any comment received to its public docket. Do not submit to EPA's 
+docket at https://www.regulations.gov any information you consider to 
+be Confidential Business Information (CBI) or other information whose 
+disclosure is restricted by statute. Multimedia submissions (audio, 
+video, etc.) must be accompanied by a written comment. The written 
+comment is considered the official comment and should include 
+discussion of all points you wish to make. EPA will generally not 
+consider comments or comment contents located outside of the primary 
+submission (i.e., on the web, cloud, or other file sharing system). For 
+additional submission methods, the full EPA public comment policy, 
+information about CBI or multimedia submissions, and general guidance 
+on making effective comments, please visit https://www.epa.gov/dockets/commenting-epa-dockets.
+    Due to public health concerns related to COVID-19, the EPA Docket 
+Center and Reading Room are open to the public by appointment only. Our 
+Docket Center staff also continues to provide remote customer service 
+via email, phone, and webform. Hand deliveries or couriers will be 
+received by scheduled appointment only. For further information and 
+updates on EPA Docket Center services, please visit us online at 
+https://www.epa.gov/dockets.
+    EPA continues to carefully and continuously monitor information 
+from the Centers for Disease Control and Prevention (CDC), local area 
+health departments, and our federal partners so that we can respond 
+rapidly as conditions change regarding COVID-19.
+
+B. Public Hearings
+
+    Please note that because of current CDC recommendations, as well as 
+state and local orders for social distancing to limit the spread of 
+COVID-19, EPA cannot hold in-person public meetings at this time. EPA 
+is offering two online public hearings so that interested parties may 
+also provide oral comments on this proposed rulemaking. For more 
+details on the online public hearings and to register to attend the 
+hearings, please visit https://www.epa.gov/wqs-tech/federal-human-health-criteria-washington-state-waters.
+
+II. General Information
+
+A. Does this action apply to me?
+
+    Entities that are subject to Clean Water Act (CWA) regulatory 
+programs such as industrial facilities, stormwater management 
+districts, or publicly owned treatment works (POTWs) that discharge 
+pollutants to surface waters of the United States under the State of 
+Washington's jurisdiction could be affected by this rulemaking because 
+the federal water quality standards (WQS) in this rulemaking, once 
+finalized, will be the applicable WQS for surface waters in Washington 
+for CWA purposes. Categories and entities that could potentially be 
+affected by this rulemaking include the following:
+
+------------------------------------------------------------------------
+                                      Examples of potentially affected
+             Category                             entities
+------------------------------------------------------------------------
+Industry..........................  Industrial point sources discharging
+                                     pollutants to waters of the United
+                                     States in Washington.
+Municipalities....................  Publicly owned treatment works or
+                                     similar facilities discharging
+                                     pollutants to waters of the United
+                                     States in Washington.
+Stormwater Management Districts...  Entities responsible for managing
+                                     stormwater in the State of
+                                     Washington.
+------------------------------------------------------------------------
+
+    This table is not intended to be exhaustive, but rather provides a 
+guide for readers regarding entities that could be indirectly affected 
+by this action. If you have questions regarding the applicability of 
+this action to a particular entity, consult the person listed in the 
+FOR FURTHER INFORMATION CONTACT section.
+
+III. Background
+
+A. Statutory and Regulatory Background
+
+    CWA Section 101(a)(2) establishes as a national goal ``water 
+quality which provides for the protection and propagation of fish, 
+shellfish, and wildlife, and recreation in and on the water, wherever 
+attainable.'' EPA interprets these CWA Section 101(a)(2) goals to 
+include, at a minimum, designated uses providing for the protection of 
+aquatic communities and human health related to consumption of fish and 
+shellfish.\1\
+---------------------------------------------------------------------------
+
+    \1\ USEPA. 2000. Memorandum 1BWQSP-00-03. U.S. Environmental 
+Protection Agency, Office of Water, Washington, DC. https://www.epa.gov/sites/production/files/2015-01/documents/standards-shellfish.pdf.
+---------------------------------------------------------------------------
+
+    Consistent with the CWA, EPA's WQS program assigns to states and 
+authorized tribes the primary authority for adopting WQS.\2\ CWA 
+Section 303(c)(2)(A) and EPA's implementing regulations at 40 CFR part 
+131 require, among other things, that a state's WQS specify appropriate 
+designated uses of the waters, and water quality criteria that protect 
+those uses. EPA's regulations at 40 CFR 131.11(a)(1) provide that 
+``[s]uch criteria must be based on sound scientific rationale and must 
+contain sufficient parameters or constituents to protect the designated 
+use. For waters with multiple use designations, the criteria shall 
+support the most sensitive designated use.''
+---------------------------------------------------------------------------
+
+    \2\ 33 U.S.C. 1313(a), (c).
+---------------------------------------------------------------------------
+
+    Under CWA Section 304(a), EPA periodically publishes criteria 
+(including HHC) recommendations for states to consider when adopting 
+water quality criteria for particular pollutants to protect CWA Section 
+101(a) goal uses. Where EPA has published recommended criteria, states 
+should establish numeric water quality criteria based on EPA's CWA 
+Section 304(a) criteria recommendations, CWA Section 304(a) criteria 
+recommendations modified to reflect site-specific conditions, or other 
+scientifically defensible methods (40 CFR 131.11(b)(1)).
+    After a state adopts a new or revised WQS, the state must submit it 
+to EPA for review and action in accordance
+
+[[Page 19048]]
+
+with CWA Section 303(c).\3\ If EPA determines that a state's new or 
+revised WQS is not consistent with the requirements of the Act, the 
+state has 90 days to submit a modified standard. If the state fails to 
+adopt a revised WQS that EPA approves, CWA Section 303(c)(4)(A) 
+requires EPA to propose and promulgate a revised or new standard for 
+the waters involved. In addition, CWA Section 303(c)(4)(B) grants the 
+EPA Administrator discretion to determine ``that a revised or new 
+standard is necessary to meet the requirements of [the Act].'' \4\ 
+After making such a determination, known as an Administrator's 
+Determination,\5\ the agency must ``promptly'' propose an appropriate 
+WQS and finalize it within ninety days unless the state adopts an 
+acceptable standard in the interim.\6\
+---------------------------------------------------------------------------
+
+    \3\ 33 U.S.C. 1313(c)(2)(A), (c)(3).
+    \4\ Id. at (c)(4)(B).
+    \5\ 40 CFR 131.22(b)
+    \6\ 33 U.S.C. 1313(c)(4)(B).
+---------------------------------------------------------------------------
+
+B. General Recommended Approach for Deriving Human Health Criteria
+
+    EPA's 2000 Methodology for Deriving Ambient Water Quality Criteria 
+for the Protection of Human Health \7\ (2000 Methodology) recommends 
+that HHC be designed to reduce the risk of adverse cancer and non-
+cancer effects occurring from lifetime exposure to pollutants through 
+the ingestion of drinking water and consumption of fish/shellfish 
+obtained from inland and nearshore waters. EPA's practice is to 
+establish a criterion for both drinking water ingestion and consumption 
+of fish/shellfish from inland and nearshore waters combined and a 
+separate criterion based on ingestion of fish/shellfish from inland and 
+nearshore waters alone. This latter criterion applies in cases where 
+the designated uses of a waterbody include supporting fish/shellfish 
+for human consumption but not drinking water supply sources (e.g., non-
+potable estuarine waters).
+---------------------------------------------------------------------------
+
+    \7\ USEPA. 2000. Methodology for Deriving Ambient Water Quality 
+Criteria for the Protection of Human Health. U.S. Environmental 
+Protection Agency, Office of Water, Washington, DC. EPA-822-B-00-
+004. https://www.epa.gov/sites/default/files/2018-10/documents/methodology-wqc-protection-hh-2000.pdf.
+---------------------------------------------------------------------------
+
+    As discussed in EPA's 2000 Methodology, EPA recommends basing HHC 
+on two types of toxicological endpoints: (1) Carcinogenicity and (2) 
+noncancer toxicity (i.e., all adverse effects other than cancer). Where 
+sufficient data are available, EPA derives criteria using both 
+carcinogenic and non-carcinogenic toxicity endpoints and recommends the 
+lower (i.e., more stringent) value. Under the 2000 Methodology, HHC for 
+carcinogenic effects are calculated using the following input 
+parameters: Cancer slope factor (CSF), cancer risk level (CRL), body 
+weight, drinking water intake rate, fish consumption rate (FCR), and a 
+bioaccumulation factor(s). HHC for both non-cancer and nonlinear 
+carcinogenic effects are calculated using a reference dose (RfD) and 
+relative source contribution (RSC) in place of a CSF and CRL. The RSC 
+is applied to apportion the RfD among the media and exposure routes of 
+concern for a particular chemical to ensure that an individual's total 
+exposure from all exposure sources does not exceed the RfD. Each of 
+these inputs is discussed in more detail in sections III.B.a through 
+III.B.d of this preamble and in EPA's 2000 Methodology.\8\
+---------------------------------------------------------------------------
+
+    \8\ Id.
+---------------------------------------------------------------------------
+
+a. Cancer Risk Level
+    EPA's 2000 Methodology generally assumes, in the absence of data to 
+indicate otherwise, that carcinogens exhibit linear ``non-threshold'' 
+dose-responses which means that there are no ``safe'' or ``no-effect'' 
+levels. Therefore, EPA calculates CWA Section 304(a) national 
+recommended HHC for carcinogenic effects as pollutant concentrations 
+corresponding to lifetime increases in the risk of developing cancer. 
+EPA calculates its CWA Section 304(a) national recommended HHC values 
+at a 10<SUP>-</SUP>\6\ (one in one million) CRL and recommends CRLs of 
+10<SUP>-</SUP>\6\ or 10<SUP>-</SUP>\5\ (one in one hundred thousand) 
+for the general population.\9\ EPA notes that states and authorized 
+tribes can also choose a more stringent risk level, such as 
+10<SUP>-</SUP>\7\ (one in ten million), when deriving HHC.
+---------------------------------------------------------------------------
+
+    \9\ EPA's 2000 Methodology also states: ``Criteria based on a 
+10<SUP>-</SUP>\5\ risk level are acceptable for the general 
+population as long as states and authorized tribes ensure that the 
+risk to more highly exposed subgroups (sport fishers or subsistence 
+fishers) does not exceed the 10<SUP>-</SUP>\4\ level.''
+---------------------------------------------------------------------------
+
+b. Cancer Slope Factor and Reference Dose
+    A dose-response assessment is required to understand the 
+quantitative relationships between exposure to a pollutant and adverse 
+health effects. EPA evaluates dose-response relationships based on the 
+available data from animal toxicity and human epidemiological studies 
+to derive dose-response metrics. For carcinogenic effects, EPA uses an 
+oral CSF to derive the HHC. The oral CSF is an upper bound, 
+approximating a 95 percent confidence limit, on the increased cancer 
+risk from a lifetime oral exposure to a pollutant. For non-carcinogenic 
+effects, EPA uses the reference dose (RfD) to calculate the HHC. A RfD 
+is an estimate of a daily oral exposure of an individual to a substance 
+that is likely to be without an appreciable risk of deleterious effects 
+during a lifetime. A RfD is often derived from a laboratory animal 
+toxicity multi-dose study from which a no-observed-adverse-effect level 
+(NOAEL), lowest-observed-adverse-effect level (LOAEL), or benchmark 
+dose level can be identified. However, human epidemiology studies can 
+also be used to derive a RfD. Uncertainty factors are applied to 
+account for gaps or deficiencies in the available data (e.g., 
+differences in response among humans) for a chemical. For the majority 
+of EPA's latest (2015) updated CWA Section 304(a) national recommended 
+HHC, EPA's Integrated Risk Information System (IRIS) \10\ was the 
+source of both cancer and noncancer toxicity values (i.e., RfD and 
+CSF).\11\ For some pollutants, EPA selected risk assessments produced 
+by other EPA program offices (e.g., Office of Pesticide Programs, 
+Office of Water, Office of Land and Emergency Management), other 
+national and international programs, and state programs.
+---------------------------------------------------------------------------
+
+    \10\ USEPA. Integrated Risk Information System (IRIS). U.S. 
+Environmental Protection Agency, Office of Research and Development, 
+Washington, DC. www.epa.gov/iris.
+    \11\ Final Updated Ambient Water Quality Criteria for the 
+Protection of Human Health, (80 FR 36986, June 29, 2015). See also: 
+USEPA. 2015. Final 2015 Updated National Recommended Human Health 
+Criteria. U.S. Environmental Protection Agency, Office of Water, 
+Washington, DC. https://www.epa.gov/wqc/human-health-water-quality-criteria.
+---------------------------------------------------------------------------
+
+c. Exposure Assumptions
+    In the 2000 Methodology, EPA states that its assumptions ``afford 
+an overall level of protection targeted at the high end of the general 
+population.'' Toward this end, EPA selects a combination of high-end 
+and central tendency inputs to the criteria derivation equation and 
+avoids ``double counting'' of exposures and combining unlikely co-
+occurrences. Per EPA's latest CWA Section 304(a) national recommended 
+HHC, EPA uses a default drinking water intake rate of 2.4 liters per 
+day (L/day) and default rate of 22 grams per day (g/day) for 
+consumption of fish and shellfish from inland and nearshore waters, 
+multiplied by pollutant-specific bioaccumulation factors (BAFs) to 
+account for the amount of the pollutant in the edible portions of the 
+ingested species.
+    EPA's national default drinking water intake rate of 2.4 L/day 
+represents the per capita estimate of combined direct and indirect 
+community water ingestion
+
+[[Page 19049]]
+
+at the 90th percentile for adults ages 21 and older.\12\ EPA's national 
+FCR of 22 g/day represents the 90th percentile consumption rate of fish 
+and shellfish from inland and nearshore waters for the U.S. adult 
+population 21 years of age and older, based on National Health and 
+Nutrient Examination Survey (NHANES) data from 2003 to 
+2010.<SUP>13 14</SUP> EPA calculates its CWA Section 304(a) national 
+recommended HHC using a default body weight of 80 kilograms (kg), the 
+average weight of a U.S. adult age 21 and older, based on NHANES data 
+from 1999 to 2006.
+---------------------------------------------------------------------------
+
+    \12\ USEPA. 2011. EPA Exposure Factors Handbook. 2011 edition 
+(EPA 600/R-090/052F). http://cfpub.epa.gov/ncea/risk/recordisplay.cfm?deid=236252.
+    \13\ USEPA. 2014. Estimated Fish Consumption Rates for the U.S. 
+Population and Selected Subpopulations (NHANES 2003-2010). United 
+States Environmental Protection Agency, Washington, DC. EPA 820-R-
+14-002.
+    \14\ EPA's national FCR is based on the total rate of 
+consumption of fish and shellfish from inland and nearshore waters 
+(including fish and shellfish from local, commercial, aquaculture, 
+interstate, and international sources). This is consistent with a 
+principle that each state does its share to protect people who 
+consume fish and shellfish that originate from multiple 
+jurisdictions.
+---------------------------------------------------------------------------
+
+    One reason EPA has determined that a subset of Washington's 2016 
+HHC are inadequate is due to their reliance on bioconcentration factors 
+(BCFs) rather than BAFs. To provide background for our discussion 
+below, the history of the agency's use of BCFs and BAFs is reviewed 
+here. Prior to publication of the 2000 Methodology, in which EPA began 
+recommending the use of BAFs to reflect the uptake of a contaminant 
+from all sources by fish and shellfish,\15\ EPA relied on 
+bioconcentration factors (BCFs) to estimate chemical accumulation of 
+waterborne chemicals by aquatic organisms. However, BCFs only account 
+for chemical accumulation in aquatic organisms through exposure to 
+chemicals in the water column. In 2000, EPA noted that ``there has been 
+a growing body of scientific knowledge that clearly supports the 
+observation that bioaccumulation and biomagnification occur and are 
+important exposure issues to consider for many highly hydrophobic 
+organic compounds and certain organometallics.'' For that reason, the 
+2000 Methodology concluded that ``[f]or highly persistent and 
+bioaccumulative chemicals that are not easily metabolized, BCFs do not 
+reflect what the science indicates.'' \16\ EPA's 2000 Methodology 
+emphasizes using, when data are available, measured or estimated BAFs, 
+which account for chemical accumulation in aquatic organisms from all 
+potential exposure routes, including, but not limited to, food, 
+sediment, and water.\17\ This BAF-based approach includes separate 
+procedures to be used according to the physicochemical properties of 
+the chemical. Separate BAFs for each trophic level are derived to 
+account for potential biomagnification of chemicals in aquatic food 
+webs, as well as physiological differences among organisms that may 
+affect bioaccumulation.\18\
+---------------------------------------------------------------------------
+
+    \15\ USEPA. 2000. Methodology for Deriving Ambient Water Quality 
+Criteria for the Protection of Human Health. U.S. Environmental 
+Protection Agency, Office of Water, Washington, DC. EPA-822-B-00-
+004. https://www.epa.gov/sites/default/files/2018-10/documents/methodology-wqc-protection-hh-2000.pdf at 5-4. (Explaining that 
+``[t]he 1980 Methodology for deriving 304(a) criteria for the 
+protection of human health emphasized the assessment of 
+bioconcentration (uptake from water only) through the use of the BCF 
+. . . The 2000 Human Health Methodology revisions contained in this 
+chapter emphasize the measurement of bioaccumulation (uptake from 
+water, sediment, and diet) through the use of the BAF.'').
+    \16\ 65 FR 66444 November 3, 2000.
+    \17\ USEPA. 2000. Methodology for Deriving Ambient Water Quality 
+Criteria for the Protection of Human Health. U.S. Environmental 
+Protection Agency, Office of Water, Washington, DC. EPA-822-B-00-
+004. https://www.epa.gov/sites/default/files/2018-10/documents/methodology-wqc-protection-hh-2000.pdf.
+    \18\ USEPA. 2003. Methodology for Deriving Ambient Water Quality 
+Criteria for the Protection of Human Health (2000). Technical 
+Support Document Volume 2: Development of National Bioaccumulation 
+Factors. U.S. Environmental Protection Agency, Office of Water, 
+Washington, DC. EPA-822-B-03-030. https://www.epa.gov/sites/default/files/2018-10/documents/methodology-wqc-protection-hh-2000.pdf.
+---------------------------------------------------------------------------
+
+    EPA derives national default BAFs, in part, as a resource for 
+states and authorized tribes with limited resources for deriving site-
+specific BAFs.\19\ EPA's approach for developing national BAFs 
+represents the long-term average bioaccumulation potential of a 
+pollutant in aquatic organisms that are commonly consumed by humans 
+across the United States. In the 2015 national CWA Section 304(a) HHC 
+update, EPA relied on field-measured BAFs and laboratory-measured BCFs 
+available from peer-reviewed, publicly available databases to develop 
+national BAFs for three trophic levels of fish.\20\ If this information 
+was not available, EPA selected octanol-water partition coefficients 
+(K<INF>ow</INF> values) from publicly available, published peer-
+reviewed sources for use in calculating national BAFs. As an additional 
+line of evidence, EPA reported model-estimated BAFs for every chemical 
+based on the Estimation Program Interface (EPI) Suite to support the 
+field-measured or predicted BAFs.\21\
+---------------------------------------------------------------------------
+
+    \19\ 65 FR 66444 November 3, 2000.
+    \20\ Final Updated Ambient Water Quality Criteria for the 
+Protection of Human Health, (80 FR 36986, June 29, 2015). See also: 
+USEPA. 2015. Final 2015 Updated National Recommended Human Health 
+Criteria. U.S. Environmental Protection Agency, Office of Water, 
+Washington, DC. https://www.epa.gov/wqc/human-health-water-quality-criteria.
+    \21\ Id.
+---------------------------------------------------------------------------
+
+    Although EPA uses national default exposure-related input values to 
+calculate CWA Section 304(a) national recommended criteria, EPA's 
+methodology notes a preference for the use of local data, when 
+available, to calculate HHC (e.g., locally derived FCRs, drinking water 
+intake rates and body weights, and waterbody-specific bioaccumulation 
+rates) over national default values. Using local data helps ensure that 
+HHC represent local conditions.\22\ EPA also recommends, where 
+sufficient data are available, selecting a FCR that reflects 
+consumption that is not suppressed by fish availability or concerns 
+about the safety of available fish.\23\ Deriving criteria using an 
+unsuppressed FCR furthers the restoration goals of the CWA and ensures 
+protection of human health as pollutant levels decrease, fish habitats 
+are restored, and fish availability increases. Moreover, as explained 
+further below, selecting a FCR that reflects unsuppressed fish 
+consumption could be necessary where tribal treaty or other reserved 
+fishing rights apply. In such circumstances, if sufficient data 
+regarding unsuppressed fish consumption levels are unavailable or 
+inconclusive, states should consult with tribes when deciding which 
+fish consumption data should be used in selecting an FCR.
+---------------------------------------------------------------------------
+
+    \22\ USEPA. 2000. Methodology for Deriving Ambient Water Quality 
+Criteria for the Protection of Human Health. U.S. Environmental 
+Protection Agency, Office of Water, Washington, DC. EPA-822-B-00-
+004. https://www.epa.gov/sites/default/files/2018-10/documents/methodology-wqc-protection-hh-2000.pdf.
+    \23\ As noted by the National Environmental Justice Advisory 
+Council in the 2002 publication Fish Consumption and Environmental 
+Justice, ``a suppression effect may arise when fish upon which 
+humans rely are no longer available in historical quantities (and 
+kinds), such that humans are unable to catch and consume as much 
+fish as they had or would. Such depleted fisheries may result from a 
+variety of affronts, including an aquatic environment that is 
+contaminated, altered (due, among other things, to the presence of 
+dams), overdrawn, and/or overfished. Were the fish not depleted, 
+these people would consume fish at more robust baseline levels. . . 
+. In the Pacific Northwest, for example, compromised aquatic 
+ecosystems mean that fish are no longer available for tribal members 
+to take, as they are entitled to do in exercise of their treaty 
+rights.''). National Environmental Justice Advisory Council, Fish 
+Consumption and Environmental Justice, p.44, 46 (2002) (NEJAC Fish 
+Consumption Report) available at https://www.epa.gov/sites/default/files/2015-02/documents/fish-consump-report_1102.pdf.
+
+---------------------------------------------------------------------------
+
+[[Page 19050]]
+
+d. Relative Source Contribution
+    The inclusion of an RSC factor \24\ is important for protecting 
+public health. When deriving HHC for non-carcinogens and nonlinear 
+carcinogens, EPA recommends including an RSC factor to account for 
+sources of exposure other than drinking water and consumption of fish 
+and shellfish from inland and nearshore waters. These other sources of 
+exposure include ocean fish consumption (which is not included in EPA's 
+default national FCR), non-fish food consumption (e.g., fruits, 
+vegetables, grains, meats, poultry), dermal exposure, and inhalation 
+exposure. Using an RSC ensures that the level of a chemical allowed by 
+a water quality criterion, when combined with other exposure sources, 
+will not result in exposures that exceed the RfD and helps prevent 
+adverse health effects from exposure to a given chemical over a 
+person's lifetime. EPA's guidance \25\ includes an approach for 
+determining an appropriate RSC for a given pollutant ranging in value 
+from 0.2 to 0.8 to ensure that drinking water and fish consumption 
+alone are not apportioned the entirety of the RfD. This approach, known 
+as the Exposure Decision Tree, considers the adequacy of available 
+exposure data, levels of exposure, relevant sources/media of exposure, 
+and regulatory agendas. As explained below in section V.B.d of this 
+preamble, EPA made science-based adjustments to the application of the 
+RSC in this proposed rulemaking to avoid ``double counting'' exposures. 
+Washington's failure to make such adjustments is another reason for 
+EPA's finding that its HHC are inadequate.
+---------------------------------------------------------------------------
+
+    \24\ ``[RSC] defines the portion of the total exposure that 
+comes from ingestion of water and fish from the ambient water body 
+of interest. Other exposure information such as that from dietary, 
+inhalation, and dermal routes should be considered and accounted for 
+as part of the RSC human exposure analysis.'' https://www.epa.gov/wqs-tech/supplemental-module-human-health-ambient-water-quality-criteria.
+    \25\ Id.
+---------------------------------------------------------------------------
+
+C. Prior EPA Actions Related to Washington's Human Health Criteria
+
+    In 1992, EPA promulgated the National Toxics Rule (NTR) at 40 CFR 
+131.36, establishing chemical-specific numeric criteria for 85 priority 
+toxic pollutants for 14 states and territories (states), including 
+Washington, that were not in compliance with the requirements of CWA 
+Section 303(c)(2)(B). Subsequently, when states covered by the NTR 
+adopted their own criteria for toxic pollutants that were consistent 
+with the CWA and EPA's implementing regulations, EPA amended the NTR to 
+remove those chemical-specific criteria for those states. In 2015, 
+Washington was one of the states that remained covered by the NTR.
+    On September 14, 2015, the EPA Administrator determined that 
+updated HHC for Washington were ``necessary'' pursuant to CWA Section 
+303(c)(4)(B). EPA proposed HHC to protect the health of Washington 
+residents, including tribes with treaty-reserved rights to fish.\26\ In 
+that proposal, EPA explained that the majority of waters under 
+Washington's jurisdiction are subject to tribal treaty-reserved fishing 
+rights.\27\ To give effect to such rights in establishing revised WQS 
+for Washington waters, EPA determined that tribal treaty fishing rights 
+``appropriately must be considered when determining which criteria are 
+necessary to adequately protect Washington's fish and shellfish 
+harvesting designated uses.'' \28\ Specifically, EPA proposed to 
+consider the tribal populations exercising their legal right to harvest 
+and consume fish and shellfish as the general population for purposes 
+of deriving protective HHC. To this end, EPA proposed HHC based on a 
+FCR of 175 g/day and CRL of 10<SUP>-</SUP>\6\ to reflect consideration 
+of tribal treaty-reserved rights, as informed by consultation with the 
+tribes and fish consumption surveys of tribal members.\29\ In addition 
+to a FCR and CRL calculated to ensure protection of applicable tribal 
+treaty-reserved rights, EPA also utilized other inputs to derive the 
+proposed HHC based on the agency's latest science. Specifically, EPA 
+calculated the proposed HHC using the national trophic level four BAFs 
+and updated chemical-specific RSC values from its June 2015 CWA Section 
+304(a) criteria updates.\30\ EPA's approach to deriving HHC using these 
+inputs is described further in section III.B. of this preamble.
+---------------------------------------------------------------------------
+
+    \26\ 80 FR 55,063 (September 14, 2015).
+    \27\ Id. at 55,067.
+    \28\ Id.
+    \29\ Id. at 55,067-68.
+    \30\ Id. at 55,068-69.
+---------------------------------------------------------------------------
+
+    Before EPA finalized the proposed Federal criteria, the State of 
+Washington adopted HHC following an extensive public process and 
+submitted the updated HHC to EPA for review on August 1, 2016. The 
+updated HHC incorporated some of the new data and information from 
+EPA's June 2015 CWA Section 304(a) criteria updates. Washington's HHC 
+were based on the same 175 g/day FCR and 10<SUP>-</SUP>\6\ CRL that EPA 
+used to derive the proposed federal HHC, with the exception of the CRL 
+for polychlorinated biphenyls (PCBs).\31\ Although Washington used the 
+same FCR and CRL as EPA, because WA's HHC did not use BAFs and used an 
+RSC of 1, the resulting HHC for the majority of pollutants were less 
+stringent than the HHC in EPA's proposed rulemaking.
+---------------------------------------------------------------------------
+
+    \31\ For PCBs, Washington's criteria were based on a chemical-
+specific CRL of 2.3 x 10<SUP>-</SUP>\5\.
+---------------------------------------------------------------------------
+
+    On November 15, 2016, EPA partially approved and partially 
+disapproved Washington's HHC.\32\ For the criteria that were 
+disapproved, EPA concurrently signed a final rule promulgating the 
+Federal criteria it had proposed in 2015.\33\ Like EPA's 2015 proposal, 
+the 2016 final rule articulated EPA's conclusion that it is necessary 
+and appropriate to consider tribal treaty-reserved rights within the 
+framework of the CWA, and provided a discussion of the tribal treaties 
+relevant to the State of Washington and applicable case law.\34\ The 
+2016 final rule was informed by public comment that addressed both the 
+proposed criteria and EPA's consideration of tribal treaties, as well 
+as consultation with a number of federally recognized tribes.
+---------------------------------------------------------------------------
+
+    \32\ Letter from Dan D. Opalski, Director, EPA Region 10 Office 
+of Water and Watersheds to Maia Bellon, Director, Department of 
+Ecology, Re: EPA's Partial Approval/Partial Disapproval of 
+Washington's Human Health Water Quality Criteria and Implementation 
+Tools; Enclosure, Technical Support Document (November 15, 2016) 
+(2016 Partial Approval/Partial Disapproval).
+    \33\ 81 FR 85417, November 28, 2016.
+    \34\ 81 FR 85422-27, November 28, 2016.
+---------------------------------------------------------------------------
+
+    As explained further in section IV.A of this preamble, EPA's 
+disapproval of Washington's HHC was largely predicated on Washington's 
+use of input values that were not reflective of sound scientific 
+rationale. In its letter to the State, EPA explained that the agency 
+``evaluated Washington's criteria values against criteria that EPA 
+determined would be protective of the State's designated uses and 
+scientifically defensible (e.g., based on appropriate bioaccumulation 
+factors (BAFs) and protective relative source contribution (RSC) values 
+of less than 1).'' \35\ EPA found that Washington had not demonstrated 
+that the majority of its criteria were based on sound scientific 
+rationale as required by the CWA and EPA's implementing 
+regulations.\36\ Specifically for PCBs, EPA found that Washington had 
+not provided adequate support or analysis to justify its use of a 
+chemical-specific CRL (2.3 x 10\-5\) that was less stringent than the 
+CRL used for all other pollutants, and did not explain how the use of 
+this CRL was
+
+[[Page 19051]]
+
+protective of the State's designated uses.\37\
+---------------------------------------------------------------------------
+
+    \35\ 2016 Partial Approval/Disapproval at 3.
+    \36\ Id. at 16-17.
+    \37\ Id. at 26 (Determining that Washington ``did not provide 
+adequate justification for using the Washington Department of Health 
+cancer risk level for this specific chemical and then adjusting that 
+cancer risk level so that the criteria would be equivalent to the 
+NTR criteria'' and ``did not demonstrate how the criteria were 
+derived using a cancer risk level that is based on scientifically 
+sound rationale and protective of applicable designated uses, 
+including the tribal subsistence fishing portion of the fish and 
+shellfish harvesting use as informed by treaty-reserved fishing 
+rights.'').
+---------------------------------------------------------------------------
+
+    With respect to the criteria that EPA approved, the agency also 
+explained that ``while the EPA carefully considers the scientific 
+defensibility and protectiveness of both the inputs used to derive 
+criteria and the resulting criteria values, it is ultimately on the 
+criteria values that the EPA takes approval or disapproval action under 
+CWA Section 303(c).'' \38\ After evaluating Washington's criteria 
+against criteria using appropriate scientific inputs, EPA determined 
+that certain of Washington's criteria were as or more stringent than 
+scientifically defensible criteria that the EPA determined would be 
+protective of Washington's designated uses.\39\ Accordingly, EPA 
+approved those criteria.\40\
+---------------------------------------------------------------------------
+
+    \38\ Id. at 8.
+    \39\ Id.
+    \40\ Id.
+---------------------------------------------------------------------------
+
+    In a petition dated February 21, 2017, several regulated entities 
+requested that EPA reconsider its November 15, 2016, partial 
+disapproval and repeal its concurrent promulgation of Federal 
+criteria.\41\ Following the 2017 petition, Washington and several 
+federally recognized tribes with treaty-reserved fishing rights sent 
+letters urging EPA to deny the petition and to leave the federally 
+promulgated HHC in place.\42\
+---------------------------------------------------------------------------
+
+    \41\ Petition submitted by Northwest Pulp and Paper Association, 
+America Forest and Paper Association, Association of Washington 
+Business, Greater Spokane Incorporated, Treated Wood Council, 
+Western Wood Preservers Institute, Utility Water Act Group and the 
+Washington Farm Bureau.
+    \42\ EPA received letters from the Washington State Department 
+of Ecology, Washington State Attorney General, the Northwest Indian 
+Fisheries Commission, the Lower Elwha Klallam Tribe, the Nooksack 
+Indian Tribe, the Jamestown S'Klallam Tribe, and Earthjustice (on 
+behalf of the Pacific Coast Federation of Fishermen's Associations, 
+Institute for Fisheries Resources, and several Washington 
+Waterkeepers).
+---------------------------------------------------------------------------
+
+    Despite objections from the State and several tribes, on May 10, 
+2019, EPA granted the 2017 industry petition by reversing the agency's 
+prior partial disapproval of certain HHC and subsequently issuing a 
+final rule withdrawing the federally promulgated criteria.\43\ EPA's 
+May 10, 2019 approval concluded that the State's reliance on scientific 
+inputs that were no longer reflective of the latest science was an 
+appropriate risk-management decision.\44\ The withdrawal of the federal 
+rule went into effect on June 12, 2020, and as of that date, the HHC 
+submitted by Washington on August 1, 2016 and approved by EPA on May 
+10, 2019 were in effect for CWA purposes.
+---------------------------------------------------------------------------
+
+    \43\ May 10, 2019 letter and enclosed Technical Support Document 
+from Chris Hladick, Regional Administrator, EPA Region 10, to Maia 
+Bellon, Director, Department of Ecology, Re: EPA's Reversal of the 
+November 15, 2016 Clean Water Act Section 303(c) Partial Disapproval 
+of Washington's Human Health Water Quality Criteria and Decision to 
+Approve Washington's Criteria; Withdrawal of Certain Federal Water 
+Quality Criteria Applicable to Washington, 85 FR 28494 (May 13, 
+2020).
+    \44\ May 10, 2019 letter at pp. 8, 14-15.
+---------------------------------------------------------------------------
+
+    On June 6, 2019, the State of Washington filed a complaint 
+challenging the legality of EPA's May 2019 decision to reverse its 
+November 2016 partial disapproval.\45\ The Sauk-Suiattle Indian Tribe 
+and Quinault Indian Nation subsequently joined Washington's lawsuit as 
+plaintiff-intervenors. On June 6, 2020, following EPA's withdrawal of 
+the promulgated federal HHC, another lawsuit was filed by the Makah 
+Indian Tribe, the Pacific Coast Federation of Fishermen's Associations, 
+and environmental groups challenging both EPA's withdrawal of the 
+federally promulgated HHC and its May 10, 2019 decision to reverse the 
+November 2016 partial disapproval.\46\ In September 2020, the 
+Plaintiffs in the case filed by the State of Washington amended their 
+complaints to also challenge EPA's rule withdrawing the federal HHC.
+---------------------------------------------------------------------------
+
+    \45\ State of Washington v. U.S. Envt'l Prot. Agency, No. 2:19-
+cv-884-RAJ (W.D. Wash.).
+    \46\ Puget Soundkeeper Alliance et al. v. U.S. Envt'l Prot. 
+Agency, No. 2:20-cv-907-RAJ (W.D. Wash.).
+---------------------------------------------------------------------------
+
+    Consistent with Executive Order 13990,\47\ in February 2021, EPA 
+sought and was granted an abeyance in both cases to conduct an initial 
+review to determine whether it intended to reconsider the challenged 
+actions. During this initial three-month abeyance, EPA decided to 
+reconsider the challenged actions. Based on its initial review of the 
+agency's prior actions, EPA sought a longer abeyance from the court, 
+expressing substantial concern that Washington's HHC may not be 
+adequately protective and may not be based on sound scientific 
+rationale. On July 6, 2021, the Court granted EPA an abeyance to 
+reconsider its prior actions and to propose protective HHC for 
+Washington and take final action on the proposal within 18 months.
+---------------------------------------------------------------------------
+
+    \47\ 86 FR 7037 (January 25, 2021).
+---------------------------------------------------------------------------
+
+IV. Administrator's Determination That New or Revised HHC are Necessary 
+for Washington
+
+    For the reasons explained below in section IV.A of this preamble, 
+EPA has concluded that the Washington HHC that EPA disapproved in 2016 
+and later approved in 2019 (the ``2019 Reconsidered HHC'') \48\ are not 
+based on sound scientific rationale and are therefore not protective of 
+the applicable designated uses in Washington. Accordingly, as set forth 
+in section IV.B of this preamble, the Administrator has determined 
+pursuant to CWA Section 303(c)(4)(B) that revised HHC are necessary. 
+Pursuant to the authority of CWA Section 303(c)(4)(B), EPA is proposing 
+new standards for Washington waters, as set forth in section V of this 
+preamble.
+---------------------------------------------------------------------------
+
+    \48\ EPA disapproved 143 of Washington's HHC in 2016. In 2019, 
+EPA reversed its disapproval of 141 of those HHC, leaving its 
+disapproval of the two HHC for arsenic in place. This rule addresses 
+the 141 HHC that EPA reversed its decision on in 2019.
+---------------------------------------------------------------------------
+
+    The agency's determination and its decision to issue the proposed 
+rulemaking are based on application of the CWA and EPA's regulations to 
+the facts before the agency at this time. In reaching the conclusions 
+supporting these decisions, the agency has also carefully evaluated its 
+2016 and 2019 actions on the State's criteria.
+
+A. Existing Criteria Are Not Protective of Designated Uses of Waters in 
+the State of Washington
+
+    EPA has determined that the 2019 Reconsidered HHC do not protect 
+designated uses because the input values on which they rely are not 
+supported by a sound scientific rationale. We review each of those 
+input values--namely an RSC value of 1, BCFs, and a CRL of 2.3 x 10\5\ 
+for PCBs--in turn.
+    1. RSC Value: Washington's use of an RSC value of 1 to derive HHC 
+is not based on sound scientific rationale as it apportions the entire 
+``safe'' dose of certain chemicals to drinking water and fish 
+consumption, ignoring exposures to other sources of those chemicals. As 
+discussed in section III.B above of this preamble, other sources of 
+exposure include consumption of ocean fish and other foods (e.g., 
+fruits, vegetables, grains, meats, poultry), dermal exposure, and 
+inhalation exposure, and other routes. Washington's use of an RSC of 1 
+to derive its criteria is based on the flawed assumption that 100% of 
+human exposure to a pollutant is from fish and drinking water from 
+waters that are subject to the State's WQS. Because humans are exposed 
+to pollutants
+
+[[Page 19052]]
+
+through other sources of exposure, this assumption is scientifically 
+unsound.
+    EPA has considered the statements made by the agency in its 2019 
+approval of Washington's HHC. In that approval, the agency concluded 
+that the RSC value should be ``evaluated . . . in the context of the 
+overall HHC package,'' noting that Washington used other 
+``conservative'' inputs such as a FCR of 175 g/day and a 10\-6\ 
+CRL.\49\ After careful review, the agency concludes that this rationale 
+does not reasonably support the conclusion that the State's criteria 
+protect the designated uses and are based on sound scientific 
+rationale.
+---------------------------------------------------------------------------
+
+    \49\ May 10, 2019 letter at p. 19.
+---------------------------------------------------------------------------
+
+    First, the CRL utilized by the State is irrelevant to evaluating 
+the reasonableness of the State's RSC because the CRL and RSC are 
+inputs for derivation of criteria for mutually exclusive categories of 
+pollutants: the CRL is an input for deriving criteria for carcinogens, 
+whereas the RSC is an input for deriving criteria for non-carcinogens. 
+Therefore, the CRL cannot offset or compensate for the health risk 
+associated with the State's use of an RSC which assumes that 100% of 
+human exposure to pollutants is from waters covered by the criteria.
+    Second, while the State's use of a FCR of 175 g/day more accurately 
+represented Washington fish consumers than the prior FCR of 6.5 g/day, 
+that revision did not take into account risks associated with other 
+routes of exposure. Given the lack of any other criteria derivation 
+components that implicitly or explicitly account for other sources of 
+exposure discussed above, the agency concludes that the State's use of 
+an RSC which ignores other sources does not protect designated uses and 
+is not based on sound scientific rationale.
+    When Washington submitted its criteria in 2016, it asserted that 
+its RSC choice was informed, in part, by the conclusion that the CWA 
+has limited ability to control sources outside of its jurisdiction 
+(i.e., in non-water media).\50\ The agency has considered the State's 
+assertions and concludes that they do not support the conclusion that 
+the State's criteria protect designated uses and are based on sound 
+scientific rationale. First, as a factual matter, several of the other 
+pollutant exposure routes that the RSC is intended to account for 
+(e.g., dermal exposure, inhalation) are impacted by water quality.\51\ 
+Second, and more fundamentally, EPA's longstanding approach to 
+determining whether water quality criteria protect human health 
+considers the totality of exposure which can contribute to adverse 
+health effects. Even if the CWA does not provide a vehicle for 
+addressing other sources of exposure, the protection of public health 
+requires that those sources be accounted for when HHC are established. 
+In the agency's judgment, this approach to deriving criteria is 
+consistent with and advances the CWA's directive that WQS ``shall be as 
+such to protect the public health or welfare'' (CWA Section 
+303(c)(2)(A)).
+---------------------------------------------------------------------------
+
+    \50\ May 10, 2019 letter at pp. 16-17; see Department of 
+Ecology. Washington State Water Quality: Human health criteria and 
+implementation tools, Overview of key decisions in rule amendment. 
+August 2016. Ecology Publication No. 16-10-025, p. 37. https://fortress.wa.gov/ecy/publications/documents/1610025.pdf (``The use of 
+an RSC to compensate for sources of exposure outside the scope of 
+the Clean Water Act when establishing HHC is a risk management 
+decision that states need to carefully weigh. If the scope of the 
+Clean Water Act is limited to addressing potential exposures from 
+NPDES- or other Clean Water Act regulated discharges to surface 
+water, it could be argued that an RSC of less than 1.0 
+inappropriately expands of the scope of what the Clean Water Act 
+would be expected to control.'').
+    \51\ From p. 4-16 of the 2000 Methodology: ``A number of 
+drinking water contaminants are volatile and thus diffuse from water 
+into the air where they may be inhaled. In addition, drinking water 
+is used for bathing and, thus, there is at least the possibility 
+that some contaminants in water may be dermally absorbed. 
+Volatilization may increase exposure via inhalation and decrease 
+exposure via ingestion and dermal absorption. The net effect of 
+volatilization and dermal absorption upon total exposure to volatile 
+drinking water contaminants is unclear in some cases and varies from 
+chemical to chemical. Dermal exposures are also important to 
+consider for certain population groups, such as children and other 
+groups with high soil contact.''
+---------------------------------------------------------------------------
+
+    Accordingly, since 2000, EPA has recognized the need to account for 
+contributions from other sources to ensure protection of individuals 
+whose exposure could be greater than indicated by currently available 
+data about exposures from drinking water and freshwater and estuarine 
+fish consumption. The 2000 Methodology recommends that states account 
+for unknown sources of exposure and additional potential exposures to 
+unknown levels from other sources, such as ocean fish consumption, food 
+consumption other than fish, respiratory exposure, and/or dermal 
+exposure. While states can and do make risk management choices in 
+developing criteria, using an RSC value that allocates the entirety of 
+exposure to a subset of specific pathways directly addressed in 
+criteria derivation inappropriately disregards the risks from other 
+exposure routes. In deriving water quality criteria to protect human 
+health, an appropriate exercise of risk management discretion would be 
+to make any necessary adjustments to the pollutant-specific RSCs to 
+account for state-specific or pollutant-specific information about 
+other exposure routes. EPA's 2019 decision reversing our 2016 
+disapproval of a subset of Washington's HHC rested in part on a 
+conclusion that the disapproval was based solely on Washington's 
+failure to follow EPA's guidance in setting the RSC.\52\ To be clear, 
+EPA's guidance informs, but does not dictate, EPA's implementation of 
+applicable statutory and regulatory requirements. Regarding RSC, the 
+guidance recognizes the indisputable fact that exposure to pollutants 
+through routes other than fish consumption can contribute to adverse 
+impacts on human health and therefore need to be considered to ensure 
+that criteria are scientifically sound and protect designated uses, as 
+required by EPA's regulations. EPA's determination in this respect 
+rests on the fact that the State's RSC ignores entirely those other 
+routes of exposure.
+---------------------------------------------------------------------------
+
+    \52\ For example, the 2019 decision states that the disapproval 
+decision ``appears to treat the 304(a) recommendation to use an RSC 
+range of 0.2-0.8 as a requirement'' and also relied on a Frequently 
+Asked Questions document that ``does not have the force and effect 
+of law.''
+---------------------------------------------------------------------------
+
+    As explained in section V below of this preamble, EPA followed the 
+recommended approach in EPA's 2015 CWA Section 304(a) national 
+recommended HHC to derive the water quality criteria in the proposed 
+rulemaking, as well as in the final rule for Washington in 2016. We 
+have applied pollutant-specific RSC values of less than or equal to 0.8 
+for all non-carcinogens and nonlinear carcinogens.\53\ Attributing 80% 
+or less of exposure to drinking water or fish consumption (i.e., using 
+an RSC value less than or equal to 0.8) ensures that an individual's 
+total exposure to a contaminant does not exceed the RfD of non-
+carcinogenic and nonlinear carcinogenic chemicals.
+---------------------------------------------------------------------------
+
+    \53\ Final Updated Ambient Water Quality Criteria for the 
+Protection of Human Health, (80 FR 36986, June 29, 2015). See also: 
+USEPA. 2015. Final 2015 Updated National Recommended Human Health 
+Criteria. U.S. Environmental Protection Agency, Office of Water, 
+Washington, DC. https://www.epa.gov/wqc/human-health-water-quality-criteria.
+---------------------------------------------------------------------------
+
+    2. Use of Bioconcentration Factors (BCFs) instead of 
+Bioaccumulation Factors (BAFs): Washington used BCFs rather than BAFs 
+to calculate its HHC, despite the availability of data to derive BAFs 
+and EPA's default recommended BAFs. The use of BCFs rather than BAFs, 
+where BAF data are available, to calculate the HHC is inconsistent with 
+sound scientific rationale on the bioaccumulation of pollutants. As 
+noted in section III.B.c of this preamble, BAFs account for the 
+multiple pathways for bioaccumulation of a contaminant in an
+
+[[Page 19053]]
+
+aquatic organism. BCFs only account for accumulation of a contaminant 
+through water, whereas BAFs account for bioaccumulation through food, 
+sediment, and water. As a result, the magnitude of bioaccumulation by 
+aquatic organisms of certain chemicals can be substantially greater 
+than the magnitude of bioconcentration absorbed solely from water. 
+Using BCFs alone can therefore underestimate the extent of chemical 
+accumulation in aquatic organisms, and can, in turn, affect human 
+health through harmful exposure through fish and shellfish consumption. 
+When data to derive BAFs are unavailable or inconclusive, it may be 
+necessary to use BCFs to provide some approximation of pollutant uptake 
+in aquatic organisms. Washington did have the data needed for the 
+pollutants at issue here. Rather than use EPA's national recommended 
+default BAFs or develop State-specific BAFs, Washington used decades-
+old national default BCFs that were recommended prior to the 
+development of its current national default recommended BAFs, which are 
+available for states to use in the absence of local data. Thus, because 
+the 2019 Reconsidered HHC are based on BCFs even where scientifically 
+defensible BAFs are available, they are insufficiently protective of 
+Washington's designated uses and therefore do not meet the requirements 
+of the CWA.
+    When EPA approved Washington's HHC in 2019, the agency acknowledged 
+that Washington had spent several years engaging with stakeholders to 
+develop its HHC. EPA's 2019 approval asserted that Washington ``was 
+preparing to finalize its proposed HHC based on the EPA's prior 
+recommended BCFs, not the new national default BAFs.'' \54\ Because of 
+that timing, in 2019 EPA determined that Washington's failure to 
+incorporate BAFs was not a reason for disapproval.
+---------------------------------------------------------------------------
+
+    \54\ May 10, 2019 letter at p. 16.
+---------------------------------------------------------------------------
+
+    EPA has determined that rationale was not well grounded then and 
+should not apply now. As discussed above in section III.B.c. of this 
+preamble, EPA began recommending the use of BAFs, rather than BCFs, in 
+its 2000 Methodology, 15 years prior to its issuance of revised 
+criteria recommendations in 2015. Furthermore, Washington was aware of 
+the agency's scientific judgment that BAFs more accurately reflect the 
+total uptake of a chemical.\55\ The 2015 CWA Section 304(a) 
+recommendations included pollutant-specific national default BAFs for 
+states and authorized tribes to rely on. Even in the absence of these 
+national default BAFs, states could still develop their own BAFs 
+following EPA's 2000 Methodology. Therefore, not only was Washington 
+aware of the science supporting the importance of using BAFs, it also 
+had the opportunity to develop its own BAFs prior to developing its 
+revised HHC and sufficient notice of EPA's nationally recommended 
+pollutant-specific default BAFs.
+---------------------------------------------------------------------------
+
+    \55\ Department of Ecology. Washington State Water Quality: 
+Human health criteria and implementation tools, Overview of key 
+decisions in rule amendment. August 2016. Ecology Publication No. 
+16-10-025, pp. 46-49. https://fortress.wa.gov/ecy/publications/documents/1610025.pdf.
+---------------------------------------------------------------------------
+
+    In approving Washington's criteria relying on BCFs in 2019, EPA 
+also emphasized consideration of the State's prerogative to make its 
+own risk-management decisions. This rationale improperly accepted 
+Washington's justifications for its use of BCFs as ``risk management'' 
+decisions.\56\ Washington gave four reasons for using BCFs (1) BCFs are 
+more closely related to the environmental media (water) that is 
+regulated under the CWA; (2) BCFs do not include as many inputs and 
+predictions based on national datasets that may not be reflective of 
+Washington's waters; (3) BCFs have fewer inputs and less uncertainty; 
+and (4) relying on BCFs alone is acceptable under the CWA for criteria 
+development.\57\
+---------------------------------------------------------------------------
+
+    \56\ May 10, 2019 letter at p. 17.
+    \57\ Department of Ecology. Washington State Water Quality: 
+Human health criteria and implementation tools, Overview of key 
+decisions in rule amendment. August 2016. Ecology Publication No. 
+16-10-025, p. 56. https://fortress.wa.gov/ecy/publications/documents/1610025.pdf.
+---------------------------------------------------------------------------
+
+    These justifications are not risk management decisions. The first 
+one ignores the fact that the other exposure pathways taken into 
+account in a BAF--food consumed by aquatic organisms and sediment--are 
+affected by water quality regulated under the CWA. The second 
+justification disregards the fact that EPA's national default 
+recommended BCFs from 1980 are no more reflective of Washington's 
+waters than EPA's national default recommended BAFs from 2015. As for 
+the third justification, accounting for more exposure pathways may 
+increase the inputs in a BAF calculation, and therefore potentially 
+increase uncertainty. But excluding known sources of chemical 
+accumulation in aquatic organisms because additional inputs have the 
+potential to introduce additional uncertainty is not scientifically 
+supportable. The fourth justification mischaracterizes the use of BCFs. 
+EPA used BCFs prior to 2000 but now only uses those BCFs when data to 
+derive BAFs are unavailable or inconclusive. As noted above, while 
+states have latitude to make risk management decisions in developing 
+WQS, in doing so, that discretion does not go so far as to permit 
+states to make decisions that are not consistent with EPA's regulations 
+which require that criteria be based on sound scientific rationale (40 
+CFR 131.11).
+    3. PCB Cancer Risk Level (CRL): The State-adopted HHC for PCBs are 
+not protective of Washington's designated uses because of the selected 
+chemical-specific CRL, which is not based on a sound scientific 
+rationale. Washington adopted HHC for PCBs of 0.00017 [micro]g/L for 
+both ``water + organism'' and ``organism only'' based on a chemical-
+specific CRL of 2.3 x 10<SUP>-</SUP>\5\. Washington's selected CRL of 
+2.3 x 10<SUP>-</SUP>\5\ is akin to a cancer risk of approximately 1 in 
+43,478, which is a greater risk than the 1 in 100,000 or 1 in 1,000,000 
+CRLs which are commonly used by states and authorized tribes in their 
+WQS. For all other pollutants except PCBs, Washington used a CRL of 1 
+in 1,000,000 or 1 x 10<SUP>-</SUP>\6\. As explained below, Washington's 
+criteria for PCBs do not protect designated uses and are not based on 
+sound scientific rationale.
+    First, Washington inappropriately links the stringency of its CRL 
+with a value associated with its fish advisory program. In its 2016 
+submittal, Washington explained that ``[t]he chemical-specific risk 
+level for PCBs was chosen to be consistent with the level of risk/
+hazard in the toxicity factor used by the [Washington Department of 
+Health] in developing fish advisories.'' \58\ The toxicity value that 
+the Washington Department of Health uses for fish advisories is an RfD 
+for the non-cancer impacts of one particular mixture of PCBs. Fish 
+advisory programs are not bound by the same statutory and regulatory 
+obligations as WQS. Setting protective HHC for PCBs requires evaluating 
+the carcinogenic effects of PCBs in addition to the non-cancer impacts, 
+since PCBs are reasonably anticipated to be a human carcinogen.\59\ EPA 
+has published a quantitative estimate of carcinogenic risk for 
+PCBs.\60\ Relying on a risk level
+
+[[Page 19054]]
+
+associated solely with an RfD for non-cancer impacts used by the 
+state's fish advisory program is thus not a sound scientific rationale 
+for HHC that must protect against both carcinogenic and non-
+carcinogenic adverse health effects. Additionally, fish advisories are 
+intended to advise the public where current levels of pollution may 
+result in designated uses not being met, whereas under EPA regulations, 
+water quality criteria must be set at levels that ``protect'' the 
+designated use (40 CFR 131.11(a)). Thus, criteria which are based in 
+part on impaired water quality are not consistent with EPA's 
+regulations.\61\
+---------------------------------------------------------------------------
+
+    \58\ Department of Ecology. Washington State Water Quality: 
+Human health criteria and implementation tools, Overview of key 
+decisions in rule amendment. August 2016. Ecology Publication No. 
+16-10-025, p. 67. https://fortress.wa.gov/ecy/publications/documents/1610025.pdf.
+    \59\ U.S. Department of Health and Human Services (HHS). 
+National Toxicology Program. 15th Report on Carcinogens. December 
+21, 2021. https://ntp.niehs.nih.gov/whatwestudy/assessments/cancer/roc/index.html.
+    \60\ https://iris.epa.gov/static/pdfs/0294_summary.pdf.
+    \61\ While EPA has determined that fish advisories may be used 
+in determining attainment of WQS, this is distinct from using such 
+advisories in establishing WQS. See Letter from Geoffrey Grubbs, 
+USEPA. 2000. (``EPA considers fish and shellfish tissue pollutant 
+concentrations a scientifically defensible basis for determining 
+attainment of water quality standards.'').
+---------------------------------------------------------------------------
+
+    Washington's choice of a less protective CRL for PCBs also cannot 
+be reconciled with the particular characteristics of PCBs in the 
+environment and the science underlying human exposure to PCBs. PCBs are 
+a group of man-made compounds that are highly bioaccumulative in 
+aquatic organisms and have high environmental persistence. Humans are 
+exposed to PCBs through fish and shellfish consumption, and PCBs can 
+accumulate in human tissue, causing adverse health effects. The primary 
+source of exposure to PCBs is through high-fat foods \62\ such as 
+higher trophic-level fish. Moreover, these higher trophic-level fish 
+are a major component of a high fish consumers' diet in Washington. 
+While there is no specific CRL mandated by EPA regulations, the 
+selected CRL of 2.3 x 10<SUP>-</SUP>\5\ is over an order of magnitude 
+greater than the CRL Washington uses for all other pollutants. Despite 
+the particular risks present here, EPA has discerned no rationale 
+related to health protection or risk management to support using a less 
+protective pollutant specific CRL for this pollutant, which is of 
+particular environmental concern, than is otherwise applicable for all 
+other pollutants in the State (1 x 10<SUP>-</SUP>\6\ in Washington).
+---------------------------------------------------------------------------
+
+    \62\ https://www.atsdr.cdc.gov/csem/polychlorinated-biphenyls/what_routes.html.
+---------------------------------------------------------------------------
+
+    Finally, Washington's PCB criteria are based on an application of 
+the HHC derivation equation that was outcome-determinative. Washington 
+arrived at the PCB CRL by solving for what the CRL would be if the body 
+weight and FCR inputs into the equation were updated and the desired 
+end result was the NTR PCB criteria already in effect at the time. As 
+noted above, Washington began with a CRL based on the level of risk/
+hazard associated with that the State uses to develop fish advisories. 
+When this CRL, paired with the updated body weight and FCR, resulted in 
+criteria that were less stringent than the NTR PCB criteria, Washington 
+then adjusted the CRL to maintain the NTR value.\63\
+---------------------------------------------------------------------------
+
+    \63\ Department of Ecology. Washington State Water Quality: 
+Human health criteria and implementation tools, Overview of key 
+decisions in rule amendment. August 2016. Ecology Publication No. 
+16-10-025, p. 67. https://fortress.wa.gov/ecy/publications/documents/1610025.pdf.
+---------------------------------------------------------------------------
+
+    Thus, Washington's PCB criteria are the same as the PCB criteria in 
+the NTR that EPA had determined in 2015 to be insufficient because they 
+were based, in part, on a FCR of 6.5 g/day that EPA concluded was not 
+representative of fish consumption in Washington, including consumption 
+by tribes with reserved rights.\64\ While the State revised its FCR to 
+175 g/day, its PCB-specific change to the CRL offset any additional 
+health protection afforded by the FCR adjustment and therefore failed 
+to remedy EPA's previous finding that the criteria did not adequately 
+protect fish consumers in Washington. For the reasons above, EPA 
+concludes that Washington's State-adopted HHC currently in effect for 
+PCBs are not sufficient to protect Washington's designated uses and do 
+not meet the requirements of the CWA.
+---------------------------------------------------------------------------
+
+    \64\ As described in EPA's 2016 final Washington WQS rule, 81 FR 
+85422-26, numerous tribes in Washington have treaty-reserved rights 
+to fish for their subsistence on waters throughout the State. EPA 
+found that tribal members consume far greater quantities of fish in 
+the exercise of those rights than the 6.5 g/day associated with the 
+NTR PCB criteria, and accordingly found that those criteria were 
+insufficiently protective. See 80 FR 55066.
+---------------------------------------------------------------------------
+
+B. Clean Water Act 303(c)(4)(B) Administrator's Determination
+
+    Because the 2019 Reconsidered HHC, which are currently effective 
+for CWA purposes in Washington, are not based on sound scientific 
+rationale and are not protective of the applicable designated uses per 
+the CWA and EPA's regulations at 40 CFR 131.11, EPA determines under 
+CWA Section 303(c)(4)(B) that revised WQS for the protection of human 
+health in Washington waters are necessary to meet the requirements of 
+the CWA. EPA, therefore, proposes to revise these HHC for Washington in 
+accordance with this CWA Section 303(c)(4)(B) Administrator's 
+determination, as set forth in section V of this preamble. EPA's 
+determination is not itself a final action, nor part of a final action, 
+at this time. After consideration of comments on the proposed 
+rulemaking, EPA will take final agency action on this proposed 
+rulemaking. It is at that time that any change to the WQS applicable to 
+Washington waters for CWA purposes would occur.
+
+V. Derivation of Human Health Criteria for Washington
+
+A. Scope of EPA's Proposal
+
+    Based on the determination explained above, EPA is proposing 
+Federal criteria that would supersede the 2019 Reconsidered HHC. EPA is 
+not proposing to change or supersede the federal HHC that EPA 
+promulgated for arsenic,\65\ methylmercury, or bis (2-chloro-1-
+methylethyl) ether in 2016 and that remain in place for CWA purposes, 
+nor Washington's HHC that EPA approved in 2016.\66\
+---------------------------------------------------------------------------
+
+    \65\ EPA promulgated arsenic HHC for Washington in the National 
+Toxics Rule of 1992. EPA's federal rule in 2016 moved the arsenic 
+criteria from 40 CFR 131.36 to 40 CFR 131.45.
+    \66\ EPA is not proposing to change or supersede Washington's 
+HHC for dioxin and thallium that EPA approved in 2019. EPA had 
+previously taken no action on these pollutants in 2016.
+---------------------------------------------------------------------------
+
+    The HHC in this proposed rulemaking would apply to surface waters 
+under the State of Washington's jurisdiction, and not to waters within 
+Indian country,\67\ unless otherwise specified in federal law.
+---------------------------------------------------------------------------
+
+    \67\ See 18 U.S.C. 1151 for definition of Indian Country.
+---------------------------------------------------------------------------
+
+B. Washington-Specific Human Health Criteria Inputs
+
+a. Fish Consumption Rate, Body Weight, Drinking Water Intake
+    EPA proposes to derive HHC for Washington using the same FCR of 175 
+g/day, body weight of 80 kg and drinking water intake rate of 2.4 L/day 
+that Washington used in 2016 \68\ and that EPA used in its 2016 federal 
+rule.\69\ EPA does not have new data or information suggesting a need 
+to revisit those choices at this time, and thus is applying the same 
+rationale here as the agency articulated to support its use of those 
+inputs in the 2016 federal rule.\70\ The agency believes it is 
+important to keep these values consistent between the HHC in this rule 
+and the other HHC that this rule will not impact (i.e., the HHC that 
+Washington adopted and EPA approved in 2016, and the federal HHC that 
+remain in place for arsenic, methylmercury, or bis (2-chloro-1-
+
+[[Page 19055]]
+
+methylethyl) ether), because these values are associated with the 
+population that the criteria are intended to protect and are not 
+pollutant-specific.
+---------------------------------------------------------------------------
+
+    \68\ Department of Ecology. Washington State Water Quality 
+Standards: Human health criteria and implementation tools, Overview 
+of key decisions in rule amendment. August 2016. Ecology Publication 
+no. 16-10-025.
+    \69\ Revision of Certain Water Quality Standards Applicable to 
+Washington, 81 FR 85417 (November 28, 2016).
+    \70\ Id. at 85,420; 85,426-428.
+---------------------------------------------------------------------------
+
+b. Pollutant-Specific Reference Doses and Cancer Slope Factors
+    EPA proposes to derive HHC for Washington using the same reference 
+doses and cancer slope factors that Washington used in 2016 \71\ and 
+that EPA used in its 2016 federal rule.\72\ These are the same toxicity 
+values that EPA uses in its CWA Section 304(a) national recommended 
+HHC. While there may be new toxicity information available for certain 
+pollutants that is not yet reflected in EPA's CWA Section 304(a) 
+national recommended HHC, such information has not yet been reviewed 
+through EPA's comprehensive CWA Section 304(a) criteria development 
+process and therefore is not incorporated into this proposal.\73\ See 
+Table 1, columns B1 and B3 for a list of EPA's proposed toxicity 
+factors by pollutant.
+---------------------------------------------------------------------------
+
+    \71\ Department of Ecology. Washington State Water Quality 
+Standards: Human health criteria and implementation tools, Overview 
+of key decisions in rule amendment. August 2016. Ecology Publication 
+no. 16-10-025.
+    \72\ Revision of Certain Water Quality Standards Applicable to 
+Washington, 81 FR 85417 (November 28, 2016).
+    \73\ For example, there are 7 polycyclic aromatic hydrocarbons 
+for which there is new toxicity information available since the 
+promulgation of the 2016 federal rule. Because the CWA Section 
+304(a) criteria development process can take several years, EPA is 
+not able to review this information and complete this rulemaking by 
+the end of the 18-month abeyance. Once EPA has developed updated CWA 
+Section 304(a) criteria for these pollutants, the State may evaluate 
+its HHC for these pollutants (e.g., during a triennial review), 
+adopt new HHC based on the CWA Section 304(a) updates, and submit 
+these HHC to EPA for review.
+---------------------------------------------------------------------------
+
+c. Cancer Risk Level
+    EPA proposes to derive HHC for Washington using the same CRL of 
+10<SUP>-</SUP>\6\ that Washington used in 2016 \74\ and that EPA used 
+in its 2016 federal rule \75\ for all pollutants, including PCBs.
+---------------------------------------------------------------------------
+
+    \74\ Department of Ecology. Washington State Water Quality 
+Standards: Human health criteria and implementation tools, Overview 
+of key decisions in rule amendment. August 2016. Ecology Publication 
+no. 16-10-025.
+    \75\ Revision of Certain Water Quality Standards Applicable to 
+Washington, 81 FR 85417 (November 28, 2016).
+---------------------------------------------------------------------------
+
+    EPA's selection of a 10<SUP>-</SUP>\6\ CRL is consistent with EPA's 
+2000 Methodology, which states that EPA intends to use the 
+10<SUP>-</SUP>\6\ level when promulgating water quality criteria for 
+states and tribes, which reflects an appropriate risk for the general 
+population.\76\ In addition, as noted above and in EPA's 2016 final 
+rule for Washington,\77\ several tribes in Washington have treaty-
+reserved rights to fish on waters throughout the State. Consistent with 
+those rights, tribal members catch and consume fish for their 
+subsistence. EPA's selection of a 10<SUP>-</SUP>\6\ CRL is protective 
+of tribal members exercising their legal right to harvest and consume 
+fish and shellfish at subsistence levels.\78\
+---------------------------------------------------------------------------
+
+    \76\ EPA 2000 Methodology, p. 2-6. The Methodology recommends 
+that states set human health criteria CRLs for the target general 
+population at either 10<SUP>-</SUP>\5\ or 10<SUP>-</SUP>\6\ (p. 2-6) 
+and also notes that states and authorized tribes can always choose a 
+more stringent risk level, such as 10<SUP>-</SUP>\7\ (p. 1-12).
+    \77\ 81 FR 85422-26.
+    \78\ In 2016, tribes in Washington State generally viewed 175 g/
+day as a compromise minimum consumption rate so long as it is 
+coupled with a CRL of 10<SUP>-</SUP>\6\. 2016 Partial Approval/
+Disapproval p. 15.
+---------------------------------------------------------------------------
+
+    Finally, many of Washington's rivers are in the Columbia River 
+basin, upstream of Oregon's portion of the Columbia River. Oregon's 
+criteria for PCBs and other pollutants are based on a FCR of 175 g/day 
+and a CRL of 10<SUP>-</SUP>\6\. EPA's proposal to derive HHC for 
+Washington using a CRL of 10<SUP>-</SUP>\6\ along with a FCR of 175 g/
+day helps ensure that Washington's criteria will provide for the 
+attainment and maintenance of Oregon's downstream WQS as required by 40 
+CFR 131.10(b).
+d. Relative Source Contribution
+    EPA recommends using an RSC for non-carcinogens and nonlinear 
+carcinogens to account for sources of exposure other than drinking 
+water and consumption of inland and nearshore fish and shellfish (see 
+section III.B.d). In 2015, after evaluating information on chemical 
+uses, properties, occurrences, releases to the environment and 
+regulatory restrictions, EPA developed chemical-specific RSCs for non-
+carcinogens and nonlinear carcinogens ranging from 0.2 (20 percent) to 
+0.8 (80 percent) following the Exposure Decision Tree approach 
+described in EPA's 2000 Human Health Methodology.<SUP>79 80</SUP>
+---------------------------------------------------------------------------
+
+    \79\ USEPA. 2000. Methodology for Deriving Ambient Water Quality 
+Criteria for the Protection of Human Health. U.S. Environmental 
+Protection Agency, Office of Water, Washington, DC. EPA-822-B-00-
+004. https://www.epa.gov/sites/default/files/2018-10/documents/methodology-wqc-protection-hh-2000.pdf.
+    \80\ Final Updated Ambient Water Quality Criteria for the 
+Protection of Human Health, (80 FR 36986, June 29, 2015). See also: 
+USEPA. 2015. Final 2015 Updated National Recommended Human Health 
+Criteria. U.S. Environmental Protection Agency, Office of Water, 
+Washington, DC. https://www.epa.gov/wqc/human-health-water-quality-criteria.
+---------------------------------------------------------------------------
+
+    When EPA promulgated HHC for Washington in 2016, EPA adjusted RSC 
+values using a ratio of the national dataset characterizing all FCRs 
+versus inland and nearshore-only FCRs derived from the NHANES dataset. 
+We then applied this ratio to the proportion of the RfD reserved for 
+inland and nearshore fish consumption in the RSC. We used this 
+adjustment to account for double-counted potential exposure to certain 
+chemicals in certain anadromous fish species (e.g., salmon). This 
+approach involves the following assumptions:
+    <bullet> The pollutant concentrations in anadromous fish are the 
+same as those in inland and nearshore fish; and
+    <bullet> the ratio of all fish to inland and nearshore fish from 
+NHANES data approximates the ratio of inland, nearshore, and anadromous 
+fish to just inland and nearshore fish from Columbia River Inter-Tribal 
+Fish Commission (CRITFC) \81\ data (since CRITFC data were used to 
+derive the 175 g/day FCR).
+---------------------------------------------------------------------------
+
+    \81\ Fish Consumption Survey of the Umatilla, Nez Perce, Yakama, 
+and Warm Springs Tribes of the Columbia River Basin (CRITFC 1994).
+---------------------------------------------------------------------------
+
+    At the 90th percentile rate of consumption, the national adult 
+consumption rate from NHANES data for all fish is 53 g/day and 22 g/day 
+for inland and nearshore-only fish, or a ratio of 2.4. Applying this to 
+an RSC of 0.2 yields 0.48, or 0.5 rounding to a single decimal place. 
+Because the 175 g/day FCR includes some but not all marine species, EPA 
+decided to use this approach to adjust the RSC values. However, EPA 
+only adjusted RSC values to 0.5 for criteria calculations previously 
+using an RSC between 0.2 and 0.5. Criteria derived using an RSC greater 
+than 0.5 remained unchanged. EPA proposes to use these same 2016 RSCs 
+to derive HHC for Washington in this rule, having no new data or 
+information to suggest revising RSCs. The inclusion of protective RSCs 
+in the development of HHC is a science-based decision that protects 
+human health by ensuring that a person's exposure to multiple sources 
+of a chemical is accounted for. See Table 1, column B2 for a list of 
+EPA's proposed RSCs by pollutant.
+e. Pollutant-Specific Bioaccumulation Factors
+    Where data are available, EPA uses BAFs to account for the uptake 
+and retention of waterborne chemicals by aquatic organisms from all 
+surrounding media and to ensure that resulting criteria are science-
+based and protect designated uses for human health. As in the 2016 
+federal rule for Washington,\82\
+
+[[Page 19056]]
+
+EPA proposes to apply the trophic level four BAF from the 2015 CWA 
+Section 304(a) HHC updates in conjunction with the 175 g/day FCR.\83\ 
+EPA has no new data or information to suggest an alternative to its 
+2016 decision to use the trophic level four BAF, given that the species 
+commonly consumed in Washington are trophic level four fish (e.g., 
+salmon). Where science-based BAFs are not available at this time for 
+certain pollutants, EPA proposes to use the BCFs that EPA used the last 
+time it updated its CWA Section 304(a) recommended criteria for those 
+pollutants as the best available scientific information. See Table 1, 
+columns B4 and B5 for a list of EPA's proposed bioaccumulation factors 
+by pollutant.
+---------------------------------------------------------------------------
+
+    \82\ Revision of Certain Water Quality Standards Applicable to 
+Washington, 81 FR 85417 (November 28, 2016).
+    \83\ Because the surveyed population upon which the 175 g/day 
+FCR is based consumed almost exclusively trophic level four fish 
+(i.e., predator fish species), EPA proposes to use the trophic level 
+four BAF from the 2015 CWA Section 304(a) HHC updates in conjunction 
+with the 175 g/day FCR, in order to derive protective criteria. See 
+Fish Consumption Survey of the Umatilla, Nez Perce, Yakama, and Warm 
+Springs Tribes of the Columbia River Basin (CRITFC 1994).
+---------------------------------------------------------------------------
+
+C. Proposed Human Health Criteria for Washington
+
+    EPA proposes 141 HHC for 72 different pollutants (70 organism-only 
+criteria and 71 water-plus-organism criteria) to protect the applicable 
+designated uses of Washington's waters (see Table 1). The proposed HHC 
+are the same criteria that EPA promulgated in 2016. The water-plus-
+organism criteria in column C1 of Table 1 are the applicable criteria 
+for any waters that include the Domestic Water use (domestic water 
+supply) defined in Washington's WQS (WAC 173-201A-600). The organism-
+only criteria in column C2 of Table 1 are the applicable criteria for 
+any waters that do not include the Domestic Water use (domestic water 
+supply) and that Washington defines at WAC 173-201A-600 and 173-201A-
+610 as the following:
+    <bullet> Fresh waters--Harvesting (fish harvesting), and 
+Recreational Uses;
+    <bullet> Marine waters--Shellfish Harvesting (shellfish--clam, 
+oyster, and mussel--harvesting), Harvesting (salmonid and other fish 
+harvesting, and crustacean and other shellfish--crabs, shrimp, 
+scallops, etc.--harvesting), and Recreational Uses.
+    EPA solicits comment on the criteria and the inputs EPA used to 
+derive these criteria.
+
+                                               Table 1--EPA Proposed Human Health Criteria for Washington
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+                      A                                                              B                                                     C
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+                                               Cancer slope     Relative      Reference                           Bio-          Water &
+                                                factor, CSF      source       dose, RfD   Bio-accumulation    concentration    organisms  Organisms only
+             Chemical                CAS No.     (per mg/    Contribution,      (mg/        factor (L/kg      factor  (L/kg   ([micro]g/    ([micro]g/L)
+                                               kg[middot]d)     RSC (-)     kg[middot]d)       tissue)           tissue)          L)
+                                    .........          (B1)          (B2)           (B3)              (B4)              (B5)        (C1)            (C2)
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+1. 1,1,1-Trichloroethane..........      71556  ............          0.50              2                10  ................      20,000          50,000
+2. 1,1,2,2-Tetrachloroethane......      79345           0.2  .............  ............               8.4  ................         0.1             0.3
+3. 1,1,2-Trichloroethane..........      79005         0.057  .............  ............               8.9  ................        0.35            0.90
+4. 1,1-Dichloroethylene...........      75354  ............          0.50           0.05               2.6  ................         700           4,000
+5. 1,2,4-Trichlorobenzene.........     120821         0.029  .............  ............               430  ................       0.036           0.037
+6. 1,2-Dichlorobenzene............      95501  ............          0.50            0.3                82  ................         700             800
+7. 1,2-Dichloroethane.............     107062        0.0033  .............  ............               1.9  ................         8.9              73
+8. 1,2-Diphenylhydrazine..........     122667           0.8  .............  ............                27  ................        0.01            0.02
+9. 1,2-Trans-Dichloroethylene.....     156605  ............          0.50           0.02               4.7  ................         200           1,000
+10. 1,3-Dichlorobenzene...........     541731  ............          0.50          0.002               190  ................           2               2
+11. 1,3-Dichloropropene...........     542756         0.122  .............  ............               3.0  ................        0.22             1.2
+12. 1,4-Dichlorobenzene...........     106467  ............          0.50           0.07                84  ................         200             200
+13. 2,4-Dichlorophenol............     120832  ............          0.50          0.003                48  ................          10              10
+14. 2,4-Dinitrophenol.............      51285  ............          0.50          0.002               4.4  ................          30             100
+15. 2-Chloronaphthalene...........      91587  ............          0.80           0.08               240  ................         100             100
+16. 2-Methyl-4,6-Dinitrophenol....     534521  ............          0.50         0.0003                10  ................           3               7
+17. 4,4'-DDD......................      72548          0.24  .............  ............           240,000  ................    7.9E-06.         7.9E-06
+18. 4,4'-DDE......................      72559         0.167  .............  ............         3,100,000  ................     8.8E-07         8.8E-07
+19. 4,4'-DDT......................      50293          0.34  .............  ............         1,100,000  ................     1.2E-06         1.2E-06
+20. Acenaphthene..................      83329  ............          0.50           0.06               510  ................          30              30
+21. Aldrin........................     309002            17  .............  ............           650,000  ................     4.1E-08         4.1E-08
+22. alpha-BHC.....................     319846           6.3  .............  ............             1,500  ................     4.8E-05         4.8E-05
+23. alpha-Endosulfan..............     959988  ............          0.50          0.006               200  ................           6               7
+24. Anthracene....................     120127  ............          0.50            0.3               610  ................         100             100
+25. Antimony......................    7440360  ............          0.50         0.0004  ................                 1           6              90
+26. Benzo(a) Anthracene...........      56553          0.73  .............  ............             3,900  ................     0.00016         0.00016
+27. Benzo(a) Pyrene...............      50328           7.3  .............  ............             3,900  ................     1.6E-05         1.6E-05
+28. Benzo(b) Fluoranthene.........     205992          0.73  .............  ............             3,900  ................     0.00016         0.00016
+29. Benzo(k) Fluoranthene.........     207089         0.073  .............  ............             3,900  ................      0.0016          0.0016
+30. beta-BHC......................     319857           1.8  .............  ............               180  ................      0.0013          0.0014
+31. Bis(2-Ethylhexyl) Phthalate...     117817         0.014  .............  ............               710  ................       0.045           0.046
+32. Bromoform.....................      75252        0.0045  .............  ............               8.5  ................         4.6              12
+33. Butylbenzyl Phthalate.........      85687        0.0019  .............  ............            19,000  ................       0.013           0.013
+34. Chlordane.....................      57749          0.35  .............  ............            60,000  ................     2.2E-05         2.2E-05
+35. Chlorobenzene.................     108907  ............          0.50           0.02                22  ................         100             200
+36. Chlorodibromomethane..........     124481          0.04  .............  ............               5.3  ................        0.60             2.2
+37. Chloroform....................      67663  ............          0.50           0.01               3.8  ................         100             600
+38. Chrysene......................     218019        0.0073  .............  ............             3,900  ................       0.016           0.016
+39. Cyanide.......................      57125  ............          0.50         0.0006  ................                 1           9             100
+40. Dibenzo(a,h) Anthracene.......      53703           7.3  .............  ............             3,900  ................    1.6E-05.         1.6E-05
+41. Dichlorobromomethane..........      75274         0.034  .............  ............               4.8  ................        0.73             2.8
+42. Dieldrin......................      60571            16  .............  ............           410,000  ................     7.0E-08         7.0E-08
+43. Diethyl Phthalate.............      84662  ............          0.50            0.8               920  ................         200             200
+44. Dimethyl Phthalate............     131113  ............          0.50             10             4,000  ................         600             600
+
+[[Page 19057]]
+
+ 
+45. Di-n-Butyl Phthalate..........      84742  ............          0.50            0.1             2,900  ................           8               8
+46. Endosulfan Sulfate............    1031078  ............          0.50          0.006               140  ................           9  ..............
+47. Endrin........................      72208  ............          0.80         0.0003            46,000  ................       0.002           0.002
+48. Ethylbenzene..................     100414  ............          0.50          0.022               160  ................          29              31
+49. Fluoranthene..................     206440  ............          0.50           0.04             1,500  ................           6               6
+50. Fluorene......................      86737  ............          0.50           0.04               710  ................          10              10
+51. gamma-BHC; Lindane............      58899  ............          0.50         0.0047             2,500  ................        0.43            0.43
+52. Heptachlor....................      76448           4.1  .............  ............           330,000  ................     3.4E-07         3.4E-07
+53. Heptachlor Epoxide............    1024573           5.5  .............  ............            35,000  ................     2.4E-06         2.4E-06
+54. Hexachlorobenzene.............     118741          1.02  .............  ............            90,000  ................     5.0E-06         5.0E-06
+55. Hexachlorobutadiene...........      87683          0.04  .............  ............             1,100  ................        0.01            0.01
+56. Hexachlorocyclopentadiene.....      77474  ............          0.50          0.006             1,300  ................           1               1
+57. Hexachloroethane..............      67721          0.04  .............  ............               600  ................        0.02            0.02
+58. Indeno(1,2,3-cd) Pyrene.......     193395          0.73  .............  ............             3,900  ................     0.00016         0.00016
+59. Methyl Bromide................      74839  ............          0.50           0.02               1.4  ................         300  ..............
+60. Methylene Chloride............      75092         0.002  .............  ............               1.6  ................          10             100
+61. Nickel........................    7440020  ............          0.50           0.02  ................                47          80             100
+62. Nitrobenzene..................      98953  ............          0.50          0.002               3.1  ................          30             100
+63. Pentachlorophenol (PCP).......      87865           0.4  .............  ............               520  ................       0.002           0.002
+64. Phenol........................     108952  ............          0.50            0.6               1.9  ................       9,000          70,000
+65. Polychlorinated Biphenyls       .........             2  .............  ............  ................            31,200    \a\7E-06        \a\7E-06
+ (PCBs)...........................
+66. Pyrene........................     129000  ............          0.50           0.03               860  ................           8               8
+67. Selenium......................    7782492  ............          0.50          0.005  ................               4.8          60             200
+68. Tetrachloroethylene...........     127184        0.0021  .............  ............                76  ................         2.4             2.9
+69. Toluene.......................     108883  ............          0.50         0.0097                17  ................          72             130
+79. Trichloroethylene.............      79016          0.05  .............  ............                13  ................         0.3             0.7
+71. Vinyl Chloride................      75014           1.5  .............  ............               1.7  ................  ..........            0.18
+72. Zinc..........................    7440666  ............          0.50            0.3  ................                47       1,000           1,000
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+\a\ This criterion applies to total PCBs (e.g., the sum of all congener or isomer or homolog or Aroclor analyses).
+
+D. Applicability
+
+    Under the CWA, Congress gave states primary responsibility for 
+developing and adopting WQS for their navigable waters (CWA Section 
+303(a)-(c)). Although EPA is proposing revised HHC for Washington, 
+Washington continues to have the option to adopt and submit to EPA 
+revised HHC for the State's waters consistent with CWA Section 303(c) 
+and EPA's implementing regulations at 40 CFR part 131. Consistent with 
+CWA Section 303(c)(4), if Washington adopts and submits revised HHC and 
+EPA approves such criteria before finalizing this proposed rulemaking, 
+EPA would not proceed with the final rule for those waters and/or 
+pollutants for which EPA approves Washington's criteria.
+    If EPA finalizes this proposed rulemaking, and Washington 
+subsequently adopts and submits new HHC, EPA's federally promulgated 
+criteria will remain applicable for purposes of the CWA until EPA 
+withdraws the federally promulgated criteria. EPA would undertake such 
+a rulemaking to withdraw the Federal criteria if and when Washington 
+adopts and EPA approves corresponding criteria that meet the 
+requirements of Section 303(c) of the CWA and EPA's implementing 
+regulations at 40 CFR part 131.
+
+E. Alternative Regulatory Approaches and Implementation Mechanisms
+
+    The federal WQS regulation at 40 CFR part 131 provides several 
+tools that Washington has available to use at its discretion when 
+implementing or deciding how to implement these HHC, once finalized. 
+Among other things, EPA's WQS regulation: (1) Specifies how states and 
+authorized tribes establish, modify, or remove designated uses (40 CFR 
+131.10); (2) specifies the requirements for establishing criteria to 
+protect designated uses, including criteria modified to reflect site-
+specific conditions (40 CFR 131.11); (3) authorizes and provides a 
+regulatory framework for states and authorized tribes to adopt WQS 
+variances where it is not feasible to attain the applicable WQS at that 
+time (40 CFR 131.14); and (4) allows states and authorized tribes to 
+authorize the use of compliance schedules in NPDES permits to meet 
+water quality-based effluent limits (WQBELs) derived from the 
+applicable WQS (40 CFR 131.15). Each of these approaches is discussed 
+in more detail in the next sections. Whichever approach a state 
+pursues, however, all NPDES permits would need to comply with EPA's 
+regulations at 40 CFR 122.44(d)(1)(i).
+a. Designated Uses
+    EPA's proposed HHC apply to waters that Washington has designated 
+for the following:
+    <bullet> Fresh waters--Harvesting (fish harvesting), Domestic Water 
+(domestic water supply), and Recreational Uses;
+    <bullet> Marine waters--Shellfish Harvesting (shellfish--clam, 
+oyster, and mussel--harvesting), Harvesting (salmonid and other fish 
+harvesting, and crustacean and other shellfish--crabs, shrimp, 
+scallops, etc.--harvesting), and Recreational Uses (see WAC 173-201A-
+600 and WAC 173-201A-610).
+    The federal regulation at 40 CFR 131.10(g) provides requirements 
+for establishing, modifying, and removing designated uses when 
+attaining the use is not feasible based on one of the six factors in 
+the regulation. If Washington removes a use and adopts the highest 
+attainable use,\84\ the State must also
+
+[[Page 19058]]
+
+adopt criteria to protect the newly designated highest attainable use 
+consistent with 40 CFR 131.11. It is possible that criteria other than 
+the federally promulgated criteria would protect the highest attainable 
+use. If EPA finds removal or modification of the designated use and the 
+adoption of the highest attainable use and criteria to protect that use 
+to be consistent with CWA Section 303(c) and the implementing 
+regulation at 40 CFR part 131, the agency would approve the revised 
+WQS. EPA would then undertake a rulemaking to withdraw the 
+corresponding federal WQS for the relevant water(s).
+---------------------------------------------------------------------------
+
+    \84\ If a state or authorized tribe adopts a new or revised WQS 
+based on a required use attainability analysis, then it must also 
+adopt the highest attainable use (40 CFR 131.10(g)). The highest 
+attainable use is the modified aquatic life, wildlife, or recreation 
+use that is both closest to the uses specified in Section 101(a)(2) 
+of the CWA and attainable, based on the evaluation of the factor(s) 
+in 40 CFR 131.10(g) that preclude(s) attainment of the use and any 
+other information or analyses that were used to evaluate 
+attainability. There is no required highest attainable use where the 
+state demonstrates the relevant use specified in Section 101(a)(2) 
+of the Act and sub-categories of such a use are not attainable (see 
+40 CFR 131.3(m)).
+---------------------------------------------------------------------------
+
+b. WQS Variances
+    Washington's WQS provide authority to apply WQS variances when 
+implementing federally promulgated HHC, as long as such WQS variances 
+are adopted consistent with 40 CFR 131.14 and submitted to EPA for 
+review under CWA Section 303(c). The federal regulation at 40 CFR 
+131.3(o) defines a WQS variance as a time-limited designated use and 
+criterion, for a specific pollutant or water quality parameter, that 
+reflects the highest attainable condition during the term of the WQS 
+variance. A WQS variance may be appropriate if attaining the use and 
+criterion would not be feasible during the term of the WQS variance 
+because of one of the seven factors specified in 40 CFR 
+131.14(b)(2)(i)(A). These factors include a situation where NPDES 
+permit limits more stringent than technology-based controls would 
+result in substantial and widespread economic and social impact. WQS 
+variances adopted in accordance with 40 CFR 131.14 (including a public 
+hearing consistent with 40 CFR 25.5) provide a flexible but defined 
+pathway for states and authorized tribes to issue NPDES permits with 
+limits that are based on the highest attainable condition during the 
+term of the WQS variance. This allows dischargers to make water quality 
+improvements when the WQS is not immediately attainable but may be in 
+the future. When adopting a WQS variance, states and authorized tribes 
+specify the interim requirements of the WQS variance by identifying a 
+quantitative expression that reflects the highest attainable condition 
+(HAC) during the term of the WQS variance, establishing the term of the 
+WQS variance, and describing the pollutant control activities expected 
+to occur over the specified term of the WQS variance. WQS variances 
+provide a legal avenue by which NPDES permit limits can be written to 
+comply with the WQS variance rather than the underlying WQS for the 
+term of the WQS variance. If dischargers are still unable to meet the 
+WQBELs derived from the applicable WQS once a WQS variance term is 
+complete, the regulation allows the State to adopt a subsequent WQS 
+variance if it is adopted consistent with 40 CFR 131.14. EPA is 
+proposing HHC that apply to use designations that Washington has 
+already established. Washington's WQS regulations currently include 
+provisions to use WQS variances when implementing criteria (see WA 173-
+210A-420), as long as such WQS variances are adopted consistent with 40 
+CFR 131.14 and approved by EPA. Washington may use the State's EPA-
+approved WQS variance procedures when adopting such WQS variances.
+c. NPDES Permit Compliance Schedules
+    EPA's regulations at 40 CFR 122.47 and 131.15 address how 
+permitting authorities can use schedules for compliance with a limit in 
+the NPDES permit if the discharger needs additional time to undertake 
+actions like facility upgrades or operation changes to meet a WQBEL 
+based on the applicable WQS. EPA's regulation at 40 CFR 122.47 allows a 
+permitting authority to include a compliance schedule in the NPDES 
+permit, when appropriate and where authorized by the state, to provide 
+a discharger with additional time to meet a WQBEL implementing 
+applicable WQS. EPA's regulation at 40 CFR 131.15 requires that a state 
+that intends to allow the use of NPDES permit compliance schedules 
+adopt specific provisions authorizing their use and obtain EPA approval 
+under CWA Section 303(c) to ensure that a decision to allow a permit 
+compliance schedule is transparent and allows for public input.\85\ EPA 
+already has approved Washington's State law provision authorizing the 
+use of permit compliance schedules (see WAC-173-201A-510(4)), 
+consistent with 40 CFR 131.15. Washington's compliance schedule 
+authorizing provision is not affected by this rule. Washington is 
+authorized to grant permit compliance schedules, as appropriate, based 
+on the federal HHC in Washington, if such permit compliance schedules 
+are consistent with EPA's permitting regulation at 40 CFR 122.47.
+---------------------------------------------------------------------------
+
+    \85\ 80 FR 51022, August 21, 2015.
+---------------------------------------------------------------------------
+
+VI. Economic Analysis
+
+    EPA focused its economic analysis on the potential cost impacts to 
+current holders of individual NPDES permits (point sources) and the 
+costs the State of Washington may bear to develop Total Maximum Daily 
+Loads (TMDLs) for waters newly identified as impaired under CWA Section 
+303(d) using the proposed WQS. Costs might also arise to holders of 
+general permits \86\ should the State modify those permits in some 
+manner as a result of the proposed WQS, once finalized. Costs might 
+also arise to sectors whose operations are nonpoint sources of 
+pollutants through implementation of TMDLs or through other voluntary, 
+incentivized, or State-imposed controls. This rule does not directly 
+regulate nonpoint sources and under the CWA states are responsible for 
+the regulation of nonpoint sources. EPA recognizes that controls for 
+nonpoint sources may be part of future TMDLs, but any such future 
+decisions will be made by the State. Nonpoint sources are intermittent, 
+variable, and occur under hydrologic or climatic conditions associated 
+with precipitation events. Data to model and evaluate the potential 
+cost impacts associated with nonpoint sources were not available and 
+any estimate would be too uncertain to be informative. EPA also did not 
+estimate potential sediment remediation costs for this analysis.
+---------------------------------------------------------------------------
+
+    \86\ General permits typically focus on best management 
+practices.
+---------------------------------------------------------------------------
+
+    These WQS may serve as a basis for development of NPDES permit 
+limits. Washington has NPDES permitting authority and retains 
+considerable discretion in implementing standards. EPA evaluated the 
+potential costs to NPDES dischargers associated with State 
+implementation of EPA's proposed criteria. This analysis is documented 
+in ``Economic Analysis for Water Quality Standards Applicable to the 
+State of Washington,'' which can be found in the record for this 
+rulemaking. Any NPDES-permitted facility that discharges pollutants for 
+which the revised HHC are more stringent than the applicable aquatic 
+life criteria (or for which HHC are the only applicable criteria) could 
+potentially incur compliance costs. The types of affected facilities 
+could include industrial facilities and POTWs discharging wastewater to 
+surface waters (i.e., point sources).
+
+A. Identifying Affected Entities
+
+    EPA identified 406 point source facilities that could ultimately be
+
+[[Page 19059]]
+
+affected by this proposed rulemaking. Of these potentially affected 
+facilities, 73 are major dischargers and 333 are minor dischargers. EPA 
+did not include general permit facilities in its analysis because data 
+for such facilities are limited and requirements typically focus on 
+best management practices. Of the potentially affected facilities, EPA 
+evaluated a sample of 18 major facilities. Minor facilities are less 
+likely to incur costs as a result of implementation of the rule because 
+of the reduced potential for significant presence of toxic pollutants 
+in their effluent. EPA did not have effluent data on toxic pollutants 
+to evaluate minor facilities for this analysis. Table 2 summarizes 
+these potentially affected facilities by type and category.
+
+                                    Table 2--Potentially Affected Facilities
+----------------------------------------------------------------------------------------------------------------
+                            Category                                   Minor           Major            All
+----------------------------------------------------------------------------------------------------------------
+Municipal.......................................................             169              44             213
+Industrial......................................................             164              29             193
+                                                                 -----------------------------------------------
+    Total.......................................................             333              73             406
+----------------------------------------------------------------------------------------------------------------
+
+B. Method for Estimating Costs to Point Sources
+
+    EPA evaluated the two major municipal facilities with design flows 
+greater than 100 mgd and the largest industrial facility, to attempt to 
+capture the facilities with the potential for the largest costs. For 
+the remaining major facilities, EPA evaluated a random sample of 
+facilities to represent discharger type and category. For all sample 
+facilities, EPA evaluated existing baseline permit conditions, 
+reasonable potential to exceed HHC based on the proposed rulemaking, 
+and potential to exceed projected effluent limitations based on the 
+last three years of effluent monitoring data (if available). Only 
+compliance actions and costs that would be needed above the baseline 
+level of controls are attributable to the proposed rulemaking.
+    EPA assumes that dischargers would pursue the least cost means of 
+compliance with WQBELs. Compliance actions attributable to the proposed 
+rulemaking may include pollution prevention, end-of-pipe treatment, and 
+alternative compliance mechanisms (e.g., WQS variances). EPA annualizes 
+capital costs, including study (e.g., WQS variance) and program (e.g., 
+pollution prevention) costs, over 20 years using discount rates of 3 
+percent and 7 percent to obtain total annual costs per facility. To 
+obtain an estimate of total costs to point sources, EPA extrapolates 
+the annualized costs for the random sample based on the flow volume for 
+the sample facilities and the flow volume for all facilities.
+
+C. Results
+
+    Based on the results for 18 sample facilities across 10 industrial 
+and municipal categories,\87\ EPA did not identify any incremental 
+costs to any major point source discharges of process wastewater from 
+POTWs or industrial facilities attributable to the proposed criteria 
+revisions. This does not mean that EPA anticipates there would be no 
+costs to point sources over time to implement controls or modify 
+processes to meet future permit limits, only that available data did 
+not indicate the immediate need for the facilities evaluated. It would 
+be highly speculative to attempt to estimate potential costs either 
+based on the possibility of measuring pollutant levels at lower levels 
+as a result of future requirements or future technology, or based on 
+changes to facility operations or practices.
+---------------------------------------------------------------------------
+
+    \87\ Ten industrial categories (coal mining, food and kindred 
+products, paper and allied products, chemicals and allied products, 
+petroleum refining and related industries, primary metal industries, 
+fabricated metal products, electric, gas and sanitary services, and 
+national security and international affairs) and municipal POTWs.
+---------------------------------------------------------------------------
+
+    One important contributing factor to examining point source costs 
+is the limitations of required analytical methods to measure chemical 
+concentrations in effluents. Nearly half of pollutant parameters 
+addressed in this proposed rulemaking have analytical quantitation 
+limits that are above both the criteria currently in place and the 
+proposed criteria. PCBs are a good example. The current criterion in 
+place is 170 picograms per liter (pg/L) and the proposed criterion is 7 
+pg/L. However, the State identifies the analytical quantitation limit 
+for effluent measurement as 500,000 pg/L. EPA has completed a multi-
+laboratory validation of a new analytical method for PCBs (method 1628) 
+that has an average analytical quantitation limit for each PCB congener 
+of approximately 2,000 pg/L, which is a substantial improvement over 
+the current regulatory method, but still well above either the 
+criterion currently in place or the proposed criterion. As a general 
+matter, analytical methods and quantitation limits are subject to 
+change over time. As such, it is important that WQS reflect the 
+necessary level of protection regardless of contemporary limitations of 
+analytical methods.
+    EPA also evaluated potential administrative costs to the State for 
+developing additional TMDLs under CWA Section 303(d) for any waters 
+that are newly identified as impaired as a result of the proposed 
+criteria. Using available ambient monitoring data, EPA compared 
+pollutant concentrations to the baseline and proposed criteria, 
+identifying waterbodies that may be incrementally impaired (i.e., 
+impaired under the proposed criteria but not under the baseline). EPA 
+identified 36 impairments under the baseline criteria and 66 under the 
+proposed criteria, resulting in 30 potential incremental impairments. 
+The estimated total annual costs for TMDL development range from 
+$98,000 to $179,000, at a 3 percent discount rate, based on single-
+cause single-waterbody TMDL development costs. Actual costs may be 
+reduced if the State develops multi-cause or multi-waterbody TMDLs.
+
+VII. Statutory and Executive Order Reviews
+
+A. Executive Order 12866: Regulatory Planning and Review and Executive 
+Order 13563: Improving Regulation and Regulatory Review
+
+    It has been determined that this proposed rulemaking is not a 
+``significant regulatory action'' under the terms of Executive Order 
+12866 (58 FR 51735, October 4, 1993) and is, therefore, not subject to 
+review under Executive Orders 12866 and 13563 (76 FR 3821, January 21, 
+2011).
+
+[[Page 19060]]
+
+B. Paperwork Reduction Act
+
+    This action does not impose any new information collection burden 
+under the provisions of the Paperwork Reduction Act, 44 U.S.C. 3501 et 
+seq. OMB has previously approved the information collection activities 
+contained in the existing regulations at 40 CFR part 131 and has 
+assigned OMB control number 2040-0049.
+
+C. Regulatory Flexibility Act
+
+    I certify that this proposed rulemaking will not have a significant 
+economic impact on a substantial number of small entities under the 
+Regulatory Flexibility Act (RFA). Small entities, such as small 
+businesses or small governmental jurisdictions, are not directly 
+regulated by this rule. This proposed rulemaking will not impose any 
+requirements on small entities.
+
+D. Unfunded Mandates Reform Act
+
+    This action does not contain any unfunded mandate as described in 
+UMRA, 2 U.S.C. 1531-1538, and does not significantly or uniquely affect 
+small governments. The action imposes no enforceable duty on any state, 
+local or tribal governments or the private sector.
+
+E. Executive Order 13132: Federalism
+
+    This action does not have federalism implications. It will not have 
+substantial direct effects on the states, on the relationship between 
+the national government and the states, or on the distribution of power 
+and responsibilities among the various levels of government. This rule 
+does not alter Washington's considerable discretion in implementing 
+these WQS, nor would it preclude Washington from adopting WQS that EPA 
+concludes meet the requirements of the CWA, either before or after 
+promulgation of the final rule, which would eliminate the need for 
+federal standards. Thus, Executive Order 13132 does not apply to this 
+action.
+    In the spirit of Executive Order 13132 and consistent with EPA 
+policy to promote communications between EPA and state and local 
+governments, EPA specifically solicits comments on this proposed action 
+from state and local officials.
+
+F. Executive Order 13175: Consultation and Coordination With Indian 
+Tribal Governments
+
+    This action has tribal implications. However, it will neither 
+impose substantial direct compliance costs on federally recognized 
+tribal governments, nor preempt tribal law. This rule could affect 
+federally recognized Indian tribes in Washington because the numeric 
+criteria for Washington will apply to waters adjacent to (or upstream 
+or downstream of) the tribal waters, and because the proposed 
+Washington criteria are informed by tribal reserved rights. 
+Additionally, there are six federally recognized Indian tribes in the 
+Columbia River Basin located in the states of Oregon and Idaho that 
+this rule could affect because their waters could affect or be affected 
+by the water quality of Washington's downstream or upstream waters.
+    EPA consulted with tribal officials under the EPA Policy on 
+Consultation and Coordination with Indian Tribes early in the process 
+of developing this regulation to permit them to have meaningful and 
+timely input into its development. In August 2021, EPA held tribes-only 
+technical staff and leadership consultation sessions to hear their 
+views and answer questions of all interested tribes on the proposed 
+rulemaking. Representatives from approximately 17 tribes and two tribal 
+consortia participated in two leadership meetings held in August 2021. 
+The tribes have repeatedly asked EPA to reinstate the 2016 federal HHC 
+for Washington, which EPA is proposing to do in this rule. EPA 
+considered the input received during consultation with tribes when 
+developing this proposal.
+    A Summary of EPA's Pre-Proposal Consultation, Coordination, and 
+Outreach With Federally Recognized Tribes on Potential Restoration of 
+Protective Human Heath Criteria for Washington is available in the 
+docket for this proposal.
+
+G. Executive Order 13045: Protection of Children From Environmental 
+Health and Safety Risks
+
+    This proposed rulemaking is not subject to Executive Order 13045 
+because it is not economically significant as defined in Executive 
+Order 12866, and because EPA does not believe the environmental health 
+or safety risks addressed by this action present a disproportionate 
+risk to children. As noted in section III.A of this preamble, EPA 
+recommends that HHC be designed to reduce the risk of adverse cancer 
+and non-cancer effects occurring from lifetime exposure to pollutants 
+through the ingestion of drinking water and consumption of fish/
+shellfish obtained from inland and nearshore waters. EPA's proposed HHC 
+for Washington are similarly based on reducing the chronic health 
+effects occuring from lifetime exposure and therefore are expected to 
+be protective of a person's exposure during both childhood and adult 
+years.
+
+H. Executive Order 13211: Actions That Significantly Affect Energy 
+Supply, Distribution, or Use
+
+    This action is not subject to Executive Order 13211, because it is 
+not a significant regulatory action under Executive Order 12866.
+
+I. National Technology Transfer and Advancement Act of 1995
+
+    This proposed rulemaking does not involve technical standards.
+
+J. Executive Order 12898: Federal Actions To Address Environmental 
+Justice in Minority Populations and Low-Income Populations
+
+1. Introduction
+    EPA defines Environmental Justice (EJ) as the fair treatment and 
+meaningful involvement of all people regardless of race, color, 
+national origin, or income with respect to the development, 
+implementation and enforcement of environmental laws, regulations and 
+policies.\88\ Three Executive Orders (E.O. 12898,\89\ 13985 \90\ and 
+14008 \91\) advance EJ by calling on federal agencies to identify and 
+address disproportionate
+
+[[Page 19061]]
+
+impacts on historically underserved, marginalized, and economically 
+disadvantaged people. Additionally, EPA has expressed a commitment to 
+conducting EJ analyses for rulemakings as described in the April 30, 
+2021 revisions to the Cross-State Air Pollution Rule (CSAPR).\92\
+---------------------------------------------------------------------------
+
+    \88\ Fair treatment means that ``no group of people should bear 
+a disproportionate burden of environmental harms and risks, 
+including those resulting from the negative environmental 
+consequences of industrial, governmental and commercial operations 
+or programs and policies.'' Meaningful involvement occurs when ``(1) 
+potentially affected populations have an appropriate opportunity to 
+participate in decisions about a proposed activity [e.g., 
+rulemaking] that will affect their environment and/or health; (2) 
+the public's contribution can influence [the EPA's rulemaking] 
+decision; (3) the concerns of all participants involved will be 
+considered in the decision-making process; and (4) [the EPA will] 
+seek out and facilitate the involvement of those potentially 
+affected.'' A potential EJ concern is defined as ``the actual or 
+potential lack of fair treatment or meaningful involvement of 
+minority populations, low-income populations, tribes, and tribal 
+peoples in the development, implementation and enforcement of 
+environmental laws, regulations and policies.'' See ``Guidance on 
+Considering Environmental Justice During the Development of an 
+Action.'' Environmental Protection Agency, www.epa.gov/environmentaljustice/guidanceconsidering-environmental-justice-duringdevelopment-action. See also https://www.epa.gov/environmentaljustice.
+    \89\ Federal Actions to Address Environmental Justice in 
+Minority Populations and Low-Income Populations. Available at 
+https://www.epa.gov/environmentaljustice/federal-actions-address-environmental-justice-minority-populations-and-low, accessed October 
+6, 2021.
+    \90\ Advancing Racial Equity and Support for Underserved 
+Communities Through the Federal Government. Available at https://www.federalregister.gov/documents/2021/01/25/2021-01753/advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government, accessed October 6, 2021.
+    \91\ Tackling the Climate Crisis at Home and Abroad. Available 
+at https://www.federalregister.gov/documents/2021/02/01/2021-02177/tackling-the-climate-crisis-at-home-and-abroad. Accessed October 6, 
+2021.
+    \92\ 86 FR 23054, 23162 (April 30, 2021) (``Going forward, EPA 
+is committed to conducting environmental justice analysis for 
+rulemakings based on a framework similar to what is outlined here, 
+in addition to investigating ways to further weave environmental 
+justice into the fabric of the rulemaking process including through 
+enhanced meaningful engagement with environmental justice 
+communities.'').
+---------------------------------------------------------------------------
+
+    EPA believes that this proposed rulemaking, if finalized, is not 
+expected to have disproportionately high and adverse human health or 
+environmental effects on low-income populations, people of color, or 
+tribal populations, as specified in Executive Order 12898 (59 FR 7629, 
+February 16, 1994). In its economic impact analysis, EPA only estimates 
+administrative costs to the State of Washington to develop TMDLs and no 
+incremental costs to point source discharges based on available data, 
+as explained above in Section VI of this preamble. Therefore, EPA does 
+not anticipate that this rule will impose any additional costs or other 
+negative impacts on tribes or other low income or disadvantaged 
+communities.
+    Instead, this action identifies and ameliorates disproportionately 
+high and adverse human health effects on tribal communities, people of 
+color and low-income populations in Washington by proposing to restore 
+HHC in Washington that account for sound scientific rationale and 
+protect high fish consumers.
+    Many groups in Washington, such as Asian, Pacific Islanders, and 
+subsistence and recreational tribal and non-tribal fishers consume 
+large amounts of fish and shellfish as part of traditionally influenced 
+diets.\93\ The 2019 Reconsidered HHC currently expose these high fish 
+consumers to greater risk from toxic pollutants because the criteria do 
+not accurately account for pollutant bioaccumulation from water into 
+fish and expose fish consumers to a greater risk of cancer from PCB 
+exposure.
+---------------------------------------------------------------------------
+
+    \93\ Department of Ecology. Fish Consumption Rates: Technical 
+Support Document, A Review of Data and Information about Fish 
+Consumption in Washington, Version 2.0 Final. January 2013. Ecology 
+Publication No. 12-09-058, p.18. https://apps.ecology.wa.gov/publications/documents/1209058.pdf.
+---------------------------------------------------------------------------
+
+    Environmental impacts to tribes may be considered under the 
+category of EJ in recognition that tribes may at times be among the 
+disadvantaged communities disproportionately impacted by environmental 
+degradation. Where tribal communities are part of a larger non-tribal 
+community, many of the EJ considerations are very similar to those of 
+other disadvantaged groups. However, there is a very unique set of EJ 
+considerations for tribes, particularly in this context where tribes 
+are exercising their cultural practices and reserved rights off their 
+reservations on state waters.
+    While the overall impacts to communities with EJ concerns are 
+improved as a result of this rule, by relying on the fish consumption 
+rates based on tribal data, this rule helps ensure that tribal members, 
+in particular, and their treaty-protected activities and resources are 
+protected.\94\ Specifically, this rule proposes to establish HHC based 
+on a FCR of 175 g/day reflective of regional tribal FCR survey data 
+\95\ to represent and protect higher fish consumers. Because a FCR of 
+175 g/day is a compromise rate in the absence of conclusive data 
+regarding unsuppressed fish consumption levels, the rule proposes to 
+use a CRL of 10<SUP>-</SUP>\6\ to derive HHC for all cancer-causing 
+pollutants, including PCBs, to ensure that the effective CRL for tribes 
+exercising treaty rights to fish is no greater than 10<SUP>-</SUP>\5\.
+---------------------------------------------------------------------------
+
+    \94\ 80 FR 55063 (September 14, 2015) (``In Washington, many 
+tribes hold reserved rights to take fish for subsistence, 
+ceremonial, religious, and commercial purposes, including treaty-
+reserved rights to fish at all usual and accustomed fishing grounds 
+and stations in waters under state jurisdiction, which cover the 
+majority of waters in the state. Such rights include not only a 
+right to take those fish, but necessarily include an attendant right 
+to not be exposed to unacceptable health risks by consuming those 
+fish.'').
+    \95\ Fish Consumption Survey of the Umatilla, Nez Perce, Yakama, 
+and Warm Springs Tribes of the Columbia River Basin (CRITFC 1994).
+---------------------------------------------------------------------------
+
+    Central to working with tribes on their environmental issues and 
+opportunities is government to government consultation, which is 
+consistent with Executive Order 13175 (65 FR 67249, November 6, 2000). 
+To ensure that this proposed rulemaking considers the interests and 
+perspective of tribes, we engaged with tribes that may be affected by 
+this action to receive meaningful and timely input from tribal 
+officials as we developed the proposal. See section VII.F for a summary 
+of tribal consultation.
+    In addition to Executive Orders 12898 and 13175, and in accordance 
+with Title VI of the Civil Rights Act of 1964, each federal agency 
+shall ensure that all programs or activities receiving federal 
+financial assistance that affect human health or the environment do not 
+directly, or through contractual or other arrangements, use criteria, 
+methods, or practices that discriminate on the basis of race, color, or 
+national origin. With that directive in mind, in August 2011 the 
+Environmental Justice Interagency Working Group established a Title VI 
+Committee to address the intersection of agencies' environmental 
+justice efforts with their Title VI enforcement and compliance 
+responsibilities. If Washington receives federal funds for CWA 
+implementation, they are legally prohibited from discriminating on the 
+basis of race, color or national origin under Title VI when engaging in 
+CWA implementation activities. Additionally, and in compliance with 
+Executive Order 12898, EPA expects that Washington will consider 
+disproportionately high adverse human health and environmental effects 
+on minority and low-income populations when implementing this 
+rulemaking under the CWA.
+
+List of Subjects in 40 CFR Part 131
+
+    Environmental protection, Indians-lands, Intergovernmental 
+relations, Reporting and recordkeeping requirements, Water pollution 
+control.
+
+Michael S. Regan,
+Administrator.
+
+    For the reasons set forth in the preamble, EPA proposes to amend 40 
+CFR part 131 as follows:
+
+PART 131--WATER QUALITY STANDARDS
+
+0
+1. The authority citation for part 131 continues to read as follows:
+
+    Authority:  33 U.S.C. 1251 et seq.
+
+Subpart D--Federally Promulgated Water Quality Standards
+
+0
+2. Amend Sec.  131.45 by revising paragraph (b) to read as follows:
+
+
+Sec.  131.45  Revision of certain Federal water quality criteria 
+applicable to Washington.
+
+* * * * *
+    (b) Criteria for priority toxic pollutants in Washington. The 
+applicable human health criteria are shown in Table 1 to paragraph (b).
+
+[[Page 19062]]
+
+
+
+                                             Table 1 to Paragraph (b)--Human Health Criteria for Washington
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+                     A                                                              B                                                      C
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+                                             Cancer slope                     Reference                           Bio-          Water &
+                                              factor, CSF  Relative source    dose, RfD   Bio-accumulation    concentration    organisms  Organisms only
+            Chemical               CAS No.     (per mg/     contribution,       (mg/        factor (L/kg      factor  (L/kg   ([micro]g/    ([micro]g/L)
+                                             kg[middot]d)      RSC (-)      kg[middot]d)       tissue)           tissue)          L)
+                                  .........          (B1)             (B2)          (B3)              (B4)              (B5)        (C1)            (C2)
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+1. 1,1,1-Trichloroethane........      71556  ............             0.50             2                10  ................      20,000          50,000
+2. 1,1,2,2-Tetrachloroethane....      79345           0.2  ...............  ............               8.4  ................         0.1             0.3
+3. 1,1,2-Trichloroethane........      79005         0.057  ...............  ............               8.9  ................        0.35            0.90
+4. 1,1-Dichloroethylene.........      75354  ............             0.50          0.05               2.6  ................         700           4,000
+5. 1,2,4-Trichlorobenzene.......     120821         0.029  ...............  ............               430  ................       0.036           0.037
+6. 1,2-Dichlorobenzene..........      95501  ............             0.50           0.3                82  ................         700             800
+7. 1,2-Dichloroethane...........     107062        0.0033  ...............  ............               1.9  ................         8.9              73
+8. 1,2-Diphenylhydrazine........     122667           0.8  ...............  ............                27  ................        0.01            0.02
+9. 1,2-Trans-Dichloroethylene...     156605  ............             0.50          0.02               4.7  ................         200           1,000
+10. 1,3-Dichlorobenzene.........     541731  ............             0.50         0.002               190  ................           2               2
+11. 1,3-Dichloropropene.........     542756         0.122  ...............  ............               3.0  ................        0.22             1.2
+12. 1,4-Dichlorobenzene.........     106467  ............             0.50          0.07                84  ................         200             200
+13. 2,4-Dichlorophenol..........     120832  ............             0.50         0.003                48  ................          10              10
+14. 2,4-Dinitrophenol...........      51285  ............             0.50         0.002               4.4  ................          30             100
+15. 2-Chloronaphthalene.........      91587  ............             0.80          0.08               240  ................         100             100
+16. 2-Methyl-4,6-Dinitrophenol..     534521  ............             0.50        0.0003                10  ................           3               7
+17. 4,4'-DDD....................      72548          0.24  ...............  ............           240,000  ................     7.9E-06         7.9E-06
+18. 4,4'-DDE....................      72559         0.167  ...............  ............         3,100,000  ................     8.8E-07         8.8E-07
+19. 4,4'-DDT....................      50293          0.34  ...............  ............         1,100,000  ................     1.2E-06         1.2E-06
+20. Acenaphthene................      83329  ............             0.50          0.06               510  ................          30              30
+21. Aldrin......................     309002            17  ...............  ............           650,000  ................     4.1E-08         4.1E-08
+22. alpha-BHC...................     319846           6.3  ...............  ............             1,500  ................     4.8E-05         4.8E-05
+23. alpha-Endosulfan............     959988  ............             0.50         0.006               200  ................           6               7
+24. Anthracene..................     120127  ............             0.50           0.3               610  ................         100             100
+25. Antimony....................    7440360  ............             0.50        0.0004  ................                 1           6              90
+26. Arsenic *...................    7440382          1.75  ...............  ............  ................                44   \a\ 0.018        \a\ 0.14
+27. Benzo(a) Anthracene.........      56553          0.73  ...............  ............             3,900  ................     0.00016         0.00016
+28. Benzo(a) Pyrene.............      50328           7.3  ...............  ............             3,900  ................     1.6E-05         1.6E-05
+29. Benzo(b) Fluoranthene.......     205992          0.73  ...............  ............             3,900  ................     0.00016         0.00016
+30. Benzo(k) Fluoranthene.......     207089         0.073  ...............  ............             3,900  ................      0.0016          0.0016
+31. beta-BHC....................     319857           1.8  ...............  ............               180  ................      0.0013          0.0014
+32. Bis(2-Chloro-1-Methylethyl)      108601  ............             0.50          0.04                10  ................         400             900
+ Ether **.......................
+33. Bis(2-Ethylhexyl) Phthalate.     117817         0.014  ...............  ............               710  ................       0.045           0.046
+34. Bromoform...................      75252        0.0045  ...............  ............               8.5  ................         4.6              12
+35. Butylbenzyl Phthalate.......      85687        0.0019  ...............  ............            19,000  ................       0.013           0.013
+36. Chlordane...................      57749          0.35  ...............  ............            60,000  ................     2.2E-05         2.2E-05
+37. Chlorobenzene...............     108907  ............             0.50          0.02                22  ................         100             200
+38. Chlorodibromomethane........     124481          0.04  ...............  ............               5.3  ................        0.60             2.2
+39. Chloroform..................      67663  ............             0.50          0.01               3.8  ................         100             600
+40. Chrysene....................     218019        0.0073  ...............  ............             3,900  ................       0.016           0.016
+41. Cyanide.....................      57125  ............             0.50        0.0006  ................                 1           9             100
+42. Dibenzo(a,h) Anthracene.....      53703           7.3  ...............  ............             3,900  ................     1.6E-05         1.6E-05
+43. Dichlorobromomethane........      75274         0.034  ...............  ............               4.8  ................        0.73             2.8
+44. Dieldrin....................      60571            16  ...............  ............           410,000  ................     7.0E-08         7.0E-08
+45. Diethyl Phthalate...........      84662  ............             0.50           0.8               920  ................         200             200
+46. Dimethyl Phthalate..........     131113  ............             0.50            10             4,000  ................         600             600
+47. Di-n-Butyl Phthalate........      84742  ............             0.50           0.1             2,900  ................           8               8
+48. Endosulfan Sulfate..........    1031078  ............             0.50         0.006               140  ................           9  ..............
+49. Endrin......................      72208  ............             0.80        0.0003            46,000  ................       0.002           0.002
+50. Ethylbenzene................     100414  ............             0.50         0.022               160  ................          29              31
+51. Fluoranthene................     206440  ............             0.50          0.04             1,500  ................           6               6
+52. Fluorene....................      86737  ............             0.50          0.04               710  ................          10              10
+53. gamma-BHC; Lindane..........      58899  ............             0.50        0.0047             2,500  ................        0.43            0.43
+54. Heptachlor..................      76448           4.1  ...............  ............           330,000  ................     3.4E-07         3.4E-07
+55. Heptachlor Epoxide..........    1024573           5.5  ...............  ............            35,000  ................     2.4E-06         2.4E-06
+56. Hexachlorobenzene...........     118741          1.02  ...............  ............            90,000  ................     5.0E-06         5.0E-06
+57. Hexachlorobutadiene.........      87683          0.04  ...............  ............             1,100  ................        0.01            0.01
+58. Hexachlorocyclopentadiene...      77474  ............             0.50         0.006             1,300  ................           1               1
+59. Hexachloroethane............      67721          0.04  ...............  ............               600  ................        0.02            0.02
+60. Indeno(1,2,3-cd) Pyrene.....     193395          0.73  ...............  ............             3,900  ................     0.00016         0.00016
+61. Methyl Bromide..............      74839  ............             0.50          0.02               1.4  ................         300  ..............
+62. Methylene Chloride..........      75092         0.002  ...............  ............               1.6  ................          10             100
+63. Methylmercury...............   22967926  ............          2.7E-05        0.0001  ................  ................  ..........   \b\ 0.03 (mg/
+                                                                                                                                                     kg)
+64. Nickel......................    7440020  ............             0.50          0.02  ................                47          80             100
+65. Nitrobenzene................      98953  ............             0.50         0.002               3.1  ................          30             100
+66. Pentachlorophenol (PCP).....      87865           0.4  ...............  ............               520  ................       0.002           0.002
+67. Phenol......................     108952  ............             0.50           0.6               1.9  ................       9,000          70,000
+68. Polychlorinated Biphenyls     .........             2  ...............  ............  ................            31,200   \c\ 7E-06       \c\ 7E-06
+ (PCBs).........................
+69. Pyrene......................     129000  ............             0.50          0.03               860  ................           8               8
+70. Selenium....................    7782492  ............             0.50         0.005  ................               4.8          60             200
+71. Tetrachloroethylene.........     127184        0.0021  ...............  ............                76  ................         2.4             2.9
+72. Toluene.....................     108883  ............             0.50        0.0097                17  ................          72             130
+
+[[Page 19063]]
+
+ 
+73. Trichloroethylene...........      79016          0.05  ...............  ............                13  ................         0.3             0.7
+74. Vinyl Chloride..............      75014           1.5  ...............  ............               1.7  ................  ..........            0.18
+75. Zinc........................    7440666  ............             0.50           0.3  ................                47       1,000           1,000
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+\a\ This criterion refers to the inorganic form of arsenic only.
+\b\ This criterion is expressed as the fish tissue concentration of methylmercury (mg methylmercury/kg fish). See Water Quality Criterion for the
+  Protection of Human Health: Methylmercury (EPA-823-R-01-001, January 3, 2001) for how this value is calculated using the criterion equation in EPA's
+  2000 Human Health Methodology rearranged to solve for a protective concentration in fish tissue rather than in water.
+\c\ This criterion applies to total PCBs (e.g., the sum of all congener or isomer or homolog or Aroclor analyses).
+* These criteria were promulgated for Washington in the National Toxics Rule at 40 CFR 131.36, and are moved into 40 CFR 131.45 to have one
+  comprehensive human health criteria rule for Washington.
+** Bis(2-Chloro-1-Methylethyl) Ether was previously listed as Bis(2-Chloroisopropyl) Ether.
+
+* * * * *
+[FR Doc. 2022-06879 Filed 3-31-22; 8:45 am]
+BILLING CODE 6560-50-P
+
+

@@ -1,0 +1,141 @@
+{
+  "status_of_this_file": "UNREVIEWED Claude Code subagent output used as REVIEW AID; not a production candidate; not human-accepted",
+  "source_document_id": "2022-06879",
+  "publication_date_manifest": "2022-04-01",
+  "document_sha256": "b14966b52e2e4b5e9756799712e0263074741a7241887ac9d30a214dfaa036e9",
+  "source_hash_ok": true,
+  "source_text_mode": "govinfo_gpo_html_pre_text",
+  "original_text_url": "https://www.govinfo.gov/content/pkg/FR-2022-04-01/html/2022-06879.htm",
+  "agent_output": {
+    "source_document_id": "2022-06879",
+    "publication_date": "2022-04-01",
+    "is_event": true,
+    "event_type": "new_legal_requirement",
+    "status": "proposed",
+    "affected_group": "NPDES-permitted point source dischargers (industrial facilities, publicly owned treatment works) and stormwater management districts discharging to surface waters under the State of Washington's jurisdiction; the State of Washington (TMDL development); federally recognized tribes with treaty-reserved fishing rights in Washington",
+    "change_summary": "EPA proposes, under CWA Section 303(c)(4)(B), to reinstate the federal human health water quality criteria (HHC) for Washington that it withdrew in June 2020, by revising 40 CFR 131.45(b) to promulgate 141 HHC for 72 pollutants that would supersede Washington's 2019 Reconsidered HHC. Comments due May 31, 2022; two online public hearings. No effective date; EPA states any change to applicable WQS occurs only upon final action.",
+    "effective_at": null,
+    "evidence": [
+      {
+        "field": "change_summary",
+        "quote": "EPA is therefore proposing to reinstate \nthe protective and science-based federal HHC that EPA withdrew in June \n2020 to protect Washington's waters, including waters where tribes hold \ntreaty-reserved rights to fish."
+      },
+      {
+        "field": "change_summary",
+        "quote": "EPA proposes 141 HHC for 72 different pollutants (70 organism-only \ncriteria and 71 water-plus-organism criteria) to protect the applicable \ndesignated uses of Washington's waters (see Table 1). The proposed HHC \nare the same criteria that EPA promulgated in 2016."
+      },
+      {
+        "field": "change_summary",
+        "quote": "2. Amend Sec.  131.45 by revising paragraph (b) to read as follows:"
+      },
+      {
+        "field": "change_summary",
+        "quote": "DATES: Comments must be received on or before May 31, 2022. Public \nHearing: EPA will hold two public hearings during the public comment \nperiod."
+      },
+      {
+        "field": "affected_group",
+        "quote": "Entities that are subject to Clean Water Act (CWA) regulatory \nprograms such as industrial facilities, stormwater management \ndistricts, or publicly owned treatment works (POTWs) that discharge \npollutants to surface waters of the United States under the State of \nWashington's jurisdiction could be affected by this rulemaking because \nthe federal water quality standards (WQS) in this rulemaking, once \nfinalized, will be the applicable WQS for surface waters in Washington \nfor CWA purposes."
+      },
+      {
+        "field": "affected_group",
+        "quote": "EPA identified 406 point source facilities that could ultimately be"
+      },
+      {
+        "field": "status",
+        "quote": "ACTION: Proposed rule."
+      },
+      {
+        "field": "status",
+        "quote": "EPA's \ndetermination is not itself a final action, nor part of a final action, \nat this time. After consideration of comments on the proposed \nrulemaking, EPA will take final agency action on this proposed \nrulemaking. It is at that time that any change to the WQS applicable to \nWashington waters for CWA purposes would occur."
+      },
+      {
+        "field": "effective_at",
+        "quote": "if Washington adopts and submits revised HHC and \nEPA approves such criteria before finalizing this proposed rulemaking, \nEPA would not proceed with the final rule for those waters and/or \npollutants for which EPA approves Washington's criteria."
+      }
+    ],
+    "uncertainties": [
+      "Proposed rule only; no effective date; may be modified, finalized or mooted.",
+      "Preamble Table 1 lists 72 pollutants (141 HHC) while regulatory text table lists 75 rows (carries over arsenic, methylmercury, and bis(2-chloro-1-methylethyl) ether).",
+      "Court-ordered 18-month abeyance (July 6, 2021) but no target date for final rule.",
+      "Affected-entity table not exhaustive.",
+      "manifest historical_date_approved=false.",
+      "document.txt contains a Cloudflare-obfuscated email placeholder; content otherwise intact."
+    ],
+    "economically_material": "REDACTED_FROM_REVIEWER_PATH (see agent_materiality_sidecar.json; may contain forward-looking speculation)"
+  },
+  "quote_checks": [
+    {
+      "field": "change_summary",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "EPA is therefore proposing to reinstate \nthe protective and science-based federal HHC that EPA withdrew in June \n2020 to protect Washington's waters, including waters where tribes hold \ntreaty-reserved rights to fish."
+    },
+    {
+      "field": "change_summary",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "EPA proposes 141 HHC for 72 different pollutants (70 organism-only \ncriteria and 71 water-plus-organism criteria) to protect the applicable \ndesignated uses of Washington's waters (see Table 1). The proposed HHC \nare the same criteria that EPA promulgated in 2016."
+    },
+    {
+      "field": "change_summary",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "2. Amend Sec.  131.45 by revising paragraph (b) to read as follows:"
+    },
+    {
+      "field": "change_summary",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "DATES: Comments must be received on or before May 31, 2022. Public \nHearing: EPA will hold two public hearings during the public comment \nperiod."
+    },
+    {
+      "field": "affected_group",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "Entities that are subject to Clean Water Act (CWA) regulatory \nprograms such as industrial facilities, stormwater management \ndistricts, or publicly owned treatment works (POTWs) that discharge \npollutants to surface waters of the United States under the State of \nWashington's jurisdiction could be affected by this rulemaking because \nthe federal water quality standards (WQS) in this rulemaking, once \nfinalized, will be the applicable WQS for surface waters in Washington \nfor CWA purposes."
+    },
+    {
+      "field": "affected_group",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "EPA identified 406 point source facilities that could ultimately be"
+    },
+    {
+      "field": "status",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "ACTION: Proposed rule."
+    },
+    {
+      "field": "status",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "EPA's \ndetermination is not itself a final action, nor part of a final action, \nat this time. After consideration of comments on the proposed \nrulemaking, EPA will take final agency action on this proposed \nrulemaking. It is at that time that any change to the WQS applicable to \nWashington waters for CWA purposes would occur."
+    },
+    {
+      "field": "effective_at",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "if Washington adopts and submits revised HHC and \nEPA approves such criteria before finalizing this proposed rulemaking, \nEPA would not proceed with the final rule for those waters and/or \npollutants for which EPA approves Washington's criteria."
+    }
+  ],
+  "code_verdict": "PASS_QUOTES"
+}

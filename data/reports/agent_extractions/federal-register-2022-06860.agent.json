@@ -1,0 +1,67 @@
+{
+  "status_of_this_file": "UNREVIEWED Claude Code subagent output used as REVIEW AID; not a production candidate; not human-accepted",
+  "source_document_id": "2022-06860",
+  "publication_date_manifest": "2022-04-01",
+  "document_sha256": "1826895d0fc18d3cc08f4ec03d2849444bb8e5c2932eaad4bee95174891e70f6",
+  "source_hash_ok": true,
+  "source_text_mode": "govinfo_gpo_html_pre_text",
+  "original_text_url": "https://www.govinfo.gov/content/pkg/FR-2022-04-01/html/2022-06860.htm",
+  "agent_output": {
+    "source_document_id": "2022-06860",
+    "publication_date": "2022-04-01",
+    "is_event": false,
+    "event_type": "other_identifiable_change",
+    "status": "notice_informational",
+    "affected_group": null,
+    "change_summary": null,
+    "effective_at": null,
+    "evidence": [
+      {
+        "field": "status",
+        "quote": "ACTION: Notice of applications for exemption; request for comments."
+      },
+      {
+        "field": "status",
+        "quote": "DATES: Comments must be received on or before May 2, 2022."
+      },
+      {
+        "field": "change_summary",
+        "quote": "exemption from the hearing requirement in 49 CFR 391.41(b)(11)."
+      }
+    ],
+    "uncertainties": [
+      "No newly announced behavior-changing event: announces receipt of exemption applications from 14 named individuals and requests comment; no exemption granted; only date (May 2, 2022) is a comment deadline.",
+      "SUMMARY sentence 'If granted, the exemptions would' is conditional; outcome not stated and not looked up.",
+      "Routine FMCSA notice type repeated since the 2013 National Association of the Deaf disposition; not a new program or eligibility change.",
+      "manifest historical_date_approved=false; publication_date from GPO header and filing line, not human-verified."
+    ],
+    "economically_material": "REDACTED_FROM_REVIEWER_PATH (see agent_materiality_sidecar.json; may contain forward-looking speculation)"
+  },
+  "quote_checks": [
+    {
+      "field": "status",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "ACTION: Notice of applications for exemption; request for comments."
+    },
+    {
+      "field": "status",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "DATES: Comments must be received on or before May 2, 2022."
+    },
+    {
+      "field": "change_summary",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "exemption from the hearing requirement in 49 CFR 391.41(b)(11)."
+    }
+  ],
+  "code_verdict": "NOT_EVENT"
+}

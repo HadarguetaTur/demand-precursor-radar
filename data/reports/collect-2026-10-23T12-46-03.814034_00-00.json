@@ -1,0 +1,14 @@
+{
+  "end": "2022-04-10",
+  "failed_documents": [],
+  "frame_complete": false,
+  "new_snapshots": 100,
+  "retrieved_items": 100,
+  "run_at": "2026-10-23T12:46:03.814034+00:00",
+  "search_pages": [
+    "https://www.federalregister.gov/api/v1/documents.json?conditions%5Bpublication_date%5D%5Bgte%5D=2022-04-01&conditions%5Bpublication_date%5D%5Blte%5D=2022-04-10&per_page=100&order=oldest"
+  ],
+  "source": "federal-register",
+  "start": "2022-04-01",
+  "warning": "If frame_complete=false, do not draw representativeness conclusions or freeze a FINAL frame."
+}

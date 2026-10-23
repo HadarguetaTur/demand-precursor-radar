@@ -1,0 +1,854 @@
+
+[Federal Register Volume 87, Number 63 (Friday, April 1, 2022)]
+[Rules and Regulations]
+[Pages 18986-18993]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2022-06503]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+FEDERAL COMMUNICATIONS COMMISSION
+
+47 CFR Parts 15
+
+[ET Docket No. 14-165, GN Docket No. 12-268, ET Docket No. 20-36 and ET 
+Docket No. 04-186; FCC 22-6; FRS 78919]
+
+
+Unlicensed Operations in the Television Bands, Repurposed 600 MHz 
+Band, 600 MHz Guard Bands and Duplex Gap, and Channel 37; Expanding the 
+Economic and Innovation Opportunities of Spectrum Through Incentive 
+Auctions; Unlicensed White Space Device Operations in the Television 
+Bands
+
+AGENCY: Federal Communications Commission.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: In this document, the Federal Communications Commission 
+(Commission) adopts orders resolving pending issues associated with 
+white space devices and databases. The actions being taken will provide 
+additional certainty to white space device users, manufacturers and 
+database administrators to enable unlicensed white space devices to 
+operate efficiently and protect other spectrum users, in particular 
+wireless microphone users. In the Second Order on Reconsideration, the 
+Commission addresses petitions for reconsideration of the requirement 
+established in the Commission's White Spaces Report and Order that 
+white space databases ``push'' channel availability changes to white 
+space devices when a licensed wireless microphone operator registers in 
+the white space database to use a TV channel. The Commission removes 
+the push notification requirement and replaces it with a simpler rule 
+that requires certain white space devices to re-check the database more 
+frequently. In the Order, the Commission denies a petition for 
+reconsideration of the Office of Engineering and Technology's (OET's) 
+designation of Nominet UK (now RED Technologies) as a white space 
+database administrator.
+
+DATES: Effective May 2, 2022.
+
+FOR FURTHER INFORMATION CONTACT: Hugh VanTuyl, Office of Engineering 
+and Technology, (202) 418-7506 or <span class="__cf_email__" data-cfemail="125a67757a3c44737c46676b7e525451513c757d64">[email protected]</span>.
+
+SUPPLEMENTARY INFORMATION: This is a summary of the Commission's 
+document, Second Order on Reconsideration and Order, ET Docket No. 14-
+165, GN Docket No. 12-268, ET Docket No. 20-36 and ET Docket No. 04-
+186; FCC 22-6, adopted January 25, 2022 and released January 26, 2022. 
+The full text of this document is available for public inspection and 
+can be downloaded at: https://www.fcc.gov/document/fcc-takes-action-unlicensed-white-space-device-database-issues. When the FCC 
+Headquarters reopens to the public, the full text of this document also 
+will be available for public inspection and copying during regular 
+business hours in the FCC Reference Center, 45 L Street NE, Washington, 
+DC 20554. Alternative formats are available for people with 
+disabilities (Braille, large print, electronic files, audio format) by 
+sending an email to <span class="__cf_email__" data-cfemail="f0b6b3b3c5c0c4b0969393de979f86">[email protected]</span> or calling the Commission's Consumer 
+and Governmental Affairs Bureau at (202) 418-0530 (voice), (202) 418-
+0432 (TTY).
+
+Procedural Matters
+
+    Final Regulatory Flexibility Analyses. The Regulatory Flexibility 
+Act of 1980 (RFA) requires that an agency prepare a regulatory 
+flexibility analysis for notice and comment rulemakings, unless the 
+agency certifies that ``the rule will not, if promulgated, have a 
+significant economic impact on a substantial number of small 
+entities.'' Accordingly, the Commission has prepared a Final Regulatory 
+Flexibility Analysis (FRFA) concerning the possible impact of the rule 
+changes contained in this Second Order on Reconsideration on small 
+entities. As required by the RFA, an Initial Regulatory Flexibility 
+Analysis (IRFA) was incorporated in the Notice of Proposed Rulemaking 
+(NPRM) (86 FR 38969, July 23, 2021). The Commission sought written 
+public comment on the proposals in the NPRM, including comments on the 
+IRFA. No comments were filed addressing the IRFA. Accordingly, the 
+Commission has
+
+[[Page 18987]]
+
+prepared a Final Regulatory Flexibility Analysis (FRFA) concerning the 
+possible impact of the rule changes contained in the document on small 
+entities. The present FRFA conforms to the RFA and can be viewed under 
+Appendix C of the item at: https://www.fcc.gov/document/fcc-takes-action-unlicensed-white-space-device-database-issues.
+    Paperwork Reduction Act. This document does not contain new or 
+modified information collection requirements subject to the Paperwork 
+Reduction Act of 1995 (PRA), Public Law 104-13. In addition, therefore, 
+it does not contain any new or modified information collection burden 
+for small business concerns with fewer than 25 employees, pursuant to 
+the Small Business Paperwork Relief Act of 2002, Public Law 107-198, 
+see 44 U.S.C. 3506(copyright)(4).
+    Congressional Review Act. The Commission has determined, and the 
+Administrator of the Office of Information and Regulatory Affairs, 
+Office of Management and Budget, concurs, that this rule is ``non-
+major'' under the Congressional Review Act, 5 U.S.C. 804(2). The 
+Commission will send a copy of this Second Order on Reconsideration and 
+Order to Congress and the Government Accountability Office pursuant to 
+5 U.S.C. 801(a)(1)(A).
+
+Synopsis
+
+Background
+
+    The existing rules prescribe communications between white space 
+devices and a white space database to provide interference protection 
+to other spectrum users--both to authorized services and protected 
+users generally and to licensed wireless microphone operations that are 
+registered at particular times and locations in the database. To 
+provide general protection to authorized services (e.g., primary and 
+secondary broadcast television users in the TV bands, wireless service 
+providers in the 600 MHz service band) and protected users (e.g., TV 
+translator receive sites and Multiple Video Program Distributor (MVPD) 
+receive sites), white space devices must re-check the database at least 
+once per day to obtain the list of available channels at the location 
+where the device operates. The Commission established these timeframes 
+because most protected services listed in its databases do not change 
+on a frequent basis, and because the Commission provides updated data 
+to the white space database administrators only once every weekday. To 
+protect licensed wireless microphones operating in the TV bands that 
+are registered in the white spaces database, the Commission requires 
+more frequent communications in the event of microphone usage 
+registrations that need more timely protection. In the 2015 White 
+Spaces Report and Order, the Commission adopted the push notification 
+requirement, which it believed to be an efficient way of achieving this 
+objective. Furthermore, because licensed wireless microphone operations 
+can be registered in any white space database, the Commission required 
+that a white space database administrator share registration 
+information with the other databases in a timely fashion.
+    The Commission's decision to adopt the push notification 
+requirement was intended to provide protection to licensed wireless 
+microphone operations that may, upon registering to operate on 
+specified TV channels, need quick protection from potential 
+interference from white space device operations. Prior to adopting the 
+Incentive Auction R&O in 2014, which required repurposing and 
+auctioning some TV band spectrum for new 600 MHz wireless service, the 
+Commission had reserved two TV channels where white space devices were 
+not permitted to operate to ensure that there would be spectrum 
+available for wireless microphones used in applications such as 
+electronic news gathering for which it is not possible to register the 
+operating location in the database at least 24 hours in advance. In the 
+Incentive Auction R&O, the Commission decided to no longer designate 
+two unused television channels for wireless microphones and instead 
+took steps to improve the operation of the white space database to 
+provide more immediate protection to wireless microphones. To ensure 
+that registered wireless microphone users continue to receive 
+protection in a timely manner, the Commission then proposed in its 2014 
+White Spaces NPRM to: (1) Require fixed and Mode II personal/portable 
+white space devices to re-check the database at time intervals not to 
+exceed 20 minutes, (2) eliminate the rule that allows a white space 
+device to continue operating until 11:59 p.m. on the following day if 
+it cannot establish contact with the database, and (3) require database 
+administrators to share wireless microphone registration information 
+between databases within ten minutes.
+    In the White Spaces Report and Order adopted in August of 2015 the 
+Commission sought to balance the concerns of white space device and 
+wireless microphone proponents when it adopted the push notification 
+requirement in place of the proposed 20-minute re-check requirement to 
+meet its objectives. The Commission was concerned that requiring all 
+white space devices to re-check a database (regardless of their 
+location) for a list of available channels every twenty minutes could 
+unnecessarily burden the database administrators, adversely affect 
+operation of white space devices relying on batteries for operation, 
+and increase costs for white space device users. To ensure that 
+channels would continue to be available for wireless microphones used 
+for events that cannot be anticipated, such as late-breaking news 
+events, the Commission concluded at that time, as suggested by parties 
+in the record, that a reasonable and workable approach to accomplishing 
+its goals was to require that database administrators ``push'' 
+information to white space devices only in areas where licensed 
+wireless microphones will be used, rather than requiring all white 
+space devices to re-check a database every twenty minutes. Under this 
+approach, when a database administrator receives a registration request 
+for immediate access to particular channels for licensed wireless 
+microphone use, the database administrators would, within ten minutes, 
+share the licensed wireless microphone's channel registration 
+information among themselves and within 20 minutes of receiving that 
+information, would ``push'' information about changes in channel 
+availability to fixed and Mode II personal/portable white space 
+devices. The Commission provided white space database administrators 12 
+months after the effective date of the rules, until December 23, 2016, 
+to comply with this new requirement.
+    Petitions for reconsideration. Google and NAB each filed a petition 
+requesting that the Commission reconsider the push notification 
+requirement, although each express different concerns with the 
+requirement. Google contends that the Commission failed to recognize 
+that, as a technical matter, requiring databases to ``push'' 
+information to devices is at least as burdensome as requiring devices 
+to ``pull'' information from databases. Google states that in order for 
+a database to send information to a white space device, the device must 
+either request information very frequently to simulate a push, which 
+dramatically increases server utilization and reduces battery life in 
+devices relying on such a power source, or the device must maintain a 
+persistent connection with the database, which uses bandwidth and 
+reduces battery life by preventing the device
+
+[[Page 18988]]
+
+from entering a sleep mode. It argues that the push rule would limit 
+the use of battery powered, low-bandwidth, or remote white space 
+devices designed to operate for very long periods on a single battery 
+charge. It also argues that unless an unlicensed device makes frequent 
+``pulls'' from the database or maintains a persistent, open connection, 
+security features implemented on the device or network may block 
+database messages from reaching the device. Google further argues that 
+limiting the geographic area for database pushes does not reduce the 
+burden on unlicensed devices or databases because there is no way for a 
+database to communicate information to a particular device unless all 
+devices in all locations continually check for updates.
+    NAB argues that the push notification requirement is insufficient 
+for providing technical assurance that white space devices will 
+actually receive messages and cease operation on channels registered 
+for use by licensed wireless microphones, and is concerned that white 
+space devices may be used in internal private networks protected by 
+firewalls that prevent external messaging. NAB states that if the 
+Commission maintains the push notification approach, it must modify the 
+rules to require that white space devices be capable of receiving 
+notifications, including when they are not in operation or connected to 
+the internet, and further that devices send the database a confirmation 
+when they have received and complied with a push notification.
+    Petitioners and commenting parties disagree, however, on what they 
+view as the appropriate approach going forward. Google requests that 
+the Commission require white space devices to contact the database more 
+frequently on two designated ``fast polling'' channels, an approach 
+similar to the one that Google had made in response to the White Spaces 
+NPRM that the Commission had previously rejected in the White Spaces 
+Report and Order. Google again suggests that the Commission can protect 
+licensed wireless microphones by identifying two channels on which 
+unlicensed devices would be required to query the database every 20 
+minutes, while allowing white space devices operating on other channels 
+to check the database only once daily. It argues that designating two 
+``fast-polling'' channels would minimize the burden of constant 
+rechecking on unlicensed devices and database operators, while 
+providing adequate protection for wireless microphones used during 
+breaking news events. Microsoft agrees with Google's suggestion. Google 
+and Microsoft point out that under the previous rules only two channels 
+were available on short notice for exclusive wireless microphone use 
+and argue that because licensed wireless microphone users have access 
+to a dedicated four-megahertz channel in the 600 MHz duplex gap and the 
+ability to reserve channels in advance of predictable events like games 
+and concerts, designating two fast-polling channels would leave 
+wireless microphone operators no worse off than before.
+    NAB requests that, in place of a push notification, the Commission 
+require white space devices operating on any channel to contact the 
+database every 20 minutes for an updated list of available channels, 
+consistent with the Commission's proposal in the White Spaces NPRM. NAB 
+argues that requiring white space devices to contact the database to 
+check on channel availability more frequently, coupled with a 
+requirement that devices cease operation if they cannot contact the 
+database, is simpler, more efficient, more cost-effective, and will 
+provide greater protection for licensed wireless microphones without 
+requiring manufacturers to redesign devices. Shure agrees with NAB's 
+suggestion.
+    Regarding Google's proposed solution of creating two fast-polling 
+channels, NAB contends that Google misinterprets the intent of the 
+Commission's push requirement and fails to reflect the policy balance 
+the Commission attempted to strike. NAB states that limiting polling to 
+two channels does not provide licensed operations with the same 
+capability and protection as under the Commission's previous rules or 
+the same capability and protection as the Commission sought to provide 
+with the push requirement. NAB further argues that Google's claim that 
+polling on all channels would drive up database costs and adversely 
+decrease device battery life is specious because the entire TV white 
+space database is less than a couple of hundred kilobytes of data. 
+Google counters that the issue is the frequency of database requests, 
+not the size of the database or the amount of information transmitted 
+in each request, and that increasing the number of requests 72-fold per 
+day per device will be a burden on the database as white space devices 
+become more widely deployed.
+    Only Key Bridge, a database administrator, disagrees that 
+implementing a push capability for white space devices and databases is 
+impractical. It argues that the Commission's requirement to implement 
+push notifications is sound and should be upheld, and that the 
+Commission should reject Google's and NAB's objections that managing 
+white space devices is too difficult to implement.
+    Push Notification Waiver Order. By late 2016, while the petitions 
+on push notification remained pending, no manufacturers had yet 
+obtained certification for equipment that was capable of meeting the 
+push notification requirement. Absent Commission action, all approved 
+white space devices would have been required to cease operation no 
+later than December 23, 2016. Accordingly, on December 22, 2016, the 
+Commission adopted the Push Notification Waiver Order temporarily 
+waiving the push notification requirements. OET has periodically 
+extended this waiver several times since then, most recently on 
+September 30, 2021 when it extended this waiver through March 31, 2022, 
+or until the Commission takes final action on the petitions for 
+reconsideration of the push notification rules, whichever comes 
+earlier. As a result of these successive waiver orders, the push 
+notification requirement has never come into effect. The Commission 
+notes that since issuance of these waiver orders, no party has 
+submitted additional suggestions for Commission consideration relating 
+to the pending petitions.
+
+Discussion
+
+    The record before the Commission shows that the push notification 
+requirement is viewed as problematic by advocates for licensed wireless 
+microphone and white space device operations alike. The Commission's 
+goal all along has been to adopt rules that would serve to protect 
+licensed wireless microphones quickly following registration while also 
+minimizing the burden on white space device operations. Although the 
+Commission believes that a push notification approach is technically 
+achievable, and notes that it has required access systems with rapid 
+response times that, like the push notification, are more complicated 
+than a periodic database re-check in other bands (such as in the 
+Citizens Broadband Radio Service), the Commission agrees with most 
+commenters and concludes that there is no reason to require a push 
+notification approach with respect to white space devices and the white 
+space database system. As discussed below, replacing the push 
+notification requirement with a more frequent re-check requirement will 
+meet the requisite need for protecting a limited number of registered 
+wireless microphones, and does so in a sufficiently expeditious
+
+[[Page 18989]]
+
+fashion while not increasing the cost and complexity of white space 
+devices and the database system by avoiding the need to redesign 
+existing white space devices and the database system.
+    Therefore, on reconsideration, the Commission replaces the push 
+notification requirement for fixed and Mode II personal/portable 
+devices operating in the TV bands, except for narrowband devices (which 
+are addressed in the Further Notice), with a simpler and more easily 
+implementable approach, namely requiring that these fixed and personal/
+portable white space devices re-check the white space database at least 
+once every hour, i.e., no longer than 60 minutes between re-checks. 
+This frequent re-check requirement will protect licensed wireless 
+microphone operations shortly following their database registration and 
+will effectively protect registered licensed wireless microphone 
+operations. The Commission adopts the requirement for white space 
+devices to check the database every hour rather than every 20 minutes 
+as it previously proposed because the Commission believe that this 
+time-frame will be sufficient to accommodate licensed wireless 
+microphones for unplanned events while reducing threefold the number of 
+database rechecks each day. Reducing the number of database rechecks is 
+important to ensure efficient white space device operation, reduce 
+overhead on the networks, and maximize battery life for white space 
+devices that are not connected to a reliable power source. To further 
+reduce the impact on network traffic and white space devices, the 
+Commission will not require devices that are in a sleep mode to re-
+check the database until they emerge from that state. Informed by the 
+record before it, both by objections to the push notification 
+requirement and by subsequent developments with regard to white space 
+device operations, the Commission again seeks to reach the right 
+balance between licensed wireless microphone users and white space 
+device users that share use of unused spectrum in the TV bands. The 
+Further Notice seeks comment on the database re-check interval that 
+should apply to the narrowband IoT white space devices and the mobile 
+white space devices that the Commission authorized in the recently 
+adopted 2020 White Spaces Report and Order.
+    Although NAB and wireless microphone interests have requested 
+requiring that white space devices re-check the database every 20 
+minutes, the Commission believes that requiring a re-check every 60 
+minutes will be sufficient and, by relying on a re-check approach 
+instead of the more complex push notification approach, the Commission 
+decision will serve to ensure the kind of reliable and effective 
+protection those parties seek. The Commission also retains the 
+requirement for database administrators to share Part 74 wireless 
+microphone registration information with all other white space 
+databases within ten minutes of a registration submission from a 
+wireless microphone licensee. The Commission finds that these 
+requirements will ensure that licensed wireless microphones used for 
+electronic newsgathering and other unplanned uses can receive reliable 
+and reasonably immediate protection from white space devices. In the 
+Commission's considerations, it takes into account that, following 
+completion of the Incentive Auction in 2017, licensed wireless 
+microphone users have immediate and exclusive access to a 4-megahertz 
+portion of the 600 MHz duplex gap and can also use a 2-megahertz 
+portion of the 600 MHz guard band where white space devices are not 
+permitted to operate, and that these wireless microphone operators 
+potentially could make use of the 6-megahertz of the 600 MHz duplex gap 
+available for unlicensed operations if white space devices are not 
+operating at that location. Also, in many parts of the country the 
+Commission would expect that there are likely to be one or more unused 
+vacant TV channels available for wireless microphones that are not 
+being used by white space devices.
+    The balanced approach that the Commission is adopting also does not 
+impose an unreasonable burden on white space devices or database 
+systems. Importantly, this approach is easily implementable. All 
+currently approved white space devices already have the capability to 
+re-check the white space databases at least once per day for a list of 
+all available channels in their area, and updating software or 
+firmware, or redesigning devices to increase the frequency of database 
+checking is a fairly simple matter. The Commission also concludes that 
+requiring fixed and personal portable white space devices, except for 
+narrowband IoT devices to re-check on an hourly basis, rather than 
+every 20 minutes as previously proposed, sufficiently balances concerns 
+of the white space device proponents concerned about potential battery 
+issues while meeting the Commission's goal of quickly ensuring licensed 
+wireless microphone access to TV channels for late-breaking events. The 
+Commission also recognizes the concerns of Google and Microsoft that 
+frequently waking a device from a sleep mode or preventing a device 
+from entering a sleep mode to perform more frequent database checks or 
+receive push notifications, could needlessly reduce the operational 
+time of a battery powered device. Accordingly, the Commission will not 
+require white space devices in sleep mode to contact the database. The 
+Commission also believes that the increase in database traffic by 
+changing to an hourly re-check interval will not be problematic for the 
+white space database as computing power readily available today should 
+be more than sufficient to manage twenty-four queries per day per white 
+space device.
+    The Commission notes, however, as the number of white space devices 
+that contact the database increases, more frequent re-checks from a 
+significantly larger number of devices could have an impact on the 
+databases. The Commission continues to believe that a push notification 
+system could in some implementations potentially be more efficient if 
+the number of white space devices that must contact the database is 
+large. Accordingly, while the Commission is not requiring 
+implementation of a push notification system, it is retaining an option 
+for white space device manufacturers and database administrators in the 
+future to develop and implement such a system, as had been permitted by 
+the rules in effect prior to the White Spaces Report and Order. 
+However, the Commission is not specifying detailed technical 
+requirements for a push notification system. The Commission encourages 
+the industry, if it determines that the need develops, to collaborate 
+on a standard for push notifications to white space devices and the 
+Commission will revisit this issue as necessary to facilitate the 
+development and deployment of a system developed by industry that 
+provides at least the same degree of protection to protected services 
+as the rules the Commission is adopting herein.
+    The Commission rejects the suggestion by Google and Microsoft that 
+the Commission should limit more frequent database re-checking to white 
+space devices operating on only two designated channels, a reprise of 
+the approach that the Commission previously rejected in the White 
+Spaces Report and Order in 2015. The Commission does so for the same 
+reasons. Because only a few channels would be designated for ``fast 
+polling,'' this approach is less flexible in meeting the needs of 
+wireless microphone users for immediate access to spectrum because 
+broadcasters covering breaking news events may have wireless
+
+[[Page 18990]]
+
+microphones that operate on channels other than those designated for 
+``fast polling.''
+    Conforming edits. Because the Commission is adopting a 60-minute 
+re-check requirement for most fixed and personal/portable white space 
+devices operating in the TV bands, it is also modifying certain other 
+rules to conform its rules to this change. In particular, the 
+Commission's changes involve modifying existing rule provisions related 
+to the requirement for white space devices to access the database on a 
+daily basis.
+    Under current rules, a white space device is required to re-check 
+the database at least once per day to obtain a list of available 
+channels for operation. The rules also provide that if a white space 
+device subsequently is unable to make contact with a database, 
+operation is permitted to continue until 11:59 p.m. on the following 
+day, and if by then, it cannot contact the database, it must cease 
+operation until such time as it re-establishes contact. The Commission 
+proposed eliminating these provisions when it proposed in its 2014 
+White Spaces NPRM to adopt a 20-minute re-check requirement for 
+addressing registered licensed wireless microphone operations. When, 
+however, the Commission adopted the push notification requirement in 
+the White Spaces Report and Order instead of a 20-minute re-check 
+requirement, it concluded that it should not eliminate the then-
+existing daily re-check rule and instead would leave in place the 
+requirement that white space devices re-check the database at least 
+once per day to obtain the list of available TV channels at the 
+location where the device operates.
+    Because the Commission now adopts a 60-minute re-check requirement 
+for fixed and personal/portable white space devices operating in the TV 
+bands, other than narrowband IoT devices (discussed in the Further 
+Notice), the Commission modifies the rules that require white space 
+devices to only re-check the database once a day to obtain a list of 
+available channels, and that permit these devices to continue operating 
+using a channel on that list until 11:59 p.m. the following day when it 
+cannot contact a database on a given day. Maintaining these rules would 
+be inappropriate since this would allow white space devices that cannot 
+contact a database to operate for a significantly longer time period 
+than the 60-minute re-check interval the Commission is requiring for 
+protecting licensed wireless microphones operating in the TV bands. The 
+Commission notes that in response to its proposal in the White Spaces 
+NPRM to require that white space devices re-check the database every 20 
+minutes, several commenters agreed that the daily re-check provision in 
+the rules, and permitting white space device to continue operating 
+until 11:59 p.m. the following day when it is unable to contact the 
+database, should be eliminated. Some commenters cautioned, though, that 
+the Commission should permit a white space device to retry contacting 
+the database one or more times before requiring that it discontinue 
+operating because a white space device may occasionally be unable to 
+make contact with the database within the designated polling interval. 
+The Commission agrees. Accordingly, to ensure that white space devices 
+may continue to operate during short network outages, the Commission 
+will require fixed and personal/portable white space devices operating 
+in the TV bands to cease operation after two failed scheduled checks, 
+i.e., 120 minutes. This requirement will ensure that a white space 
+device cannot continue to operate for an extended period of time on a 
+channel that may be registered for use by a licensed wireless 
+microphone in the event the white space device cannot contact a 
+database to verify the list of available channels. This approach also 
+is analogous to the current requirement that a white space device must 
+cease operation after a time period no greater than two failed 
+scheduled checks (a maximum of 48 hours for a re-check interval of 24 
+hours). The Commission retains the current re-check requirements for 
+white space devices that operate outside of the TV bands as well as for 
+narrowband and mobile devices, but seeks comment in the Further Notice 
+on whether it should change the re-check requirements for those 
+devices.
+    Because the Commission is reducing the length of time that white 
+space devices may continue to operate when they cannot contact the 
+database, it correspondingly reduces the time interval over which white 
+space devices must adjust their channel usage in accordance with 
+licensed wireless microphone scheduling information provided by the 
+database. The Commission therefore requires that the white space 
+database provide registered licensed wireless microphones scheduling 
+information for the two hour time period after the white space device 
+contacts the database. The white space device must adjust its use of 
+channels in accordance with this scheduling information, i.e., it must 
+cease using the channel during the times when a licensed wireless 
+microphone is scheduled to use it. The Commission selects a time period 
+of two hours because that is the maximum time that a white space device 
+may operate if it is unable to contact the database. The Commission 
+does not require white space devices operating outside the TV bands, 
+i.e., in the 600 MHz service bands, the upper 6-megahertz portion of 
+the 600 MHz duplex gap and on channel 37, to adjust their use of 
+channels in accordance with scheduling information provided by the 
+white space database because wireless microphones do not operate on 
+those frequencies on a licensed basis and thus there will be no 
+scheduling information for the database to provide.
+    The Commission modifies Section 15.711 to implement the changes to 
+the database re-check interval discussed above, and to streamline the 
+applicable rules. Specifically, it revises paragraph (i) to remove the 
+push notification requirement and replaces it with an option for 
+manufacturers to develop a push notification system as the pre-2015 
+rules allowed. The Commission moves the requirement for white space 
+databases to share licensed wireless microphone registrations with 
+other white space databases within ten minutes from Section 
+15.711(i)(1) to Section 15.715(l). The Commission revises Section 
+15.711(h) to place the database re-check requirements for fixed and 
+Mode II personal/portable devices in a single paragraph, rather than in 
+separate paragraphs as under the current rules.
+    Transition. The Commission also adopts provisions establishing the 
+transition requirements for white space device compliance with the 
+newly established re-check requirements as set forth herein. The 
+Commission notes that increasing the frequency of database checks can 
+generally be done by reprogramming a white space device's software or 
+firmware, thus enabling the new requirement to be met relatively 
+quickly. Accordingly, the Commission requires that devices for which a 
+certification application is approved by a Telecommunication 
+Certification Body (TCB) beginning six months after the effective date 
+of the rules must comply with the hourly database re-check requirement 
+that replaces the daily re-check requirement. The Commission also 
+requires that within six months after the effective date of the rules, 
+all white space devices imported into or marketed within the United 
+States comply with these requirements, regardless of when they were 
+certified. Because white space devices already deployed generally 
+should be able to download a software upgrade, the
+
+[[Page 18991]]
+
+Commission also requires that previously approved fixed white space 
+devices that can be re-programmed comply with the faster re-check 
+requirement six months after the effective date of the rules. Finally, 
+the Commission modifies Section 15.37(j) to specify these transition 
+dates for the faster database re-check interval in place of the 
+transition dates for the push notification requirement that the 
+Commission eliminates.
+
+Order
+
+    In this Order, the Commission denies NAB's petition for 
+reconsideration of OET's 2018 action designating Nominet UK as a white 
+space database administrator. OET referred this petition to the 
+Commission for action pursuant to Section 1.106(a) of the rules. 
+Nominet addressed concerns raised by NAB shortly after it filed its 
+petition. The Commission notes that in 2020 Nominet's database was 
+subsequently transferred to RED Technologies, which currently serves as 
+a white spaces database administrator.
+    Background. Pursuant to the white spaces rules, the Commission can 
+designate one or more entities to administer a white space database 
+system that provides lists of available channels to fixed, mobile and 
+Mode II personal/portable white space devices. On November 16, 2017, 
+Nominet filed a proposal with OET seeking to administer a white space 
+database. After seeking comment on Nominet's proposal, on June 11, 
+2018, the Commission's OET designated Nominet as a white space database 
+administrator, subject to certain conditions, including that Nominet's 
+database would be subject to a 45-day public trial period before it 
+would be made available for actual use by white space devices to allow 
+interested parties an opportunity to check that the database is 
+providing accurate results.
+    Following the 45-day public trial period, on September 19, 2018, 
+OET gave final approval for Nominet to operate its white space database 
+system. OET found that Nominet's white space database system was 
+compliant with the Commission's rules and ready for operation, based on 
+its own examination and testing of the Nominet database system and on 
+the results of the public trial, including comments submitted to 
+Nominet during and after the trial and Nominet's responses to those 
+comments. As OET noted, during the trial period Nominet indicated that 
+it successfully resolved three issues raised by NAB concerning 
+Nominet's database system, including concerns about its channel 
+availability calculator.
+    On October 19, 2018, NAB filed a petition for reconsideration of 
+OET's designation of Nominet as a white space database administrator. 
+NAB states that its review of Nominet's database indicated that it 
+contains incorrect channel information for hundreds of TV stations and 
+that it provides at least one incorrect available channel at more than 
+three-quarters of twenty-six locations analyzed. NAB states that the 
+Nominet database is extracting the wrong information from the 
+Commission database and that its approval should be revoked until 
+Nominet addresses these issues. NAB further argues that OET should 
+rework its internal processes and policies for approval of white space 
+database administrators to ensure that sufficient testing is performed 
+to detect errors, including testing with actual white space devices.
+    Nominet responded to NAB's petition by agreeing that NAB had 
+identified discrepancies, but asserts that those discrepancies arose 
+due to difficulties experienced when importing TV station data from the 
+Commission's new Licensing and Management System (LMS), which had 
+replaced the Commission's Consolidated Database System (CDBS). Nominet 
+explains that it was the first database administrator required to use 
+the LMS, and that all published material by the FCC regarding how to 
+apply the white space rules to TV data pertains to CDBS, which had been 
+used by all previous database administrators. Nominet concludes by 
+stating it promptly addressed NAB's concerns, and that the changes 
+required to correct the import procedure were applied on October 24, 
+2018, only days after NAB filed its petition for reconsideration on 
+October 19, 2018. NAB did not respond directly to Nominet's response or 
+identify specific ongoing errors that needed remedying.
+    The Commission notes that, subsequent to the designation of Nominet 
+as a white space database administrator, and in response to a petition 
+submitted by NAB in 2015, the Commission took steps in the 2019 White 
+Spaces Order to improve the accuracy and reliability of the fixed white 
+space device data in the white space databases and ensure that the 
+potential for these devices to cause harmful interference to protected 
+services is minimized. Specifically, the Commission required all fixed 
+white space devices to incorporate a geo-location capability such as 
+GPS and eliminated the option that permitted the geographic coordinates 
+of a fixed device to be determined by a professional installer. The 
+Commission also adopted rules that allow the use of external geo-
+location sources by a fixed white space device when the device is used 
+at a location where its internal geo-location capability does not 
+function, such as deep inside a building. In addition, the Commission 
+required fixed white space devices to re-check their geographic 
+coordinates at least once a day and report the coordinates to the white 
+space database.
+    Discussion. The Commission denies the NAB petition for 
+reconsideration of OET's designation of Nominet as a white space 
+database administrator. The Commission finds that the database errors 
+discovered by NAB, which were immediately corrected by Nominet, are not 
+grounds to revoke the designation of Nominet as a white space database 
+administrator. As Nominet notes in its response to NAB's petition, 
+Nominet was the first white space database administrator required to 
+obtain TV station data from the Commission's new LMS instead of the 
+older, well-understood CDBS. The LMS has a more sophisticated data 
+structure than the CDBS, thus requiring new and more complex algorithms 
+than those used by other white space database administrators to extract 
+the proper TV station facility information (``extraction logic'') for 
+input into the white space database. OET worked closely with Nominet to 
+test the new extraction logic using Nominet's trial database to ensure 
+that it functioned correctly. It appears that Nominet failed to include 
+all of the updates made to the test database reviewed by OET in the 
+final version that it made available for commercial use. As noted 
+above, Nominet took action to remedy specific concerns raised by NAB. 
+While the Commission is denying NAB's petition, the Commission 
+underscores that it appreciates NAB bringing these concerns to the 
+attention of the Commission and Nominet so that the errors could be 
+remedied. However, the Commission does not believe that these errors 
+show any fundamental deficiency on the part of the database 
+administrator but appear to be the result of issues related to the 
+Commission's transition from the CDBS to the LMS combined with an 
+inadvertent failure by Nominet to include all of the latest updates in 
+its final version of the database. Nominet promptly recognized its 
+ongoing responsibility for remedying concerns brought to its attention. 
+As noted above, in 2020, Nominet transferred its database to RED 
+Technology, and NAB did not indicate any concerns about this transfer.
+    The Commission takes seriously the integrity of the white space 
+database since that is the primary means to
+
+[[Page 18992]]
+
+prevent white space devices from causing harmful interference to TV 
+reception and other protected services. As noted above, the Commission 
+at the suggestion of NAB took steps to increase the integrity of the 
+white space database subsequent to the 2018 designation of Nominet as a 
+white space database administrator. The changes adopted in the 2019 
+White Spaces Order will ensure that fixed white space devices provide 
+accurate coordinates to the white space database by requiring the 
+incorporation of a geo-location mechanism in all fixed devices, as well 
+as periodic re-checking of the coordinates by the white space device. 
+The 2019 White Spaces Order also clarifies the registration 
+requirements for fixed white space devices. These changes reduce the 
+likelihood that fixed devices will report incorrect coordinates to the 
+database, which could result in harmful interference to TV reception 
+and protected services, as well as ensure the database contains 
+accurate registration information that could be used to help track down 
+any devices that cause harmful interference. OET will continue to work 
+with any white space database administrator as well as any other 
+interested party to ensure that the database provides accurate lists of 
+available channels to white space devices.
+
+Ordering Clauses
+
+    Accordingly, it is ordered that, pursuant to the authority 
+contained in Sections 4(i), 302, 303(b), (c), (e), (f), (r), and 307 of 
+the Communications Act of 1934, as amended, and sections 6403 and 6407 
+of the Middle Class Tax Relief and Job Creation Act of 2012, Public Law 
+112-96, 126 Stat. 156, 47 U.S.C. 154(i), 302, 303(b), (c), (e), (f), 
+(r), 307, 1452, 1454, this Second Order on Reconsideration, Further 
+Notice of Proposed Rulemaking, and Order is hereby adopted.
+    It is further ordered that the petitions for reconsiderations filed 
+by Google, Inc. and the National Association of Broadcasters on 
+December 23, 2015 in ET Docket No. 14-165 are granted in part and 
+denied in part to the extent described herein.
+    It is further ordered that Part 15 of the Commission's rules is 
+amended as specified in Appendix A of the Second Order on 
+Reconsideration, Further Notice of Proposed Rulemaking, and Order, and 
+such rule amendments will become effective 30 days after the date of 
+publication in the Federal Register.
+    It is further ordered that the waiver of Sections 15.37(j) and 
+15.711(i) of the Commission's rules, 47 CFR 15.37(j) and 15.711(i), 
+adopted by the Commission on September 30, 2021, DA 21-349, is extended 
+until the effective date of the rules adopted herein.
+    It is further ordered that the petition for reconsideration of 
+Nominet UK's designation as a white space database administrator filed 
+by the National Association of Broadcasters on October 19, 2018 in ET 
+Docket No. 04-186 is hereby denied.
+    It is further ordered that the Commission's Consumer and 
+Governmental Affairs Bureau, Reference Information Center, shall send a 
+copy of the Second Order on Reconsideration, Further Notice of Proposed 
+Rulemaking, and Order, including the Final Regulatory Flexibility 
+Analysis, to the Chief Counsel for Advocacy of the U.S. Small Business 
+Administration.
+
+List of Subjects in 47 CFR Part 15
+
+    Communications equipment.
+
+Federal Communications Commission.
+Marlene Dortch,
+Secretary.
+
+Final Rules
+
+    For the reasons set forth in the preamble, the Federal 
+Communications Commission amends 47 CFR part 15 as follows:
+
+0
+1. The authority citation for part 15 continues to read as follows:
+
+    Authority: 47 U.S.C. 154, 302a, 303, 304, 307, 336, 544a, and 
+549.
+
+
+0
+2. Amend Sec.  15.37 by revising paragraph (j) to read as follows:
+
+
+Sec.  15.37  Transition provisions for compliance with the rules.
+
+* * * * *
+    (j) White space devices which are approved by Telecommunication 
+Certification Bodies beginning [six months after the effective date of 
+the rules] shall comply with the database re-check requirements in 
+Sec.  15.711(h) of this part. White space devices that are in 
+operation, imported or marketed beginning [six months after the 
+effective date of the rules] shall also comply with these requirements.
+* * * * *
+
+0
+3. Amend Sec.  15.711 by revising paragraphs (c)(2)(iii), (d)(4), (h) 
+and (i) to read as follows:
+
+
+Sec.  15.711   Interference avoidance methods.
+
+* * * * *
+    (c) * * *
+    (2) * * *
+    (iii) A fixed white space device shall access the database at least 
+as frequently as specified in paragraph (h) of this section to verify 
+that the operating channel(s) and corresponding power levels continue 
+to remain available. The fixed device's registration information shall 
+be updated if the geographic coordinates reported to the database 
+differ by more than <plus-minus>50 meters from the previously 
+registered coordinates.
+* * * * *
+    (d) * * *
+    (4) A Mode II personal/portable white space device that has been in 
+a powered state shall re-check its location and access the database at 
+least as frequently as specified in paragraph (h) of this section to 
+verify that the operating channel(s) and corresponding power levels 
+continue to be available.
+* * * * *
+    (h) Database re-check requirement. (1) Fixed and Mode II personal/
+portable devices, except for narrowband devices, operating in the 
+television bands.
+    (i) A device that has been in a powered-on state shall access the 
+white space database at least once every 60 minutes to verify that the 
+operating channel(s) and associated maximum power levels continue to be 
+available at its location. Devices shall adjust their channel usage in 
+accordance with the most recent channel availability schedule 
+information provided by the white space database for the two-hour 
+period beginning at the time of the device last accessed the database 
+for a list of available channels.
+    (ii) If a device fails to successfully contact the white space 
+database, it may continue to operate until no longer than 120 minutes 
+after the last successful contact, at which time it must cease 
+operations until it reestablishes contact with the white space database 
+and re-verifies its list of available channels and associated maximum 
+power levels.
+    (2) Narrowband devices operating in the television bands and fixed 
+and Mode II personal/portable devices operating outside of the 
+television bands.
+    (i) A device that has been in a powered-on state shall access the 
+database at least once a day to verify that the operating channel(s) 
+and associated maximum power levels continue to be available at its 
+location.
+    (ii) If a device fails to successfully contact the white space 
+database during any given day, it may continue to operate until 11:59 
+p.m. of the following day at which time it must cease operations until 
+it re-establishes contact with the white space database and re-verifies 
+its list of available channels and corresponding power levels.
+    (i) Push notifications. Device manufacturers and database 
+administrators may implement a system that pushes updated channel 
+availability information from the
+
+[[Page 18993]]
+
+database to white space devices. However, the use of such systems is 
+not mandatory, and the requirements for white space devices to validate 
+the operating channel and to cease operation in accordance with 
+paragraph (h) of this section continue to apply if such a system is 
+used.
+* * * * *
+
+0
+4. Amend Sec.  15.715 by revising paragraph (l) to read as follows:
+
+
+Sec.  15.715   White space database administrator.
+
+* * * * *
+    (l) If more than one database is developed, the database 
+administrators shall cooperate to develop a standardized process for 
+providing on a daily basis or more often, as appropriate, the data 
+collected for the facilities listed in Sec.  15.713(b)(2) to all other 
+white space databases to ensure consistency in the records of protected 
+facilities. In response to a request for immediate access to a channel 
+by a licensed wireless microphone user, white space database 
+administrators are required to share the licensed microphone channel 
+registration information to all other white space database 
+administrators within 10 minutes of receiving each wireless microphone 
+registration.
+* * * * *
+
+[FR Doc. 2022-06503 Filed 3-31-22; 8:45 am]
+BILLING CODE 6712-01-P
+
+

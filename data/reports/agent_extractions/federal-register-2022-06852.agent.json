@@ -1,0 +1,152 @@
+{
+  "status_of_this_file": "UNREVIEWED Claude Code subagent output used as REVIEW AID; not a production candidate; not human-accepted",
+  "source_document_id": "2022-06852",
+  "publication_date_manifest": "2022-04-01",
+  "document_sha256": "3103200bf04ef7a9a32bbe76037f98b343e22863dd9274c298dba9f6027c6cad",
+  "source_hash_ok": true,
+  "source_text_mode": "govinfo_gpo_html_pre_text",
+  "original_text_url": "https://www.govinfo.gov/content/pkg/FR-2022-04-01/html/2022-06852.htm",
+  "agent_output": {
+    "source_document_id": "2022-06852",
+    "publication_date": "2022-04-01",
+    "is_event": true,
+    "event_type": "new_legal_requirement",
+    "status": "final_in_force",
+    "affected_group": "Cboe BYX Exchange, Inc. Members (broker-dealers) and their registered representatives and principals, including persons with terminated registrations and FSA waiver program participants",
+    "change_summary": "Cboe BYX Exchange filed, and the SEC published notice of, an immediately effective rule change amending its Continuing Education (CE) Program: moving CE rules from Rule 2.5.02 to new Rule 2.16; transitioning the Regulatory Element from a three-year cycle to an annual requirement due by December 31 for each registration category held; adopting a new Firm Element requiring Members to maintain an annual written training plan and records; adding a maintenance-of-qualification option (Rule 2.16(c)) for individuals who terminate registrations; recognizing Cboe/C2/FINRA FSA waiver programs; and adopting new registration rules. Implementation is phased: Rule 2.16(c) and FSAWP recognition effective March 15, 2022; all other changes effective January 1, 2023. The SEC waived the 30-day operative delay; the Commission may still suspend it within 60 days of filing. Comments due April 22, 2022.",
+    "effective_at": "2022-03-15",
+    "evidence": [
+      {
+        "field": "change_summary",
+        "quote": "The Exchange proposes to amend its rules relating to the Continuing \nEducation for Registered Persons and move those rules from \nInterpretation and Policy .02 of Rule 2.5 to proposed Rule 2.16 and to \namend related registration requirements provided under various \nInterpretations and Policies of Rule 2.5."
+      },
+      {
+        "field": "change_summary",
+        "quote": "the Exchange proposes adopting Rule 2.16(a) to require \nregistered persons to complete the Regulatory Element annually by \nDecember 31."
+      },
+      {
+        "field": "change_summary",
+        "quote": "The Exchange proposes to adopt proposed Rule 2.16(b) to include a \nFirm Element component for its CE Program that aligns with Cboe Rule \n3.33(b) and FINRA Rule 1240(b). The proposed rule would require Members \nto maintain a continuing and current education program for its \nregistered persons to enhance their securities knowledge, skills and \nprofessionalism."
+      },
+      {
+        "field": "change_summary",
+        "quote": "The Exchange proposes to adopt Rules 2.16(c), 2.16.01, and 2.16.02 \nto provide eligible individuals who terminate any of their \nrepresentative or principal registrations the option of maintaining \ntheir qualification for any of the terminated registrations by \ncompleting continuing education."
+      },
+      {
+        "field": "affected_group",
+        "quote": "The continuing education program for registered persons of broker-\ndealers (``CE Program'') generally requires registered persons to \ncomplete continuing education consisting of a Regulatory Element."
+      },
+      {
+        "field": "affected_group",
+        "quote": "proposed Rule \n2.5.05 provides that all registered representatives and principals, \nincluding those individuals who solely maintain permissive \nregistrations pursuant to proposed Rule 2.5.08 shall satisfy the \nRegulatory Element of continuing education for each representative or \nprincipal registration category that they hold"
+      },
+      {
+        "field": "effective_at",
+        "quote": "Specifically, \nthe proposed implementation dates are as follows: Changes relating to \nproposed Rule 2.16(c) (Continuing Education Program for Persons \nMaintaining Their Qualification Following the Termination of a \nRegistration Category) will become effective March 15, 2022; changes to \nrecognize waiver of examination programs for individuals working for a \nfinancial services industry affiliate of a member that are administered \nby the Exchange's affiliates, Cboe Exchange, Inc. (``Cboe'') and Cboe \nC2 Exchange, Inc. (``C2''), and by FINRA (referred to as the ``FSA \nwaiver programs'' or ``FSAWPs'') will become effective March 15, 2022; \nand all other changes, including changes reflected in proposed Rules \n2.16(a) (Regulatory Element) \\7\\ and 2.16(b) (Firm Element) will become \neffective January 1, 2023."
+      },
+      {
+        "field": "effective_at",
+        "quote": "Accordingly, the Commission hereby \nwaives the 30-day operative delay and designates the proposal operative \nupon filing."
+      },
+      {
+        "field": "status",
+        "quote": "it has become \neffective pursuant to Section 19(b)(3)(A) of the Act \\45\\ and Rule 19b-\n4(f)(6) thereunder."
+      },
+      {
+        "field": "status",
+        "quote": "At any time within 60 days of the filing of the proposed rule \nchange, the Commission summarily may temporarily suspend such rule \nchange if it appears to the Commission that such action is necessary or \nappropriate in the public interest, for the protection of investors, or \notherwise in furtherance of the purposes of the Act."
+      }
+    ],
+    "uncertainties": [
+      "Phased effective dates: March 15, 2022 (pre-dating publication) and January 1, 2023; effective_at reflects earliest in-force date only.",
+      "Subject to possible SEC summary suspension within 60 days and comment period ending April 22, 2022.",
+      "Notice of an SRO rule filing, not an SEC rule; Exhibit 5 text not included.",
+      "Largely conforms to FINRA (SR-FINRA-2021-015) and Cboe changes already approved; underlying industry-wide change first announced earlier.",
+      "Typographical inconsistencies in the original."
+    ],
+    "economically_material": "REDACTED_FROM_REVIEWER_PATH (see agent_materiality_sidecar.json; may contain forward-looking speculation)"
+  },
+  "quote_checks": [
+    {
+      "field": "change_summary",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "The Exchange proposes to amend its rules relating to the Continuing \nEducation for Registered Persons and move those rules from \nInterpretation and Policy .02 of Rule 2.5 to proposed Rule 2.16 and to \namend related registration requirements provided under various \nInterpretations and Policies of Rule 2.5."
+    },
+    {
+      "field": "change_summary",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "the Exchange proposes adopting Rule 2.16(a) to require \nregistered persons to complete the Regulatory Element annually by \nDecember 31."
+    },
+    {
+      "field": "change_summary",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "The Exchange proposes to adopt proposed Rule 2.16(b) to include a \nFirm Element component for its CE Program that aligns with Cboe Rule \n3.33(b) and FINRA Rule 1240(b). The proposed rule would require Members \nto maintain a continuing and current education program for its \nregistered persons to enhance their securities knowledge, skills and \nprofessionalism."
+    },
+    {
+      "field": "change_summary",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "The Exchange proposes to adopt Rules 2.16(c), 2.16.01, and 2.16.02 \nto provide eligible individuals who terminate any of their \nrepresentative or principal registrations the option of maintaining \ntheir qualification for any of the terminated registrations by \ncompleting continuing education."
+    },
+    {
+      "field": "affected_group",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "The continuing education program for registered persons of broker-\ndealers (``CE Program'') generally requires registered persons to \ncomplete continuing education consisting of a Regulatory Element."
+    },
+    {
+      "field": "affected_group",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "proposed Rule \n2.5.05 provides that all registered representatives and principals, \nincluding those individuals who solely maintain permissive \nregistrations pursuant to proposed Rule 2.5.08 shall satisfy the \nRegulatory Element of continuing education for each representative or \nprincipal registration category that they hold"
+    },
+    {
+      "field": "effective_at",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "Specifically, \nthe proposed implementation dates are as follows: Changes relating to \nproposed Rule 2.16(c) (Continuing Education Program for Persons \nMaintaining Their Qualification Following the Termination of a \nRegistration Category) will become effective March 15, 2022; changes to \nrecognize waiver of examination programs for individuals working for a \nfinancial services industry affiliate of a member that are administered \nby the Exchange's affiliates, Cboe Exchange, Inc. (``Cboe'') and Cboe \nC2 Exchange, Inc. (``C2''), and by FINRA (referred to as the ``FSA \nwaiver programs'' or ``FSAWPs'') will become effective March 15, 2022; \nand all other changes, including changes reflected in proposed Rules \n2.16(a) (Regulatory Element) \\7\\ and 2.16(b) (Firm Element) will become \neffective January 1, 2023."
+    },
+    {
+      "field": "effective_at",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "Accordingly, the Commission hereby \nwaives the 30-day operative delay and designates the proposal operative \nupon filing."
+    },
+    {
+      "field": "status",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "it has become \neffective pursuant to Section 19(b)(3)(A) of the Act \\45\\ and Rule 19b-\n4(f)(6) thereunder."
+    },
+    {
+      "field": "status",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "At any time within 60 days of the filing of the proposed rule \nchange, the Commission summarily may temporarily suspend such rule \nchange if it appears to the Commission that such action is necessary or \nappropriate in the public interest, for the protection of investors, or \notherwise in furtherance of the purposes of the Act."
+    }
+  ],
+  "code_verdict": "PASS_QUOTES"
+}

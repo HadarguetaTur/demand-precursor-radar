@@ -1,0 +1,15 @@
+version: 0.1.0
+population: reviewed-and-accepted unique events, within ex-ante source and period scope
+method: proportional-allocation-stratified-simple-random-sampling
+strata:
+  - source_id
+  - publication_year
+fixed_seed: 26023
+pilot_n: 20
+final_n: 150
+allocation: largest_remainder_from_population_counts
+within_stratum: uniform_without_replacement
+inclusion_probability: selected_in_stratum / eligible_in_stratum
+frame_lock: accepted events and acceptance reviews checksummed in frozen manifest
+missing_events: never invent or top_up_from_popularity
+coverage_warning: probabilistic inference is limited to the constructed eligible-event frame

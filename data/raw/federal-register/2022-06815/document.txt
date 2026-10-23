@@ -1,0 +1,70 @@
+
+[Federal Register Volume 87, Number 63 (Friday, April 1, 2022)]
+[Proposed Rules]
+[Page 19063]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2022-06815]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF DEFENSE
+
+Defense Acquisition Regulations System
+
+48 CFR Parts 203, 204, 205, 207, 208, 211, 212, 213, 215, 216, 217, 
+219, 222, 223, 225, 226, 227, 232, 234, 237, 239, 242, 243, 244, 
+245, 246, 247, and 252
+
+[Docket DARS-2022-0004]
+RIN 0750-AK31
+
+
+Defense Federal Acquisition Regulation Supplement: Revision of 
+Definition of ``Commercial Item'' (DFARS Case 2018-D066)
+
+AGENCY: Defense Acquisition Regulations System, Department of Defense 
+(DoD).
+
+ACTION: Proposed rule; correction.
+
+-----------------------------------------------------------------------
+
+SUMMARY: DoD is correcting proposed regulations that published in the 
+Federal Register on March 18, 2022. The document included an incorrect 
+hyperlink. This document reflects the correct hyperlink.
+
+DATES: Comments for the proposed rule published March 18, 2022, at 87 
+FR 15820, continue to be accepted on or before May 17, 2022, to be 
+considered in the formulation of a final rule.
+
+ADDRESSES: Submit comments identified by DFARS Case 2018-D066, using 
+any of the following methods:
+    <bullet> Federal eRulemaking Portal: https://www.regulations.gov. 
+Search for ``DFARS Case 2018-D066''. Select ``Comment Now'' and follow 
+the instructions provided to submit a comment. Please include ``DFARS 
+Case 2018-D066'' on any attached documents.
+    <bullet> Email: <span class="__cf_email__" data-cfemail="6a05190e440e0c0b18192a070b030644070306">[email protected]</span>. Include DFARS Case 2018-D066 in 
+the subject line of the message.
+    Comments received generally will be posted without change to 
+https://www.regulations.gov, including any personal information 
+provided. To confirm receipt of your comment(s), please check https://www.regulations.gov, approximately two to three days after submission 
+to verify posting.
+
+FOR FURTHER INFORMATION CONTACT: Ms. Jennifer D. Johnson, telephone 
+571-372-6100.
+
+SUPPLEMENTARY INFORMATION: On March 18, 2022, DoD published a proposed 
+rule in the Federal Register at 87 FR 15820 titled ``Revision of 
+Definition of ``Commercial Item'' (DFARS Case 2018-D066)''. The 
+hyperlink at the end of the ``I. Background'' section contained an 
+incorrect hyperlink for the referenced Section 809 Panel Report. The 
+correct hyperlink is ``https://discover.dtic.mil/section-809-panel/''.
+
+Jennifer D. Johnson,
+Editor/Publisher, Defense Acquisition Regulations System.
+[FR Doc. 2022-06815 Filed 3-31-22; 8:45 am]
+BILLING CODE 5001-06-P
+
+

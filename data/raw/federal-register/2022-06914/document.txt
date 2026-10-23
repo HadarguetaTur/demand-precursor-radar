@@ -1,0 +1,149 @@
+
+[Federal Register Volume 87, Number 63 (Friday, April 1, 2022)]
+[Notices]
+[Pages 19092-19093]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2022-06914]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF HEALTH AND HUMAN SERVICES
+
+Centers for Disease Control and Prevention
+
+[60Day-22-22DI; Docket No. CDC-2022-0035]
+
+
+Proposed Data Collection Submitted for Public Comment and 
+Recommendations
+
+AGENCY: Centers for Disease Control and Prevention (CDC), Department of 
+Health and Human Services (HHS).
+
+ACTION: Notice with comment period.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The Centers for Disease Control and Prevention (CDC), located 
+within the Department of Health and Human Services (HHS), as part of 
+its continuing effort to reduce public burden and maximize the utility 
+of government information, invites the general public and other federal 
+agencies the opportunity to comment on a proposed information 
+collection, as required by the Paperwork Reduction Act of 1995. This 
+notice invites comment on a proposed information collection project 
+titled Noise Exposures and Hearing Loss in the Oil and Gas Extraction 
+Industry. This information collection is designed to evaluate oil and 
+gas extraction workers' noise and chemical exposures and hearing.
+
+DATES: CDC must receive written comments on or before May 31, 2022.
+
+ADDRESSES: You may submit comments, identified by Docket No. CDC-2022-
+0035, by either of the following methods:
+    <bullet> Federal eRulemaking Portal: www.regulations.gov. Follow 
+the instructions for submitting comments.
+    <bullet> Mail: Jeffrey M. Zirger, Information Collection Review 
+Office, Centers for Disease Control and Prevention, 1600 Clifton Road 
+NE, MS H21-8, Atlanta, Georgia 30329.
+    Instructions: All submissions received must include the agency name 
+and Docket Number. CDC will post, without change, all relevant comments 
+to www.regulations.gov.
+    Please note: Submit all comments through the Federal eRulemaking 
+portal (www.regulations.gov) or by U.S. mail to the address listed 
+above.
+
+[[Page 19093]]
+
+
+FOR FURTHER INFORMATION CONTACT: To request more information on the 
+proposed project or to obtain a copy of the information collection plan 
+and instruments, contact Jeffrey M. Zirger, Information Collection 
+Review Office, Centers for Disease Control and Prevention, 1600 Clifton 
+Road NE, MS H21-8, Atlanta, Georgia 30329; phone: 404-639-7570; Email: 
+<span class="__cf_email__" data-cfemail="caa5a7a88aa9aea9e4ada5bc">[email protected]</span>.
+
+SUPPLEMENTARY INFORMATION: Under the Paperwork Reduction Act of 1995 
+(PRA) (44 U.S.C. 3501-3520), federal agencies must obtain approval from 
+the Office of Management and Budget (OMB) for each collection of 
+information they conduct or sponsor. In addition, the PRA also requires 
+federal agencies to provide a 60-day notice in the Federal Register 
+concerning each proposed collection of information, including each new 
+proposed collection, each proposed extension of existing collection of 
+information, and each reinstatement of previously approved information 
+collection before submitting the collection to the OMB for approval. To 
+comply with this requirement, we are publishing this notice of a 
+proposed data collection as described below.
+    The OMB is particularly interested in comments that will help:
+    1. Evaluate whether the proposed collection of information is 
+necessary for the proper performance of the functions of the agency, 
+including whether the information will have practical utility;
+    2. Evaluate the accuracy of the agency's estimate of the burden of 
+the proposed collection of information, including the validity of the 
+methodology and assumptions used;
+    3. Enhance the quality, utility, and clarity of the information to 
+be collected;
+    4. Minimize the burden of the collection of information on those 
+who are to respond, including through the use of appropriate automated, 
+electronic, mechanical, or other technological collection techniques or 
+other forms of information technology, e.g., permitting electronic 
+submissions of responses; and
+    5. Assess information collection costs.
+
+Proposed Project
+
+    Noise Exposures and Hearing Loss in the Oil and Gas Extraction 
+Industry--New--National Institute for Occupational Safety and Health 
+(NIOSH), Centers for Disease Control and Prevention (CDC).
+
+Background and Brief Description
+
+    Oil and gas extraction (OGE) workers play an important role in 
+supporting the United States economy and help fulfill the energy needs 
+of Americans and American businesses. OGE workers have significant 
+risks for a variety of exposures at oil and gas well sites, and there 
+has been no significant occupational noise exposure research in the 
+United States onshore upstream OGE sector. This proposed project will 
+characterize relationships between noise exposure, chemical exposures, 
+hearing loss, and hearing loss prevention practices within the onshore 
+OGE industry.
+    Primary data will be collected using three approaches. First, 
+researchers will collect direct measurements of noise and ototoxic 
+chemicals on job sites, including personal exposure assessments of OGE 
+workers. Second, researchers will use a questionnaire to collect 
+information on noise and chemical exposures, hearing loss, and 
+associated factors among OGE workers. Third, audiometry tests performed 
+by NIOSH will be offered to industry partners to further understand 
+extent of hearing loss amongst OGE workers.
+    Data will be used to understand noise exposures, ototoxic chemical 
+exposures, self-reported hearing loss, and hearing loss prevention 
+practices in the OGE industry. Subsequently, the data and analysis will 
+be used to create evidence-based interventions and recommendations, 
+which will be communicated to the spectrum of OGE industry 
+stakeholders.
+    CDC requests OMB approval for an estimated 65 annual burden hours. 
+There is no cost to respondents other than their time to participate.
+
+                                                            Estimated Annualized Burden Hours
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                                                             Number of    Average burden
+              Type of respondents                               Form name                    Number of     responses per   per response    Total burden
+                                                                                            respondents     respondent      (in hours)      (in hours)
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+Oil and Gas Workers............................  Noise and Hearing Questionnaire........             167               1           17/60              47
+                                                 Audiometry Testing.....................              33               1           30/60              17
+                                                 Exposure Monitoring Results                          40               1            2/60               1
+                                                  Notification Form.
+                                                                                         ---------------------------------------------------------------
+    Total......................................  .......................................  ..............  ..............  ..............              65
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Jeffrey M. Zirger,
+Lead, Information Collection Review Office, Office of Scientific 
+Integrity, Office of Science, Centers for Disease Control and 
+Prevention.
+[FR Doc. 2022-06914 Filed 3-31-22; 8:45 am]
+BILLING CODE 4163-18-P
+
+

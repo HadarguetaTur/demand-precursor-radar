@@ -1,0 +1,1402 @@
+{
+  "rows": [
+    {
+      "document_sha256": "c600d62352470b1465f19c8c4573c8076e5b2bc5f214e7f973c6cf329bd998d7",
+      "matched_signals": [
+        "compliance",
+        "effective",
+        "final rule",
+        "mandatory",
+        "must",
+        "no longer",
+        "require",
+        "required",
+        "requires",
+        "will be"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-04705",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "3f3d6a6be5cd9aa5ac406685568e533253bf7ab54bdda82cb34a5a336490d21d",
+      "matched_signals": [
+        "compliance",
+        "deadline",
+        "effective",
+        "final rule",
+        "mandatory",
+        "must",
+        "no longer",
+        "prohibit",
+        "require",
+        "required",
+        "requires",
+        "will be"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06173",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "445807dcdf33efc059e9df0e5bd888a7a0c2ba421a9f14b6f70dafb12ba7b6f3",
+      "matched_signals": [
+        "compliance",
+        "deadline",
+        "effective",
+        "final rule",
+        "mandatory",
+        "must",
+        "no longer",
+        "prohibit",
+        "prohibited",
+        "require",
+        "required",
+        "requires",
+        "will be"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06197",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "d09d735a5c02093023b74ea6f5f21c06877b1aea2a8402ebcaead1d76b545687",
+      "matched_signals": [
+        "compliance",
+        "effective",
+        "final rule",
+        "mandatory",
+        "must",
+        "new requirement",
+        "no longer",
+        "require",
+        "required",
+        "requires",
+        "will be"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06366",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "d44d16263d4e31bb146ff15305db3facd6f9c2b1c5083ea64a83ee59a7038f92",
+      "matched_signals": [
+        "compliance",
+        "effective",
+        "final rule",
+        "mandatory",
+        "must",
+        "new requirement",
+        "no longer",
+        "require",
+        "required",
+        "requires",
+        "will be"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06503",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "aede3139f6bf86e0a58ef5fe993a3ff6855cf04630338dac0b5925ab3a0de1d2",
+      "matched_signals": [
+        "effective",
+        "final rule",
+        "mandatory",
+        "required",
+        "requires"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06517",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "3434a29feff42e2437d89e87b255d3fed01a197a92d6ce3e4dd336cd55557396",
+      "matched_signals": [
+        "effective",
+        "mandatory",
+        "must",
+        "no longer",
+        "prohibited",
+        "prohibition",
+        "require",
+        "required",
+        "will be"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06521",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "2f3fd6313195b7e62a0a1d3e5394b51e8e9590176b8a694dde33a6058527b7f4",
+      "matched_signals": [
+        "compliance",
+        "effective",
+        "must",
+        "require",
+        "requires",
+        "will be"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06559",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "014c1c953c415c6a209409c5afb876b0273680cb055e1d106ae9531c02f125c3",
+      "matched_signals": [
+        "deadline",
+        "effective",
+        "must",
+        "required",
+        "will be"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06561",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "ebba85b4cfaa7e4bed9955c8c1a8b4630513a33c02378743d0c2de77433cab70",
+      "matched_signals": [
+        "deadline",
+        "effective",
+        "must",
+        "required",
+        "will be"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06562",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "62bf7e8ce53c4f92da9c3235454c7bde06c27da9d9bb978da0ab173d6eaf2d46",
+      "matched_signals": [
+        "deadline",
+        "effective",
+        "must",
+        "required",
+        "will be"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06563",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "28dbe396db3c370f23f4b45de8cd7e38d0cf040dea106ea9da4a26f9f7e59c7a",
+      "matched_signals": [
+        "compliance",
+        "deadline",
+        "effective",
+        "final rule",
+        "mandatory",
+        "must",
+        "no longer",
+        "prohibited",
+        "require",
+        "required",
+        "requires",
+        "will be"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06648",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "4691048551cffca40dab8ba201ec0ba53ad5a3fa823945e0d93887236ea65d9d",
+      "matched_signals": [
+        "deadline",
+        "effective",
+        "must",
+        "required",
+        "will be"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06730",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "a298812077748c45c6c277c380c65713fe41be2a513be09681f0d207ec9b6583",
+      "matched_signals": [
+        "must",
+        "required",
+        "requires",
+        "will be"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06748",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "d9250de7014a44298b5ba72e719b6e480f2f149b20bf0e8fc54666807679e6ae",
+      "matched_signals": [
+        "compliance",
+        "will be"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06767",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "40ea6b09f7bdf3f311fcd3d26744bc7a52604d78ccf988618ca3f564885bb736",
+      "matched_signals": [
+        "compliance",
+        "mandatory",
+        "must",
+        "require",
+        "required",
+        "will be"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06769",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "40c3f1992ed8eaa08cfa78d1fad694c01a3869d285c4f9e6ac34e13094c03ba4",
+      "matched_signals": [
+        "compliance",
+        "effective",
+        "mandatory",
+        "must",
+        "require",
+        "required",
+        "requires",
+        "will be"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06771",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "c97199877f6bac1d3a32030ae38a0fe6df9f80afe627c764048d5e053f780c51",
+      "matched_signals": [
+        "compliance",
+        "effective",
+        "mandatory",
+        "must",
+        "require",
+        "required",
+        "will be"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06772",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "45ae1acb80ca3dfde34d483fa8fba2d0bf9d6b53d54bb75d8606d67b9f706526",
+      "matched_signals": [
+        "final rule",
+        "will be"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06815",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "cc3b57f9ce3c125af691a06714cc613dda75054b17e5622542a05b084fdfd023",
+      "matched_signals": [
+        "effective",
+        "must",
+        "will be"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06816",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "23d85c409bcc715704cb4c40f28c30ffb9ad628357db1f67fd4f15a77ba0d580",
+      "matched_signals": [
+        "compliance",
+        "deadline",
+        "requires",
+        "will be"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06827",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "b8d90a67baebf965096ad418ed18a146f404a4ba2fba46583fada07b8210b9d8",
+      "matched_signals": [
+        "effective",
+        "final rule"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06830",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "b38816bce622a7f5c0d22ec93cc23687eb9ac01587c35033e17508360ef7dab6",
+      "matched_signals": [
+        "effective",
+        "final rule",
+        "prohibited",
+        "required",
+        "requires",
+        "will be"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06834",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "da666035c52bd2e48a0f5c3fce332de0c631018d6a73fbac87e45f3a8272dac2",
+      "matched_signals": [
+        "must"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06838",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "efff80b5af7a4bd65f49b5f1d09545b3ff9e3807071f4bf84ccb375592256100",
+      "matched_signals": [
+        "must"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06839",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "f60eb077879cd02b8f6503aed21c84ecd4186b86493bb9233b7884ff45597777",
+      "matched_signals": [
+        "will be"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06840",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "27da09cafabb261b4bc803947b7dba93de93966ac1c858c0479f4c22a7c6a147",
+      "matched_signals": [
+        "compliance",
+        "effective",
+        "final rule",
+        "must",
+        "prohibition",
+        "require",
+        "required",
+        "will be"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06842",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "034d441e15cbaf66393e3a6ae72c137ad96dc30611fc292d247709c37a64db1a",
+      "matched_signals": [
+        "effective",
+        "must",
+        "required",
+        "will be"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06844",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "41edb6e2c14e1964f10267f09a6048f2489cf100bef0ec612b9816963b34a3c6",
+      "matched_signals": [
+        "effective",
+        "must",
+        "required",
+        "will be"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06845",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "2f44a99fe212640b846401f3b9cb40e0fcc6bbeb8c6657c4da1e67f20e3effcc",
+      "matched_signals": [
+        "required",
+        "will be"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06846",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "15564ab5d696ff111c0ce62e69c8d2be60e2a44c517f60496ff58869dfa9f566",
+      "matched_signals": [
+        "compliance",
+        "effective",
+        "must",
+        "prohibited",
+        "require",
+        "required",
+        "requires",
+        "will be"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06849",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "c852a7b1d7121f91bc46ee4d2ae59987b7b45312f70821578e726b647df92805",
+      "matched_signals": [
+        "compliance",
+        "effective",
+        "must",
+        "prohibited",
+        "require",
+        "required",
+        "requires",
+        "will be"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06851",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "3103200bf04ef7a9a32bbe76037f98b343e22863dd9274c298dba9f6027c6cad",
+      "matched_signals": [
+        "compliance",
+        "effective",
+        "must",
+        "prohibited",
+        "require",
+        "required",
+        "requires",
+        "will be"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06852",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "ef21157c3994f74dd6fd8eed35d5e6a0a7cc4aeb42479dc7e07f0655de64edb1",
+      "matched_signals": [
+        "effective",
+        "requires",
+        "will be"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06853",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "87061f23766a7440dc574f813cf40af86faf09ec97c10f2739b8d082ef1a3d92",
+      "matched_signals": [
+        "must",
+        "will be"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06855",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "3b0bf637ad6fafb7d3050b1285326add4684a23fbabbf7be17df5a06444e577d",
+      "matched_signals": [],
+      "publication_date": "2022-04-01",
+      "screen_decision": "excluded_by_rule",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06856",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "7e0417448cc7b5cc49be5d4d92b30d5460c59fc5daf5b1a0653714619e76d2fb",
+      "matched_signals": [],
+      "publication_date": "2022-04-01",
+      "screen_decision": "excluded_by_rule",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06858",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "5e8b7bedbb5afd3e367bd804e3c6e89fda33509d05fedd38bf47cc5afc0aba4e",
+      "matched_signals": [
+        "will be"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06859",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "1826895d0fc18d3cc08f4ec03d2849444bb8e5c2932eaad4bee95174891e70f6",
+      "matched_signals": [
+        "must",
+        "no longer",
+        "required"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06860",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "bfbf19bcb31cfe30680e7538e8f6a6ba6283b7725f8ee1d5389485249e36469a",
+      "matched_signals": [
+        "must",
+        "no longer",
+        "prohibited",
+        "prohibition",
+        "require",
+        "required"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06861",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "52f47f57b5b3710e478d36c59bcd2d33b154854d6b40c0708bf3e1c3460e79af",
+      "matched_signals": [
+        "must",
+        "no longer",
+        "prohibited",
+        "will be"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06862",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "1c57d7f01c3024d55871eb0646b0c78979bfc52dc6bd97ca76b2f0e90414585d",
+      "matched_signals": [
+        "no longer",
+        "require",
+        "required"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06863",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "bbc24bceb795643f994964f9364394388af27d4db7e8588250429b9a14f67de1",
+      "matched_signals": [
+        "will be"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06864",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "fad4dafdb5ebb480b979da1246146c8263eb26cf9417f299cda0bd27ef702704",
+      "matched_signals": [
+        "compliance",
+        "deadline"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06865",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "ed3047d01c680570ed23eef7745437dbb815c87573ee2b0fd26262345851ecb5",
+      "matched_signals": [
+        "compliance"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06866",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "74e348abf19b5c31ef3f36f2794e644d35ca1b057192d17abe1b602d41a9312c",
+      "matched_signals": [
+        "must"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06867",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "2c9f4c2edbc48d320d54e78ccddbdff3c75af980c3c26114b6f5d5a9c423cd4a",
+      "matched_signals": [],
+      "publication_date": "2022-04-01",
+      "screen_decision": "excluded_by_rule",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06868",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "367a4cb04c786b4ad4a97a7e64c0b19153af96adf68f81ecac626d7e3d375e49",
+      "matched_signals": [
+        "must",
+        "will be"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06869",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "a680ff2524d7d976d873959af2f0b772be1b27f37ed53383a1ea961e3e2366a0",
+      "matched_signals": [
+        "must",
+        "required",
+        "will be"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06870",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "6495aed1440481dfbc8bed965723ed2b33797b91521fc1f8e715b59c6daa6d8e",
+      "matched_signals": [
+        "compliance",
+        "effective",
+        "final rule",
+        "must",
+        "prohibition",
+        "required",
+        "requires",
+        "will be"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06871",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "6b1a078ee4fff1d52bd54b96668479e5bf58151fbbc19b9122ba418f0a80626c",
+      "matched_signals": [],
+      "publication_date": "2022-04-01",
+      "screen_decision": "excluded_by_rule",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06872",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "d67344a024da4cc08ba7aa7349f6c8f15cae442c58a3e595715be6878bc76437",
+      "matched_signals": [
+        "effective"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06873",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "785489f1d8a69056b25ee05ae4594f26d8e627b3faef384868a53a5392b7c855",
+      "matched_signals": [
+        "must",
+        "required",
+        "will be"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06874",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "cba2e20a8e1d1badaa2398dd499ced00c07a3be1e2d6291211fd88587b37ac98",
+      "matched_signals": [
+        "compliance",
+        "deadline",
+        "final rule",
+        "must",
+        "required",
+        "requires",
+        "will be"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06875",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "370ba37a7fd5b88eb69f41a17d4e2b10fc3d34de045c16a9425d5be969e174c5",
+      "matched_signals": [
+        "will be"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06876",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "f6e928fab321ef808f7792bb500e2aa141f33cc6c30d9691a7f1f0871171b839",
+      "matched_signals": [
+        "compliance",
+        "must"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06877",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "709ca5a481bd39d899e578aa9078851f188711df21ed87d991be6d29679c0dc3",
+      "matched_signals": [
+        "must",
+        "requires",
+        "will be"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06878",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "b14966b52e2e4b5e9756799712e0263074741a7241887ac9d30a214dfaa036e9",
+      "matched_signals": [
+        "compliance",
+        "effective",
+        "final rule",
+        "must",
+        "no longer",
+        "prohibited",
+        "require",
+        "required",
+        "requires",
+        "will be"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06879",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "5d41a47aae6a4dd3e8d1735978e9e5e941040d09fd7e93e7a57499b7c85f9973",
+      "matched_signals": [
+        "must",
+        "required",
+        "will be"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06882",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "df4220f5497125260fab8a879c6e8baa8282ecdf7985143b0f3587ff4e3bb661",
+      "matched_signals": [
+        "will be"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06883",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "79318d7226eee6f56e98466aaae44cc82b4c52f05b946f5ec61dccc80ef6b568",
+      "matched_signals": [
+        "deadline",
+        "must"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06889",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "f624a72af1e982bf6665f2db6d41cb2277879dde4f58f3ec8760a459e81c172b",
+      "matched_signals": [
+        "deadline",
+        "must",
+        "requires",
+        "will be"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06890",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "b618a3b47179d689b019659c61ca56e63ff738b2dc1a211b1259b56fa4e8a656",
+      "matched_signals": [
+        "compliance",
+        "effective",
+        "must"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06891",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "4e77b8150b061d111d8d69ea4a550f77789da650adff2ca039e58fba3cfb1344",
+      "matched_signals": [
+        "compliance",
+        "effective",
+        "must"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06892",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "adc1d0847ebcfb83113afae27a8d5aa9559f5d314e7e6f4c3376e4f4d54d59f6",
+      "matched_signals": [
+        "deadline",
+        "must"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06893",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "bfc5be6b4d681c9feaa32e3df1b4a5087fdbe880ee07deee651a9abf08bd6c0a",
+      "matched_signals": [
+        "compliance",
+        "effective",
+        "must",
+        "prohibit",
+        "require",
+        "required",
+        "requires",
+        "will be"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06894",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "9df4b29aebd70c56e989ba73d36fa14bc435bc647e3a7ac0cbbc3f868b5ef2e0",
+      "matched_signals": [
+        "prohibit",
+        "prohibited",
+        "prohibition",
+        "required",
+        "requires"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06895",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "85542de277cf6706d048fa5977034a43610d4ddc1a8601db256736e34afd706f",
+      "matched_signals": [
+        "will be"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06896",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "f975bd3de27eaee7695cebe061b43d0b1586682e6d875b904ebbf107ace4e6d5",
+      "matched_signals": [
+        "will be"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06897",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "a8e4f609edcf589edb18bf5036c1ba388b64a2397cbe2030544207f03f8d2294",
+      "matched_signals": [
+        "must",
+        "prohibition",
+        "requires"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06898",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "69e0d04b00dd4561c6769758c4c66fa3bb79178f27d346d2f534f0a6fd4c264c",
+      "matched_signals": [
+        "compliance",
+        "requires"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06900",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "7ca3050768b9fb2e651e4a2a18ae84feca21e1a079f618b10e364c653dae09ee",
+      "matched_signals": [
+        "must",
+        "will be"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06901",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "e5d5740d37601e69fe671e771d1de75821910b25ef36f80ecbd6b201001d67a9",
+      "matched_signals": [
+        "must",
+        "no longer",
+        "will be"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06902",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "bc2f5c8b1f759148b8e053c1250cd469b5dd40ac68156f529c1bf2ec2ddd869c",
+      "matched_signals": [
+        "must",
+        "prohibit",
+        "will be"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06903",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "22451c4c2b87df68796e34d16f2ebdeee0b11333d7e4a2dd082ae9ea5539146b",
+      "matched_signals": [
+        "must"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06905",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "f94fc6d2e9cd290a9bffe50e9503f38595753d19aac6504a5af08a6638c7690b",
+      "matched_signals": [
+        "compliance",
+        "effective",
+        "final rule",
+        "must",
+        "require",
+        "required",
+        "will be"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06907",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "380f801aebb2cb9c18adacf5a5ef86b4af0f248c38727750fd9b6795c8cd7d16",
+      "matched_signals": [
+        "compliance",
+        "effective",
+        "must",
+        "required",
+        "will be"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06908",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "831666741e2d4fe2def124dd3f60d4d36745a70d85e4ee615da97e6cff41c854",
+      "matched_signals": [
+        "effective",
+        "mandatory",
+        "must",
+        "require",
+        "required",
+        "will be"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06909",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "f4ee41912cd91aaf94c4d6f5539a439db9112e73bc65b6c4df260fdc2e141600",
+      "matched_signals": [
+        "must",
+        "required",
+        "requires"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06911",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "7efc45a050e04030d51954b2af5acb39a40f72893339f7ed574c1e5009b01061",
+      "matched_signals": [],
+      "publication_date": "2022-04-01",
+      "screen_decision": "excluded_by_rule",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06912",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "eaac11d36a5458c5ac0a9eac068b7651a0c5d18795d721f2cdea08976786e2f3",
+      "matched_signals": [
+        "must",
+        "required"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06913",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "5e4490fb42cad23440c57258a39ddd38239f3ebc0ee2f8ddfc5af75b559d7065",
+      "matched_signals": [
+        "must",
+        "required",
+        "requires",
+        "will be"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06914",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "318131181125d49a8718ceb0f0aa7ed207aef7c6ad9759f50292216e274e9e86",
+      "matched_signals": [
+        "must",
+        "required",
+        "requires"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06915",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "502c8b178f744be96c36b86dc453713b7f83ee2816535e88555104fb62cd5c6e",
+      "matched_signals": [
+        "must",
+        "required",
+        "requires"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06916",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "22bf4b4a08ca0cf773c1edb1eb74b9439fe8dfcf71b48d7692f977fe278e6dff",
+      "matched_signals": [
+        "must",
+        "no longer",
+        "required",
+        "requires",
+        "will be"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06917",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "315b6fcc5755db04501e4afde02dac6845b961f51222698f6432de9b255d4f59",
+      "matched_signals": [
+        "compliance",
+        "deadline",
+        "will be"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06918",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "eefa092c0561e513ebb9582fb278dd9ba54b325f3302527b8c6a6930cdcc1702",
+      "matched_signals": [
+        "deadline",
+        "effective",
+        "must",
+        "will be"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06919",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "4d0b4538f4c56ffdf96d8046a3b312c63d937cf37d35aa5b767bac8c178d4f44",
+      "matched_signals": [
+        "required",
+        "will be"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06920",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "c3d478c58f82fc952dbbd5ecbd83dd27bdf8017b9d684adf91645c1c19c144e1",
+      "matched_signals": [
+        "must",
+        "will be"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06921",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "5ad1e87ff435ce983b43d71e1e48cb984e39087ff5fefafc6d6464d046050187",
+      "matched_signals": [
+        "compliance",
+        "effective",
+        "final rule",
+        "must",
+        "prohibit",
+        "required",
+        "requires",
+        "will be"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06922",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "81e9ad301162eb5b9ec9cd3f2dbe6f51d9dee8ccfbb05e8608a15cb18a0a9f1b",
+      "matched_signals": [
+        "compliance",
+        "deadline",
+        "must",
+        "required"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06923",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "a354102255fa303aceddb8dc7aad1c179192daee44f962824b2f2fa0d0cf3de7",
+      "matched_signals": [
+        "compliance",
+        "effective",
+        "must",
+        "required"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06924",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "b3e79a49bcd41b718661b545dbbd7fdf4150962439b50c24164c117180a863a8",
+      "matched_signals": [
+        "compliance",
+        "deadline",
+        "final rule",
+        "must",
+        "no longer",
+        "require",
+        "required",
+        "will be"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06925",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "f2c098bb1ba6f01f4663b0047fa7efb854600e813414f1b92dd9bdca27cc9259",
+      "matched_signals": [
+        "compliance",
+        "deadline"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06926",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "a48945765bc9d7c4c21a7df8480381e5fe5bd8f386477dfa14af4997de13d4ef",
+      "matched_signals": [
+        "compliance",
+        "must",
+        "required",
+        "will be"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06927",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "b898d7dbacf1aaf3f4fda4d4e30ef02eb3edd74e180829bb6c45b2d1a94638aa",
+      "matched_signals": [
+        "mandatory",
+        "will be"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06928",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "fa8b2b90361f9b4362cf52ba73118cbf92a0b8a35c680d06597de45e3af5301a",
+      "matched_signals": [
+        "compliance",
+        "effective"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06929",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "3cc10360c93eed048c8b2a470979d12b0113fe6b1faad0887ddd229d1a4cdea4",
+      "matched_signals": [
+        "must",
+        "will be"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06930",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "538dfb917fe63d1a9cc4d7359e39d1151da771e947ef6bb5c862d40395a55584",
+      "matched_signals": [
+        "must",
+        "require",
+        "will be"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06932",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "eaa6fb3f447ea02820c2ef338178ab413224a4fffccef38c9a486b11d5e4b0ff",
+      "matched_signals": [
+        "mandatory",
+        "must"
+      ],
+      "publication_date": "2022-04-01",
+      "screen_decision": "candidate",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06934",
+      "source_id": "federal-register"
+    }
+  ],
+  "screening_version": "keyword-v0.1"
+}

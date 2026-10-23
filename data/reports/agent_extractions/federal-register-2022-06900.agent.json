@@ -1,0 +1,54 @@
+{
+  "status_of_this_file": "UNREVIEWED Claude Code subagent output used as REVIEW AID; not a production candidate; not human-accepted",
+  "source_document_id": "2022-06900",
+  "publication_date_manifest": "2022-04-01",
+  "document_sha256": "69e0d04b00dd4561c6769758c4c66fa3bb79178f27d346d2f534f0a6fd4c264c",
+  "source_hash_ok": true,
+  "source_text_mode": "govinfo_gpo_html_pre_text",
+  "original_text_url": "https://www.govinfo.gov/content/pkg/FR-2022-04-01/html/2022-06900.htm",
+  "agent_output": {
+    "source_document_id": "2022-06900",
+    "publication_date": "2022-04-01",
+    "is_event": false,
+    "event_type": "other_identifiable_change",
+    "status": "notice_informational",
+    "affected_group": null,
+    "change_summary": null,
+    "effective_at": null,
+    "evidence": [
+      {
+        "field": "status",
+        "quote": "Weekly receipt of Environmental Impact Statements (EIS)\nFiled March 21, 2022 10 a.m. EST Through March 28, 2022 10 a.m. EST\nPursuant to 40 CFR 1506.9"
+      },
+      {
+        "field": "status",
+        "quote": "Section 309(a) of the Clean Air Act requires that EPA make public \nits comments on EISs issued by other Federal agencies."
+      }
+    ],
+    "uncertainties": [
+      "NOT_AN_EVENT: routine weekly EPA Notice of Availability listing three EISs received with comment/review period end dates; no new requirement, policy, program, price or terms change.",
+      "Comment period end dates are not effective dates; effective_at not recorded.",
+      "manifest historical_date_approved=false; publication_date from manifest and GPO header, not human-verified."
+    ],
+    "economically_material": "REDACTED_FROM_REVIEWER_PATH (see agent_materiality_sidecar.json; may contain forward-looking speculation)"
+  },
+  "quote_checks": [
+    {
+      "field": "status",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "Weekly receipt of Environmental Impact Statements (EIS)\nFiled March 21, 2022 10 a.m. EST Through March 28, 2022 10 a.m. EST\nPursuant to 40 CFR 1506.9"
+    },
+    {
+      "field": "status",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "Section 309(a) of the Clean Air Act requires that EPA make public \nits comments on EISs issued by other Federal agencies."
+    }
+  ],
+  "code_verdict": "NOT_EVENT"
+}

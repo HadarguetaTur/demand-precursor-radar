@@ -1,0 +1,116 @@
+{
+  "status_of_this_file": "UNREVIEWED Claude Code subagent output used as REVIEW AID; not a production candidate; not human-accepted",
+  "source_document_id": "2022-06816",
+  "publication_date_manifest": "2022-04-01",
+  "document_sha256": "cc3b57f9ce3c125af691a06714cc613dda75054b17e5622542a05b084fdfd023",
+  "source_hash_ok": true,
+  "source_text_mode": "govinfo_gpo_html_pre_text",
+  "original_text_url": "https://www.govinfo.gov/content/pkg/FR-2022-04-01/html/2022-06816.htm",
+  "agent_output": {
+    "source_document_id": "2022-06816",
+    "publication_date": "2022-04-01",
+    "is_event": true,
+    "event_type": "infrastructure_constraint",
+    "status": "proposed",
+    "affected_group": "Aircraft operators and pilots using Colored Federal airway B-8 between Shishmaref (SHH) and Tin City (TNC), Alaska; aviation industry/users of the Alaskan en route NDB navigation structure",
+    "change_summary": "FAA notice of proposed rulemaking to revoke Colored Federal airway Blue 8 (B-8) in its entirety near Shishmaref, AK, because the Shishmaref (SHH) Non-directional Beacon is scheduled for decommissioning, which would render B-8 unusable; loss to be mitigated by a planned future US Area Navigation Route. Comments due May 16, 2022. No effective date set; proposal only.",
+    "effective_at": null,
+    "evidence": [
+      {
+        "field": "change_summary",
+        "quote": "SUMMARY: This action proposes to revoke Colored Federal airway Blue 8 \n(B-8) in the vicinity of Shishmaref, AK due to the pending \ndecommissioning of"
+      },
+      {
+        "field": "change_summary",
+        "quote": "Colored Federal airway B-8 navigates from SHH to the Tin City, AK, \n(TNC) NDB. The decommissioning of SHH would render B-8 unusable. This \nproposal would revoke B-8 in its entirety. The loss of B-8 would be \nmitigated by a planned future United States Area Navigation Route."
+      },
+      {
+        "field": "affected_group",
+        "quote": "The aviation industry/users have indicated a desire for the FAA to \ntransition the Alaskan en route navigation structure away from the \ndependency on NDBs."
+      },
+      {
+        "field": "affected_group",
+        "quote": "this is a routine matter that will only affect air traffic procedures \nand air navigation"
+      },
+      {
+        "field": "status",
+        "quote": "ACTION: Notice of proposed rulemaking (NPRM)."
+      },
+      {
+        "field": "status",
+        "quote": "DATES: Comments must be received on or before May 16, 2022."
+      },
+      {
+        "field": "effective_at",
+        "quote": "The proposal contained in this action may be changed in light of \ncomments received."
+      }
+    ],
+    "uncertainties": [
+      "No effective date is stated; proposal only; final rule and effective date not determinable from this source.",
+      "SHH NDB decommissioning date described only as pending; no date given.",
+      "Mitigating Area Navigation Route described only as planned future; no identifier or date.",
+      "manifest historical_date_approved=false; publication date from GPO header and manifest, not human-verified.",
+      "Classification as infrastructure_constraint could alternatively be other_identifiable_change; not a new requirement on regulated parties."
+    ],
+    "economically_material": "REDACTED_FROM_REVIEWER_PATH (see agent_materiality_sidecar.json; may contain forward-looking speculation)"
+  },
+  "quote_checks": [
+    {
+      "field": "change_summary",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "SUMMARY: This action proposes to revoke Colored Federal airway Blue 8 \n(B-8) in the vicinity of Shishmaref, AK due to the pending \ndecommissioning of"
+    },
+    {
+      "field": "change_summary",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "Colored Federal airway B-8 navigates from SHH to the Tin City, AK, \n(TNC) NDB. The decommissioning of SHH would render B-8 unusable. This \nproposal would revoke B-8 in its entirety. The loss of B-8 would be \nmitigated by a planned future United States Area Navigation Route."
+    },
+    {
+      "field": "affected_group",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "The aviation industry/users have indicated a desire for the FAA to \ntransition the Alaskan en route navigation structure away from the \ndependency on NDBs."
+    },
+    {
+      "field": "affected_group",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "this is a routine matter that will only affect air traffic procedures \nand air navigation"
+    },
+    {
+      "field": "status",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "ACTION: Notice of proposed rulemaking (NPRM)."
+    },
+    {
+      "field": "status",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "DATES: Comments must be received on or before May 16, 2022."
+    },
+    {
+      "field": "effective_at",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "The proposal contained in this action may be changed in light of \ncomments received."
+    }
+  ],
+  "code_verdict": "PASS_QUOTES"
+}

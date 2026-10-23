@@ -1,0 +1,128 @@
+{
+  "status_of_this_file": "UNREVIEWED Claude Code subagent output used as REVIEW AID; not a production candidate; not human-accepted",
+  "source_document_id": "2022-06366",
+  "publication_date_manifest": "2022-04-01",
+  "document_sha256": "d09d735a5c02093023b74ea6f5f21c06877b1aea2a8402ebcaead1d76b545687",
+  "source_hash_ok": true,
+  "source_text_mode": "govinfo_gpo_html_pre_text",
+  "original_text_url": "https://www.govinfo.gov/content/pkg/FR-2022-04-01/html/2022-06366.htm",
+  "agent_output": {
+    "source_document_id": "2022-06366",
+    "publication_date": "2022-04-01",
+    "is_event": true,
+    "event_type": "new_legal_requirement",
+    "status": "final_future_effective",
+    "affected_group": "Noncitizen Visa Waiver Program (VWP) travelers applying for admission to the United States at land ports of entry (from Canada or Mexico); also CBP.",
+    "change_summary": "DHS/CBP interim final rule amends 8 CFR parts 103, 212, 217, and 286 to extend the Electronic System for Travel Authorization (ESTA) requirement to VWP travelers arriving at U.S. land ports of entry. Such travelers must obtain an ESTA travel authorization prior to applying for admission (instead of completing the paper Form I-94W at the border); travelers without a valid authorization are ineligible for admission under the VWP. The existing ESTA fee applies; the $6.00 I-94W fee at land borders continues. Rule published 2022-04-01, effective 2022-05-02; comments due 2022-05-02.",
+    "effective_at": "2022-05-02",
+    "evidence": [
+      {
+        "field": "change_summary",
+        "quote": "The Department of Homeland Security (DHS) is amending \nits regulations to require VWP travelers applying for admission at U.S. \nland ports of entry to receive a travel authorization via the \nElectronic System for Travel Authorization (ESTA) from CBP prior to \napplying for admission to the United States."
+      },
+      {
+        "field": "change_summary",
+        "quote": "Through this interim rule, \ninstead of completing a paper Form I-94W at land ports of entry, VWP \ntravelers must now provide this information electronically to CBP via \nESTA."
+      },
+      {
+        "field": "change_summary",
+        "quote": "A VWP traveler who does not have a valid travel authorization \nat the time he or she applies for admission to the United States at a \nland port of entry will be ineligible for admission under the VWP."
+      },
+      {
+        "field": "affected_group",
+        "quote": "for noncitizens who \nintend to enter the United States under the Visa Waiver Program (VWP) \nat land ports of entry."
+      },
+      {
+        "field": "affected_group",
+        "quote": "This rule will affect VWP travelers, CBP, and the public."
+      },
+      {
+        "field": "effective_at",
+        "quote": "DATES: This rule is effective May 2, 2022. Comments must be received on \nor before May 2, 2022."
+      },
+      {
+        "field": "status",
+        "quote": "ACTION: Interim final rule; solicitation of comments."
+      },
+      {
+        "field": "status",
+        "quote": "this interim final rule expanding ESTA to VWP \ntravelers arriving at land ports of entry will be effective 30 days \nafter publication."
+      }
+    ],
+    "uncertainties": [
+      "Interim final rule with 30-day delayed effective date (2022-05-02); comments solicited and provisions could later be revised.",
+      "Document does not state the operational date CBP would begin denying admission beyond the regulatory effective date.",
+      "Only lines 1-1050 of 1787 were read; cost/benefit tables and amendatory text not reviewed.",
+      "manifest historical_date_approved=false.",
+      "Fee amounts cited are pre-existing; separate future rule for the legislated $17 TPA fee is not part of this event."
+    ],
+    "economically_material": "REDACTED_FROM_REVIEWER_PATH (see agent_materiality_sidecar.json; may contain forward-looking speculation)"
+  },
+  "quote_checks": [
+    {
+      "field": "change_summary",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "The Department of Homeland Security (DHS) is amending \nits regulations to require VWP travelers applying for admission at U.S. \nland ports of entry to receive a travel authorization via the \nElectronic System for Travel Authorization (ESTA) from CBP prior to \napplying for admission to the United States."
+    },
+    {
+      "field": "change_summary",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "Through this interim rule, \ninstead of completing a paper Form I-94W at land ports of entry, VWP \ntravelers must now provide this information electronically to CBP via \nESTA."
+    },
+    {
+      "field": "change_summary",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "A VWP traveler who does not have a valid travel authorization \nat the time he or she applies for admission to the United States at a \nland port of entry will be ineligible for admission under the VWP."
+    },
+    {
+      "field": "affected_group",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "for noncitizens who \nintend to enter the United States under the Visa Waiver Program (VWP) \nat land ports of entry."
+    },
+    {
+      "field": "affected_group",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "This rule will affect VWP travelers, CBP, and the public."
+    },
+    {
+      "field": "effective_at",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "DATES: This rule is effective May 2, 2022. Comments must be received on \nor before May 2, 2022."
+    },
+    {
+      "field": "status",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "ACTION: Interim final rule; solicitation of comments."
+    },
+    {
+      "field": "status",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "this interim final rule expanding ESTA to VWP \ntravelers arriving at land ports of entry will be effective 30 days \nafter publication."
+    }
+  ],
+  "code_verdict": "PASS_QUOTES"
+}

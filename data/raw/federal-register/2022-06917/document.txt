@@ -1,0 +1,322 @@
+
+[Federal Register Volume 87, Number 63 (Friday, April 1, 2022)]
+[Notices]
+[Pages 19097-19100]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2022-06917]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF HEALTH AND HUMAN SERVICES
+
+Centers for Disease Control and Prevention
+
+[60-Day-22-0573; Docket No. CDC-2022-0041]
+
+
+Proposed Data Collection Submitted for Public Comment and 
+Recommendations
+
+AGENCY: Centers for Disease Control and Prevention (CDC), Department of 
+Health and Human Services (HHS).
+
+ACTION: Notice with comment period.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The Centers for Disease Control and Prevention (CDC), as part 
+of its continuing effort to reduce public burden and maximize the 
+utility of government information, invites the general public and other 
+federal agencies the opportunity to comment on a proposed and/or 
+continuing information collection, as required by the Paperwork 
+Reduction Act of 1995. This notice invites comment on an information 
+collection project titled National HIV Surveillance System (NHSS). The 
+NHSS is designed to collect information on cases of human 
+immunodeficiency virus (HIV) and indicators of HIV disease and HIV 
+disease progression including AIDS. Data is used to monitor the extent 
+and characteristics of the HIV burden in the United States.
+
+DATES: CDC must receive written comments on or before May 31, 2022.
+
+ADDRESSES: You may submit comments, identified by Docket No. CDC-2022-
+0041 by either of the following methods:
+    <bullet> Federal eRulemaking Portal: Regulations.gov. Follow the 
+instructions for submitting comments.
+    <bullet> Mail: Jeffrey M. Zirger, Information Collection Review 
+Office, Centers for Disease Control and Prevention, 1600 Clifton Road 
+NE, MS H21-8, Atlanta, Georgia 30329.
+    Instructions: All submissions received must include the agency name 
+and Docket Number. CDC will post, without change, all relevant comments 
+to regulations.gov.
+    Please note: Submit all comments through the Federal eRulemaking 
+portal (regulations.gov) or by U.S. mail to the address listed above.
+
+FOR FURTHER INFORMATION CONTACT: To request more information on the 
+proposed project or to obtain a copy of the information collection plan 
+and instruments, contact Jeffrey M. Zirger, Information Collection 
+Review Office, Centers for Disease Control and Prevention, 1600 Clifton 
+Road NE, MS
+
+[[Page 19098]]
+
+H21-8, Atlanta, Georgia 30329; phone: 404-639-7118; Email: <span class="__cf_email__" data-cfemail="d0bfbdb290b3b4b3feb7bfa6">[email protected]</span>.
+
+SUPPLEMENTARY INFORMATION: Under the Paperwork Reduction Act of 1995 
+(PRA) (44 U.S.C. 3501-3520), federal agencies must obtain approval from 
+the Office of Management and Budget (OMB) for each collection of 
+information they conduct or sponsor. In addition, the PRA also requires 
+federal agencies to provide a 60-day notice in the Federal Register 
+concerning each proposed collection of information, including each new 
+proposed collection, each proposed extension of existing collection of 
+information, and each reinstatement of previously approved information 
+collection before submitting the collection to the OMB for approval. To 
+comply with this requirement, we are publishing this notice of a 
+proposed data collection as described below.
+    The OMB is particularly interested in comments that will help:
+    1. Evaluate whether the proposed collection of information is 
+necessary for the proper performance of the functions of the agency, 
+including whether the information will have practical utility;
+    2. Evaluate the accuracy of the agency's estimate of the burden of 
+the proposed collection of information, including the validity of the 
+methodology and assumptions used;
+    3. Enhance the quality, utility, and clarity of the information to 
+be collected;
+    4. Minimize the burden of the collection of information on those 
+who are to respond, including through the use of appropriate automated, 
+electronic, mechanical, or other technological collection techniques or 
+other forms of information technology, e.g., permitting electronic 
+submissions of responses; and
+    5. Assess information collection costs.
+
+Proposed Project
+
+    National HIV Surveillance System (NHSS) (OMB Control No. 0920-0573, 
+Exp. 11/30/2022)--Revision--National Center for HIV, Viral Hepatitis, 
+STD, and TB Prevention (NCHHSTP), Centers for Disease Control and 
+Prevention (CDC).
+
+Background and Brief Description
+
+    CDC is authorized under Sections 304 and 306 of the Public Health 
+Service Act (42 U.S.C. 242b and 242k) to collect information on cases 
+of human immunodeficiency virus (HIV) and indicators of HIV disease and 
+HIV disease progression, including AIDS. Data collected as part of the 
+National HIV Surveillance System (NHSS) are the primary data used to 
+monitor the extent and characteristics of the HIV burden in the United 
+States. HIV surveillance data are used to describe trends in HIV 
+incidence, prevalence and characteristics of persons diagnosed with HIV 
+infection and used widely at the federal, state, and local levels for 
+planning and evaluating prevention programs and health-care services, 
+allocating funding for prevention and care, and monitoring progress 
+toward achieving national prevention goals of the Ending the HIV 
+Epidemic in the U.S. initiative.
+    NHSS data collection activities are currently supported through 
+cooperative agreements with health departments under CDC funding 
+Opportunity Announcements PS18-1802: Integrated HIV Surveillance and 
+Prevention Programs for Health Departments and PS20-2010 Integrated HIV 
+Programs for Health Departments to Support Ending the HIV Epidemic in 
+the United States. The activities funded under these announcements 
+promote and support improving health outcomes for persons living with 
+HIV through achieving and sustaining viral suppression, and reducing 
+health-related disparities by using quality, timely, and complete 
+surveillance, and program data to guide HIV prevention efforts toward 
+reducing new HIV infections and ending the HIV epidemic in the United 
+States.
+    The Division of HIV Prevention (DHP), National Center for HIV, 
+Viral Hepatitis, STD, and TB Prevention (NCHHSTP), CDC in collaboration 
+with health departments in the states, the District of Columbia, and 
+U.S. dependent areas, conducts national surveillance for cases of HIV 
+infection that includes critical data reported across the spectrum of 
+HIV disease stages from HIV diagnosis to death. The systematic data 
+collection provides the essential data used to calculate population-
+based HIV incidence estimates, describe the geographic distribution of 
+disease, monitor HIV transmission and drug resistance patterns and 
+genetic diversity of HIV among infected persons, detect and respond to 
+HIV clusters of recent and rapid transmission, and monitor perinatal 
+exposures. NHSS data are also used locally to identify persons with HIV 
+who are not in medical care and linking them to care and needed 
+services. NHSS data continue to be collected, maintained, and reported 
+using standard case definitions, report forms and software. The system 
+is periodically updated as needed to keep pace with changes in testing 
+technology and advances in HIV care and treatment, as well as changing 
+prevention program monitoring and evaluation needs.
+    The revisions requested in this package include program-initiated 
+modifications to currently collected data elements and forms including 
+changes to the Adult Case Report Form (ACRF), the Pediatric Case Report 
+Form (PCRF)and the Perinatal HIV Exposure Reporting (PHER) form. We 
+request approval to continue data collection using our currently 
+approved data collection instruments through December 2022 and 
+implement the proposed form changes starting in January 2023. Changes 
+made to both the ACRF and PCRF include addition of two variables to 
+collect sexual orientation information, updated gender identity 
+response options, addition of two new HIV test types to accommodate 
+changes in testing technology, addition of two new response options 
+related to self-testing, addition of three new HIV testing history 
+variables to summarize self-testing activities (ACRF only) and 
+formatting changes to improve usability of both forms. The main changes 
+to the PCRF include those related to critical perinatal exposure 
+information that was consolidated across the PHER and PCRF to reduce 
+redundancy across forms and include some new and revised data elements 
+needed to assess progress with perinatal elimination efforts and 
+support HIV prevention activities. Combining the PCRF and PHER forms 
+reduced the total number of pages of information collected from two 
+forms with eight total pages to one form with six pages which will 
+reduce burden of data collection and increase usability of the forms. 
+In all, 10 variables in the PHER form will no longer be collected; 
+seven variables from the PHER form were combined with existing 
+variables on the PCRF; 13 variables were moved from the PHER form to 
+the new PCRF; five new variables were added to the PCRF including four 
+related to breastfeeding/chestfeeding and premastication risk behaviors 
+and one variable related to documentation of laboratory results in a 
+person's labor and delivery record; response options for the existing 
+delivery method variable was revised on the PCRF to align with current 
+medical practices. Health departments will now use the one revised PCRF 
+form to report perinatal exposures and pediatric case reports and the 
+revised burden for both perinatal exposure reporting and pediatric case 
+reporting is now combined and included under the PCRF form line. The 
+number of respondents reporting pediatric case reports is 59 and a 
+subset of those jurisdictions that have perinatal exposure reporting 
+will also report some perinatal exposure
+
+[[Page 19099]]
+
+information using the revised PCRF form and the PCRF burden estimate 
+has been revised to account for this reporting. The time per response 
+for the PCRF has been revised from 20 minutes to 35 minutes on average 
+per response to reflect these changes and increased reporting of 
+perinatal exposure data elements. HIV Incidence data collection as 
+anticipated in the previous revision was not implemented and is being 
+discontinued as a separate activity. HIV incidence continues to be 
+estimated by CDC via statistical methods. No other revisions to the 
+other data collection forms for this ICR are proposed. Burden estimates 
+have been updated to reflect the discontinuation of incidence data 
+collection, discontinued use of the PHER form for perinatal exposure 
+reporting, and revised PCRF which will be used for both perinatal 
+exposure reporting and pediatric case reporting. In addition, the 
+revised burden estimate includes small increases in burden for case and 
+laboratory updates, deduplication activities and case investigations 
+due to the increasing number of persons living with HIV for which 
+additional laboratory and case information is reported and linkage to 
+care activities are conducted. The burden estimates for case reports 
+decreased slightly since the last OMB approval due to decreases in 
+adult and pediatric HIV diagnoses reported.
+    CDC provides funding for 59 jurisdictions to provide adult and 
+pediatric HIV case reports. Additional information on perinatal 
+exposures is also reported in a subset of jurisdictions when reportable 
+using the same pediatric case report form and used to monitor progress 
+toward perinatal HIV elimination goals. Health department staff compile 
+information from laboratories, physicians, hospitals, clinics, and 
+other health care providers to complete the HIV adult and pediatric 
+case reports. CDC estimates that approximately 789 adult HIV case 
+reports and 57 perinatal exposure and pediatric case reports are 
+processed by each health department annually.
+    These data are recorded using standard case report forms either on 
+paper or electronically and entered into the electronic reporting 
+system. Updates to case reports are also entered into the reporting 
+system by health departments as additional information may be received 
+from laboratories, vital statistics, or additional providers. 
+Evaluations are also conducted by health departments on a subset of 
+case reports (e.g. re-abstraction, validation). CDC estimates that on 
+average approximately 85 evaluations of case reports, 2,519 updates to 
+case reports and 10,130 updates of electronic laboratory test data will 
+be processed by each of the 59 health departments annually. In 
+addition, all 59 health departments will conduct routine deduplication 
+activities for new diagnoses and cumulative case reports. CDC estimates 
+that health departments on average will follow-up on 3,032 reports as 
+part of deduplication activities annually. Case report information 
+compiled over time by health departments is then de-identified and 
+forwarded to CDC on a monthly basis to become part of the national HIV 
+surveillance database.
+    Additional information will be reported by health departments for 
+monitoring and evaluation of health department investigations including 
+activities identifying persons who are not in HIV medical care and 
+linking them to HIV medical care (e.g., Data-to-Care activities) and 
+other services and identifying and responding to clusters. CDC 
+estimates health departments will on average process 929 responses 
+related to investigation reporting and monitoring annually.
+    Clusters of HIV are groups of persons related by recent, rapid 
+transmission, for which rapid response is needed in order to intervene 
+to interrupt ongoing transmission and prevent future HIV infections. 
+Health departments may detect clusters through multiple means, 
+including through routine analyses of Surveillance data and other data 
+reported to the NHSS. Data on clusters of recent and rapid HIV 
+transmission in the United States will be collected to monitor 
+situations necessitating public health intervention, assess health 
+department response, and evaluate outcomes of intervention activities. 
+These summary data will be collected through quarterly cluster report 
+forms that will be completed by health departments for clusters that 
+they have identified and for which they are actively conducting 
+response activities. Health departments with detected clusters will 
+complete an initial cluster report form when a cluster is first 
+identified, a cluster follow-up form for each quarter in which the 
+cluster response remains active and a cluster close-out form when 
+cluster response activities are closed or at annual intervals while a 
+cluster response remains active. CDC estimates on average health 
+departments will provide information for 2.5 cluster initial cluster 
+reports, five Cluster Follow-up Form reports, and 2.5 Cluster Close-out 
+Form reports annually.
+    The Standards Evaluation Report (SER) is used by CDC and Health 
+Departments to improve data quality, interpretation, usefulness, and 
+surveillance system efficiency, as well as to monitor progress toward 
+meeting surveillance program objectives. The information collected for 
+the SER includes a brief set of questions about evaluation outcomes and 
+the collection of laboratory data that will be reported one time a year 
+by each 59 health departments.
+    CDC requests OMB approval for an estimated 60,731 annual burden 
+hours in this Revision. There are no costs to respondents other than 
+their time to participate.
+
+                                        Estimated Annualized Burden Hours
+----------------------------------------------------------------------------------------------------------------
+                                                                                      Average
+                                                     Number of       Number of      burden per     Total burden
+      Type of respondent            Form name       respondents    responses per   response  (in      (in hr)
+                                                                    respondent          hr)
+----------------------------------------------------------------------------------------------------------------
+Health Departments............  Adult HIV Case                59             789           20/60          15,517
+                                 Report (ACRF).
+Health Departments............  Perinatal                     59              57           35/60           1,962
+                                 Exposure and
+                                 Pediatric HIV
+                                 Case Report
+                                 (PCRF).
+Health Departments............  Case Report                   59              85           20/60           1,672
+                                 Evaluations.
+Health Departments............  Case Report                   59           2,519            2/60           4,954
+                                 Updates.
+Health Departments............  Laboratory                    59          10,130          0.5/60           4,981
+                                 Updates.
+Health Departments............  Deduplication                 59           3,032           10/60          29,815
+                                 Activities.
+Health Departments............  Investigation                 59             929            1/60             914
+                                 Reporting and
+                                 Evaluation.
+Health Departments............  Initial Cluster               59             2.5               1             148
+                                 Report Form.
+Health Departments............  Cluster Follow-               59               5             0.5             148
+                                 up Form.
+
+[[Page 19100]]
+
+ 
+Health Departments............  Cluster Close-                59             2.5               1             148
+                                 out Form.
+Health Departments............  Annual                        59               1               8             472
+                                 Reporting:
+                                 Standards
+                                 Evaluation
+                                 Report (SER).
+                               ---------------------------------------------------------------------------------
+    Total.....................  ................  ..............  ..............  ..............          60,731
+----------------------------------------------------------------------------------------------------------------
+
+
+Jeffrey M. Zirger,
+Lead, Information Collection Review Office, Office of Scientific 
+Integrity, Office of Science, Centers for Disease Control and 
+Prevention.
+[FR Doc. 2022-06917 Filed 3-31-22; 8:45 am]
+BILLING CODE 4163-18-P
+
+

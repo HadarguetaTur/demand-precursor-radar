@@ -1,0 +1,235 @@
+
+[Federal Register Volume 87, Number 63 (Friday, April 1, 2022)]
+[Notices]
+[Pages 19095-19097]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2022-06911]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF HEALTH AND HUMAN SERVICES
+
+Centers for Disease Control and Prevention
+
+[30Day-22-1260]
+
+
+Agency Forms Undergoing Paperwork Reduction Act Review
+
+    In accordance with the Paperwork Reduction Act of 1995, the Centers 
+for Disease Control and Prevention (CDC) has submitted the information 
+collection request titled ``Maritime Illness Database and Reporting 
+System (MIDRS)'' to the Office of Management and Budget (OMB) for 
+review and approval. CDC previously published a ``Proposed Data 
+Collection Submitted for Public Comment and Recommendations'' notice on 
+October 25, 2021 to obtain comments from the public and affected 
+agencies. CDC did not receive comments related to the previous notice. 
+This notice serves to allow an additional 30 days for public and 
+affected agency comments.
+    CDC will accept all comments for this proposed information 
+collection project. The Office of Management and Budget
+
+[[Page 19096]]
+
+is particularly interested in comments that:
+
+    (a) Evaluate whether the proposed collection of information is 
+necessary for the proper performance of the functions of the agency, 
+including whether the information will have practical utility;
+    (b) Evaluate the accuracy of the agencies estimate of the burden 
+of the proposed collection of information, including the validity of 
+the methodology and assumptions used;
+    (c) Enhance the quality, utility, and clarity of the information 
+to be collected;
+    (d) Minimize the burden of the collection of information on 
+those who are to respond, including, through the use of appropriate 
+automated, electronic, mechanical, or other technological collection 
+techniques or other forms of information technology, e.g., 
+permitting electronic submission of responses; and
+    (e) Assess information collection costs.
+
+    To request additional information on the proposed project or to 
+obtain a copy of the information collection plan and instruments, call 
+(404) 639-7570. Comments and recommendations for the proposed 
+information collection should be sent within 30 days of publication of 
+this notice to www.reginfo.gov/public/do/PRAMain. Find this particular 
+information collection by selecting ``Currently under 30-day Review--
+Open for Public Comments'' or by using the search function. Direct 
+written comments and/or suggestions regarding the items contained in 
+this notice to the Attention: CDC Desk Officer, Office of Management 
+and Budget, 725 17th Street NW, Washington, DC 20503 or by fax to (202) 
+395-5806. Provide written comments within 30 days of notice 
+publication.
+
+Proposed Project
+
+    Maritime Illness Database and Reporting System (MIDRS)(OMB Control 
+No. 0920-1260, Exp. 04/30/2022)--Revision--National Center for 
+Environmental Health (NCEH), Centers for Disease Control and Prevention 
+(CDC).
+
+Background and Brief Description
+
+    Under Foreign Quarantine Regulations (45 CFR 71), Sec.  71.21(c) 
+for ``report of illness'' and Sec.  71.41 ``general provisions'' for 
+sanitary inspections, the Vessel Sanitation Program (VSP) in the 
+National Center for Environmental Health (NCEH) takes the CDC lead on 
+overseeing acute gastroenteritis (AGE) illness surveillance, AGE 
+outbreak investigations, and sanitary inspections. The VSP's 
+jurisdiction includes passenger vessels carrying 13 or more people 
+sailing from foreign ports and within 15 days of arriving at a U.S. 
+port. Data collected allows VSP to quickly detect AGE outbreaks, 
+provide epidemiologic and sanitation guidance to stop the outbreak, 
+craft public health recommendations to prevent future outbreaks, and 
+monitor AGE illness trends to identify important changes over time.
+    To continue this AGE surveillance, NCEH is requesting a revision of 
+a three-year Paperwork Reduction Act (PRA) clearance for the Maritime 
+Illness Database and Reporting System (MIDRS) (OMB Control No. 0920-
+1260; expiration date 04/30/2022). This information collection request 
+(ICR) is revised to refine and update respondent types, frequencies of 
+responses, information collection forms, recordkeeping requirements, 
+and time burden requested for AGE surveillance. CDC is also updating 
+this ICR to include recordkeeping requirements related to VSP 
+sanitation inspections.
+    The MIDRS data collection system consists of an electronic 
+surveillance system that receives information through a web-based 
+reporting portal 24 hours and four hours prior to arrival at a U.S. 
+port. This data can also be submitted by phone, email, or fax and 
+entered into MIDRS by VSP. AGE cases reported to MIDRS are totals for 
+the entire voyage and do not represent the number of active AGE cases 
+at any given port of call or at disembarkation.
+    In the past three years, the VSP has received 13,352 AGE reports to 
+MIDRS. Since the first quarter of 2020, the COVID-19 pandemic disrupted 
+the number of cruise ship voyages operating to U.S. ports of call. 
+Between March 2020 and October 2021, cruise industry operations were 
+suspended under a federally issued No Sail Order, and then subsequently 
+under a Conditional Sailing Order to prevent the risk of introducing, 
+transmitting, and spreading COVID-19 by cruise ship travelers. As a 
+result, the number of AGE reports submitted to MIDRS in 2020 and 2021 
+were substantially lower (n=2,667 and n=1,717, respectively), compared 
+to 2019 (n=8,968).
+    Thus, VSP revises its annual estimates to 9,000 MIDRS reports from 
+approximately 300 ships arriving at U.S. ports 30 times per year. This 
+number of arrivals reflects the number of times each cruise ship must 
+submit a report to MIDRS in a given year (n=300*30=9,000). All arriving 
+ships send 24-hour MIDRS reports (44% electronically [n=132]; 56% by 
+phone, email, or fax [n=168]) to the VSP. A subset of approximately 80% 
+of these ships may need to send four-hour MIDRS reports either 
+electronically (n=106) or by phone, email, or fax (n=201) if the number 
+of cases changes after submission of the initial report.
+    When AGE cases exceed the 2% alert threshold and the 3% outbreak 
+threshold, special reports are sent to VSP. VSP estimates that 2% of 
+ships reporting to MIDRS (n=180) per year are required to send up to 
+four special report updates until they are four hours from port. VSP 
+also requires these ships to begin sending at least one and up to 12 
+daily reports in the form of AGE logs to monitor and assess whether a 
+cruise ship outbreak investigation (CSOI) may be warranted. If so, VSP 
+conducts CSOIs under OMB Control Number 0020-1255 (expiration date 03/
+30/2022).
+    The daily report in the form of AGE logs and the 72-hour food/
+activity history template are used to document AGE cases among crew 
+(n=575 per year) and passengers (n=2,795 per year). The ship's crew 
+undergo additional worker assessments. For example, all crew members 
+undergo a three-day pre-embarkation AGE illness assessment (n=197,640 
+per year based on an average of 1,080 crew per ship in 2019). Assuming 
+five contacts and cabin mates per crew AGE cases, approximately 2,875 
+crew per year undergo additional screening and assessments such as 
+initial, 24-hour, and 48-hour verbal interviews to assess AGE status. 
+Crew AGE cases must also undergo a last symptom check to obtain a 
+return-to-work clearance. Documentation of these assessments and 
+reports are maintained on the ship for at least 12 months (8,760 hours 
+per year).
+    There are three types of respondents involved in AGE surveillance: 
+Cruise ship medical staff or other designated personnel who treat and 
+report AGE cases to VSP, and the cruise ship crew and the cruise ship 
+passengers who may become AGE cases. Of note, VSP does not request any 
+identifiable information from or about the AGE cases; this information 
+is collected and owned by the cruise line and maintained on the ship as 
+part of the AGE case's medical record.
+    A fourth type of respondent is the cruise ship engineering staff 
+who perform shipboard engineering and sanitation system maintenance. 
+Such records must be maintained for at least 12 months (8,760 hours). 
+VSP reviews these records during operational inspections to confirm 
+they are available if needed, and if there is an AGE outbreak or report 
+of unusual AGE illness for a particular voyage.
+    After careful consideration of the VSP and cruise industry 
+experience in 2019 and the standard practices outlined in the VSP 
+Operations Manual, CDC has revised its burden estimates for an
+
+[[Page 19097]]
+
+increase of 6,312,230 annual responses (n=6,325,980) compared to that 
+approved in 2019 (n=13,750). CDC also estimates the total annualized 
+time burden is 5,592,688 hours, which is an increase of 5,591,150 hours 
+compared to the previously approved 1,538 hours. This increase in 
+annual time burden is based largely on more accurate estimation of the 
+number of respondents, the number of responses, and adding the 12-month 
+recordkeeping burden for both AGE surveillance records and for 
+maintenance and sanitation records; this recordkeeping burden was not 
+accurately accounted for in the prior ICR. There are no other costs to 
+the respondents other than their time.
+
+                                        Estimated Annualized Burden Hours
+----------------------------------------------------------------------------------------------------------------
+                                                                                     Number of    Average burden
+          Type of respondents                   Form name            Number of     responses per   per  response
+                                                                    respondents     respondent      (in hours)
+----------------------------------------------------------------------------------------------------------------
+Cruise ship medical staff or other      AGE Illness Report 24                132              30            3/60
+ designated personnel.                   hours before arrival
+                                         (web).
+                                        AGE Illness Report 24                168              30            3/60
+                                         hours before arrival
+                                         (phone/email/fax).
+                                        AGE Illness Report 4                 106              30            3/60
+                                         hours before arrival
+                                         (web).
+                                        AGE Illness Report 4                 134              30            3/60
+                                         hours before arrival
+                                         (phone/email/fax).
+                                        Special Reports                      180               4            3/60
+                                         exceeding 2%-3% AGE
+                                         Threshold (web/phone/
+                                         email/fax).
+                                        Daily Reports of AGE                 180              12            3/60
+                                         Logs.
+                                        Recordkeeping of AGE                 300               1           8,760
+                                         Surveillance Records.
+----------------------------------------------------------------------------------------------------------------
+Cruise ship crew......................  72-hour Food/Activity                575              30           10/60
+                                         History Template (AGE
+                                         cases).
+                                        Three-day Pre-                   197,640              30            3/60
+                                         embarkation AGE Illness
+                                         Assessment (all crew
+                                         members).
+                                        Interviews to Determine            2,875              90            5/60
+                                         AGE Status (initial, 24-
+                                         hr, 48-hr)(asymptomatic
+                                         cabin mates and
+                                         immediate contacts of
+                                         symptomatic crew).
+                                        Last Symptom Check and               575              30            3/60
+                                         Return to Work
+                                         Clearance (food and
+                                         nonfood employees).
+----------------------------------------------------------------------------------------------------------------
+Cruise ship passengers................  72-hour Food/Activity              2,795              30           10/60
+                                         History Template (AGE
+                                         cases).
+----------------------------------------------------------------------------------------------------------------
+Cruise ship engineering staff or other  Recordkeeping of                     300               1           8,760
+ designated personnel.                   Engineering and
+                                         Sanitation Records.
+----------------------------------------------------------------------------------------------------------------
+
+
+Jeffrey M. Zirger,
+Lead, Information Collection Review Office, Office of Scientific 
+Integrity, Office of Science, Centers for Disease Control and 
+Prevention.
+[FR Doc. 2022-06911 Filed 3-31-22; 8:45 am]
+BILLING CODE 4163-18-P
+
+

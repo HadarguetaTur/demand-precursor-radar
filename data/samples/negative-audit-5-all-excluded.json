@@ -1,0 +1,57 @@
+{
+  "cases": [
+    {
+      "document_sha256": "3b0bf637ad6fafb7d3050b1285326add4684a23fbabbf7be17df5a06444e577d",
+      "matched_signals": [],
+      "publication_date": "2022-04-01",
+      "screen_decision": "excluded_by_rule",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06856",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "7e0417448cc7b5cc49be5d4d92b30d5460c59fc5daf5b1a0653714619e76d2fb",
+      "matched_signals": [],
+      "publication_date": "2022-04-01",
+      "screen_decision": "excluded_by_rule",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06858",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "2c9f4c2edbc48d320d54e78ccddbdff3c75af980c3c26114b6f5d5a9c423cd4a",
+      "matched_signals": [],
+      "publication_date": "2022-04-01",
+      "screen_decision": "excluded_by_rule",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06868",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "6b1a078ee4fff1d52bd54b96668479e5bf58151fbbc19b9122ba418f0a80626c",
+      "matched_signals": [],
+      "publication_date": "2022-04-01",
+      "screen_decision": "excluded_by_rule",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06872",
+      "source_id": "federal-register"
+    },
+    {
+      "document_sha256": "7efc45a050e04030d51954b2af5acb39a40f72893339f7ed574c1e5009b01061",
+      "matched_signals": [],
+      "publication_date": "2022-04-01",
+      "screen_decision": "excluded_by_rule",
+      "screening_rule": "keyword-v0.1",
+      "source_document_id": "2022-06912",
+      "source_id": "federal-register"
+    }
+  ],
+  "excluded_frame_hash": "c0cbf560eefcb92e995d4ecceb0a253aa541d076900f241de57e07cc8364c0bc",
+  "inclusion_probability": 1.0,
+  "instruction": "Manually read each original document, label missed eligible event YES/NO/UNCLEAR, and report denominator and missingness. No future outcomes.",
+  "kind": "negative_screening_audit",
+  "name": "negative-audit-5-all-excluded",
+  "screen_version": "keyword-v0.1",
+  "seed": 26023,
+  "total_screened_out": 5
+}

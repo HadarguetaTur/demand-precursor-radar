@@ -1,0 +1,164 @@
+
+[Federal Register Volume 87, Number 63 (Friday, April 1, 2022)]
+[Notices]
+[Pages 19100-19101]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2022-06915]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF HEALTH AND HUMAN SERVICES
+
+Centers for Disease Control and Prevention
+
+[60Day-22-22DT; Docket No. CDC-2022-0040]
+
+
+Proposed Data Collection Submitted for Public Comment and 
+Recommendations
+
+AGENCY: Centers for Disease Control and Prevention (CDC), Department of 
+Health and Human Services (HHS).
+
+ACTION: Notice with comment period.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The Centers for Disease Control and Prevention (CDC), located 
+within the Department of Health and Human Services (HHS), as part of 
+its continuing effort to reduce public burden and maximize the utility 
+of government information, invites the general public and other federal 
+agencies the opportunity to comment on a proposed information 
+collection, as required by the Paperwork Reduction Act of 1995. This 
+notice invites comment on a proposed information collection project 
+titled Baseline Survey of National Education and Awareness Social 
+Marketing Campaign: Employer Efforts to Support the Mental Health of 
+Health Workers. This project is designed to conduct an electronic 
+survey with healthcare workers and healthcare employers to establish a 
+baseline to measure intended campaign outcomes.
+
+DATES: CDC must receive written comments on or before May 31, 2022.
+
+ADDRESSES: You may submit comments, identified by Docket No. CDC-2022-
+0040, by either of the following methods:
+    <bullet> Federal eRulemaking Portal: www.regulations.gov. Follow 
+the instructions for submitting comments.
+    <bullet> Mail: Jeffrey M. Zirger, Information Collection Review 
+Office, Centers for Disease Control and Prevention, 1600 Clifton Road 
+NE, MS H21-8, Atlanta, Georgia 30329.
+    Instructions: All submissions received must include the agency name 
+and Docket Number. CDC will post, without change, all relevant comments 
+to www.regulations.gov.
+    Please note: Submit all comments through the Federal eRulemaking 
+portal (www.regulations.gov) or by U.S. mail to the address listed 
+above.
+
+FOR FURTHER INFORMATION CONTACT: To request more information on the 
+proposed project or to obtain a copy of the information collection plan 
+and instruments, contact Jeffrey M. Zirger, Information Collection 
+Review Office, Centers for Disease Control and Prevention, 1600 Clifton 
+Road NE, MS H21-8, Atlanta, Georgia 30329; phone: 404-639-7570; Email: 
+<span class="__cf_email__" data-cfemail="c3acaea183a0a7a0eda4acb5">[email protected]</span>.
+
+SUPPLEMENTARY INFORMATION: Under the Paperwork Reduction Act of 1995 
+(PRA) (44 U.S.C. 3501-3520), federal agencies must obtain approval from 
+the Office of Management and Budget (OMB) for each collection of 
+information they conduct or sponsor. In addition, the PRA also requires 
+federal agencies to provide a 60-day notice in the Federal Register 
+concerning each proposed collection of information, including each new 
+proposed collection, each proposed extension of existing collection of 
+information, and each reinstatement of previously approved information 
+collection before submitting the collection to the OMB for approval. To 
+comply with this requirement, we are publishing this notice of a 
+proposed data collection as described below.
+    The OMB is particularly interested in comments that will help:
+    1. Evaluate whether the proposed collection of information is 
+necessary for the proper performance of the functions of the agency, 
+including whether the information will have practical utility;
+    2. Evaluate the accuracy of the agency's estimate of the burden of 
+the proposed collection of information, including the validity of the 
+methodology and assumptions used;
+    3. Enhance the quality, utility, and clarity of the information to 
+be collected;
+    4. Minimize the burden of the collection of information on those 
+who are to respond, including through the use of appropriate automated, 
+electronic, mechanical, or other technological collection techniques or 
+other forms of information technology, e.g., permitting electronic 
+submissions of responses; and
+    5. Assess information collection costs.
+
+Proposed Project
+
+    Baseline Survey of National Education and Awareness Social 
+Marketing Campaign: Employer Efforts to Support the Mental Health of 
+Health Workers--New--National Institute for Occupational Safety and 
+Health (NIOSH), Centers for Disease Control and Prevention (CDC).
+
+Background and Brief Description
+
+    NIOSH is requesting approval of a new data collection for a period 
+of one year under the project titled Baseline Survey of National 
+Education and Awareness Social Marketing Campaign: Employer Efforts to 
+Support the Mental Health of Health Workers. As part of the COVID-19 
+American Rescue Plan of 2021 and in response to a Congressional 
+mandate, NIOSH is taking an active stance to address mental health 
+concerns, to include substance use disorders, among the more than 20 
+million workers in the nation's healthcare sector. NIOSH, the federal 
+agency tasked with conducting research to contribute to reductions in 
+occupational illnesses, injuries, and hazards, plans to conduct a 
+national social marketing campaign to promote awareness and education 
+of employers and health workers about mental health. By conducting a 
+national social marketing campaign, NIOSH intends to reach both health 
+employers and health workers with information about organizational 
+programs, services, policies, and practices to support worker mental 
+health and the
+
+[[Page 19101]]
+
+importance of taking action to support one's mental health. The 
+immediate anticipated outcomes of the campaign include:
+    1. Increased awareness and knowledge of mental health risks among 
+healthcare workers, by both workers themselves and by their employers, 
+and
+    2. Increased awareness of evidence-based interventions, policies, 
+practices, services, and other resources among healthcare workers, by 
+both workers themselves and by their employers.
+    Additionally, NIOSH aims for the campaign to not only increase 
+healthcare employers' intent to implement workplace mental health 
+support, but to increase workers ability to identify and intent to 
+utilize those support services. To begin to understand whether these 
+outcomes have been achieved, at the conclusion of the campaign NIOSH 
+must first establish baseline metrics for these outcomes prior to the 
+campaign's launch. Hence the need for this requested data collection. 
+Secondarily, this information may also be used in further campaign 
+development.
+    NIOSH anticipates seeking 500 healthcare worker respondents and 500 
+healthcare employer respondents for a total of 1,000 total survey 
+respondents. We estimate that the survey will take approximately 15 
+minutes to complete per for a total of 250 annual burden hours. 
+Participation is voluntary, and there is no cost to respondents other 
+than their time.
+
+                                        Estimated Annualized Burden Hours
+----------------------------------------------------------------------------------------------------------------
+                                                                                      Average
+                                                     Number of       Number of      burden per     Total burden
+      Type of respondents           Form name       respondents    responses per   response  (in    (in hours)
+                                                                    respondent        hours)
+----------------------------------------------------------------------------------------------------------------
+Healthcare Employers..........  Survey..........             500               1           15/60             125
+Healthcare Employees..........  Survey..........             500               1           15/60             125
+                                                 ---------------------------------------------------------------
+    Total.....................  ................  ..............  ..............  ..............             250
+----------------------------------------------------------------------------------------------------------------
+
+
+Jeffrey M. Zirger,
+Lead, Information Collection Review Office, Office of Scientific 
+Integrity, Office of Science, Centers for Disease Control and 
+Prevention.
+[FR Doc. 2022-06915 Filed 3-31-22; 8:45 am]
+BILLING CODE 4163-18-P
+
+

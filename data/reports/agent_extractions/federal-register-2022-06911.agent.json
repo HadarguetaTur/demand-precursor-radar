@@ -1,0 +1,115 @@
+{
+  "status_of_this_file": "UNREVIEWED Claude Code subagent output used as REVIEW AID; not a production candidate; not human-accepted",
+  "source_document_id": "2022-06911",
+  "publication_date_manifest": "2022-04-01",
+  "document_sha256": "f4ee41912cd91aaf94c4d6f5539a439db9112e73bc65b6c4df260fdc2e141600",
+  "source_hash_ok": true,
+  "source_text_mode": "govinfo_gpo_html_pre_text",
+  "original_text_url": "https://www.govinfo.gov/content/pkg/FR-2022-04-01/html/2022-06911.htm",
+  "agent_output": {
+    "source_document_id": "2022-06911",
+    "publication_date": "2022-04-01",
+    "is_event": false,
+    "event_type": "other_identifiable_change",
+    "status": "notice_informational",
+    "affected_group": "Cruise ship medical staff, crew, passengers, and engineering staff on passenger vessels (13+ people) sailing from foreign ports to U.S. ports under CDC Vessel Sanitation Program",
+    "change_summary": "CDC 30-day Paperwork Reduction Act notice: submission to OMB of a proposed revision of the existing Maritime Illness Database and Reporting System (MIDRS) information collection (OMB 0920-1260, expiring 04/30/2022), refining respondent types, forms, recordkeeping and burden estimates; requests public comment within 30 days. No new substantive requirement is announced.",
+    "effective_at": null,
+    "evidence": [
+      {
+        "field": "status",
+        "quote": "In accordance with the Paperwork Reduction Act of 1995, the Centers \nfor Disease Control and Prevention (CDC) has submitted the information \ncollection request titled ``Maritime Illness Database and Reporting \nSystem (MIDRS)'' to the Office of Management and Budget (OMB) for \nreview and approval."
+      },
+      {
+        "field": "status",
+        "quote": "This notice serves to allow an additional 30 days for public and \naffected agency comments."
+      },
+      {
+        "field": "change_summary",
+        "quote": "This information collection request \n(ICR) is revised to refine and update respondent types, frequencies of \nresponses, information collection forms, recordkeeping requirements, \nand time burden requested for AGE surveillance. CDC is also updating \nthis ICR to include recordkeeping requirements related to VSP \nsanitation inspections."
+      },
+      {
+        "field": "change_summary",
+        "quote": "this recordkeeping burden was not \naccurately accounted for in the prior ICR. There are no other costs to \nthe respondents other than their time."
+      },
+      {
+        "field": "affected_group",
+        "quote": "There are three types of respondents involved in AGE surveillance: \nCruise ship medical staff or other designated personnel who treat and \nreport AGE cases to VSP, and the cruise ship crew and the cruise ship \npassengers who may become AGE cases."
+      },
+      {
+        "field": "affected_group",
+        "quote": "A fourth type of respondent is the cruise ship engineering staff \nwho perform shipboard engineering and sanitation system maintenance."
+      },
+      {
+        "field": "effective_at",
+        "quote": "Comments and recommendations for the proposed \ninformation collection should be sent within 30 days of publication of \nthis notice to www.reginfo.gov/public/do/PRAMain."
+      }
+    ],
+    "uncertainties": [
+      "Not classified as an event: routine PRA 30-day comment notice for revision of an existing information collection; no new legal requirement, deadline, or behavior change.",
+      "Large stated burden increase (5,591,150 hours) described as a more accurate estimate of existing practices; whether added recordkeeping requirements are new in substance cannot be determined from this document alone.",
+      "No effective date; OMB approval outcome not stated.",
+      "manifest historical_date_approved=false."
+    ],
+    "economically_material": "REDACTED_FROM_REVIEWER_PATH (see agent_materiality_sidecar.json; may contain forward-looking speculation)"
+  },
+  "quote_checks": [
+    {
+      "field": "status",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "In accordance with the Paperwork Reduction Act of 1995, the Centers \nfor Disease Control and Prevention (CDC) has submitted the information \ncollection request titled ``Maritime Illness Database and Reporting \nSystem (MIDRS)'' to the Office of Management and Budget (OMB) for \nreview and approval."
+    },
+    {
+      "field": "status",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "This notice serves to allow an additional 30 days for public and \naffected agency comments."
+    },
+    {
+      "field": "change_summary",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "This information collection request \n(ICR) is revised to refine and update respondent types, frequencies of \nresponses, information collection forms, recordkeeping requirements, \nand time burden requested for AGE surveillance. CDC is also updating \nthis ICR to include recordkeeping requirements related to VSP \nsanitation inspections."
+    },
+    {
+      "field": "change_summary",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "this recordkeeping burden was not \naccurately accounted for in the prior ICR. There are no other costs to \nthe respondents other than their time."
+    },
+    {
+      "field": "affected_group",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "There are three types of respondents involved in AGE surveillance: \nCruise ship medical staff or other designated personnel who treat and \nreport AGE cases to VSP, and the cruise ship crew and the cruise ship \npassengers who may become AGE cases."
+    },
+    {
+      "field": "affected_group",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "A fourth type of respondent is the cruise ship engineering staff \nwho perform shipboard engineering and sanitation system maintenance."
+    },
+    {
+      "field": "effective_at",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "Comments and recommendations for the proposed \ninformation collection should be sent within 30 days of publication of \nthis notice to www.reginfo.gov/public/do/PRAMain."
+    }
+  ],
+  "code_verdict": "NOT_EVENT"
+}

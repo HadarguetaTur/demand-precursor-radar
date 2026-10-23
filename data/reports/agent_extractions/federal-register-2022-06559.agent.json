@@ -1,0 +1,153 @@
+{
+  "status_of_this_file": "UNREVIEWED Claude Code subagent output used as REVIEW AID; not a production candidate; not human-accepted",
+  "source_document_id": "2022-06559",
+  "publication_date_manifest": "2022-04-01",
+  "document_sha256": "2f3fd6313195b7e62a0a1d3e5394b51e8e9590176b8a694dde33a6058527b7f4",
+  "source_hash_ok": true,
+  "source_text_mode": "govinfo_gpo_html_pre_text",
+  "original_text_url": "https://www.govinfo.gov/content/pkg/FR-2022-04-01/html/2022-06559.htm",
+  "agent_output": {
+    "source_document_id": "2022-06559",
+    "publication_date": "2022-04-01",
+    "is_event": true,
+    "event_type": "new_legal_requirement",
+    "status": "proposed",
+    "affected_group": "Operators of vessels (recreational boaters, spectator craft, commercial vessels) and persons on navigable waters of the Ninth Coast Guard District (Great Lakes) near tall ships participating in the Tall Ships Challenge Great Lakes 2022 (Erie, PA; Cleveland, OH; Two Harbors, MN)",
+    "change_summary": "The Coast Guard proposes (NPRM) a temporary safety zone (33 CFR 165.T09-0163) covering all navigable waters within a 100 yard radius of any tall ship participating in the Tall Ships Challenge 2022 in the Great Lakes, from 12:01 a.m. June 24, 2022 through 12:01 a.m. August 29, 2022. No person or vessel may enter the zone without COTP/official patrol authorization; in confined harbors vessels may operate inside at minimum safe speed but not within 25 yards of a tall ship; moored/anchored vessels must remain stationary while in the zone. Comments due May 2, 2022.",
+    "effective_at": "2022-06-24",
+    "evidence": [
+      {
+        "field": "status",
+        "quote": "ACTION: Notice of proposed rulemaking."
+      },
+      {
+        "field": "status",
+        "quote": "DATES: Comments and related material must be received by the Coast \nGuard on or May 2, 2022."
+      },
+      {
+        "field": "change_summary",
+        "quote": "SUMMARY: The Coast Guard proposes to create safety zones around each \ntall ship visiting the Great Lakes during the Tall Ships Challenge 2022 \nrace series."
+      },
+      {
+        "field": "change_summary",
+        "quote": "The Coast Guard proposes to establish safety zones from 12:01 a.m. \non June 24, 2022, until 12:01 a.m. on August 29, 2022. The safety zones \nwould cover all navigable waters within 100 yards of a tall ship in the \nGreat Lakes."
+      },
+      {
+        "field": "change_summary",
+        "quote": "(c) Regulations. (1) No person or vessel is allowed within the \nsafety zone unless authorized by the cognizant Captain of the Port, \ntheir designated representative, or the on-scene official patrol."
+      },
+      {
+        "field": "change_summary",
+        "quote": "Vessels operating within the safety zone shall \nnot come within 25 yards of a tall ship unless authorized by the \ncognizant Captain of the Port, their designated representative, or the \non-scene official patrol."
+      },
+      {
+        "field": "affected_group",
+        "quote": "(b) Location. The following areas are safety zones: All navigable \nwaters of the United States located in the Ninth Coast Guard District \nwithin a 100 yard radius of any tall ship."
+      },
+      {
+        "field": "affected_group",
+        "quote": "The combination of large \nnumbers of recreational boaters, congested waterways, boaters crossing \ncommercially transited waterways and low maneuverability of the tall \nships could easily result in serious injuries or fatalities."
+      },
+      {
+        "field": "affected_group",
+        "quote": "While some owners or operators of vessels intending to transit the \nsafety zone may be small entities"
+      },
+      {
+        "field": "effective_at",
+        "quote": "(d) Effective period. This section is effective from 12:01 a.m. on \nJune 24, 2022, through 12:01 a.m. on August 29, 2022."
+      }
+    ],
+    "uncertainties": [
+      "Proposed rule (NPRM), not final; effective_at 2022-06-24 is the proposed start, contingent on a final rule.",
+      "DATES section has an apparent typo ('on or May 2, 2022').",
+      "Background text phrases the zone as if certain; treated as proposed.",
+      "manifest historical_date_approved=false.",
+      "Signed March 23, 2022, filed 3-31-22; publication date differs from signature date.",
+      "Temporary, event-specific regulation; relevance as a demand precursor is limited."
+    ],
+    "economically_material": "REDACTED_FROM_REVIEWER_PATH (see agent_materiality_sidecar.json; may contain forward-looking speculation)"
+  },
+  "quote_checks": [
+    {
+      "field": "status",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "ACTION: Notice of proposed rulemaking."
+    },
+    {
+      "field": "status",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "DATES: Comments and related material must be received by the Coast \nGuard on or May 2, 2022."
+    },
+    {
+      "field": "change_summary",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "SUMMARY: The Coast Guard proposes to create safety zones around each \ntall ship visiting the Great Lakes during the Tall Ships Challenge 2022 \nrace series."
+    },
+    {
+      "field": "change_summary",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "The Coast Guard proposes to establish safety zones from 12:01 a.m. \non June 24, 2022, until 12:01 a.m. on August 29, 2022. The safety zones \nwould cover all navigable waters within 100 yards of a tall ship in the \nGreat Lakes."
+    },
+    {
+      "field": "change_summary",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "(c) Regulations. (1) No person or vessel is allowed within the \nsafety zone unless authorized by the cognizant Captain of the Port, \ntheir designated representative, or the on-scene official patrol."
+    },
+    {
+      "field": "change_summary",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "Vessels operating within the safety zone shall \nnot come within 25 yards of a tall ship unless authorized by the \ncognizant Captain of the Port, their designated representative, or the \non-scene official patrol."
+    },
+    {
+      "field": "affected_group",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "(b) Location. The following areas are safety zones: All navigable \nwaters of the United States located in the Ninth Coast Guard District \nwithin a 100 yard radius of any tall ship."
+    },
+    {
+      "field": "affected_group",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "The combination of large \nnumbers of recreational boaters, congested waterways, boaters crossing \ncommercially transited waterways and low maneuverability of the tall \nships could easily result in serious injuries or fatalities."
+    },
+    {
+      "field": "affected_group",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "While some owners or operators of vessels intending to transit the \nsafety zone may be small entities"
+    },
+    {
+      "field": "effective_at",
+      "exact_in_source": true,
+      "verbatim_in_source": true,
+      "below_20_char_floor": false,
+      "match_only_after_whitespace_normalization": false,
+      "quote": "(d) Effective period. This section is effective from 12:01 a.m. on \nJune 24, 2022, through 12:01 a.m. on August 29, 2022."
+    }
+  ],
+  "code_verdict": "PASS_QUOTES"
+}

@@ -1,0 +1,1031 @@
+
+[Federal Register Volume 87, Number 63 (Friday, April 1, 2022)]
+[Rules and Regulations]
+[Pages 19011-19019]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2022-06842]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF COMMERCE
+
+National Oceanic and Atmospheric Administration
+
+50 CFR Part 622
+
+[Docket No. 220328-0080]
+RIN 0648-BL00
+
+
+Fisheries of the Caribbean, Gulf of Mexico, and South Atlantic; 
+Dolphin and Wahoo Fishery of the Atlantic; Amendment 10
+
+AGENCY: National Marine Fisheries Service (NMFS), National Oceanic and 
+Atmospheric Administration (NOAA), Commerce.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: NMFS issues regulations to implement Amendment 10 to the 
+Fishery Management Plan (FMP) for the Dolphin and Wahoo Fishery of the 
+Atlantic (Dolphin and Wahoo FMP), as prepared and submitted by the 
+South Atlantic Fishery Management Council (Council). This final rule 
+revises the annual catch limits (ACLs), accountability measures (AMs), 
+and additional management measures for
+
+[[Page 19012]]
+
+dolphin and wahoo. The additional management measures address 
+commercial trip limits, authorized fishing gear, the operator permit 
+(card) requirement for dolphin and wahoo, and the recreational vessel 
+limit for dolphin. Amendment 10 also revises the acceptable biological 
+catch (ABC) and sector allocations for both dolphin and wahoo. The 
+purpose of this final rule and Amendment 10 is to base conservation and 
+management measures for dolphin and wahoo on the best scientific 
+information available and increase net benefits to the fishery.
+
+DATES: This final rule is effective May 2, 2022.
+
+ADDRESSES: Electronic copies of Amendment 10, which includes a fishery 
+impact statement and a regulatory impact review, may be obtained from 
+the Southeast Regional Office website at https://www.fisheries.noaa.gov/action/amendment-10-changes-catch-levels-sector-allocations-accountability-measures-and-management.
+    Written comments regarding the burden hour estimates or any other 
+aspects of the collection of information requirements contained in this 
+final rule may be submitted at any time by email to Adam Bailey, NMFS 
+Southeast Regional Office, <span class="__cf_email__" data-cfemail="adccc9ccc083cfccc4c1c8d4edc3c2cccc83cac2db">[email protected]</span>, or to www.reginfo.gov/public/do/PRAMain.
+
+FOR FURTHER INFORMATION CONTACT: Nikhil Mehta, telephone: 727-824-5305, 
+or email: <span class="__cf_email__" data-cfemail="d0beb9bbb8b9bcfebdb5b8a4b190bebfb1b1feb7bfa6">[email protected]</span>.
+
+SUPPLEMENTARY INFORMATION: The dolphin and wahoo fishery in Federal 
+waters from Maine south to the Florida Keys in the Atlantic is managed 
+under the Dolphin and Wahoo FMP. The Dolphin and Wahoo FMP was prepared 
+by the Council and implemented through regulations at 50 CFR part 622 
+under the authority of the Magnuson-Stevens Fishery Conservation and 
+Management Act (Magnuson-Stevens Act).
+    On December 23, 2021, NMFS published a notice of availability for 
+Amendment 10 and requested public comment (86 FR 72911). NMFS approved 
+Amendment 10 on March 17, 2022. On January 14, 2022, NMFS published a 
+proposed rule for Amendment 10 and requested public comment (87 FR 
+2389). The proposed rule and Amendment 10 outline the rationale for the 
+actions contained in this final rule. A summary of the management 
+measures described in Amendment 10 and implemented by this final rule 
+is described below.
+
+Background
+
+    The current total ACLs for both dolphin and wahoo were added to the 
+FMP in 2014 through Amendment 5 to the Dolphin and Wahoo FMP (Amendment 
+5), and are based on the Council's Scientific and Statistical 
+Committee's (SSC) ABC recommendations using the third highest landings 
+value during 1999-2008 (79 FR 32878; June 9, 2014). The landings data 
+during that time period did not include recreational landings from 
+Monroe County, Florida, and were based on recreational data from the 
+Marine Recreational Information Program's (MRIP) Coastal Household 
+Telephone Survey (CHTS) method. In April 2020, the Council's SSC 
+recommended new ABC levels for dolphin and wahoo using the third 
+highest annual commercial and recreational landings value during 1994-
+2007. These landings include recreational landings from Monroe County, 
+Florida, and used MRIP's Fishing Effort Survey (FES) method, which is 
+considered more reliable and robust compared to the CHTS survey method. 
+The new ABC recommendations for dolphin and wahoo are also based on the 
+new weight estimation procedure from NMFS Southeast Fisheries Science 
+Center (SEFSC) that uses a 15 fish minimum sample size and represents 
+the best scientific information available. This final rule revises the 
+total ACLs for dolphin and wahoo to equal the new ABC values.
+    The current sector allocations for dolphin were added to the FMP in 
+2016 through Amendment 8 to the Dolphin and Wahoo FMP (Amendment 8), 
+with 10.00 percent of the total ACL to the commercial sector and 90.00 
+percent of the total ACL to the recreational sector (81 FR 3731; 
+January 22, 2016). In 2015, the commercial sector was closed because 
+the commercial ACL was met during that fishing year. In Amendment 8, 
+the Council set the commercial allocation at the average of the 
+percentages of the total commercial catch for 2008-2012, and the 
+resulting 10 percent of the total ACL for the commercial allocation was 
+expected to prevent subsequent closures of the commercial sector. The 
+current sector allocations for wahoo were added to the FMP in 2014 
+through Amendment 5, with 3.93 percent of the total ACL to the 
+commercial sector and 96.07 percent of the total ACL to the 
+recreational sector. The Council decided on these wahoo allocations by 
+balancing long-term catch history with recent catch history, and 
+determined this method as the most fair and equitable way to allocate 
+fishery resources since it considered past and present participation. 
+The current allocations for both dolphin and wahoo were applied to the 
+respective species' total ACLs (equal to the ABCs) to obtain the sector 
+ACLs.
+    Amendment 10 specifies commercial and recreational allocations for 
+dolphin at 7.00 percent and 93.00 percent, respectively. For wahoo, 
+Amendment 10 specifies commercial and recreational allocations at 2.45 
+percent and 97.55 percent, respectively. These allocations are applied 
+to the respective species' revised total ACLs (equal to the proposed 
+ABCs) using the third highest landings value during 1994-2007 to 
+determine the new sector ACLs. The revised sector ACLs for dolphin and 
+wahoo were derived from landings which include recreational landings 
+from Monroe County, Florida, use MRIP's FES method, and SEFSC new 
+weight estimation procedure. For dolphin, the Council has determined 
+that the revised sector allocations and revised sector ACLs would avoid 
+a decrease in the current pounds of dolphin available to either 
+sector's ACL. For wahoo, the Council's intent is to maintain the 
+current commercial ACL and allocate the remaining revised ACL to the 
+recreational sector.
+    Amendment 10 and this final rule do not make any changes to the 
+commercial AMs for dolphin or wahoo. The current recreational AMs for 
+dolphin and wahoo were added to the FMP in 2014 through Amendment 5, 
+and do not contain an in-season AM but instead require monitoring for 
+persistence in recreational landings during the year following any 
+recreational ACL overage. Further, the current recreational post-season 
+AMs state that if the combined commercial and recreational landings 
+exceed the combined commercial and recreational ACLs, and dolphin and 
+wahoo are overfished, the recreational ACL for the following year will 
+be reduced by the amount of the recreational overage in the prior 
+fishing year, and the recreational fishing season will be reduced by 
+the amount necessary to ensure recreational landings do not exceed the 
+reduced ACL. The Regional Administrator (RA) will determine, using the 
+best scientific information available, if a reduction in the 
+recreational ACL and a reduction in the length of the following fishing 
+season is unnecessary. These recreational post-season AMs for dolphin 
+and wahoo are not viable because the post-season AMs would not be 
+triggered as there is not a peer-reviewed stock assessment for dolphin 
+and wahoo, and such assessment is
+
+[[Page 19013]]
+
+unlikely to be conducted in the near future. Therefore, there is no 
+likely method to determine their stock status. This final rule 
+establishes a trigger to implement post-season AMs and specifies the 
+post-season AMs that may be triggered for dolphin and wahoo and that 
+are not based on their stock status.
+    In 2017, Regulatory Amendment 1 to the Dolphin and Wahoo FMP and 
+the associated final rule implemented the current commercial trip limit 
+for dolphin of 4,000 lb (1,814 kg), round weight, that is in effect 
+once 75 percent of the commercial ACL is reached (82 FR 8820; January 
+31, 2017). Prior to reaching 75 percent of the commercial ACL, there is 
+no commercial trip limit for dolphin. In 2004, the final rule for the 
+original Dolphin and Wahoo FMP implemented the current commercial trip 
+limit for wahoo of 500 lb (227 kg); and a commercial trip limit of 200 
+lb (91 kg) of dolphin and wahoo, combined, provided that all fishing on 
+and landings from that trip are north of 39[deg] N latitude, for a 
+vessel that does not have a Federal commercial vessel permit for 
+dolphin and wahoo but has a Federal commercial vessel permit in any 
+other fishery.
+    In 2004, the final rule for the original Dolphin and Wahoo FMP also 
+implemented the currently authorized commercial gear types in the 
+dolphin and wahoo fishery in the Atlantic Exclusive Economic Zone (EEZ) 
+as automatic reel, bandit gear, handline, pelagic longline, rod and 
+reel, and spearfishing gear (including powerheads). A person aboard a 
+vessel in the Atlantic EEZ that has on board gear types (including 
+trap, pot, or buoy gear) other than authorized gear types may not 
+possess dolphin or wahoo. In 2016, a commercial lobster association 
+initially requested that the Council modify the fishing gear 
+regulations to allow the lobster fishery's historical practice of 
+harvesting dolphin by rod and reel while in the possession of lobster 
+pots to continue. This final rule allows a person aboard a vessel in 
+the Atlantic EEZ that possesses both a Federal Atlantic Dolphin/Wahoo 
+commercial permit and any valid Federal commercial permit(s) required 
+to fish using trap, pot, or buoy gear; or is in compliance with permit 
+requirements specified for the spiny lobster fishery in 50 CFR 622.400 
+to retain dolphin and wahoo caught by rod and reel while in possession 
+of such gear types.
+    In 2004, the original Dolphin and Wahoo FMP and associated final 
+rule implemented the requirement for a vessel operator or a crew member 
+to hold a valid operator permit (also called an operator card) for the 
+Atlantic dolphin and wahoo commercial permit or a charter vessel/
+headboat permit for Atlantic dolphin and wahoo to be valid. The 
+operator permit requirement was implemented to improve enforcement 
+within the fishery, aid in data collection, and decrease costs to 
+vessel owners from fishery violations by vessel operators. However, in 
+actuality, the benefits of operator permits to improve enforcement have 
+not occurred as they have not been widely used as an enforcement tool 
+since implementation. Rather, other methods of fishery enforcement, 
+such as vessel permits and landings, have been used by law enforcement 
+within the fishery. Because the expected benefits from operator permits 
+are not being realized, this final rule removes the requirement for 
+operator permits in the dolphin and wahoo fishery.
+    The current dolphin recreational bag limit of 10 fish per person, 
+not to exceed 60 fish per vessel in the Atlantic EEZ, was implemented 
+by the original Dolphin and Wahoo FMP in 2004. Since then, interest in 
+recreational harvest of dolphin has increased, and Council public 
+testimony, especially from Florida and its constituents, has 
+recommended a decrease in the recreational retention limits to further 
+control recreational harvest. This final rule decreases the dolphin 
+recreational vessel limit for charter vessels and private recreational 
+vessels, excluding headboats. The dolphin individual recreational bag 
+limit of 10 fish per person in the Atlantic EEZ remains unchanged.
+
+Management Measures Contained in This Final Rule
+
+Annual Catch Limits
+
+Dolphin
+
+    The current total ACL for dolphin is 15,344,846 lb (6,960,305 kg), 
+round weight. This final rule revises the total ACL for dolphin to 
+24,570,764 lb (11,145,111 kg), round weight, based on the ABC 
+recommended by the Council's SSC. The revised total ACL is equal to the 
+ABC as described in Amendment 10 and is based upon best scientific 
+information available. Dolphin are highly fecund, spawn throughout a 
+wide geographical range, and have an early age at first maturity with a 
+short generation time. Therefore, dolphin's life-history could most 
+likely support the increase in the total ACL. The Report to Congress on 
+the Status of U.S. Stocks indicates dolphin is not overfished, and is 
+not undergoing overfishing. Additionally, the Council noted that based 
+on the last 20 years of total landings data for dolphin, it appears 
+unlikely that harvest would consistently exceed the revised total ACL. 
+Commercial landings are well tracked through electronic dealer 
+reporting requirements, there is a commercial trip limit in place, and 
+recreational landings for dolphin exhibit relatively low percent 
+standard errors (PSE). The Council also noted that setting the ACL 
+equal to the ABC may allow the dolphin portion of the dolphin and wahoo 
+fishery to take advantage of years of exceptionally high abundance of 
+dolphin.
+    The current commercial and recreational ACLs for dolphin are 
+1,534,485 lb (696,031 kg), round weight, and 13,810,361 lb (6,264,274 
+kg), round weight, respectively. These are based on the current 
+commercial and recreational allocations of 10.00 percent and 90.00 
+percent, respectively. The revised commercial and recreational ACLs for 
+dolphin are 1,719,953 lb (780,158 kg), round weight, and 22,850,811 lb 
+(10,364,954 kg), round weight, respectively. The revised dolphin sector 
+ACLs are based on the commercial and recreational allocations of 7.00 
+percent and 93.00 percent, respectively.
+
+Wahoo
+
+    The current total ACL for wahoo is 1,794,960 lb (814,180 kg), round 
+weight. This final rule revises the total ACL for wahoo to 2,885,303 lb 
+(1,308,751 kg), round weight based upon the ABC recommended by the 
+Council's SSC. The revised total ACL is equal to the ABC and is based 
+upon best scientific information available. Wahoo also exhibit rapid 
+growth rates, are highly migratory, and are sexually mature at an early 
+age, so their life history also supports an increase in the ACL. The 
+overfishing and overfished status of wahoo is unknown. However, recent 
+studies found that wahoo did not show a negative decline in relative 
+abundance in recent years. The Council noted that commercial landings 
+for wahoo are also well tracked through electronic dealer reporting 
+requirements, there is a commercial trip limit of 500 lb (227 kg), and 
+that recreational landings for wahoo exhibit relatively low PSEs. The 
+Council also noted that setting the ACL equal to the ABC will allow the 
+wahoo portion of the dolphin and wahoo fishery to take advantage of 
+years with exceptionally high abundance of wahoo.
+    The current commercial and recreational ACLs for wahoo are 70,542 
+lb (31,997 kg), round weight, and 1,724,418 lb (782,183 kg), round 
+weight, respectively. These are based on the current commercial and 
+recreational allocations of 3.93 percent and 96.07
+
+[[Page 19014]]
+
+percent, respectively. The revised commercial and recreational ACLs for 
+wahoo are 70,690 lb (32,064 kg), round weight, and 2,814,613 lb 
+(1,276,687 kg), round weight, respectively. The revised sector ACLs are 
+based on the commercial and recreational allocations of 2.45 percent 
+and 97.55 percent, respectively.
+    No biological effects are expected to the dolphin and wahoo stocks 
+from these allocation changes because the revised sector ACLs would not 
+change the revised total ACLs for dolphin and wahoo. The commercial 
+sector for dolphin and wahoo has effective in-season AM already in 
+place to help constrain commercial harvest, and this final rule 
+contains modifications to the recreational post-season AMs to both 
+stocks to reduce the risk that the recreational ACL is exceeded. In 
+deciding on new sector allocations, the Council wanted to recognize the 
+needs of the recreational sector for dolphin and wahoo which would 
+exhibit higher landings than previously estimated, given the new 
+accounting of recreational landings using MRIP's FES method. At the 
+same time, the Council did not want to reduce the commercial ACLs on a 
+pound basis for dolphin and wahoo and noted that the revised 
+allocations and sector ACLs would strike a balance between the needs of 
+both sectors.
+
+Accountability Measures
+
+Dolphin
+
+    This final rule revises the recreational AMs for dolphin. The 
+current in-season closure and post-season AM based on stock status will 
+be replaced. The revised recreational AM is a post-season AM that would 
+be triggered in the following fishing year if the total ACL (commercial 
+and recreational ACLs, combined) is exceeded. The Council's intent is 
+to avoid closing recreational harvest in-season and extend maximum 
+fishing opportunities to the recreational sector without triggering the 
+recreational AM, as long as the commercial sector is under harvesting 
+its sector ACL. The revised recreational AM trigger will also help 
+ensure sustainable harvest by preventing the total ACL from being 
+exceeded consistently. Once triggered, the revised post-season 
+recreational AM would reduce the length of the following recreational 
+fishing season by the amount necessary to prevent the recreational ACL 
+from being exceeded in the following year. However, the length of the 
+recreational season would not be reduced if the RA determines, using 
+the best available science, that the season reduction is not necessary 
+to keep the recreational ACL from being exceeded in the following year. 
+The Council noted that there would be a relatively low likelihood of 
+the recreational AM for dolphin being triggered, because the revised 
+recreational ACL is based on the updated ABC, which is set at a 
+relatively high level of landings that is not often observed in the 
+dolphin portion of the dolphin and wahoo fishery. Additionally, any 
+determination that the total ACL had been exceeded would allow for the 
+monitoring of landings during the following season to evaluate whether 
+the elevated landings from the previous fishing year are continuing to 
+persist. That information would inform decisions on whether a fishing 
+season closure would actually need to occur to constrain harvest to the 
+ACL.
+
+Wahoo
+
+    This final rule revises the recreational AMs for wahoo. The current 
+in-season closure and post-season AM based on stock status would be 
+replaced. The revised recreational AM is a post-season AM that would be 
+triggered in the following fishing year if the recreational ACLs are 
+constant and the 3-year geometric mean of landings exceeds the 
+recreational ACL. As described in Amendment 10, whenever the 
+recreational ACL is changed, a single year of landings would be used 
+for an overage determination, beginning with the most recent available 
+year of landings, then a 2-year average of landings from that single 
+year and the subsequent year, then a 3-year average of landings from 
+those 2 years and the subsequent year, and thereafter a progressive 
+running 3-year average, calculated as the geometric mean, would be used 
+to determine if the recreational AM trigger has been met. The Council 
+noted this approach would allow the recreational AM to be triggered if 
+the ACL was exceeded on a consistent basis. A 3-year geometric mean 
+would help to smooth the data and potentially avoid implementing 
+restrictive recreational post-season AMs unnecessarily if there was an 
+anomaly in the recreational landings estimates during those 3 years 
+that was not accurately reflecting an actual increase in the harvest of 
+wahoo. It was also noted by the Council that the geometric mean is less 
+sensitive to being affected by abnormally large variations in landings 
+estimates than the arithmetic mean or a single year point estimate. 
+Once triggered, the post-season recreational AM would reduce the length 
+of the following recreational fishing season by the amount necessary to 
+prevent the recreational ACL from being exceeded in that year. However, 
+the length of the recreational season would not be reduced if the RA 
+determines, using the best available science, that a fishing season 
+reduction is not necessary to keep the recreational ACL from being 
+exceeded in the following year. Additionally, any determination that 
+the ACL had been exceeded would allow for the monitoring of landings 
+for the following season to evaluate whether the elevated landings from 
+the previous year are continuing to persist. That information would 
+inform decisions on whether a late season harvest closure would 
+actually need to occur. The Council also noted the relatively equitable 
+distributed effects of a shortening of the recreational season, as 
+wahoo are often targeted and caught late in the year in many areas of 
+the Atlantic region.
+
+Commercial Trip Limits and Authorized Gear Exemption
+
+    For vessels with a commercial permit for Atlantic dolphin and 
+wahoo, under the current trip limits, dolphin and wahoo may only be 
+harvested and possessed with the authorized gear types onboard. These 
+gear types are automatic reel, bandit gear, handline, pelagic longline, 
+rod and reel, and spearfishing gear. Possession on the vessel of any 
+other gear type results in a prohibition of the possession of any 
+dolphin or wahoo.
+    American lobster fishers requested to the Council that they be 
+allowed to possess dolphin or wahoo while they moved from one lobster 
+pot to the next. The Council considered an authorized gear exemption 
+based on a request from the Atlantic Offshore Lobstermen's Association 
+to allow the historical practice of harvesting dolphin with rod and 
+reel while in the possession of lobster pots to continue and decided to 
+take a broader approach to allow vessels fishing with trap, pot, or 
+buoy gear to possess dolphin or wahoo as long as the dolphin or wahoo 
+were harvested with rod and reel gear. This final rule allows for a new 
+category of commercial trip limits for dolphin and wahoo based on as 
+authorized gear exemption for trap, pot, and buoy gear. This final rule 
+will allow for the harvest and retention of 500 lb (227 kg), gutted 
+weight, of dolphin and 500 lb (227 kg) of wahoo, on board a vessel in 
+the Atlantic EEZ that possesses both an Atlantic Dolphin/Wahoo 
+commercial permit and any valid Federal commercial permit(s) required 
+that allow a vessel to fish using trap, pot, or buoy gear or is in 
+compliance with the permitting requirements for the spiny lobster of 
+the
+
+[[Page 19015]]
+
+Gulf of Mexico and South Atlantic as described at 50 CFR 622.400, 
+caught by rod and reel while in possession of such gear types. The 
+commercial trip limits under the authorized gear exemption may not be 
+combined with the current commercial trip limits for commercially 
+permitted dolphin and wahoo vessels. The Council determined that this 
+additional regulatory flexibility would have positive economic effects 
+within the fishery while also limiting the potential for any unforeseen 
+significant increases in commercial landings through the specific 
+setting of the 500 lb (227 kg), gutted weight, trip limit.
+
+Operator Permits
+
+    Currently, an operator of a vessel with either a commercial permit 
+or a charter vessel/headboat permit for dolphin and wahoo is required 
+to have an operator permit. Such operator permit must be onboard the 
+vessel and the vessel owner is required to have a permitted operator 
+onboard the vessel while it is at sea or offloading. This operator 
+permit requirement was implemented in 2004, through the original FMP 
+for dolphin and wahoo, as a way to assist in law enforcement efforts 
+within the fishery by holding the vessel operator accountable for any 
+violation of regulations and to aid in data collection (69 FR 30235; 
+May 27, 2004).
+    This final rule removes the current requirements for operator 
+permits and permitted operators for both the dolphin and wahoo 
+commercial and charter vessel/headboat permitted vessels. At the March 
+2016 Council meeting, the NMFS Office of Law Enforcement (OLE) gave a 
+presentation on operator permits, and stated that the operator permits 
+are not used extensively by OLE or their law enforcement partners. The 
+Council noted the potential value for operator permits in aiding law 
+enforcement efforts, but the inconsistent requirements between Atlantic 
+fisheries greatly diminishes this utility. Public testimony indicated 
+that operator permits are rarely checked by enforcement personnel 
+during fishing trips and are burdensome for fishermen to renew and 
+maintain. The Council determined that the limited use of operator 
+permits in the dolphin and wahoo fishery did not outweigh the cost to 
+fishermen to obtain the permit, and removing this requirement would 
+yield positive social, economic, and administrative benefits.
+
+Recreational Bag and Vessel Limits for Dolphin
+
+    For Atlantic dolphin, the current bag and possession limits are 10 
+fish per person, not to exceed 60 fish per vessel, whichever is less, 
+except onboard a headboat where the limit is 10 per paying passenger. 
+This final rule decreases the recreational dolphin vessel limit from 60 
+fish per vessel to 54 fish for charter vessels and private recreational 
+vessels, excluding headboats, in the Atlantic EEZ. The recreational bag 
+limit for private recreational anglers and passengers onboard charter 
+vessels and headboats will remain at 10 fish per person in the Atlantic 
+EEZ. As a result of the possession limit reduction in this final rule, 
+the total estimated annual reduction in recreational landings is 
+expected to be 114,051 lb (51,733 kg), round weight. Data analysis in 
+Amendment 10 demonstrated that most of the recreational trips in the 
+Atlantic EEZ targeting dolphin harvested less than 10 fish per vessel. 
+Therefore, as a result of the very small proportion of recreational 
+trips that might reach the revised vessel limit of 54 fish per vessel, 
+no change in fishing activity or behavior is anticipated. The Council 
+noted that one of the goals of the Dolphin and Wahoo FMP is to maintain 
+a precautionary approach to management. While there is no Southeast 
+Data and Assessment Review stock assessment for dolphin and the stock 
+is listed as not overfished or undergoing overfishing, the Council 
+heard public testimony, particularly from anglers in Florida, that 
+dolphin abundance appears to be low and they are concerned over the 
+health of the dolphin stock and the associated fishery. The Council 
+determined that a coast-wide reduction in the vessel limit was 
+appropriate to maintain consistency of regulations across the region in 
+the retention limits for dolphin and noted that such a change in 
+retention limits would lead to more substantial harvest reductions than 
+a Florida-specific or regional approach.
+
+Management Measures in Amendment 10 Not Contained in This Final Rule
+
+Acceptable Biological Catch
+
+    The current ABCs for dolphin and wahoo were added to the FMP in 
+2014 through Amendment 5, and are based on the Council's SSC's 
+recommendations using the third highest landings value during 1999-
+2008. These landings did not include recreational landings from Monroe 
+County, Florida, and were based on recreational data from the MRIP CHTS 
+method. In April 2020, the Council's SSC recommended new ABC levels for 
+dolphin and wahoo using the third highest landings value during 1994-
+2007. These landings include recreational landings from Monroe County, 
+Florida, and used MRIP's FES method, which is considered more reliable 
+by the Council's SSC, the Council, and NMFS, and more robust compared 
+to the MRIP CHTS survey method. The new ABC recommendations within 
+Amendment 10 for dolphin and wahoo are also based on the new weight 
+estimation procedure from the SEFSC that uses a 15 fish minimum sample 
+size and represents the best scientific information available.
+
+Sector Allocations
+
+    As discussed, Amendment 10 revises the commercial and recreational 
+allocations for both dolphin and wahoo. For dolphin, the current 
+commercial and recreational allocations are 10.00 percent and 90.00 
+percent, respectively. The new dolphin sector allocations result in 
+commercial and recreational allocations of 7.00 percent and 93.00 
+percent, respectively. For wahoo, the current commercial and 
+recreational allocations are 3.93 percent and 96.07 percent, 
+respectively. The new wahoo sector allocations result in commercial and 
+recreational allocations of 2.45 percent and 97.55 percent, 
+respectively.
+    As discussed, in deciding on new sector allocations, the Council 
+wanted to recognize the needs of the recreational sector for both 
+dolphin and wahoo which would exhibit higher landings than previously 
+estimated with the new accounting of recreational landings using MRIP's 
+FES method. At the same time the Council did not want to reduce the 
+commercial ACLs on a pound basis for dolphin and wahoo and noted that 
+the proposed allocations and sector ACLs would strike a balance between 
+the needs of both sectors.
+
+Goals and Objectives
+
+    The goals and objectives of the Dolphin and Wahoo FMP were 
+implemented through the original fishery management plan in 2004 and 
+have not been revised since then. In 2016, the Fisheries Allocation 
+Review Policy (NMFS Policy Directive 01-119) encouraged the use of 
+adaptive management with respect to allocation revisions, and 
+recommended periodic re-evaluation and updating of the management goals 
+and objectives of any FMP to ensure they are relevant to current 
+conditions and needs. Amendment 10 revises these Dolphin and Wahoo FMP 
+goals and objectives in response to the 2016 Fisheries Allocation 
+Review Policy and ensures the goals and objectives reflect the current 
+dolphin and wahoo fishery. Specifically, the revised goals and 
+objectives seek to manage the dolphin and wahoo fishery using a
+
+[[Page 19016]]
+
+precautionary approach that maintains access, minimizes competition, 
+preserves the social and economic importance of the fishery, as well as 
+promotes research and incorporation of ecosystem considerations where 
+practicable.
+
+Comments and Responses
+
+    NMFS received 52 comment submissions during the public comment 
+period on the notice of availability and proposed rule for Amendment 
+10. Comment submissions were from the general public, for-hire vessel 
+owners, sport-fishing associations, businesses, and non-governmental 
+organizations. The majority of the comments were against one or more of 
+the proposed actions for dolphin. One of the comments was submitted 
+jointly by various entities and included over 6,000 individual 
+signatories on a petition against approval of Amendment 10 and 
+requested that NMFS instead implement more restrictive management 
+measures for dolphin. NMFS acknowledges and agrees with the comments in 
+favor of the actions in the notice of availability and proposed rule 
+from the general public, recreational sport-fishing interests, and 
+commercial fishing interests. Comments in opposition, and those that 
+requested additional information about the actions contained in the 
+notice of availability and proposed rule, are summarized by topic area 
+below, along with NMFS' responses.
+    Comment 1: The final recommendations of the Council on Amendment 
+10, along with underlying conclusions and recommendations of its SSC 
+for the revised ABCs, are not based upon the best scientific 
+information available. For both dolphin and wahoo, the proposed ABC 
+recommendations ignore the most recent 14 years of landings data. For 
+dolphin specifically, the downward population trend in the fishery does 
+not support an increase in the ABC, total ACL, and sector ACLs, in the 
+absence of a stock assessment.
+    Response: NMFS disagrees. The Council's SSC recommended the ABC for 
+dolphin and wahoo based on Level 4 of their ABC Control Rule for un-
+assessed species, which is a general procedure used by the SSC for 
+species for which an increase (beyond current range of variability) in 
+catch is not expected to result in a decline of the stock. The SSC had 
+many robust discussions over the range of years to use for recommending 
+the revised ABC to the Council and decided to use years that were more 
+representative of the fishery's historical tendency to harvest these 
+species, without regulations such as ACLs in place at that time. The 
+SSC then evaluated the landings within that time period, for any 
+indication that those average landings had been potentially detrimental 
+to the health of the stock. The SSC did not use the 2008 fishing year 
+in the range of years because of the economic recession at that time. 
+The ACLs for dolphin and wahoo were originally implemented in 2012 (77 
+FR 15916; March 16, 2012). The 2015 fishing year was a year of 
+unusually high landings of dolphin that resulted in an early closure of 
+the commercial sector (80 FR 36249; June 24, 2015). The SSC also sought 
+to avoid reducing the commercial or recreational sectors' harvest 
+opportunities for dolphin and wahoo absent any adverse biological risk 
+to the stock, especially given the highly migratory nature of the 
+species and its life-history, including high fecundity. Thus, the SSC 
+recommended the Council use the third highest landings value for the 
+time series of 1994-2007. The proposed ABC recommendations for dolphin 
+and wahoo also use MRIP FES data, incorporate recreational landings 
+from Monroe County, Florida, updated commercial landings data, and 
+SEFSC new weight estimation procedures. The ABC recommendations and 
+resulting ACLs for dolphin and wahoo adhere to the SSC's 
+recommendations, and their biological, economic, social, and 
+administrative effects were analyzed using the past 5 years of data and 
+then reviewed by the SSC, NMFS Southeast Regional Office, Council, and 
+SEFSC, who certified Amendment 10 is based on the best scientific 
+information available.
+    NMFS acknowledges that there is no peer-reviewed stock assessment 
+for dolphin or wahoo (such as the Southeast Data, Assessment, and 
+Review assessment process). However, dolphin are highly fecund, spawn 
+year-round throughout a wide geographical range, have an early age at 
+first maturity, and a short generation time. Therefore, dolphin's life-
+history could most likely support the increase to the ABC (and ACL), 
+even without a stock assessment.
+    Further, the difference in accounting for recreational landings 
+under the older MRIP CHTS and newer MRIP FES methods is a factor in the 
+increase in the catch limits. When compared to the most recent 5-year 
+and 3-year average landings, analysis in Amendment 10 revealed the new 
+ACLs for dolphin are not expected to be reached. If they are reached, 
+the current in-season commercial AMs and revised recreational AMs would 
+help to reduce the risk of any overages that could possibly occur in 
+the future.
+    Comment 2: NMFS should further reduce the recreational vessel limit 
+for dolphin, as the proposed reduction from 60 fish per vessel to 54 
+fish per vessel in Amendment 10 is not enough to protect the stock.
+    Response: Despite the lack of a dolphin stock assessment or other 
+biological information indicating a need to reduce dolphin harvest, the 
+Council was responsive to public input expressing harvest related 
+concerns. In Amendment 10, the Council considered a number of vessel 
+limit alternatives for dolphin, including the current 60 dolphin per 
+vessel limit and reduced limits of 54, 48, 42, 40, and 30. Reduced 
+recreational vessel limits for dolphin were particularly recommended by 
+constituents from Florida. The Council, in deciding what vessel limit 
+alternative to select, balanced the economic hardship that any 
+reductions would cause the for-hire industry, especially in North 
+Carolina, with the need to facilitate achieving optimum yield within 
+the fishery. Further, no evidence indicates that, if dolphin were not 
+harvested in North Carolina and areas northward, they would 
+subsequently survive and make it back to Florida. To the contrary, 
+peer-reviewed literature actually indicates movement of dolphin from 
+the Florida Keys to North Carolina and northward. Analysis in Amendment 
+10 showed that larger reductions in recreational harvest through vessel 
+limit changes was best achieved when considering the entire Atlantic 
+(Maine to Florida on the Atlantic side), and not just Florida, or even 
+Florida, Georgia, and South Carolina combined. In Amendment 10, the 
+Council selected the revised dolphin vessel limit of 54 fish to effect 
+a vessel limit reduction, while balancing the overall needs of the 
+fishery throughout its full range.
+    Comment 3: Recreational and commercial landings of dolphin have 
+been in decline (especially in the past 5 years), and reduced 
+quantities of larger sized dolphin in the Florida Keys have been 
+observed in past 5-10 years. NMFS and the Council should consider 
+alternative, more proactive methods to conserve dolphin such as: 
+Reducing private recreational bag limit; extending the applicability of 
+the current minimum size limit of 20 inches (50.8 cm), fork length (FL) 
+to all applicable geographical areas (Maine to east coast of Florida), 
+or increasing the minimum size; implementing a lower commercial trip 
+limit; and banning the use longline gear for the commercial sector.
+    Response: NMFS is aware of reports of the decline in dolphin 
+availability, especially large-sized dolphin in the Florida Keys. This 
+could be due to the
+
+[[Page 19017]]
+
+highly migratory fish moving out of the area or going deeper in search 
+of suitable temperature and food availability. Recent peer-reviewed 
+literature supports behavioral thermoregulation by dolphin, and their 
+northern movement in response to increasing sea surface temperature. 
+Studies have shown that seasonal abundance of dolphin along the east 
+coast of the U.S. and the Gulf of Mexico is heavily influenced by sea 
+surface temperature and distance to temperature fronts, chlorophyll-a 
+concentration, and Sargassum mats. The Mid-Atlantic and New England 
+Councils have not reported a decline in dolphin availability and large 
+sized fish. In fact, some commenters on the notice of availability and 
+proposed rule for Amendment 10 stated that the perceived paucity of 
+dolphin availability and large sized individuals off Florida was 
+related to warming ocean temperatures and that the fish are not 
+returning as far south as they used to 15 years ago.
+    Comment 4: NMFS should not approve the proposed post-season 
+recreational AM for wahoo. Creating a shorter fishing season would 
+incentivize a race by recreational fishers to meet the recreational ACL 
+and would represent a disadvantage to fishers whose livelihoods depend 
+on a full fishery season.
+    Response: NMFS disagrees. The current recreational AM for wahoo 
+which is in place prior to this final rule states that, if recreational 
+landings exceed the recreational ACL, then during the following fishing 
+year recreational landings will be monitored for persistence in 
+increased landings. If the recreational ACL is exceeded, it will be 
+reduced by the amount of the recreational overage in the following 
+fishing year and the recreational season will be reduced only if the 
+species is overfished and the total ACL is exceeded. This current AM 
+cannot be triggered, because there is no stock assessment for wahoo and 
+therefore its stock status is unknown and cannot be determined to be 
+``overfished.'' There is also no recreational in-season AM for wahoo 
+proposed in Amendment 10. Therefore, a functional and effective post-
+season AM is required to prevent possible adverse biological effects to 
+the wahoo stock if the recreational ACL is exceeded. The revised post-
+season recreational AM for wahoo would reduce the length of the 
+following recreational fishing season by the amount necessary to 
+prevent the recreational ACL from being exceeded in the following year. 
+However, the length of the recreational season will not be reduced if 
+the RA determines, using the best available science, that it is not 
+necessary. The economic effects of a reduced fishing season would 
+depend on the severity of any season reduction, the timing, and the 
+availability of other species that could be suitable substitutes for 
+wahoo. Fishers could also determine the subsequent trade-offs between 
+reduced fishing seasons or lower recreation bag/vessel limits and 
+longer seasons. The possibility of a shorter fishing season occurring 
+as a result of the new recreational AM being implemented could work to 
+dis-incentivize fishers from exceeding the recreational ACL in the 
+first place and thereby help to protect the stock and fishing 
+opportunities.
+
+Additional NMFS Public Comment Feedback
+
+    NMFS notes that in March 2022, Florida approved a final rule for 
+the state with the following actions for dolphin that will be effective 
+May 1, 2022, in state waters only: A recreational harvester may not 
+harvest, land, or possess per day more than 5 dolphin; recreational 
+harvesters aboard a private recreational vessel may not collectively 
+possess or land more than 30 dolphin, regardless of the number of 
+licensed or license-exempt persons onboard; and the daily bag and 
+possession limit for captains and crew on for-hire vessels is zero.''
+    NMFS also notes that size limits, commercial trip limits, and 
+longline gear changes were outside the scope of actions considered by 
+the Council in Amendment 10. NMFS has decided to respond in a general 
+manner to these comments in this final rule given the volume of 
+comments received and interest concerning these issues, even though 
+Amendment 10 does not contain that information. This serves to better 
+inform the public of some of the dolphin regulations.
+    While a number of commenters requested that a commercial trip limit 
+be put in place, current Federal regulations do in fact already include 
+a dolphin commercial trip limit. The commercial trip limit of 4,000 lb 
+(1,814 kg), round weight, comes into effect when 75 percent of the 
+commercial ACL is reached. With respect to comments requesting changes 
+to the recreational bag limits for dolphin, prohibiting the retention 
+of dolphin by captain and crew, extending the current minimum size 
+limit to all geographical applicable areas (Maine to east coast of 
+Florida), as well as the comments regarding additional changes to the 
+vessel limit, the Council is considering the development of a 
+subsequent amendment for dolphin. The possible new amendment could 
+consider these items for changes by the Council. The commenters' range 
+of suggestions for recreational bag limits (8, 5, or 3 per person), 
+vessel trip limits (54, 40, or 30 fish), minimum size limits (extending 
+range of current limit applicability and increasing the limit to 24 
+inches (61 cm), FL, could be used as alternatives for these actions if 
+they were to be included in an amendment. The continued use of longline 
+gear by the commercial sector for dolphin may also be considered by the 
+Council in a future amendment.
+
+Classification
+
+    Pursuant to section 304(b)(3) of the Magnuson-Stevens Act, the NMFS 
+Assistant Administrator has determined that this final rule is 
+consistent with Amendment 10, the FMP, the Magnuson-Stevens Act, and 
+other applicable law.
+    This final rule has been determined to be not significant for 
+purposes of Executive Order 12866.
+    The Magnuson-Stevens Act provides the statutory basis for this 
+final rule. No duplicative, overlapping, or conflicting Federal rules 
+have been identified. A description of this final rule, why it is being 
+implemented, and the purposes of this final rule are contained in the 
+SUMMARY and SUPPLEMENTARY INFORMATION sections of this preamble. The 
+objectives of this final rule are to base conservation and management 
+measures on the best scientific information available and increase net 
+benefits to the Nation, consistent with the Magnuson-Stevens Act and 
+its National Standards.
+    The Chief Counsel for Regulation of the Department of Commerce 
+certified to the Chief Counsel for Advocacy of the Small Business 
+Administration (SBA) during the proposed rule stage that this final 
+rule, if adopted, would not have a significant economic impact on a 
+substantial number of small entities. NMFS did not receive any comments 
+from SBA's Office of Advocacy on the certification in the proposed 
+rule. NMFS did receive three comments from the public on the economic 
+analysis in Amendment 10. Two comments suggested that Amendment 10 
+would adversely affect the economy. NMFS disagrees with these comments 
+and believes that Amendment 10 would result in net economic benefits to 
+the Nation. Based on NMFS's analysis, NMFS expects that Amendment 10 
+would result in net economic benefits of between $9.16 and $10.17 
+million (in 2019 dollars) per year, on average, over the next 5 years. 
+The comments
+
+[[Page 19018]]
+
+provided no specific information that would provide a basis to alter 
+the estimated net benefits.
+    One comment suggested that Amendment 10 would disproportionately 
+benefit the commercial sector relative to the recreational sector. NMFS 
+disagrees with this comment because the analysis conducted by NMFS 
+indicates that nearly 89 percent of the increase in net economic 
+benefits to the Nation associated with Amendment 10 is expected to 
+accrue to the recreational sector, while about 11 percent of the 
+increase is expected to accrue to the commercial sector. The comment 
+provided no specific information that would provide a basis to alter 
+these estimates, and therefore NMFS continues to believe that the 
+commercial sector would not disproportionally benefit from this final 
+rule.
+    No changes to this final rule were made in response to public 
+comments. The factual basis for the certification was published in the 
+proposed rule and is not repeated here. Because this final rule is not 
+expected to have a significant economic impact on a substantial number 
+of small entities, a final regulatory flexibility analysis is not 
+required and none has been prepared.
+    This final rule contains a revision to existing collection-of-
+information requirements subject to review and approval by the Office 
+of Management and Budget (OMB) under the Paperwork Reduction Act (PRA). 
+This final rule revises existing requirements for the collection of 
+information approved under OMB Control Number 0648-0205, Southeast 
+Region Permit Family of Forms. NMFS is removing the requirements for an 
+operator permit in the commercial and for-hire portions of the Atlantic 
+dolphin and wahoo fishery as specified by 50 CFR 622.270(c). For the 
+Federal Permit Application for Southeast Region Issued Operator Card, 
+NMFS estimates this final rule will decrease the annual number of 
+respondents to 74 and decrease the annual number of responses to 74. 
+Further, NMFS estimates the annual burden hours will decrease to 37 
+hours, and the annual burden cost will decrease to $3,774. Public 
+reporting burden for the Federal Permit Application for Southeast 
+Region Issued Operator Card is estimated to average 30 minutes per 
+response, including the time for reviewing instructions, searching 
+existing data sources, gathering and maintaining the data needed, and 
+completing and reviewing the collection of information.
+    NMFS invites the public and other Federal agencies to comment on 
+any proposed and continuing information collections, which helps NMFS 
+assess the impact of information collection requirements and minimize 
+the public's reporting burden. Written comments and recommendations for 
+this information collection should be submitted on the following 
+website: www.reginfo.gov/public/do/PRAMain. Find this particular 
+information collection by using the search function and entering the 
+title of the collection or the OMB Control Number 0648-0205.
+    Notwithstanding any other provision of the law, no person is 
+required to respond to, nor shall any person be subject to a penalty 
+for failure to comply with, a collection of information subject to the 
+requirements of the PRA, unless that collection of information displays 
+a currently valid OMB Control Number.
+
+List of Subjects in 50 CFR Part 622
+
+    Accountability measures, Annual catch limits, Atlantic, Commercial, 
+Dolphin, Fisheries, Fishing, Recreational, Wahoo.
+
+    Dated: March 28, 2022.
+Samuel D. Rauch, III,
+Deputy Assistant Administrator for Regulatory Programs, National Marine 
+Fisheries Service.
+
+    For the reasons set out in the preamble, 50 CFR part 622 is amended 
+as follows:
+
+PART 622--FISHERIES OF THE CARIBBEAN, GULF OF MEXICO, AND SOUTH 
+ATLANTIC
+
+0
+1. The authority citation for part 622 continues to read as follows:
+
+    Authority:  16 U.S.C. 1801 et seq.
+
+
+0
+2. In Sec.  622.270;
+0
+a. Revise paragraphs (a)(1) and (2)
+0
+b. Revise paragraph (b)(1); and
+0
+c. Remove and reserve paragraph (c).
+    The revisions read as follows:
+
+
+Sec.  622.270   Permits.
+
+    (a) * * *
+    (1) For a person aboard a vessel to be eligible for exemption from 
+the bag and possession limits for dolphin or wahoo in or from the 
+Atlantic EEZ or to sell such dolphin or wahoo, a commercial vessel 
+permit for Atlantic dolphin and wahoo must be issued to the vessel and 
+must be on board, except as provided in paragraph (a)(2) of this 
+section.
+    (2) The provisions of paragraph (a)(1) of this section 
+notwithstanding, a fishing vessel, except a vessel operating as a 
+charter vessel or headboat, that does not have a commercial vessel 
+permit for Atlantic dolphin and wahoo but has a Federal commercial 
+vessel permit in any other fishery, is exempt from the bag and 
+possession limits for dolphin and wahoo and may sell dolphin and wahoo, 
+subject to the trip and geographical limits specified in Sec.  
+622.278(a)(3). (A charter vessel/headboat permit is not a commercial 
+vessel permit.)
+    (b) * * * (1) For a person aboard a vessel that is operating as a 
+charter vessel or headboat to fish for or possess Atlantic dolphin or 
+wahoo, in or from the Atlantic EEZ, a valid charter vessel/headboat 
+permit for Atlantic dolphin and wahoo must have been issued to the 
+vessel and must be on board.
+* * * * *
+
+0
+3. In Sec.  622.272, revise paragraph (a)(1) and add paragraph (a)(2) 
+to read as follows:
+
+
+Sec.  622.272   Authorized gear.
+
+    (a) * * * (1) Authorized gear. Except as allowed in paragraph 
+(a)(2) of this section, the following are the only authorized gear 
+types in the fishery for dolphin and wahoo in the Atlantic EEZ: 
+Automatic reel, bandit gear, handline, pelagic longline, rod and reel, 
+and spearfishing gear (including powerheads). A person aboard a vessel 
+in the Atlantic EEZ that has on board gear types other than authorized 
+gear types may not possess a dolphin or wahoo.
+    (2) Trap, pot, and buoy gear authorization. A vessel in the 
+Atlantic EEZ that possesses both a valid Federal commercial permit for 
+Atlantic dolphin and wahoo and any Federal commercial permit(s) 
+required that allow a vessel to fish using trap, pot, or buoy gear or 
+that is in compliance with the permitting requirements for the spiny 
+lobster fishery of the Gulf of Mexico and South Atlantic as described 
+at Sec.  622.400, is authorized to retain both dolphin and wahoo 
+harvested by rod and reel while in possession of trap, pot, or buoy 
+gear. See Sec.  622.278(a)(2)(ii) for the amount of dolphin that may be 
+retained under the commercial trip limits as described in this 
+paragraph (a)(2). See Sec.  622.278(a)(1)(ii) for the amount of wahoo 
+that may be retained under the commercial trip limits as described in 
+this paragraph (a)(2).
+* * * * *
+
+0
+4. In Sec.  622.277, revise paragraph (a)(1)(i) to read as follows:
+
+
+Sec.  622.277   Bag and possession limits.
+
+* * * * *
+    (a) * * *
+    (1) * * *
+    (i) In the Atlantic EEZ--10, not to exceed 54 per vessel, whichever 
+is less,
+
+[[Page 19019]]
+
+except on board a headboat, 10 per paying passenger.
+* * * * *
+
+0
+5. In Sec.  622.278, revise paragraph (a) to read as follows:
+
+
+Sec.  622.278   Commercial trip limits.
+
+* * * * *
+    (a) Trip-limited permits--(1) Atlantic wahoo. (i) When using the 
+fishing gear for wahoo and as authorized under Sec.  622.272(a)(1), the 
+trip limit for wahoo in or from the Atlantic EEZ is 500 lb (227 kg). 
+This trip limit applies to a vessel that has a Federal commercial 
+permit for Atlantic dolphin and wahoo, provided that the vessel is not 
+operating as a charter vessel or headboat.
+    (ii) When using the fishing gear for wahoo and as authorized and 
+permitted as described under Sec.  622.272(a)(2), the trip limit for 
+wahoo in or from the Atlantic EEZ is 500 lb (227 kg). The trip limit in 
+this paragraph (a)(1)(ii) may not be combined with the trip limit 
+specified in paragraph (a)(1)(i) of this section.
+    (iii) See Sec.  622.280(b)(1) for the limitations regarding wahoo 
+after the ACL is reached.
+    (2) Atlantic dolphin. (i) Once 75 percent of the ACL specified in 
+Sec.  622.280(a)(1)(i) is reached, the trip limit is 4,000 lb (1,814 
+kg), round weight. When the conditions in this paragraph (a)(3)(i) have 
+been met, the Assistant Administrator will implement this trip limit by 
+filing a notification with the Office of the Federal Register. This 
+trip limit applies to a vessel that has a Federal commercial permit for 
+Atlantic dolphin and wahoo, provided that the vessel is not operating 
+as a charter vessel or headboat.
+    (ii) When using the fishing gear for dolphin and as authorized and 
+permitted as described under Sec.  622.272(a)(2), the trip limit for 
+dolphin in or from the Atlantic EEZ is 500 lb (227 kg), gutted weight. 
+The trip limit in this paragraph (a)(2)(ii) may not be combined with 
+the trip limit specified in paragraph (a)(2)(i) of this section.
+    (iii) See Sec.  622.280(a)(1) for the limitations regarding dolphin 
+after the ACL is reached.
+    (3) Vessels without a Federal dolphin and wahoo commercial permit. 
+The trip limit for a vessel that does not have a Federal commercial 
+vessel permit for Atlantic dolphin and wahoo but has a Federal 
+commercial vessel permit in any other fishery is 200 lb (91 kg) of 
+dolphin and wahoo, combined, provided that all fishing on and landings 
+from that trip are north of 39[deg] N lat. (A charter vessel/headboat 
+permit is not a commercial vessel permit.)
+* * * * *
+
+0
+6. In Sec.  622.280;
+0
+a. Revise the first sentence of paragraph (a)(1)(i);
+0
+b. Revise paragraph (a)(2);
+0
+c. Add paragraph (a)(3);
+0
+d. Revise the first sentence of paragraph (b)(1)(i); and
+0
+e. Revise paragraph (b)(2).
+    The revisions and additions read as follows:
+
+
+Sec.  622.280   Annual catch limits (ACLs) and accountability measures 
+(AMs).
+
+    (a) * * *
+    (1) * * *
+    (i) If commercial landings for Atlantic dolphin, as estimated by 
+the SRD, reach or are projected to reach the commercial ACL of 
+1,719,953 lb (780,158 kg), round weight, the AA will file a 
+notification with the Office of the Federal Register to close the 
+commercial sector for the remainder of the fishing year. * * *
+* * * * *
+    (2) Recreational sector. If the total ACL specified in paragraph 
+(a)(3) of this section is exceeded in a fishing year, then during the 
+following fishing year, the AA will file a notification with the Office 
+of the Federal Register to reduce the length of the recreational 
+fishing season by the amount necessary to ensure that the recreational 
+ACL is not exceeded during the fishing year following the total ACL 
+overage. However, the recreational fishing season will not be reduced 
+in the following fishing year if NMFS determines, based on the best 
+scientific information available, that the reduction in the 
+recreational fishing season is unnecessary. The recreational ACL is 
+22,850,811 lb (10,364,954 kg), round weight.
+    (3) Total ACL. The total ACL, commercial and recreation ACLs 
+combined, for Atlantic dolphin, is 24,570,764 lb (11,145,111 kg), round 
+weight.
+    (b) * * *
+    (1) * * *
+    (i) If commercial landings for Atlantic wahoo, as estimated by the 
+SRD, reach or are projected to reach the commercial ACL of 70,690 lb 
+(32,064 kg), round weight, the AA will file a notification with the 
+Office of the Federal Register to close the commercial sector for the 
+remainder of the fishing year. * * *
+* * * * *
+    (2) Recreational sector. As described in the FMP, if average annual 
+recreational landings, when determined using 3-year geometric mean, 
+exceed the recreational ACL of 2,814,613 lb (1,276,687 kg), round 
+weight, then in the following fishing year, the AA will file a 
+notification with the Office of the Federal Register to reduce the 
+length of the recreational fishing season by the amount necessary to 
+ensure that the recreational ACL is not exceeded during the fishing 
+year following the recreational ACL overage determination. However, the 
+length of the recreational fishing season will not be reduced in the 
+following fishing year if NMFS determines, based on the best scientific 
+information available, that the reduction in the recreational fishing 
+season is unnecessary.
+
+[FR Doc. 2022-06842 Filed 3-31-22; 8:45 am]
+BILLING CODE 3510-22-P
+
+
